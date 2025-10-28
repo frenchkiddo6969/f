@@ -4084,6 +4084,62 @@
         5164
       ],
       "iconType": "lo"
+    },
+    {
+      "id": 1761693468812,
+      "name": "Graycliff Tower",
+      "stations": [
+        {
+          "freq": 88.5,
+          "pol": "c",
+          "name": "OPB Radio 1",
+          "pi": "5201",
+          "kw": 10,
+          "directional": false,
+          "directionAngle": null
+        },
+        {
+          "freq": 89.3,
+          "pol": "c",
+          "name": "OPB Radio 2",
+          "pi": "5202",
+          "kw": 10,
+          "directional": false,
+          "directionAngle": null
+        },
+        {
+          "freq": 89.7,
+          "pol": "c",
+          "name": "OPB Radio 3",
+          "pi": "5203",
+          "kw": 10,
+          "directional": false,
+          "directionAngle": null
+        },
+        {
+          "freq": 90.1,
+          "pol": "c",
+          "name": "OPB Classical",
+          "pi": "5204",
+          "kw": 10,
+          "directional": false,
+          "directionAngle": null
+        },
+        {
+          "freq": 107.3,
+          "pol": "c",
+          "name": "Newstalk",
+          "pi": "52A1",
+          "kw": 5,
+          "directional": false,
+          "directionAngle": null
+        }
+      ],
+      "latlng": [
+        7356,
+        10004.75
+      ],
+      "iconType": "hi"
     }
   ]
 }
