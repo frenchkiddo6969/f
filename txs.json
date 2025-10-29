@@ -1432,7 +1432,7 @@
           "freq": 104.3,
           "pol": "V",
           "name": "OSLC-FM",
-          "pi": "5735",
+          "pi": "A4A8",
           "kw": 1,
           "directional": false,
           "directionAngle": null
@@ -1985,7 +1985,7 @@
           "freq": 100.1,
           "pol": "C",
           "name": "OFAZ-FM",
-          "pi": "5673",
+          "pi": "1D4D",
           "kw": 6,
           "directional": false,
           "directionAngle": null
@@ -2002,8 +2002,8 @@
         {
           "freq": 103.5,
           "pol": "v",
-          "name": "ORKS-FM",
-          "pi": "5787",
+          "name": "OFRR-FM",
+          "pi": "1EFF",
           "kw": 4,
           "directional": false,
           "directionAngle": null
@@ -2021,7 +2021,7 @@
           "freq": 107.3,
           "pol": "V",
           "name": "OBIK-FM",
-          "pi": "57C4",
+          "pi": "137E",
           "kw": 4,
           "directional": false,
           "directionAngle": null
@@ -2170,7 +2170,7 @@
           "freq": 96.3,
           "pol": "V",
           "name": "OBIK-FM2",
-          "pi": "57C4",
+          "pi": "137E",
           "kw": 1,
           "directional": true,
           "directionAngle": 202
@@ -2577,7 +2577,7 @@
           "freq": 106.9,
           "pol": "v",
           "name": "ORRE-FM",
-          "pi": "5787",
+          "pi": "3EA2",
           "kw": 0.2,
           "directional": true,
           "directionAngle": 97
@@ -2747,7 +2747,7 @@
           "freq": 96.9,
           "pol": "V",
           "name": "ORKD-FM",
-          "pi": "5787",
+          "pi": "3DEB",
           "kw": 6.3,
           "directional": true,
           "directionAngle": 180
@@ -2756,7 +2756,7 @@
           "freq": 99.1,
           "pol": "V",
           "name": "OSHR-FM",
-          "pi": "579C",
+          "pi": "A44F",
           "kw": 6.3,
           "directional": true,
           "directionAngle": 180
@@ -2765,7 +2765,7 @@
           "freq": 100.3,
           "pol": "V",
           "name": "ONRJ-FM",
-          "pi": "5220",
+          "pi": "3417",
           "kw": 6.3,
           "directional": true,
           "directionAngle": 180
@@ -2915,7 +2915,7 @@
           "freq": 92.9,
           "pol": "C",
           "name": "OAUY-FM",
-          "pi": "56C8",
+          "pi": "1220",
           "kw": 100,
           "directional": false,
           "directionAngle": null
@@ -2924,7 +2924,7 @@
           "freq": 98.1,
           "pol": "C",
           "name": "OAUZ-FM",
-          "pi": "56C9",
+          "pi": "1221",
           "kw": 100,
           "directional": false,
           "directionAngle": null
@@ -2942,7 +2942,7 @@
           "freq": 99.9,
           "pol": "C",
           "name": "OAUX-FM",
-          "pi": "56C7",
+          "pi": "121F",
           "kw": 100,
           "directional": false,
           "directionAngle": null
@@ -2951,7 +2951,7 @@
           "freq": 102.7,
           "pol": "C",
           "name": "OSKJ-FM",
-          "pi": "56C6",
+          "pi": "853D",
           "kw": 100,
           "directional": false,
           "directionAngle": null
@@ -2960,7 +2960,7 @@
           "freq": 105.7,
           "pol": "C",
           "name": "OGNH-FM",
-          "pi": "52DF",
+          "pi": "2131",
           "kw": 100,
           "directional": false,
           "directionAngle": null
@@ -3233,7 +3233,7 @@
           "freq": 92.1,
           "pol": "V",
           "name": "OBBS-FM",
-          "pi": "FFFF",
+          "pi": "12D0",
           "kw": 1,
           "directional": true,
           "directionAngle": 90
@@ -3340,7 +3340,7 @@
           "freq": 99.9,
           "pol": "C",
           "name": "OVRG-FM",
-          "pi": "58C1",
+          "pi": "4934",
           "kw": 5,
           "directional": false,
           "directionAngle": null
@@ -3349,7 +3349,7 @@
           "freq": 101.1,
           "pol": "C",
           "name": "OSTR-FM",
-          "pi": "58C9",
+          "pi": "4187",
           "kw": 5,
           "directional": false,
           "directionAngle": null
@@ -3358,7 +3358,7 @@
           "freq": 101.5,
           "pol": "C",
           "name": "OLTS-FM",
-          "pi": "58C7",
+          "pi": "2F0C",
           "kw": 5,
           "directional": false,
           "directionAngle": null
@@ -3367,7 +3367,7 @@
           "freq": 102.1,
           "pol": "C",
           "name": "OBOQ-FM",
-          "pi": "58C8",
+          "pi": "1420",
           "kw": 6.3,
           "directional": false,
           "directionAngle": null
@@ -3376,7 +3376,7 @@
           "freq": 106.1,
           "pol": "c",
           "name": "ORKS-FM",
-          "pi": "5787",
+          "pi": "3DFA",
           "kw": 6.3,
           "directional": false,
           "directionAngle": null
@@ -3604,7 +3604,7 @@
           "freq": 95.7,
           "pol": "C",
           "name": "OSMS-FM",
-          "pi": "56A5",
+          "pi": "A4D2",
           "kw": 6.3,
           "directional": false,
           "directionAngle": null
@@ -3615,6 +3615,15 @@
           "name": "OPB Classical",
           "pi": "5204",
           "kw": 10,
+          "directional": false,
+          "directionAngle": null
+        },
+        {
+          "freq": 106.5,
+          "pol": "c",
+          "name": "ORSM-FM",
+          "pi": "3EC4",
+          "kw": 6.3,
           "directional": false,
           "directionAngle": null
         },
@@ -3765,7 +3774,7 @@
           "freq": 88.5,
           "pol": "V",
           "name": "OSBF-FM",
-          "pi": "5885",
+          "pi": "3FA7",
           "kw": 0.2,
           "directional": false,
           "directionAngle": null
@@ -3785,7 +3794,7 @@
           "freq": 100.3,
           "pol": "C",
           "name": "OBMT-FM",
-          "pi": "5897",
+          "pi": "13EF",
           "kw": 1,
           "directional": true,
           "directionAngle": 324
@@ -4053,7 +4062,7 @@
           "freq": 94.1,
           "pol": "C",
           "name": "OXOJ-FM",
-          "pi": "57FA",
+          "pi": "4E31",
           "kw": 5,
           "directional": false,
           "directionAngle": null
