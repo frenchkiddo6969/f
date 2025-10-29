@@ -2745,12 +2745,12 @@
       "stations": [
         {
           "freq": 93.1,
-          "pol": "V",
-          "name": "RTO Radius FM (International Service)",
-          "pi": "5101",
-          "kw": 1,
-          "directional": true,
-          "directionAngle": 172
+          "pol": " ",
+          "name": "unknown ",
+          "pi": " ",
+          "kw": null,
+          "directional": false,
+          "directionAngle": null
         },
         {
           "freq": 96.9,
