@@ -1711,8 +1711,8 @@
         {
           "freq": 107,
           "pol": "C",
-          "name": "Brasbeke Omroep",
-          "pi": "8878",
+          "name": "Antenne Brasbeke",
+          "pi": "8972",
           "kw": 0.5,
           "directional": true,
           "directionAngle": 41
@@ -4176,26 +4176,6 @@
       "latlng": [
         7646.25,
         10615
-      ],
-      "iconType": "lo"
-    },
-    {
-      "id": 1761746293569,
-      "name": "Brasbeke",
-      "stations": [
-        {
-          "freq": 103,
-          "pol": "v",
-          "name": "Antenne Brasbeke",
-          "pi": "8972",
-          "kw": 0.2,
-          "directional": false,
-          "directionAngle": null
-        }
-      ],
-      "latlng": [
-        10321.75,
-        4593.5
       ],
       "iconType": "lo"
     },
