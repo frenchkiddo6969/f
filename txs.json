@@ -4084,26 +4084,6 @@
       "iconType": "hi"
     },
     {
-      "id": 1761611530729,
-      "name": "Vollestad",
-      "stations": [
-        {
-          "freq": 92.7,
-          "pol": "V",
-          "name": "R.Rekord",
-          "pi": "56C6",
-          "kw": 0.08,
-          "directional": true,
-          "directionAngle": 3
-        }
-      ],
-      "latlng": [
-        11715.75,
-        5164
-      ],
-      "iconType": "lo"
-    },
-    {
       "id": 1761693468812,
       "name": "Graycliff Tower",
       "stations": [
