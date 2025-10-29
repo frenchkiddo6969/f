@@ -1554,8 +1554,8 @@
         {
           "freq": 106.2,
           "pol": "V",
-          "name": "Maritima",
-          "pi": "8103",
+          "name": "R.Fuego",
+          "pi": "82A4",
           "kw": 0.8,
           "directional": true,
           "directionAngle": 270
