@@ -4140,6 +4140,26 @@
         10004.75
       ],
       "iconType": "hi"
+    },
+    {
+      "id": 1761701560138,
+      "name": "Wade",
+      "stations": [
+        {
+          "freq": 99.1,
+          "pol": "v",
+          "name": "O256AA-FM",
+          "pi": "D2E8",
+          "kw": 0.05,
+          "directional": false,
+          "directionAngle": null
+        }
+      ],
+      "latlng": [
+        7646.25,
+        10615
+      ],
+      "iconType": "lo"
     }
   ]
 }
