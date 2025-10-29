@@ -4218,6 +4218,26 @@
         4141.25
       ],
       "iconType": "lo"
+    },
+    {
+      "id": 1761746846301,
+      "name": "Bolsschede",
+      "stations": [
+        {
+          "freq": 100.9,
+          "pol": "v",
+          "name": "Antenne Brasbeke",
+          "pi": "8972",
+          "kw": 0.1,
+          "directional": false,
+          "directionAngle": null
+        }
+      ],
+      "latlng": [
+        10086.25,
+        3983
+      ],
+      "iconType": "lo"
     }
   ]
 }
