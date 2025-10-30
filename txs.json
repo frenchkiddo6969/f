@@ -4198,6 +4198,26 @@
         9953.5
       ],
       "iconType": "hi"
+    },
+    {
+      "id": 1761852525282,
+      "name": "Boringtown",
+      "stations": [
+        {
+          "freq": 107.3,
+          "pol": "v",
+          "name": "Newstalk",
+          "pi": "52A1",
+          "kw": 0.1,
+          "directional": false,
+          "directionAngle": null
+        }
+      ],
+      "latlng": [
+        8544.25,
+        10548.75
+      ],
+      "iconType": "lo"
     }
   ]
 }
