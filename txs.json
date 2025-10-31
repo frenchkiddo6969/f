@@ -2319,7 +2319,7 @@
           "directionAngle": null
         },
         {
-          "freq": 103.3,
+          "freq": 100.1,
           "pol": "C",
           "name": "OPB Classical",
           "pi": "5204",
@@ -4218,6 +4218,26 @@
         10548.75
       ],
       "iconType": "lo"
+    },
+    {
+      "id": 1761939894043,
+      "name": "Jackson",
+      "stations": [
+        {
+          "freq": 101.1,
+          "pol": "v",
+          "name": "OYOY-FM",
+          "pi": "958C",
+          "kw": 0.6,
+          "directional": true,
+          "directionAngle": 321
+        }
+      ],
+      "latlng": [
+        8814.25,
+        9565.5
+      ],
+      "iconType": "med"
     }
   ]
 }
