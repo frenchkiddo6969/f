@@ -2930,8 +2930,8 @@
         {
           "freq": 102.7,
           "pol": "C",
-          "name": "OSKJ-FM",
-          "pi": "853D",
+          "name": "OGNI-FM",
+          "pi": "65DA",
           "kw": 100,
           "directional": false,
           "directionAngle": null
