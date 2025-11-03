@@ -4258,6 +4258,62 @@
         10005
       ],
       "iconType": "hi"
+    },
+    {
+      "id": 1762206293032,
+      "name": "Jackson",
+      "stations": [
+        {
+          "freq": 88.3,
+          "pol": "v",
+          "name": "OPB Radio 1",
+          "pi": "5201",
+          "kw": 0.06,
+          "directional": true,
+          "directionAngle": 180
+        },
+        {
+          "freq": 90.9,
+          "pol": "v",
+          "name": "OPB Radio 2",
+          "pi": "5202",
+          "kw": 0.06,
+          "directional": true,
+          "directionAngle": 180
+        },
+        {
+          "freq": 96.5,
+          "pol": "v",
+          "name": "OPB Radio 3",
+          "pi": "5203",
+          "kw": 0.06,
+          "directional": true,
+          "directionAngle": 180
+        },
+        {
+          "freq": 96.9,
+          "pol": "v",
+          "name": "OPB Classical",
+          "pi": "5204",
+          "kw": 0.06,
+          "directional": true,
+          "directionAngle": 180
+        },
+        {
+          "freq": 106.9,
+          "pol": "v",
+          "name": "Newstalk",
+          "pi": "52A1",
+          "kw": 0.05,
+          "directional": true,
+          "directionAngle": 180
+        }
+      ],
+      "latlng": [
+        8858.75,
+        9546.5
+      ],
+      "iconType": "lo"
     }
   ]
 }
