@@ -4224,6 +4224,15 @@
       "name": "Jackson",
       "stations": [
         {
+          "freq": 98.1,
+          "pol": "c",
+          "name": "OJCR-LP",
+          "pi": "6CB1",
+          "kw": 0.3,
+          "directional": false,
+          "directionAngle": null
+        },
+        {
           "freq": 101.1,
           "pol": "v",
           "name": "OYOY-FM",
@@ -4231,15 +4240,6 @@
           "kw": 0.6,
           "directional": true,
           "directionAngle": 321
-        },
-        {
-          "freq": 101.5,
-          "pol": "c",
-          "name": "OJCR-LP",
-          "pi": "6CB1",
-          "kw": 0.3,
-          "directional": false,
-          "directionAngle": null
         }
       ],
       "latlng": [
