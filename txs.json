@@ -4231,6 +4231,15 @@
           "kw": 0.6,
           "directional": true,
           "directionAngle": 321
+        },
+        {
+          "freq": 101.5,
+          "pol": "c",
+          "name": "OJCR-LP",
+          "pi": "6CB1",
+          "kw": 0.3,
+          "directional": false,
+          "directionAngle": null
         }
       ],
       "latlng": [
