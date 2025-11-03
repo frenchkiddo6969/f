@@ -4238,6 +4238,26 @@
         9565.5
       ],
       "iconType": "med"
+    },
+    {
+      "id": 1762180775910,
+      "name": "Nîmes",
+      "stations": [
+        {
+          "freq": 102.2,
+          "pol": "v",
+          "name": "R.Contact",
+          "pi": "F215",
+          "kw": 5,
+          "directional": true,
+          "directionAngle": 43
+        }
+      ],
+      "latlng": [
+        5030.75,
+        10005
+      ],
+      "iconType": "hi"
     }
   ]
 }
