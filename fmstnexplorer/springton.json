@@ -1,1 +1,26 @@
-
+[
+  {
+    "id": "s_1762279920747",
+    "freq": 88.3,
+    "location": "Springton (OR)",
+    "program": "",
+    "rds_ps": "test",
+    "rds_pi": "1234",
+    "eirp": 8,
+    "db": 60,
+    "notes": "",
+    "stream": ""
+  },
+  {
+    "id": "s_1762279472338",
+    "freq": 88.7,
+    "location": "",
+    "program": "contact fm",
+    "rds_ps": "CONTACT_",
+    "rds_pi": "",
+    "eirp": 1,
+    "db": 30,
+    "notes": "",
+    "stream": ""
+  }
+]
