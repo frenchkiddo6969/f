@@ -4323,6 +4323,26 @@
         9546.5
       ],
       "iconType": "lo"
+    },
+    {
+      "id": 1762218512705,
+      "name": "Trent",
+      "stations": [
+        {
+          "freq": 107.3,
+          "pol": "v",
+          "name": "Newstalk",
+          "pi": "52A1",
+          "kw": 0.05,
+          "directional": false,
+          "directionAngle": null
+        }
+      ],
+      "latlng": [
+        8326,
+        9586
+      ],
+      "iconType": "lo"
     }
   ]
 }
