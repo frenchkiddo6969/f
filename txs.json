@@ -2733,15 +2733,6 @@
           "directionAngle": 180
         },
         {
-          "freq": 99.1,
-          "pol": "V",
-          "name": "OSHR-FM",
-          "pi": "A44F",
-          "kw": 6.3,
-          "directional": true,
-          "directionAngle": 180
-        },
-        {
           "freq": 100.3,
           "pol": "V",
           "name": "ONRJ-FM",
@@ -4343,6 +4334,26 @@
         9586
       ],
       "iconType": "lo"
+    },
+    {
+      "id": 1762302416339,
+      "name": "Springton",
+      "stations": [
+        {
+          "freq": 99.1,
+          "pol": "c",
+          "name": "OSPR-FM",
+          "pi": "411F",
+          "kw": 100,
+          "directional": false,
+          "directionAngle": null
+        }
+      ],
+      "latlng": [
+        7051.75,
+        10865.75
+      ],
+      "iconType": "hi"
     }
   ]
 }
