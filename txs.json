@@ -2715,15 +2715,6 @@
       "name": "Springton",
       "stations": [
         {
-          "freq": 93.1,
-          "pol": " ",
-          "name": "unknown ",
-          "pi": " ",
-          "kw": null,
-          "directional": false,
-          "directionAngle": null
-        },
-        {
           "freq": 96.9,
           "pol": "V",
           "name": "ORKD-FM",
