@@ -995,7 +995,7 @@
           "directionAngle": null
         },
         {
-          "freq": 103.4,
+          "freq": 103.2,
           "pol": "V",
           "name": "Hit Radio SPO 3",
           "pi": "8203",
@@ -1476,7 +1476,7 @@
           "directionAngle": 243
         },
         {
-          "freq": 103,
+          "freq": 101.2,
           "pol": "V",
           "name": "Radio FG.",
           "pi": "822C",
