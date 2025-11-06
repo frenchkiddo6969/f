@@ -4021,6 +4021,15 @@
       "name": "Springton",
       "stations": [
         {
+          "freq": 93.5,
+          "pol": "m",
+          "name": "OZHR-FM",
+          "pi": "9773",
+          "kw": 4,
+          "directional": false,
+          "directionAngle": null
+        },
+        {
           "freq": 94.1,
           "pol": "C",
           "name": "OXOJ-FM",
@@ -4031,8 +4040,8 @@
         }
       ],
       "latlng": [
-        6975,
-        10795.25
+        6974.901289624105,
+        10794.692121593835
       ],
       "iconType": "hi"
     },
