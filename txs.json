@@ -1098,6 +1098,15 @@
           "directionAngle": 193
         },
         {
+          "freq": 91.7,
+          "pol": "v",
+          "name": "Hit FM",
+          "pi": "8777",
+          "kw": 6.3,
+          "directional": true,
+          "directionAngle": 180
+        },
+        {
           "freq": 96.1,
           "pol": "C",
           "name": "Rise FM",
