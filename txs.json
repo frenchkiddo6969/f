@@ -4497,6 +4497,26 @@
         2715.75
       ],
       "iconType": "med"
+    },
+    {
+      "id": 1762811484629,
+      "name": "Springton",
+      "stations": [
+        {
+          "freq": 94.5,
+          "pol": "c",
+          "name": "OPLY-FM",
+          "pi": "7D7A",
+          "kw": 10,
+          "directional": false,
+          "directionAngle": null
+        }
+      ],
+      "latlng": [
+        7111.5,
+        10751.75
+      ],
+      "iconType": "hi"
     }
   ]
 }
