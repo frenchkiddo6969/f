@@ -4527,7 +4527,7 @@
           "pol": "h",
           "name": "Radio FG.",
           "pi": "822C",
-          "kw": 0.1,
+          "kw": 0.175,
           "directional": false,
           "directionAngle": null
         }
