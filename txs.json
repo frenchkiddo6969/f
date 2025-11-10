@@ -1174,8 +1174,8 @@
         {
           "freq": 104.7,
           "pol": "V",
-          "name": "Virgin Radio",
-          "pi": "82C9",
+          "name": "R.Rekord",
+          "pi": "82C6",
           "kw": 1,
           "directional": true,
           "directionAngle": 180
@@ -1767,8 +1767,8 @@
         {
           "freq": 101.5,
           "pol": "V",
-          "name": "Virgin Radio",
-          "pi": "82C9",
+          "name": "R.Rekord",
+          "pi": "82C6",
           "kw": 1,
           "directional": true,
           "directionAngle": 47
@@ -2764,8 +2764,8 @@
         {
           "freq": 89,
           "pol": "V",
-          "name": "Virgin Radio",
-          "pi": "82C9",
+          "name": "R.Rekord",
+          "pi": "82C6",
           "kw": 1,
           "directional": true,
           "directionAngle": 287
