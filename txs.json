@@ -4517,6 +4517,26 @@
         10751.75
       ],
       "iconType": "hi"
+    },
+    {
+      "id": 1762812726446,
+      "name": "Bolsrade",
+      "stations": [
+        {
+          "freq": 89.4,
+          "pol": "h",
+          "name": "Radio FG.",
+          "pi": "822C",
+          "kw": 0.1,
+          "directional": false,
+          "directionAngle": null
+        }
+      ],
+      "latlng": [
+        10755.5,
+        3890
+      ],
+      "iconType": "lo"
     }
   ]
 }
