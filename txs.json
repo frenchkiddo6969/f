@@ -4050,8 +4050,8 @@
         {
           "freq": 93.5,
           "pol": "m",
-          "name": "OZHR-FM",
-          "pi": "9773",
+          "name": "OIRL-FM",
+          "pi": "6B8D",
           "kw": 4,
           "directional": false,
           "directionAngle": null
@@ -4067,8 +4067,8 @@
         }
       ],
       "latlng": [
-        6974.901289624105,
-        10794.692121593835
+        6973.75,
+        10794.75
       ],
       "iconType": "hi"
     },
