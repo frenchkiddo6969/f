@@ -1935,6 +1935,15 @@
           "directionAngle": 231
         },
         {
+          "freq": 94.2,
+          "pol": "v",
+          "name": "R.Rekord",
+          "pi": "82C9",
+          "kw": 0.3,
+          "directional": true,
+          "directionAngle": 200
+        },
+        {
           "freq": 99.1,
           "pol": "V",
           "name": "Nostalgie",
@@ -4671,6 +4680,26 @@
         4069
       ],
       "iconType": "lo"
+    },
+    {
+      "id": 1762990955467,
+      "name": "Zaltkerk",
+      "stations": [
+        {
+          "freq": 89.8,
+          "pol": "v",
+          "name": "R.Rekord",
+          "pi": "82C9",
+          "kw": 0.5,
+          "directional": false,
+          "directionAngle": null
+        }
+      ],
+      "latlng": [
+        11068.25,
+        4143.75
+      ],
+      "iconType": "med"
     }
   ]
 }
