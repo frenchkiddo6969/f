@@ -4539,6 +4539,15 @@
           "kw": 0.175,
           "directional": false,
           "directionAngle": null
+        },
+        {
+          "freq": 91,
+          "pol": "v",
+          "name": "R.Rekord",
+          "pi": "82C9",
+          "kw": 0.2,
+          "directional": true,
+          "directionAngle": 271
         }
       ],
       "latlng": [
