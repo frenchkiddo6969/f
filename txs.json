@@ -4537,6 +4537,26 @@
         3890
       ],
       "iconType": "lo"
+    },
+    {
+      "id": 1762967654833,
+      "name": "Omigrad",
+      "stations": [
+        {
+          "freq": 93.6,
+          "pol": "v",
+          "name": "Serebryanyi Dozhd",
+          "pi": "8754",
+          "kw": 0.5,
+          "directional": false,
+          "directionAngle": null
+        }
+      ],
+      "latlng": [
+        10129.25,
+        2993.25
+      ],
+      "iconType": "med"
     }
   ]
 }
