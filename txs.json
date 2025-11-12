@@ -4622,6 +4622,26 @@
         8332.25
       ],
       "iconType": "hi"
+    },
+    {
+      "id": 1762985493245,
+      "name": "Caisleán an Bharraigh",
+      "stations": [
+        {
+          "freq": 102.7,
+          "pol": "v",
+          "name": "SPIN",
+          "pi": "23E1",
+          "kw": 4,
+          "directional": true,
+          "directionAngle": 271
+        }
+      ],
+      "latlng": [
+        9606,
+        8324.75
+      ],
+      "iconType": "med"
     }
   ]
 }
