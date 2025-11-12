@@ -4642,6 +4642,35 @@
         8324.75
       ],
       "iconType": "med"
+    },
+    {
+      "id": 1762990710702,
+      "name": "Herlecht",
+      "stations": [
+        {
+          "freq": 91.4,
+          "pol": "v",
+          "name": "NRJ Sveland",
+          "pi": "8220",
+          "kw": 0.2,
+          "directional": false,
+          "directionAngle": null
+        },
+        {
+          "freq": 92.5,
+          "pol": "v",
+          "name": "R.Rekord",
+          "pi": "82C6",
+          "kw": 0.2,
+          "directional": false,
+          "directionAngle": null
+        }
+      ],
+      "latlng": [
+        11674,
+        4069
+      ],
+      "iconType": "lo"
     }
   ]
 }
