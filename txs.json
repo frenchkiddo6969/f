@@ -176,7 +176,7 @@
           "freq": 103.7,
           "pol": "V",
           "name": "Virgin Radio",
-          "pi": "82C9",
+          "pi": "82C6",
           "kw": 1,
           "directional": true,
           "directionAngle": 337
@@ -1938,7 +1938,7 @@
           "freq": 94.2,
           "pol": "v",
           "name": "R.Rekord",
-          "pi": "82C9",
+          "pi": "82C6",
           "kw": 0.3,
           "directional": true,
           "directionAngle": 200
@@ -2873,10 +2873,10 @@
         },
         {
           "freq": 92.7,
-          "pol": "V",
-          "name": "Virgin Radio Sveland",
-          "pi": "82C9",
-          "kw": 0.5,
+          "pol": " ",
+          "name": "unknown",
+          "pi": " ",
+          "kw": null,
           "directional": true,
           "directionAngle": 18
         },
@@ -4544,7 +4544,7 @@
           "freq": 91,
           "pol": "v",
           "name": "R.Rekord",
-          "pi": "82C9",
+          "pi": "82C6",
           "kw": 0.2,
           "directional": true,
           "directionAngle": 271
@@ -4698,7 +4698,7 @@
           "freq": 89.8,
           "pol": "v",
           "name": "R.Rekord",
-          "pi": "82C9",
+          "pi": "82C6",
           "kw": 0.5,
           "directional": false,
           "directionAngle": null
@@ -4709,6 +4709,26 @@
         4143.75
       ],
       "iconType": "med"
+    },
+    {
+      "id": 1762991575876,
+      "name": "Wageselt",
+      "stations": [
+        {
+          "freq": 93.4,
+          "pol": "v",
+          "name": "R.Rekord",
+          "pi": "82C6",
+          "kw": 0.2,
+          "directional": false,
+          "directionAngle": null
+        }
+      ],
+      "latlng": [
+        10560.25,
+        5608
+      ],
+      "iconType": "lo"
     }
   ]
 }
