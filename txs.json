@@ -176,7 +176,7 @@
           "freq": 103.7,
           "pol": "V",
           "name": "Virgin Radio",
-          "pi": "82C6",
+          "pi": "82C9",
           "kw": 1,
           "directional": true,
           "directionAngle": 337
@@ -4711,7 +4711,7 @@
       "iconType": "med"
     },
     {
-      "id": 1762991575876,
+      "id": 1762991855786,
       "name": "Wageselt",
       "stations": [
         {
@@ -4725,8 +4725,8 @@
         }
       ],
       "latlng": [
-        10560.25,
-        5608
+        10561.75,
+        5608.75
       ],
       "iconType": "lo"
     }
