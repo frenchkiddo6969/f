@@ -177,7 +177,7 @@
           "pol": "V",
           "name": "iRadio",
           "pi": "83E2",
-          "kw": 1,
+          "kw": 5,
           "directional": true,
           "directionAngle": 337
         },
