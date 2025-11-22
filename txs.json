@@ -2917,20 +2917,20 @@
           "directionAngle": 18
         },
         {
-          "freq": 92.7,
-          "pol": " ",
-          "name": "unknown",
-          "pi": " ",
-          "kw": null,
-          "directional": true,
-          "directionAngle": 18
-        },
-        {
           "freq": 95.8,
           "pol": "V",
           "name": "Flaix FM Sveland",
           "pi": "82C8",
           "kw": 0.5,
+          "directional": true,
+          "directionAngle": 18
+        },
+        {
+          "freq": 106.3,
+          "pol": "v",
+          "name": "Fun Radio",
+          "pi": "8217",
+          "kw": 0.2,
           "directional": true,
           "directionAngle": 18
         }
