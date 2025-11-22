@@ -175,8 +175,8 @@
         {
           "freq": 103.7,
           "pol": "V",
-          "name": "Virgin Radio",
-          "pi": "82C9",
+          "name": "iRadio",
+          "pi": "83E2",
           "kw": 1,
           "directional": true,
           "directionAngle": 337
@@ -386,10 +386,10 @@
           "directionAngle": null
         },
         {
-          "freq": 106.5,
+          "freq": 106.2,
           "pol": "V",
-          "name": "Latitude",
-          "pi": "8733",
+          "name": "iRadio",
+          "pi": "83E2",
           "kw": 0.5,
           "directional": false,
           "directionAngle": null
@@ -1896,12 +1896,21 @@
         },
         {
           "freq": 102.1,
-          "pol": "C",
-          "name": "Radio 538",
-          "pi": "82C7",
+          "pol": "v",
+          "name": "iRadio",
+          "pi": "83E2",
           "kw": 5,
           "directional": false,
           "directionAngle": null
+        },
+        {
+          "freq": 102.5,
+          "pol": "c",
+          "name": "Radio 538",
+          "pi": "82C7",
+          "kw": 5,
+          "directional": true,
+          "directionAngle": 318
         },
         {
           "freq": 105.6,
@@ -3671,6 +3680,15 @@
           "kw": 0.5,
           "directional": true,
           "directionAngle": 274
+        },
+        {
+          "freq": 103.3,
+          "pol": "v",
+          "name": "iRadio",
+          "pi": "83E2",
+          "kw": 0.5,
+          "directional": true,
+          "directionAngle": 270
         }
       ],
       "latlng": [
@@ -4566,6 +4584,15 @@
           "kw": 0.2,
           "directional": true,
           "directionAngle": 271
+        },
+        {
+          "freq": 104,
+          "pol": "v",
+          "name": "iRadio",
+          "pi": "83E2",
+          "kw": 0.1,
+          "directional": false,
+          "directionAngle": null
         }
       ],
       "latlng": [
@@ -4760,11 +4787,20 @@
           "kw": 0.5,
           "directional": false,
           "directionAngle": null
+        },
+        {
+          "freq": 103.1,
+          "pol": "v",
+          "name": "iRadio",
+          "pi": "83E2",
+          "kw": 2,
+          "directional": true,
+          "directionAngle": 290
         }
       ],
       "latlng": [
-        11553.25,
-        3519.75
+        11552,
+        3519
       ],
       "iconType": "med"
     },
@@ -4825,6 +4861,26 @@
         9968
       ],
       "iconType": "hi"
+    },
+    {
+      "id": 1763849718062,
+      "name": "Zaltkerk",
+      "stations": [
+        {
+          "freq": 104.4,
+          "pol": "v",
+          "name": "iRadio",
+          "pi": "83E2",
+          "kw": 1,
+          "directional": false,
+          "directionAngle": null
+        }
+      ],
+      "latlng": [
+        11125.75,
+        3267.25
+      ],
+      "iconType": "med"
     }
   ]
 }
