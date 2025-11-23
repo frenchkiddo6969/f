@@ -4649,91 +4649,6 @@
       "iconType": "med"
     },
     {
-      "id": 1762984985075,
-      "name": "Caisleán an Bharraigh",
-      "stations": [
-        {
-          "freq": 89.4,
-          "pol": "h",
-          "name": "RTC Radio 1",
-          "pi": "2201",
-          "kw": 5,
-          "directional": false,
-          "directionAngle": null
-        },
-        {
-          "freq": 91,
-          "pol": "h",
-          "name": "RTC 2FM",
-          "pi": "2202",
-          "kw": 5,
-          "directional": false,
-          "directionAngle": null
-        },
-        {
-          "freq": 93.7,
-          "pol": "h",
-          "name": "RTC LyricFM",
-          "pi": "2203",
-          "kw": 5,
-          "directional": false,
-          "directionAngle": null
-        },
-        {
-          "freq": 98.3,
-          "pol": "h",
-          "name": "RTC Raidió na Gaeltachta",
-          "pi": "2204",
-          "kw": 5,
-          "directional": false,
-          "directionAngle": null
-        },
-        {
-          "freq": 103.7,
-          "pol": "v",
-          "name": "iRadio",
-          "pi": "23E2",
-          "kw": 4.74,
-          "directional": false,
-          "directionAngle": null
-        },
-        {
-          "freq": 107.8,
-          "pol": "v",
-          "name": "Newstalk Castlebar",
-          "pi": "2206",
-          "kw": 4,
-          "directional": false,
-          "directionAngle": null
-        }
-      ],
-      "latlng": [
-        9601.75,
-        8332.25
-      ],
-      "iconType": "hi"
-    },
-    {
-      "id": 1762985493245,
-      "name": "Caisleán an Bharraigh",
-      "stations": [
-        {
-          "freq": 102.7,
-          "pol": "v",
-          "name": "SPIN",
-          "pi": "23E1",
-          "kw": 4,
-          "directional": true,
-          "directionAngle": 271
-        }
-      ],
-      "latlng": [
-        9606,
-        8324.75
-      ],
-      "iconType": "med"
-    },
-    {
       "id": 1762990710702,
       "name": "Herlecht",
       "stations": [
@@ -4908,6 +4823,53 @@
         3267.25
       ],
       "iconType": "med"
+    },
+    {
+      "id": 1763861786284,
+      "name": "Albenigen",
+      "stations": [
+        {
+          "freq": 88.2,
+          "pol": "h",
+          "name": "ARF 1",
+          "pi": "A201",
+          "kw": 50,
+          "directional": false,
+          "directionAngle": null
+        },
+        {
+          "freq": 88.9,
+          "pol": "h",
+          "name": "ARF 2 Klassik",
+          "pi": "A202",
+          "kw": 50,
+          "directional": false,
+          "directionAngle": null
+        },
+        {
+          "freq": 89.7,
+          "pol": "h",
+          "name": "ARF 3 Hits",
+          "pi": "A203",
+          "kw": 50,
+          "directional": false,
+          "directionAngle": null
+        },
+        {
+          "freq": 90.6,
+          "pol": "h",
+          "name": "ARF 4 Nachrichten",
+          "pi": "A204",
+          "kw": 50,
+          "directional": false,
+          "directionAngle": null
+        }
+      ],
+      "latlng": [
+        9601.5,
+        8333.5
+      ],
+      "iconType": "hi"
     }
   ]
 }
