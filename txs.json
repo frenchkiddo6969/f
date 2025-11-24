@@ -4975,6 +4975,26 @@
         8987
       ],
       "iconType": "med"
+    },
+    {
+      "id": 1764020336879,
+      "name": "Broken Arrow",
+      "stations": [
+        {
+          "freq": 94.5,
+          "pol": "v",
+          "name": "ONWF-FM",
+          "pi": "793D",
+          "kw": 2,
+          "directional": false,
+          "directionAngle": null
+        }
+      ],
+      "latlng": [
+        8695.5,
+        9803.75
+      ],
+      "iconType": "med"
     }
   ]
 }
