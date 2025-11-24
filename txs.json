@@ -4780,20 +4780,20 @@
       "name": "Broken Arrow",
       "stations": [
         {
-          "freq": 92.1,
-          "pol": "c",
-          "name": "OBTB-FM",
-          "pi": "593B",
-          "kw": 6.3,
-          "directional": false,
-          "directionAngle": null
-        },
-        {
           "freq": 93.7,
           "pol": "c",
           "name": "OBCR-LP r:OJCR-LP",
           "pi": "12E9",
           "kw": 0.2,
+          "directional": false,
+          "directionAngle": null
+        },
+        {
+          "freq": 101.3,
+          "pol": "c",
+          "name": "OSBA-FM",
+          "pi": "844A",
+          "kw": 6.3,
           "directional": false,
           "directionAngle": null
         }
