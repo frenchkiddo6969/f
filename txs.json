@@ -4910,6 +4910,62 @@
         10014.75
       ],
       "iconType": "hi"
+    },
+    {
+      "id": 1763994976528,
+      "name": "Castlebar",
+      "stations": [
+        {
+          "freq": 88.1,
+          "pol": "c",
+          "name": "OPB Radio 1",
+          "pi": "5201",
+          "kw": 3,
+          "directional": false,
+          "directionAngle": null
+        },
+        {
+          "freq": 89.9,
+          "pol": "c",
+          "name": "OPB Radio 2",
+          "pi": "5202",
+          "kw": 3,
+          "directional": false,
+          "directionAngle": null
+        },
+        {
+          "freq": 94.9,
+          "pol": "c",
+          "name": "OPB Radio 3",
+          "pi": "5203",
+          "kw": 3,
+          "directional": false,
+          "directionAngle": null
+        },
+        {
+          "freq": 105.1,
+          "pol": "c",
+          "name": "OPB Classical",
+          "pi": "5204",
+          "kw": 3,
+          "directional": false,
+          "directionAngle": null
+        },
+        {
+          "freq": 107.3,
+          "pol": "c",
+          "name": "Newstalk",
+          "pi": "52A1",
+          "kw": 1,
+          "directional": false,
+          "directionAngle": null
+        }
+      ],
+      "latlng": [
+        8811.5,
+        8987
+      ],
+      "iconType": "med"
     }
   ]
 }
