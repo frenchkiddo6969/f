@@ -4995,6 +4995,26 @@
         9805.25
       ],
       "iconType": "med"
+    },
+    {
+      "id": 1764038410997,
+      "name": "Broken Arrow",
+      "stations": [
+        {
+          "freq": 107.7,
+          "pol": "v",
+          "name": "R. Orland Highways",
+          "pi": "5222",
+          "kw": 0.1,
+          "directional": false,
+          "directionAngle": null
+        }
+      ],
+      "latlng": [
+        8826,
+        10053.5
+      ],
+      "iconType": "lo"
     }
   ]
 }
