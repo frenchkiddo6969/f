@@ -5173,6 +5173,26 @@
         10054
       ],
       "iconType": "lo"
+    },
+    {
+      "id": 1764114245602,
+      "name": "Broken Arrow",
+      "stations": [
+        {
+          "freq": 90.5,
+          "pol": "v",
+          "name": "OUBA-LP",
+          "pi": "8992",
+          "kw": 0.1,
+          "directional": false,
+          "directionAngle": null
+        }
+      ],
+      "latlng": [
+        8883.75,
+        9925.75
+      ],
+      "iconType": "lo"
     }
   ]
 }
