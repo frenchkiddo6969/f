@@ -5226,6 +5226,15 @@
           "kw": 1,
           "directional": false,
           "directionAngle": null
+        },
+        {
+          "freq": 105.8,
+          "pol": "v",
+          "name": "kronehit",
+          "pi": "A208",
+          "kw": 0.2,
+          "directional": false,
+          "directionAngle": null
         }
       ],
       "latlng": [
