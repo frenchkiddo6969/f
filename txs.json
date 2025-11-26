@@ -4814,6 +4814,15 @@
           "kw": 6.3,
           "directional": false,
           "directionAngle": null
+        },
+        {
+          "freq": 106.5,
+          "pol": "c",
+          "name": "OJAZ-FM",
+          "pi": "27DD",
+          "kw": 6.3,
+          "directional": false,
+          "directionAngle": null
         }
       ],
       "latlng": [
