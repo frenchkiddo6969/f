@@ -5213,6 +5213,26 @@
         9137
       ],
       "iconType": "med"
+    },
+    {
+      "id": 1764120298107,
+      "name": "Albeningen",
+      "stations": [
+        {
+          "freq": 87.5,
+          "pol": "v",
+          "name": "R.Record Albernstein",
+          "pi": "A315",
+          "kw": 1,
+          "directional": false,
+          "directionAngle": null
+        }
+      ],
+      "latlng": [
+        9611,
+        8332.25
+      ],
+      "iconType": "med"
     }
   ]
 }
