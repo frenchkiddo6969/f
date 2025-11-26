@@ -5193,6 +5193,26 @@
         9925.75
       ],
       "iconType": "lo"
+    },
+    {
+      "id": 1764119706756,
+      "name": "Castlebar",
+      "stations": [
+        {
+          "freq": 93.7,
+          "pol": "v",
+          "name": "OCBR-FM",
+          "pi": "5A1B",
+          "kw": 1,
+          "directional": false,
+          "directionAngle": null
+        }
+      ],
+      "latlng": [
+        8725,
+        9137
+      ],
+      "iconType": "med"
     }
   ]
 }
