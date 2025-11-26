@@ -5271,6 +5271,26 @@
         8308.25
       ],
       "iconType": "med"
+    },
+    {
+      "id": 1764182178171,
+      "name": "Albeningen",
+      "stations": [
+        {
+          "freq": 90.8,
+          "pol": "",
+          "name": "unknown",
+          "pi": "",
+          "kw": null,
+          "directional": false,
+          "directionAngle": null
+        }
+      ],
+      "latlng": [
+        9604.25,
+        8324.5
+      ],
+      "iconType": "lo"
     }
   ]
 }
