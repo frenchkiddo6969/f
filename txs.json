@@ -5356,6 +5356,71 @@
         8218
       ],
       "iconType": "lo"
+    },
+    {
+      "id": 1764209144517,
+      "name": "Rouen",
+      "stations": [
+        {
+          "freq": 88.5,
+          "pol": "c",
+          "name": "OPB Radio 1",
+          "pi": "5201",
+          "kw": 50,
+          "directional": false,
+          "directionAngle": null
+        },
+        {
+          "freq": 89.5,
+          "pol": "c",
+          "name": "OPB Radio 2",
+          "pi": "5202",
+          "kw": 50,
+          "directional": false,
+          "directionAngle": null
+        },
+        {
+          "freq": 90.1,
+          "pol": "c",
+          "name": "OPB Radio 3",
+          "pi": "5203",
+          "kw": 50,
+          "directional": false,
+          "directionAngle": null
+        },
+        {
+          "freq": 95.7,
+          "pol": "c",
+          "name": "OPB R.Aisne",
+          "pi": "5A55",
+          "kw": 5,
+          "directional": false,
+          "directionAngle": null
+        },
+        {
+          "freq": 96.1,
+          "pol": "c",
+          "name": "OPB Classical",
+          "pi": "5204",
+          "kw": 50,
+          "directional": false,
+          "directionAngle": null
+        },
+        {
+          "freq": 107.3,
+          "pol": "c",
+          "name": "Newstalk",
+          "pi": "52A1",
+          "kw": 6.3,
+          "directional": false,
+          "directionAngle": null
+        }
+      ],
+      "latlng": [
+        10149.75,
+        9587
+      ],
+      "iconType": "hi"
     }
   ]
 }
