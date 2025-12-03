@@ -5604,6 +5604,26 @@
         9304.25
       ],
       "iconType": "lo"
+    },
+    {
+      "id": 1764767961020,
+      "name": "Les Angles",
+      "stations": [
+        {
+          "freq": 89.7,
+          "pol": "v",
+          "name": "OPB R.Aisne",
+          "pi": "5A55",
+          "kw": 0.5,
+          "directional": false,
+          "directionAngle": null
+        }
+      ],
+      "latlng": [
+        9278.25,
+        9974.75
+      ],
+      "iconType": "med"
     }
   ]
 }
