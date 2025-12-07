@@ -1565,9 +1565,9 @@
           "pol": "V",
           "name": "R.Rekord",
           "pi": "82C6",
-          "kw": 1,
-          "directional": true,
-          "directionAngle": 273
+          "kw": 4,
+          "directional": false,
+          "directionAngle": null
         },
         {
           "freq": 104.7,
