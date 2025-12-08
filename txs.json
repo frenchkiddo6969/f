@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2025-12-08T22:39:54.624Z"
+    "exportedAt": "2025-12-08T22:46:01.347Z"
   },
   "txList": [
     {
@@ -338,21 +338,21 @@
           "country": ""
         },
         {
-          "freq": 100.2,
-          "name": "NRJ Sveland",
-          "pi": "8220",
-          "kw": 8,
-          "pol": "V",
+          "freq": "100.2",
+          "name": "DFM",
+          "pi": "82DF",
+          "kw": 10,
+          "pol": "C",
           "directional": true,
           "directionAngle": 270,
           "country": ""
         },
         {
-          "freq": 105.8,
-          "name": "DFM",
-          "pi": "82DF",
-          "kw": 10,
-          "pol": "C",
+          "freq": "105.8",
+          "name": "NRJ Sveland",
+          "pi": "8220",
+          "kw": 8,
+          "pol": "V",
           "directional": true,
           "directionAngle": 270,
           "country": ""
