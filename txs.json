@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2025-12-08T22:48:44.743Z"
+    "exportedAt": "2025-12-08T23:26:35.595Z"
   },
   "txList": [
     {
@@ -12,26 +12,6 @@
       ],
       "point": null,
       "stations": [
-        {
-          "freq": "67.22",
-          "name": "SPO Radio 1",
-          "pi": "",
-          "kw": 8,
-          "pol": "H",
-          "directional": false,
-          "directionAngle": null,
-          "country": "SP"
-        },
-        {
-          "freq": 72.11,
-          "name": "BR Radius FM",
-          "pi": "",
-          "kw": 8,
-          "pol": "H",
-          "directional": false,
-          "directionAngle": null,
-          "country": ""
-        },
         {
           "freq": 88.7,
           "name": "SPO Radio 1",
@@ -6133,6 +6113,67 @@
           "pol": "v",
           "directional": true,
           "directionAngle": 275,
+          "country": "SP"
+        }
+      ]
+    },
+    {
+      "id": "tx_1765236272269",
+      "name": "Doetinlingen",
+      "latlng": [
+        11782.5,
+        4908.5
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "67.22",
+          "name": "SPO Radio 1",
+          "pi": "",
+          "kw": 5,
+          "pol": "h",
+          "directional": false,
+          "directionAngle": null,
+          "country": "SP"
+        },
+        {
+          "freq": "70.43",
+          "name": "SPO Radio 2",
+          "pi": "",
+          "kw": 5,
+          "pol": "h",
+          "directional": false,
+          "directionAngle": null,
+          "country": "SP"
+        },
+        {
+          "freq": "71.33",
+          "name": "Hit Radio SPO 3",
+          "pi": "",
+          "kw": 5,
+          "pol": "h",
+          "directional": false,
+          "directionAngle": null,
+          "country": "SP"
+        },
+        {
+          "freq": "72.11",
+          "name": "Radio 538",
+          "pi": "",
+          "kw": 5,
+          "pol": "h",
+          "directional": false,
+          "directionAngle": null,
+          "country": "SP"
+        },
+        {
+          "freq": "72.89",
+          "name": "SPO Nieuws",
+          "pi": "",
+          "kw": 2,
+          "pol": "h",
+          "directional": false,
+          "directionAngle": null,
           "country": "SP"
         }
       ]
