@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2025-12-08T22:46:01.347Z"
+    "exportedAt": "2025-12-08T22:48:44.743Z"
   },
   "txList": [
     {
@@ -2937,16 +2937,6 @@
           "directional": false,
           "directionAngle": null,
           "country": "SP"
-        },
-        {
-          "freq": "",
-          "name": "New Station",
-          "pi": "",
-          "kw": 0,
-          "pol": "Any",
-          "directional": false,
-          "directionAngle": null,
-          "country": ""
         }
       ]
     },
