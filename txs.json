@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2025-12-08T23:33:09.127Z"
+    "exportedAt": "2025-12-08T23:56:24.284Z"
   },
   "txList": [
     {
@@ -5106,7 +5106,7 @@
     },
     {
       "id": 1762990955467,
-      "name": "Zaltkerk",
+      "name": "Vilren",
       "latlng": [
         11068.25,
         4143.75
@@ -6172,6 +6172,27 @@
           "pi": "",
           "kw": 2,
           "pol": "h",
+          "directional": false,
+          "directionAngle": null,
+          "country": "SP"
+        }
+      ]
+    },
+    {
+      "id": "tx_1765238140337",
+      "name": "Vilren",
+      "latlng": [
+        11063.25,
+        4059
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "95.0",
+          "name": "Europa 2",
+          "pi": "82E2",
+          "kw": 0.5,
+          "pol": "v",
           "directional": false,
           "directionAngle": null,
           "country": "SP"
