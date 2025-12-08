@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2025-12-08T22:15:57.029Z"
+    "exportedAt": "2025-12-08T22:39:54.624Z"
   },
   "txList": [
     {
@@ -2937,6 +2937,16 @@
           "directional": false,
           "directionAngle": null,
           "country": "SP"
+        },
+        {
+          "freq": "",
+          "name": "New Station",
+          "pi": "",
+          "kw": 0,
+          "pol": "Any",
+          "directional": false,
+          "directionAngle": null,
+          "country": ""
         }
       ]
     },
@@ -6113,6 +6123,27 @@
           "directional": false,
           "directionAngle": null,
           "country": "OR"
+        }
+      ]
+    },
+    {
+      "id": "tx_1765233565831",
+      "name": "Groendert",
+      "latlng": [
+        10875,
+        2513
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "105.7",
+          "name": "NRJ Sveland",
+          "pi": "8220",
+          "kw": 2,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 275,
+          "country": "SP"
         }
       ]
     }
