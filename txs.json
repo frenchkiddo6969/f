@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2025-12-09T00:32:17.113Z"
+    "exportedAt": "2025-12-09T01:02:05.962Z"
   },
   "txList": [
     {
@@ -1907,7 +1907,7 @@
       "point": null,
       "stations": [
         {
-          "freq": "98.1",
+          "freq": "96.7",
           "name": "Novoye Radio [RUS]",
           "pi": "7739",
           "kw": 1,
@@ -2141,7 +2141,7 @@
           "country": ""
         },
         {
-          "freq": 96.9,
+          "freq": "96.9",
           "name": "iRadio",
           "pi": "83E2",
           "kw": 1,
@@ -6329,6 +6329,67 @@
           "directional": true,
           "directionAngle": 223,
           "country": "RC"
+        }
+      ]
+    },
+    {
+      "id": "tx_1765241207263",
+      "name": "Hoogbeke Zendmast",
+      "latlng": [
+        10635.25,
+        4661.75
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "88.3",
+          "name": "SPO Radio 1",
+          "pi": "8201",
+          "kw": 5,
+          "pol": "h",
+          "directional": false,
+          "directionAngle": null,
+          "country": "SP"
+        },
+        {
+          "freq": "92.6",
+          "name": "SPO Radio 2",
+          "pi": "8202",
+          "kw": 5,
+          "pol": "h",
+          "directional": false,
+          "directionAngle": null,
+          "country": "SP"
+        },
+        {
+          "freq": "94.7",
+          "name": "SPO Nieuws",
+          "pi": "8204",
+          "kw": 3,
+          "pol": "h",
+          "directional": false,
+          "directionAngle": null,
+          "country": "SP"
+        },
+        {
+          "freq": "98.0",
+          "name": "Hit Radio SPO 3",
+          "pi": "8203",
+          "kw": 5,
+          "pol": "h",
+          "directional": false,
+          "directionAngle": null,
+          "country": "SP"
+        },
+        {
+          "freq": "101.9",
+          "name": "Radio 538",
+          "pi": "82C7",
+          "kw": 5,
+          "pol": "h",
+          "directional": false,
+          "directionAngle": null,
+          "country": "SP"
         }
       ]
     }
