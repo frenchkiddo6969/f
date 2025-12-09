@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2025-12-09T00:24:27.111Z"
+    "exportedAt": "2025-12-09T00:32:17.113Z"
   },
   "txList": [
     {
@@ -1374,6 +1374,16 @@
           "directional": false,
           "directionAngle": null,
           "country": ""
+        },
+        {
+          "freq": "102.4",
+          "name": "RMC Rádio",
+          "pi": "42C3",
+          "kw": 1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "RC"
         }
       ]
     },
@@ -6219,6 +6229,16 @@
           "country": "RC"
         },
         {
+          "freq": "88.1",
+          "name": "RMC Rádio",
+          "pi": "42C3",
+          "kw": 5,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "RC"
+        },
+        {
           "freq": "88.8",
           "name": "EPC R. Nacional",
           "pi": "4201",
@@ -6277,6 +6297,37 @@
           "pol": "h",
           "directional": false,
           "directionAngle": null,
+          "country": "RC"
+        }
+      ]
+    },
+    {
+      "id": "tx_1765240254738",
+      "name": "São Leopoldo",
+      "latlng": [
+        12141.25,
+        6881.25
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "88.7",
+          "name": "RMC Rádio",
+          "pi": "42C3",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 223,
+          "country": "RC"
+        },
+        {
+          "freq": "105.7",
+          "name": "Capital FM",
+          "pi": "42C1",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 223,
           "country": "RC"
         }
       ]
