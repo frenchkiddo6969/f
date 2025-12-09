@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2025-12-08T23:56:24.284Z"
+    "exportedAt": "2025-12-09T00:12:49.071Z"
   },
   "txList": [
     {
@@ -6196,6 +6196,57 @@
           "directional": false,
           "directionAngle": null,
           "country": "SP"
+        }
+      ]
+    },
+    {
+      "id": "tx_1765238773865",
+      "name": "São Luís",
+      "latlng": [
+        10900,
+        7159
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "87.8",
+          "name": "Capital FM",
+          "pi": "42C1",
+          "kw": 5,
+          "pol": "h",
+          "directional": false,
+          "directionAngle": null,
+          "country": "RC"
+        },
+        {
+          "freq": "88.8",
+          "name": "EPC R. Nacional",
+          "pi": "4201",
+          "kw": 50,
+          "pol": "h",
+          "directional": false,
+          "directionAngle": null,
+          "country": "RC"
+        },
+        {
+          "freq": "90.5",
+          "name": "EPC R. Musical",
+          "pi": "4202",
+          "kw": 50,
+          "pol": "h",
+          "directional": false,
+          "directionAngle": null,
+          "country": "RC"
+        },
+        {
+          "freq": "90.8",
+          "name": "Mix FM",
+          "pi": "4777",
+          "kw": 5,
+          "pol": "h",
+          "directional": false,
+          "directionAngle": null,
+          "country": "RC"
         }
       ]
     }
