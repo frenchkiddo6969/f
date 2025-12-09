@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2025-12-09T01:02:05.962Z"
+    "exportedAt": "2025-12-09T01:19:08.364Z"
   },
   "txList": [
     {
@@ -6389,6 +6389,67 @@
           "pol": "h",
           "directional": false,
           "directionAngle": null,
+          "country": "SP"
+        }
+      ]
+    },
+    {
+      "id": "tx_1765242797766",
+      "name": "Bolsrade",
+      "latlng": [
+        10660.5,
+        3801
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "91.7",
+          "name": "SPO Radio 1",
+          "pi": "8201",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 3,
+          "country": "SP"
+        },
+        {
+          "freq": "96.4",
+          "name": "SPO Radio 2",
+          "pi": "8202",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 2,
+          "country": "SP"
+        },
+        {
+          "freq": "98.5",
+          "name": "Hit Radio SPO 3",
+          "pi": "8203",
+          "kw": 0.2,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 2,
+          "country": "SP"
+        },
+        {
+          "freq": "102.7",
+          "name": "Radio 538",
+          "pi": "82C7",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 2,
+          "country": "SP"
+        },
+        {
+          "freq": "107.3",
+          "name": "SPO Nieuws",
+          "pi": "8204",
+          "kw": 0.1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 2,
           "country": "SP"
         }
       ]
