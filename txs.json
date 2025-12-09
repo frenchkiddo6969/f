@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2025-12-09T01:19:08.364Z"
+    "exportedAt": "2025-12-09T02:36:03.315Z"
   },
   "txList": [
     {
@@ -353,8 +353,8 @@
       "id": 1750808907749,
       "name": "Vilren",
       "latlng": [
-        11140,
-        4134.75
+        11140.853868422128,
+        4135.989202245952
       ],
       "point": null,
       "stations": [
@@ -1961,7 +1961,7 @@
           "freq": "88.3",
           "name": "Flaix FM Sveland",
           "pi": "82C8",
-          "kw": 0.063,
+          "kw": 0.2,
           "pol": "V",
           "directional": true,
           "directionAngle": 270,
@@ -6450,6 +6450,37 @@
           "pol": "v",
           "directional": true,
           "directionAngle": 2,
+          "country": "SP"
+        }
+      ]
+    },
+    {
+      "id": "tx_1765246272815",
+      "name": "Torbeek",
+      "latlng": [
+        11504.75,
+        3834.25
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "90.7",
+          "name": "Flaix FM Sveland",
+          "pi": "82C8",
+          "kw": 0.1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 347,
+          "country": "SP"
+        },
+        {
+          "freq": "104.7",
+          "name": "NRJ Sveland",
+          "pi": "8220",
+          "kw": 0.1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 347,
           "country": "SP"
         }
       ]
