@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2025-12-09T00:12:49.071Z"
+    "exportedAt": "2025-12-09T00:24:27.111Z"
   },
   "txList": [
     {
@@ -6243,6 +6243,37 @@
           "name": "Mix FM",
           "pi": "4777",
           "kw": 5,
+          "pol": "h",
+          "directional": false,
+          "directionAngle": null,
+          "country": "RC"
+        }
+      ]
+    },
+    {
+      "id": "tx_1765239647073",
+      "name": "São Leopoldo",
+      "latlng": [
+        12352.25,
+        6708.5
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "88.5",
+          "name": "EPC R. Nacional",
+          "pi": "4201",
+          "kw": 6.3,
+          "pol": "h",
+          "directional": false,
+          "directionAngle": null,
+          "country": "RC"
+        },
+        {
+          "freq": "95.3",
+          "name": "EPC R. Musical",
+          "pi": "4202",
+          "kw": 6.3,
           "pol": "h",
           "directional": false,
           "directionAngle": null,
