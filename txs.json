@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2025-12-10T23:09:30.785Z"
+    "exportedAt": "2025-12-10T23:28:01.428Z"
   },
   "txList": [
     {
@@ -239,7 +239,7 @@
         {
           "freq": "90.8",
           "name": "R.Trance",
-          "pi": "891C",
+          "pi": "82C2",
           "kw": 2,
           "pol": "V",
           "directional": false,
@@ -1970,7 +1970,7 @@
         {
           "freq": "90.9",
           "name": "R.Trance",
-          "pi": "891C",
+          "pi": "82C2",
           "kw": 0.5,
           "pol": "V",
           "directional": true,
@@ -5080,6 +5080,16 @@
           "directional": false,
           "directionAngle": null,
           "country": "SP"
+        },
+        {
+          "freq": "106.7",
+          "name": "R.Trance",
+          "pi": "82C2",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 182,
+          "country": "SP"
         }
       ]
     },
@@ -6215,6 +6225,16 @@
           "pol": "v",
           "directional": false,
           "directionAngle": null,
+          "country": "SP"
+        },
+        {
+          "freq": "107.8",
+          "name": "R.Trance",
+          "pi": "82C2",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 90,
           "country": "SP"
         }
       ]
