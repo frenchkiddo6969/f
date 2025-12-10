@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2025-12-09T23:28:34.344Z"
+    "exportedAt": "2025-12-10T00:00:28.882Z"
   },
   "txList": [
     {
@@ -13,14 +13,14 @@
       "point": null,
       "stations": [
         {
-          "freq": 88.7,
+          "freq": "88.7",
           "name": "SPO Radio 1",
           "pi": "8201",
           "kw": 97,
           "pol": "H",
           "directional": false,
           "directionAngle": null,
-          "country": ""
+          "country": "SP"
         },
         {
           "freq": 90,
