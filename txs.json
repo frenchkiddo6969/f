@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2025-12-10T23:28:01.428Z"
+    "exportedAt": "2025-12-11T15:35:28.296Z"
   },
   "txList": [
     {
@@ -6511,6 +6511,27 @@
           "pol": "v",
           "directional": true,
           "directionAngle": 347,
+          "country": "SP"
+        }
+      ]
+    },
+    {
+      "id": "tx_1765466748426",
+      "name": "Emmelburg",
+      "latlng": [
+        10858.75,
+        4858.75
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "100.5",
+          "name": "Top Music",
+          "pi": "87C7",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
           "country": "SP"
         }
       ]
