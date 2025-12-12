@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2025-12-11T15:35:28.296Z"
+    "exportedAt": "2025-12-12T14:21:33.135Z"
   },
   "txList": [
     {
@@ -6532,6 +6532,27 @@
           "pol": "v",
           "directional": false,
           "directionAngle": null,
+          "country": "SP"
+        }
+      ]
+    },
+    {
+      "id": "tx_1765549212925",
+      "name": "Kortlecht",
+      "latlng": [
+        10558.25,
+        4894.75
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "88.7",
+          "name": "Top Music",
+          "pi": "87C7",
+          "kw": 0.2,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 176,
           "country": "SP"
         }
       ]
