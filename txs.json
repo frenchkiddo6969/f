@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2025-12-12T22:24:07.238Z"
+    "exportedAt": "2025-12-12T22:57:15.040Z"
   },
   "txList": [
     {
@@ -5159,6 +5159,16 @@
           "name": "R.Rekord",
           "pi": "82C6",
           "kw": 0.2,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "SP"
+        },
+        {
+          "freq": "94.3",
+          "name": "Antenne Brasbeke",
+          "pi": "8972",
+          "kw": 0.1,
           "pol": "v",
           "directional": false,
           "directionAngle": null,
