@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2025-12-12T14:21:33.135Z"
+    "exportedAt": "2025-12-12T22:24:07.238Z"
   },
   "txList": [
     {
@@ -2777,7 +2777,7 @@
           "country": ""
         },
         {
-          "freq": 93.6,
+          "freq": "93.9",
           "name": "Flaix FM Sveland",
           "pi": "82C8",
           "kw": 0.5,
@@ -5155,7 +5155,7 @@
       "point": null,
       "stations": [
         {
-          "freq": "93.4",
+          "freq": "93.5",
           "name": "R.Rekord",
           "pi": "82C6",
           "kw": 0.2,
@@ -6538,7 +6538,7 @@
     },
     {
       "id": "tx_1765549212925",
-      "name": "Kortlecht",
+      "name": "Kortlecht-Bergeijk",
       "latlng": [
         10558.25,
         4894.75
