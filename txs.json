@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2025-12-12T22:57:15.040Z"
+    "exportedAt": "2025-12-13T23:11:58.711Z"
   },
   "txList": [
     {
@@ -1663,14 +1663,14 @@
       "point": null,
       "stations": [
         {
-          "freq": 93.3,
-          "name": "unknown",
-          "pi": " ",
-          "kw": 0,
-          "pol": " ",
+          "freq": "93.3",
+          "name": "K-Mix Doetinlingen",
+          "pi": "86B8",
+          "kw": 3.4,
+          "pol": "v",
           "directional": false,
           "directionAngle": null,
-          "country": ""
+          "country": "SP"
         },
         {
           "freq": "97.6",
