@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2025-12-13T23:11:58.711Z"
+    "exportedAt": "2025-12-14T12:57:36.629Z"
   },
   "txList": [
     {
@@ -6563,6 +6563,37 @@
           "pol": "v",
           "directional": true,
           "directionAngle": 176,
+          "country": "SP"
+        }
+      ]
+    },
+    {
+      "id": "tx_1765716953684",
+      "name": "Doetinlingen",
+      "latlng": [
+        11667.75,
+        4871.25
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "69.26",
+          "name": "Russkoye Radio",
+          "pi": "",
+          "kw": 3,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "SP"
+        },
+        {
+          "freq": "95.1",
+          "name": "Russkoye Radio",
+          "pi": "86B6",
+          "kw": 3,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
           "country": "SP"
         }
       ]
