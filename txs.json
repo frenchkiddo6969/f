@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2025-12-14T13:41:37.564Z"
+    "exportedAt": "2025-12-15T19:44:32.576Z"
   },
   "txList": [
     {
@@ -6571,8 +6571,8 @@
       "id": "tx_1765716953684",
       "name": "Doetinlingen",
       "latlng": [
-        11667.75,
-        4871.25
+        11667.5,
+        4879.25
       ],
       "point": null,
       "stations": [
