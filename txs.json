@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2025-12-15T19:44:32.576Z"
+    "exportedAt": "2025-12-16T23:46:44.063Z"
   },
   "txList": [
     {
@@ -6581,6 +6581,16 @@
           "name": "Russkoye Radio",
           "pi": "",
           "kw": 3,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "SP"
+        },
+        {
+          "freq": "94.6",
+          "name": "RSD",
+          "pi": "8713",
+          "kw": 0.6,
           "pol": "v",
           "directional": false,
           "directionAngle": null,
