@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2025-12-19T13:43:44.087Z"
+    "exportedAt": "2025-12-19T22:22:16.688Z"
   },
   "txList": [
     {
@@ -196,14 +196,14 @@
           "country": ""
         },
         {
-          "freq": 106.7,
-          "name": "Radio 16",
-          "pi": "84F2",
+          "freq": "106.7",
+          "name": "Lachen & Liedjes",
+          "pi": "82F2",
           "kw": 4,
           "pol": "V",
           "directional": true,
           "directionAngle": 337,
-          "country": ""
+          "country": "SP"
         }
       ]
     },
