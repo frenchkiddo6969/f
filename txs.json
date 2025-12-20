@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2025-12-19T22:22:16.688Z"
+    "exportedAt": "2025-12-20T16:44:02.761Z"
   },
   "txList": [
     {
@@ -6604,6 +6604,27 @@
           "pol": "v",
           "directional": false,
           "directionAngle": null,
+          "country": "SP"
+        }
+      ]
+    },
+    {
+      "id": "tx_1766248591495",
+      "name": "Enzee",
+      "latlng": [
+        11461,
+        3352.25
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "106.8",
+          "name": "Activ Radio",
+          "pi": "892C",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 11,
           "country": "SP"
         }
       ]
