@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2025-12-21T02:02:28.316Z"
+    "exportedAt": "2025-12-21T02:13:51.114Z"
   },
   "txList": [
     {
@@ -6636,6 +6636,48 @@
           "directional": true,
           "directionAngle": 11,
           "country": "SP"
+        }
+      ]
+    },
+    {
+      "id": "tx_1766282969042",
+      "name": "Springton",
+      "latlng": [
+        7025.5,
+        10891.25
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "162.550",
+          "name": "OXK73",
+          "pi": "",
+          "kw": 1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "OR"
+        }
+      ]
+    },
+    {
+      "id": "tx_1766283045447",
+      "name": "Broken Arrow",
+      "latlng": [
+        8761.25,
+        10066
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "162.425",
+          "name": "OBZ72",
+          "pi": "",
+          "kw": 1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "OR"
         }
       ]
     }
