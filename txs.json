@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2025-12-21T02:13:51.114Z"
+    "exportedAt": "2025-12-21T02:36:42.752Z"
   },
   "txList": [
     {
@@ -6664,8 +6664,8 @@
       "id": "tx_1766283045447",
       "name": "Broken Arrow",
       "latlng": [
-        8761.25,
-        10066
+        8761.5,
+        10066.25
       ],
       "point": null,
       "stations": [
@@ -6675,6 +6675,27 @@
           "pi": "",
           "kw": 1,
           "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "OR"
+        }
+      ]
+    },
+    {
+      "id": "tx_1766284566443",
+      "name": "Jackson",
+      "latlng": [
+        8828,
+        9538.25
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "162.475",
+          "name": "OZP43",
+          "pi": "",
+          "kw": 0.1,
+          "pol": "V",
           "directional": false,
           "directionAngle": null,
           "country": "OR"
