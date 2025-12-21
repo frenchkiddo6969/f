@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2025-12-21T02:39:47.091Z"
+    "exportedAt": "2025-12-21T02:40:35.255Z"
   },
   "txList": [
     {
@@ -2433,7 +2433,7 @@
           "name": "OSW66",
           "pi": "",
           "kw": 0.2,
-          "pol": "v",
+          "pol": "",
           "directional": false,
           "directionAngle": null,
           "country": "OR"
@@ -6663,7 +6663,7 @@
           "name": "OXK73",
           "pi": "",
           "kw": 1,
-          "pol": "v",
+          "pol": "",
           "directional": false,
           "directionAngle": null,
           "country": "OR"
@@ -6684,7 +6684,7 @@
           "name": "OBZ72",
           "pi": "",
           "kw": 1,
-          "pol": "v",
+          "pol": "",
           "directional": false,
           "directionAngle": null,
           "country": "OR"
@@ -6705,7 +6705,7 @@
           "name": "OZP43",
           "pi": "",
           "kw": 0.1,
-          "pol": "V",
+          "pol": "",
           "directional": false,
           "directionAngle": null,
           "country": "OR"
@@ -6726,7 +6726,7 @@
           "name": "OPJ77",
           "pi": "",
           "kw": 1,
-          "pol": "v",
+          "pol": "",
           "directional": false,
           "directionAngle": null,
           "country": "OR"
