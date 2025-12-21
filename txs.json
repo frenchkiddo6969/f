@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2025-12-21T02:40:35.255Z"
+    "exportedAt": "2025-12-21T17:04:51.585Z"
   },
   "txList": [
     {
@@ -6730,6 +6730,27 @@
           "directional": false,
           "directionAngle": null,
           "country": "OR"
+        }
+      ]
+    },
+    {
+      "id": "tx_1766336612366",
+      "name": "Olen=Tollebeek",
+      "latlng": [
+        11348,
+        4412.25
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "100.4",
+          "name": "Mix FM",
+          "pi": "8932",
+          "kw": 0.1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "SP"
         }
       ]
     }
