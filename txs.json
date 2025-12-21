@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2025-12-21T02:36:42.752Z"
+    "exportedAt": "2025-12-21T02:39:47.091Z"
   },
   "txList": [
     {
@@ -2426,6 +2426,16 @@
           "pol": "V",
           "directional": true,
           "directionAngle": 202,
+          "country": "OR"
+        },
+        {
+          "freq": "162.500",
+          "name": "OSW66",
+          "pi": "",
+          "kw": 0.2,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
           "country": "OR"
         }
       ]
@@ -6696,6 +6706,27 @@
           "pi": "",
           "kw": 0.1,
           "pol": "V",
+          "directional": false,
+          "directionAngle": null,
+          "country": "OR"
+        }
+      ]
+    },
+    {
+      "id": "tx_1766284754271",
+      "name": "Swimsuit",
+      "latlng": [
+        8083,
+        8857.25
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "162.550",
+          "name": "OPJ77",
+          "pi": "",
+          "kw": 1,
+          "pol": "v",
           "directional": false,
           "directionAngle": null,
           "country": "OR"
