@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2025-12-21T17:04:51.585Z"
+    "exportedAt": "2025-12-22T12:16:25.428Z"
   },
   "txList": [
     {
@@ -735,16 +735,6 @@
           "country": "SP"
         },
         {
-          "freq": "89.9",
-          "name": "DFM",
-          "pi": "82DF",
-          "kw": 1,
-          "pol": "V",
-          "directional": true,
-          "directionAngle": 0,
-          "country": "SP"
-        },
-        {
           "freq": "93",
           "name": "Radio FG.",
           "pi": "822C",
@@ -778,6 +768,16 @@
           "freq": "100.5",
           "name": "Europa 2",
           "pi": "82E2",
+          "kw": 1,
+          "pol": "V",
+          "directional": true,
+          "directionAngle": 0,
+          "country": "SP"
+        },
+        {
+          "freq": "103.5",
+          "name": "DFM",
+          "pi": "82DF",
           "kw": 1,
           "pol": "V",
           "directional": true,
@@ -6638,7 +6638,7 @@
       "point": null,
       "stations": [
         {
-          "freq": "106.8",
+          "freq": "90",
           "name": "Activ Radio",
           "pi": "892C",
           "kw": 1,
