@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2025-12-22T12:16:25.428Z"
+    "exportedAt": "2025-12-22T12:53:10.963Z"
   },
   "txList": [
     {
@@ -166,40 +166,40 @@
           "country": "SP"
         },
         {
-          "freq": 93.7,
+          "freq": "93.7",
           "name": "Fun Radio",
           "pi": "8217",
           "kw": 7,
           "pol": "V",
           "directional": true,
           "directionAngle": 337,
-          "country": ""
+          "country": "SP"
         },
         {
-          "freq": 103.7,
+          "freq": "103.7",
           "name": "iRadio",
           "pi": "83E2",
           "kw": 7,
           "pol": "V",
           "directional": true,
           "directionAngle": 337,
-          "country": ""
+          "country": "SP"
         },
         {
-          "freq": 104.3,
+          "freq": "104.3",
           "name": "Uw Lokale",
           "pi": "875D",
-          "kw": 4,
+          "kw": 5,
           "pol": "V",
           "directional": true,
           "directionAngle": 337,
-          "country": ""
+          "country": "SP"
         },
         {
           "freq": "106.7",
           "name": "Lachen & Liedjes",
           "pi": "82F2",
-          "kw": 4,
+          "kw": 5,
           "pol": "V",
           "directional": true,
           "directionAngle": 337,
@@ -1303,6 +1303,16 @@
           "directional": true,
           "directionAngle": 180,
           "country": ""
+        },
+        {
+          "freq": "94.3",
+          "name": "Lachen & Liedjes",
+          "pi": "82F2",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "SP"
         },
         {
           "freq": 101.2,
@@ -2674,6 +2684,16 @@
       ],
       "point": null,
       "stations": [
+        {
+          "freq": "94.5",
+          "name": "Lachen & Liedjes",
+          "pi": "82F2",
+          "kw": 4,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "SP"
+        },
         {
           "freq": "99.8",
           "name": "R.Rekord",
@@ -6174,6 +6194,16 @@
           "directional": true,
           "directionAngle": 275,
           "country": "SP"
+        },
+        {
+          "freq": "107.6",
+          "name": "Lachen & Liedjes",
+          "pi": "82F2",
+          "kw": 2,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 275,
+          "country": "SP"
         }
       ]
     },
@@ -6248,13 +6278,23 @@
       "point": null,
       "stations": [
         {
+          "freq": "91.3",
+          "name": "Lachen & Liedjes",
+          "pi": "82F2",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 90,
+          "country": "SP"
+        },
+        {
           "freq": "95.0",
           "name": "Europa 2",
           "pi": "82E2",
           "kw": 0.5,
           "pol": "v",
-          "directional": false,
-          "directionAngle": null,
+          "directional": true,
+          "directionAngle": 90,
           "country": "SP"
         },
         {
@@ -6555,6 +6595,16 @@
       "point": null,
       "stations": [
         {
+          "freq": "93.8",
+          "name": "Lachen & Liedjes",
+          "pi": "82F2",
+          "kw": 0.1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "SP"
+        },
+        {
           "freq": "100.5",
           "name": "Top Music",
           "pi": "87C7",
@@ -6641,6 +6691,16 @@
           "freq": "90",
           "name": "Activ Radio",
           "pi": "892C",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 11,
+          "country": "SP"
+        },
+        {
+          "freq": "106.8",
+          "name": "Lachen & Liedjes",
+          "pi": "82F2",
           "kw": 1,
           "pol": "v",
           "directional": true,
