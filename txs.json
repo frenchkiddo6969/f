@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2025-12-22T12:53:10.963Z"
+    "exportedAt": "2025-12-26T16:49:05.205Z"
   },
   "txList": [
     {
@@ -6811,6 +6811,88 @@
           "directional": false,
           "directionAngle": null,
           "country": "SP"
+        }
+      ]
+    },
+    {
+      "id": "tx_1766767289698",
+      "name": "Kozani",
+      "latlng": [
+        9546.75,
+        6208
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "88.8",
+          "name": "DRT R.1",
+          "pi": "1201",
+          "kw": 35,
+          "pol": "h",
+          "directional": false,
+          "directionAngle": null,
+          "country": "TI"
+        },
+        {
+          "freq": "90.2",
+          "name": "DRT R.2",
+          "pi": "1202",
+          "kw": 35,
+          "pol": "h",
+          "directional": false,
+          "directionAngle": null,
+          "country": "TI"
+        },
+        {
+          "freq": "93.5",
+          "name": "DRT R.3",
+          "pi": "1203",
+          "kw": 35,
+          "pol": "h",
+          "directional": false,
+          "directionAngle": null,
+          "country": "TI"
+        }
+      ]
+    },
+    {
+      "id": "tx_1766767609835",
+      "name": "Desfina",
+      "latlng": [
+        10084.25,
+        6189.25
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "91.8",
+          "name": "DRT R.1",
+          "pi": "1201",
+          "kw": 6,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "TI"
+        },
+        {
+          "freq": "94.6",
+          "name": "DRT R.2",
+          "pi": "1202",
+          "kw": 6,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "TI"
+        },
+        {
+          "freq": "96.3",
+          "name": "DRT R.3",
+          "pi": "1203",
+          "kw": 6,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "TI"
         }
       ]
     }
