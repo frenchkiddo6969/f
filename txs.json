@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2025-12-26T16:49:05.205Z"
+    "exportedAt": "2025-12-29T12:43:21.959Z"
   },
   "txList": [
     {
@@ -6687,6 +6687,16 @@
       ],
       "point": null,
       "stations": [
+        {
+          "freq": "89.4",
+          "name": "Iris 89.4",
+          "pi": "8934",
+          "kw": 0.2,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 11,
+          "country": "SP"
+        },
         {
           "freq": "90",
           "name": "Activ Radio",
