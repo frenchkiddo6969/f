@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-01-02T21:24:25.282Z"
+    "exportedAt": "2026-01-03T01:51:01.945Z"
   },
   "txList": [
     {
@@ -4982,7 +4982,7 @@
           "directional": false,
           "directionAngle": null,
           "country": "SP",
-          "disabled": false
+          "disabled": true
         }
       ]
     },
@@ -5004,7 +5004,7 @@
           "directional": false,
           "directionAngle": null,
           "country": "SP",
-          "disabled": false
+          "disabled": true
         }
       ]
     },
