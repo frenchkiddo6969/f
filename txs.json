@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-01-03T02:19:30.451Z"
+    "exportedAt": "2026-01-03T15:29:47.102Z"
   },
   "txList": [
     {
@@ -6272,7 +6272,7 @@
       "point": null,
       "stations": [
         {
-          "freq": 90.8,
+          "freq": "90.8",
           "name": "unknown",
           "pi": "",
           "kw": 0,
@@ -6280,7 +6280,7 @@
           "directional": false,
           "directionAngle": null,
           "country": "",
-          "disabled": false
+          "disabled": true
         },
         {
           "freq": "104.6",
