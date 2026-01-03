@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-01-03T01:51:01.945Z"
+    "exportedAt": "2026-01-03T02:19:30.451Z"
   },
   "txList": [
     {
@@ -2609,7 +2609,7 @@
       "point": null,
       "stations": [
         {
-          "freq": 93.3,
+          "freq": "93.3",
           "name": "unknown",
           "pi": " ",
           "kw": 0,
@@ -2617,7 +2617,7 @@
           "directional": true,
           "directionAngle": 202,
           "country": "",
-          "disabled": false
+          "disabled": true
         },
         {
           "freq": "96.3",
@@ -3962,7 +3962,7 @@
       "point": null,
       "stations": [
         {
-          "freq": 97.5,
+          "freq": "97.5",
           "name": "unknown",
           "pi": " ",
           "kw": 0,
@@ -3970,7 +3970,7 @@
           "directional": false,
           "directionAngle": null,
           "country": "",
-          "disabled": false
+          "disabled": true
         },
         {
           "freq": "99.9",
