@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-01-05T00:53:31.985Z"
+    "exportedAt": "2026-01-05T14:15:08.195Z"
   },
   "txList": [
     {
@@ -81,149 +81,6 @@
       ]
     },
     {
-      "id": 1750808428258,
-      "name": "Doetinlingen",
-      "latlng": [
-        11680,
-        5008
-      ],
-      "point": null,
-      "stations": [
-        {
-          "freq": "98.7",
-          "name": "Kapitaal.",
-          "pi": "874F",
-          "kw": 0.3,
-          "pol": "V",
-          "directional": true,
-          "directionAngle": 264,
-          "country": "SP",
-          "disabled": false
-        }
-      ]
-    },
-    {
-      "id": 1750808466955,
-      "name": "Coehuizen Hill",
-      "latlng": [
-        11569.75,
-        4896.25
-      ],
-      "point": null,
-      "stations": [
-        {
-          "freq": "97.2",
-          "name": "Studio Rave",
-          "pi": "8742",
-          "kw": 0.5,
-          "pol": "V",
-          "directional": true,
-          "directionAngle": 50,
-          "country": "SP",
-          "disabled": false
-        },
-        {
-          "freq": 98,
-          "name": "Novoye Radio [RUS]",
-          "pi": "7739",
-          "kw": 5,
-          "pol": "V",
-          "directional": true,
-          "directionAngle": 50,
-          "country": "",
-          "disabled": false
-        },
-        {
-          "freq": 101.7,
-          "name": "Jazz Radio",
-          "pi": "82FC",
-          "kw": 0.5,
-          "pol": "V",
-          "directional": true,
-          "directionAngle": 50,
-          "country": "",
-          "disabled": false
-        },
-        {
-          "freq": 103.2,
-          "name": "Hit FM",
-          "pi": "8777",
-          "kw": 5,
-          "pol": "V",
-          "directional": true,
-          "directionAngle": 50,
-          "country": "",
-          "disabled": false
-        }
-      ]
-    },
-    {
-      "id": 1750808548610,
-      "name": "Haarmere Hill",
-      "latlng": [
-        11397.25,
-        5072.25
-      ],
-      "point": null,
-      "stations": [
-        {
-          "freq": "91.4",
-          "name": "Radio FG.",
-          "pi": "822C",
-          "kw": 7,
-          "pol": "V",
-          "directional": true,
-          "directionAngle": 337,
-          "country": "SP",
-          "disabled": false
-        },
-        {
-          "freq": "93.7",
-          "name": "Fun Radio",
-          "pi": "8217",
-          "kw": 7,
-          "pol": "V",
-          "directional": true,
-          "directionAngle": 337,
-          "country": "SP",
-          "disabled": false
-        },
-        {
-          "freq": "103.7",
-          "name": "iRadio",
-          "pi": "83E2",
-          "kw": 7,
-          "pol": "V",
-          "directional": true,
-          "directionAngle": 337,
-          "country": "SP",
-          "disabled": false
-        },
-        {
-          "freq": "104.3",
-          "name": "Uw Lokale",
-          "pi": "875D",
-          "kw": 5,
-          "pol": "V",
-          "directional": true,
-          "directionAngle": 337,
-          "country": "SP",
-          "disabled": false
-        },
-        {
-          "freq": "106.7",
-          "name": "Lachen & Liedjes",
-          "pi": "82F2",
-          "kw": 5,
-          "pol": "V",
-          "directional": true,
-          "directionAngle": 337,
-          "country": "SP",
-          "disabled": false
-        }
-      ]
-    },
-    {
       "id": 1750808687741,
       "name": "Doetinlingen",
       "latlng": [
@@ -266,6 +123,39 @@
           "disabled": false
         },
         {
+          "freq": "97.2",
+          "name": "Studio Rave",
+          "pi": "8742",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "SP",
+          "disabled": false
+        },
+        {
+          "freq": "98.0",
+          "name": "Novoye Radio [RUS]",
+          "pi": "7739",
+          "kw": 5,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "SP",
+          "disabled": false
+        },
+        {
+          "freq": "98.7",
+          "name": "Kapitaal.",
+          "pi": "874F",
+          "kw": 1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "SP",
+          "disabled": false
+        },
+        {
           "freq": 100.8,
           "name": "Flaix FM Sveland",
           "pi": "82C8",
@@ -285,6 +175,28 @@
           "directional": false,
           "directionAngle": null,
           "country": "",
+          "disabled": false
+        },
+        {
+          "freq": "101.7",
+          "name": "Jazz Radio",
+          "pi": "82FC",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "SP",
+          "disabled": false
+        },
+        {
+          "freq": "103.2",
+          "name": "Hit FM",
+          "pi": "8777",
+          "kw": 5,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "SP",
           "disabled": false
         }
       ]
@@ -310,6 +222,17 @@
           "disabled": false
         },
         {
+          "freq": "91.4",
+          "name": "Radio FG.",
+          "pi": "822C",
+          "kw": 7,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 270,
+          "country": "SP",
+          "disabled": false
+        },
+        {
           "freq": 92.3,
           "name": "Slam!",
           "pi": "8731",
@@ -318,6 +241,28 @@
           "directional": true,
           "directionAngle": 270,
           "country": "",
+          "disabled": false
+        },
+        {
+          "freq": "92.7",
+          "name": "R.Rekord",
+          "pi": "82C6",
+          "kw": 4,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 270,
+          "country": "SP",
+          "disabled": false
+        },
+        {
+          "freq": "93.7",
+          "name": "Fun Radio",
+          "pi": "8217",
+          "kw": 7,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 270,
+          "country": "SP",
           "disabled": false
         },
         {
@@ -343,6 +288,17 @@
           "disabled": false
         },
         {
+          "freq": "97.6",
+          "name": "Top Radio [RUS]",
+          "pi": "7763",
+          "kw": 3.4,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 270,
+          "country": "SP",
+          "disabled": false
+        },
+        {
           "freq": "100.2",
           "name": "DFM",
           "pi": "82DF",
@@ -354,6 +310,39 @@
           "disabled": false
         },
         {
+          "freq": "103.7",
+          "name": "iRadio",
+          "pi": "83E2",
+          "kw": 7,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 270,
+          "country": "SP",
+          "disabled": false
+        },
+        {
+          "freq": "104.3",
+          "name": "Uw Lokale",
+          "pi": "875D",
+          "kw": 5,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 270,
+          "country": "SP",
+          "disabled": false
+        },
+        {
+          "freq": "104.7",
+          "name": "Qmusic",
+          "pi": "83C8",
+          "kw": 2,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 270,
+          "country": "SP",
+          "disabled": false
+        },
+        {
           "freq": "105.8",
           "name": "NRJ Sveland",
           "pi": "8220",
@@ -362,6 +351,28 @@
           "directional": true,
           "directionAngle": 270,
           "country": "",
+          "disabled": false
+        },
+        {
+          "freq": "106.2",
+          "name": "R.Fuego",
+          "pi": "82A4",
+          "kw": 2,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 270,
+          "country": "SP",
+          "disabled": false
+        },
+        {
+          "freq": "106.7",
+          "name": "Lachen & Liedjes",
+          "pi": "82F2",
+          "kw": 5,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 270,
+          "country": "SP",
           "disabled": false
         },
         {
@@ -1806,9 +1817,9 @@
       "point": null,
       "stations": [
         {
-          "freq": "93.3",
-          "name": "K-Mix Doetinlingen",
-          "pi": "86B8",
+          "freq": "68.6",
+          "name": "Blahaj FM",
+          "pi": "",
           "kw": 3.4,
           "pol": "v",
           "directional": false,
@@ -1817,58 +1828,14 @@
           "disabled": false
         },
         {
-          "freq": "97.6",
-          "name": "Top Radio [RUS]",
-          "pi": "7763",
+          "freq": "93.3",
+          "name": "K-Mix Doetinlingen",
+          "pi": "86B8",
           "kw": 3.4,
-          "pol": "V",
+          "pol": "v",
           "directional": false,
           "directionAngle": null,
           "country": "SP",
-          "disabled": false
-        }
-      ]
-    },
-    {
-      "id": 1752252500107,
-      "name": "Doetinlingen",
-      "latlng": [
-        11591.75,
-        4935.25
-      ],
-      "point": null,
-      "stations": [
-        {
-          "freq": "92.7",
-          "name": "R.Rekord",
-          "pi": "82C6",
-          "kw": 4,
-          "pol": "V",
-          "directional": false,
-          "directionAngle": null,
-          "country": "SP",
-          "disabled": false
-        },
-        {
-          "freq": 104.7,
-          "name": "Qmusic",
-          "pi": "83C8",
-          "kw": 1,
-          "pol": "V",
-          "directional": true,
-          "directionAngle": 273,
-          "country": "",
-          "disabled": false
-        },
-        {
-          "freq": 106.2,
-          "name": "R.Fuego",
-          "pi": "82A4",
-          "kw": 0.8,
-          "pol": "V",
-          "directional": true,
-          "directionAngle": 270,
-          "country": "",
           "disabled": false
         }
       ]
@@ -4487,28 +4454,6 @@
           "directional": true,
           "directionAngle": 274,
           "country": "",
-          "disabled": false
-        }
-      ]
-    },
-    {
-      "id": 1757556982293,
-      "name": "Doetinlingen",
-      "latlng": [
-        11612.25,
-        4907.75
-      ],
-      "point": null,
-      "stations": [
-        {
-          "freq": "68.6",
-          "name": "Blahaj FM",
-          "pi": "",
-          "kw": 2,
-          "pol": "V",
-          "directional": false,
-          "directionAngle": null,
-          "country": "SP",
           "disabled": false
         }
       ]
