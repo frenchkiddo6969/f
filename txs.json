@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-01-05T14:15:08.195Z"
+    "exportedAt": "2026-01-05T14:48:01.761Z"
   },
   "txList": [
     {
@@ -62,17 +62,6 @@
           "pi": "8204",
           "kw": 79,
           "pol": "H",
-          "directional": false,
-          "directionAngle": null,
-          "country": "",
-          "disabled": false
-        },
-        {
-          "freq": 107.1,
-          "name": "Nostalgie",
-          "pi": "8213",
-          "kw": 3,
-          "pol": "V",
           "directional": false,
           "directionAngle": null,
           "country": "",
@@ -7377,6 +7366,28 @@
           "pi": "8969",
           "kw": 1,
           "pol": "c",
+          "directional": false,
+          "directionAngle": null,
+          "country": "SP",
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "id": "tx_1767624429601",
+      "name": "Doetinlingen",
+      "latlng": [
+        11790,
+        4910
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "107.1",
+          "name": "Nostalgie",
+          "pi": "8213",
+          "kw": 3,
+          "pol": "h",
           "directional": false,
           "directionAngle": null,
           "country": "SP",
