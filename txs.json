@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-01-03T15:29:47.102Z"
+    "exportedAt": "2026-01-05T00:53:31.985Z"
   },
   "txList": [
     {
@@ -552,7 +552,7 @@
           "disabled": false
         },
         {
-          "freq": 97.1,
+          "freq": "97.2",
           "name": "Hit Radio SPO 3",
           "pi": "8203",
           "kw": 15,
@@ -7413,6 +7413,28 @@
           "directional": false,
           "directionAngle": null,
           "country": "TI",
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "id": "tx_1767574091187",
+      "name": "Jubegga-Bolsrade",
+      "latlng": [
+        10875.432549353027,
+        3963.524148048358
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "96.8",
+          "name": "R.Middenlanden",
+          "pi": "8969",
+          "kw": 1,
+          "pol": "c",
+          "directional": false,
+          "directionAngle": null,
+          "country": "SP",
           "disabled": false
         }
       ]
