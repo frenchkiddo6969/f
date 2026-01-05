@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-01-05T14:48:01.761Z"
+    "exportedAt": "2026-01-05T17:54:16.153Z"
   },
   "txList": [
     {
@@ -194,8 +194,8 @@
       "id": 1750808769111,
       "name": "Bolsvorden Hill",
       "latlng": [
-        11700.25,
-        5220.5
+        11700.641443999799,
+        5220.834023461524
       ],
       "point": null,
       "stations": [
@@ -7388,6 +7388,28 @@
           "pi": "8213",
           "kw": 3,
           "pol": "h",
+          "directional": false,
+          "directionAngle": null,
+          "country": "SP",
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "id": "tx_1767635611649",
+      "name": "Omigrad",
+      "latlng": [
+        10092,
+        2977
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "101.4",
+          "name": "Jazz Radio",
+          "pi": "82FC",
+          "kw": 0.1,
+          "pol": "v",
           "directional": false,
           "directionAngle": null,
           "country": "SP",
