@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-01-05T17:54:16.153Z"
+    "exportedAt": "2026-01-08T22:51:55.209Z"
   },
   "txList": [
     {
@@ -7413,6 +7413,61 @@
           "directional": false,
           "directionAngle": null,
           "country": "SP",
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "id": "tx_1767911831095",
+      "name": "Breheimen",
+      "latlng": [
+        7265.5,
+        2595.75
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "87.6",
+          "name": "RTS P1",
+          "pi": "E201",
+          "kw": 10,
+          "pol": "c",
+          "directional": false,
+          "directionAngle": null,
+          "country": "RV",
+          "disabled": false
+        },
+        {
+          "freq": "92.3",
+          "name": "RTS P2",
+          "pi": "E202",
+          "kw": 10,
+          "pol": "c",
+          "directional": false,
+          "directionAngle": null,
+          "country": "RV",
+          "disabled": false
+        },
+        {
+          "freq": "97.6",
+          "name": "RTS P3",
+          "pi": "E203",
+          "kw": 10,
+          "pol": "c",
+          "directional": false,
+          "directionAngle": null,
+          "country": "RV",
+          "disabled": false
+        },
+        {
+          "freq": "105.1",
+          "name": "RTS Nyheter",
+          "pi": "E204",
+          "kw": 5,
+          "pol": "c",
+          "directional": false,
+          "directionAngle": null,
+          "country": "RV",
           "disabled": false
         }
       ]
