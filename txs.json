@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-01-08T22:51:55.209Z"
+    "exportedAt": "2026-01-08T23:24:54.658Z"
   },
   "txList": [
     {
@@ -7467,6 +7467,28 @@
           "pol": "c",
           "directional": false,
           "directionAngle": null,
+          "country": "RV",
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "id": "tx_1767913534737",
+      "name": "Trysil",
+      "latlng": [
+        7233,
+        2642.5
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "102.1",
+          "name": "RTS MP3",
+          "pi": "E205",
+          "kw": 0.1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 175,
           "country": "RV",
           "disabled": false
         }
