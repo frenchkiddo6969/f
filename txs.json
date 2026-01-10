@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-01-08T23:24:54.658Z"
+    "exportedAt": "2026-01-10T17:47:18.885Z"
   },
   "txList": [
     {
@@ -7489,6 +7489,61 @@
           "pol": "v",
           "directional": true,
           "directionAngle": 175,
+          "country": "RV",
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "id": "tx_1768066926989",
+      "name": "Kopersos",
+      "latlng": [
+        7583.5,
+        1479.5
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "90.0",
+          "name": "RTS P1",
+          "pi": "E201",
+          "kw": 5,
+          "pol": "c",
+          "directional": false,
+          "directionAngle": null,
+          "country": "RV",
+          "disabled": false
+        },
+        {
+          "freq": "93.7",
+          "name": "RTS P2",
+          "pi": "E202",
+          "kw": 5,
+          "pol": "c",
+          "directional": false,
+          "directionAngle": null,
+          "country": "RV",
+          "disabled": false
+        },
+        {
+          "freq": "96.6",
+          "name": "RTS P3",
+          "pi": "E203",
+          "kw": 5,
+          "pol": "c",
+          "directional": false,
+          "directionAngle": null,
+          "country": "RV",
+          "disabled": false
+        },
+        {
+          "freq": "105.3",
+          "name": "RTS Nyheter",
+          "pi": "E204",
+          "kw": 5,
+          "pol": "c",
+          "directional": false,
+          "directionAngle": null,
           "country": "RV",
           "disabled": false
         }
