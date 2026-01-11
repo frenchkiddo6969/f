@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-01-10T22:05:45.228Z"
+    "exportedAt": "2026-01-11T19:14:12.215Z"
   },
   "txList": [
     {
@@ -7557,6 +7557,28 @@
           "directionAngle": null,
           "country": "RV",
           "disabled": false
+        }
+      ]
+    },
+    {
+      "id": "tx_1768158823245",
+      "name": "Doetinlingen",
+      "latlng": [
+        11592.75,
+        4936.25
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "96.7",
+          "name": "Note FM",
+          "pi": "88B3",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 283,
+          "country": "SP",
+          "disabled": true
         }
       ]
     }
