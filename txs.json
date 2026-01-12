@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-01-12T00:55:45.593Z"
+    "exportedAt": "2026-01-12T14:14:41.860Z"
   },
   "txList": [
     {
@@ -8102,6 +8102,41 @@
           "directionAngle": 283,
           "country": "SP",
           "disabled": true,
+          "outlet": ""
+        }
+      ]
+    },
+    {
+      "id": "tx_1768224488993",
+      "name": "Drammen",
+      "latlng": [
+        7589.5,
+        2529.25
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "102.4",
+          "name": "RTS MP3",
+          "pi": "E205",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 310,
+          "country": "RV",
+          "disabled": false,
+          "outlet": ""
+        },
+        {
+          "freq": "106.7",
+          "name": "Rix FM",
+          "pi": "E220",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 310,
+          "country": "RV",
+          "disabled": false,
           "outlet": ""
         }
       ]
