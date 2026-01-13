@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-01-12T14:14:41.860Z"
+    "exportedAt": "2026-01-13T00:39:59.532Z"
   },
   "txList": [
     {
@@ -4880,229 +4880,6 @@
       ]
     },
     {
-      "id": 1759456139695,
-      "name": "Zubova Polyana",
-      "latlng": [
-        8155,
-        1023.5
-      ],
-      "point": null,
-      "stations": [
-        {
-          "freq": 88.8,
-          "name": "PRT R.1",
-          "pi": "A201",
-          "kw": 8.7,
-          "pol": "H",
-          "directional": true,
-          "directionAngle": 147,
-          "country": "",
-          "disabled": false,
-          "outlet": ""
-        },
-        {
-          "freq": 92.3,
-          "name": "PRT R.2",
-          "pi": "A202",
-          "kw": 8.7,
-          "pol": "H",
-          "directional": true,
-          "directionAngle": 147,
-          "country": "",
-          "disabled": false,
-          "outlet": ""
-        },
-        {
-          "freq": 102.7,
-          "name": "PRT R.3",
-          "pi": "A203",
-          "kw": 5,
-          "pol": "H",
-          "directional": true,
-          "directionAngle": 147,
-          "country": "",
-          "disabled": false,
-          "outlet": ""
-        }
-      ]
-    },
-    {
-      "id": 1759456159982,
-      "name": "Petropavlovsk",
-      "latlng": [
-        7760.25,
-        -260
-      ],
-      "point": null,
-      "stations": [
-        {
-          "freq": 88.3,
-          "name": "PRT R.1",
-          "pi": "A201",
-          "kw": 5,
-          "pol": "H",
-          "directional": false,
-          "directionAngle": null,
-          "country": "",
-          "disabled": false,
-          "outlet": ""
-        },
-        {
-          "freq": 90.4,
-          "name": "PRT R.2",
-          "pi": "A202",
-          "kw": 5,
-          "pol": "H",
-          "directional": false,
-          "directionAngle": null,
-          "country": "",
-          "disabled": false,
-          "outlet": ""
-        },
-        {
-          "freq": 103.7,
-          "name": "PRT R.3",
-          "pi": "A203",
-          "kw": 5,
-          "pol": "H",
-          "directional": false,
-          "directionAngle": null,
-          "country": "",
-          "disabled": false,
-          "outlet": ""
-        }
-      ]
-    },
-    {
-      "id": 1759508224458,
-      "name": "Petropavlovsk",
-      "latlng": [
-        7684.5,
-        -276.5
-      ],
-      "point": null,
-      "stations": [
-        {
-          "freq": 88.7,
-          "name": "Yumor FM",
-          "pi": "A275",
-          "kw": 4,
-          "pol": "V",
-          "directional": true,
-          "directionAngle": 183,
-          "country": "",
-          "disabled": false,
-          "outlet": ""
-        },
-        {
-          "freq": 100.3,
-          "name": "NRJ",
-          "pi": "A220",
-          "kw": 4,
-          "pol": "V",
-          "directional": true,
-          "directionAngle": 183,
-          "country": "",
-          "disabled": false,
-          "outlet": ""
-        },
-        {
-          "freq": 103.4,
-          "name": "DFM",
-          "pi": "A2DF",
-          "kw": 4,
-          "pol": "V",
-          "directional": true,
-          "directionAngle": 183,
-          "country": "",
-          "disabled": false,
-          "outlet": ""
-        },
-        {
-          "freq": 106.2,
-          "name": "Europa Plus",
-          "pi": "A276",
-          "kw": 4,
-          "pol": "V",
-          "directional": true,
-          "directionAngle": 183,
-          "country": "",
-          "disabled": false,
-          "outlet": ""
-        }
-      ]
-    },
-    {
-      "id": 1759509685926,
-      "name": "Kineshma",
-      "latlng": [
-        6808,
-        158.5
-      ],
-      "point": null,
-      "stations": [
-        {
-          "freq": 90.8,
-          "name": "PRT R.1",
-          "pi": "A201",
-          "kw": 27.4,
-          "pol": "H",
-          "directional": false,
-          "directionAngle": null,
-          "country": "",
-          "disabled": false,
-          "outlet": ""
-        },
-        {
-          "freq": 97.5,
-          "name": "PRT R.2",
-          "pi": "A202",
-          "kw": 27.4,
-          "pol": "H",
-          "directional": false,
-          "directionAngle": null,
-          "country": "",
-          "disabled": false,
-          "outlet": ""
-        },
-        {
-          "freq": 107.9,
-          "name": "PRT R.3",
-          "pi": "A203",
-          "kw": 27.4,
-          "pol": "H",
-          "directional": false,
-          "directionAngle": null,
-          "country": "",
-          "disabled": false,
-          "outlet": ""
-        }
-      ]
-    },
-    {
-      "id": 1759519820472,
-      "name": "Kineshma",
-      "latlng": [
-        6824,
-        253
-      ],
-      "point": null,
-      "stations": [
-        {
-          "freq": 89.2,
-          "name": "Europa Plus",
-          "pi": "A276",
-          "kw": 1,
-          "pol": "V",
-          "directional": true,
-          "directionAngle": 84,
-          "country": "",
-          "disabled": false,
-          "outlet": ""
-        }
-      ]
-    },
-    {
       "id": 1761598985456,
       "name": "Thongsville",
       "latlng": [
@@ -8116,6 +7893,18 @@
       "point": null,
       "stations": [
         {
+          "freq": "88.1",
+          "name": "Nostalgi FM",
+          "pi": "E213",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 310,
+          "country": "RV",
+          "disabled": false,
+          "outlet": ""
+        },
+        {
           "freq": "102.4",
           "name": "RTS MP3",
           "pi": "E205",
@@ -8136,6 +7925,124 @@
           "directional": true,
           "directionAngle": 310,
           "country": "RV",
+          "disabled": false,
+          "outlet": ""
+        }
+      ]
+    },
+    {
+      "id": "tx_1768263658398",
+      "name": "Petropavlovsk",
+      "latlng": [
+        9553.75,
+        2020.5
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "90.0",
+          "name": "YR 1",
+          "pi": "9201",
+          "kw": 6.3,
+          "pol": "c",
+          "directional": false,
+          "directionAngle": null,
+          "country": "YS",
+          "disabled": false,
+          "outlet": ""
+        },
+        {
+          "freq": "93.0",
+          "name": "YR 2",
+          "pi": "9202",
+          "kw": 6.3,
+          "pol": "c",
+          "directional": false,
+          "directionAngle": null,
+          "country": "YS",
+          "disabled": false,
+          "outlet": ""
+        },
+        {
+          "freq": "99.3",
+          "name": "YR 3",
+          "pi": "9203",
+          "kw": 6.3,
+          "pol": "c",
+          "directional": false,
+          "directionAngle": null,
+          "country": "YS",
+          "disabled": false,
+          "outlet": ""
+        }
+      ]
+    },
+    {
+      "id": "tx_1768264337059",
+      "name": "Petropavlovsk",
+      "latlng": [
+        9627,
+        2217
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "87.9",
+          "name": "Like FM",
+          "pi": "92C6",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 176,
+          "country": "YS",
+          "disabled": false,
+          "outlet": ""
+        },
+        {
+          "freq": "88.3",
+          "name": "Retro FM",
+          "pi": "922C",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 176,
+          "country": "YS",
+          "disabled": false,
+          "outlet": ""
+        },
+        {
+          "freq": "88.7",
+          "name": "Yumor FM",
+          "pi": "9232",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 176,
+          "country": "YS",
+          "disabled": false,
+          "outlet": ""
+        },
+        {
+          "freq": "105.8",
+          "name": "DFM",
+          "pi": "92DF",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 176,
+          "country": "YS",
+          "disabled": false,
+          "outlet": ""
+        },
+        {
+          "freq": "106.2",
+          "name": "Europa Plus",
+          "pi": "9229",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 176,
+          "country": "YS",
           "disabled": false,
           "outlet": ""
         }
