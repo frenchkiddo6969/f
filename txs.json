@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-01-14T19:00:11.957Z"
+    "exportedAt": "2026-01-14T19:20:54.871Z"
   },
   "txList": [
     {
@@ -7893,6 +7893,18 @@
       ],
       "point": null,
       "stations": [
+        {
+          "freq": "96.3",
+          "name": "Alt FM",
+          "pi": "86B1",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 283,
+          "country": "SP",
+          "disabled": false,
+          "outlet": "92.5 KXKA"
+        },
         {
           "freq": "96.7",
           "name": "Note FM",
