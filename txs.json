@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-01-14T12:45:18.033Z"
+    "exportedAt": "2026-01-14T19:00:11.957Z"
   },
   "txList": [
     {
@@ -5722,6 +5722,18 @@
           "freq": "95.7",
           "name": "K-Mix Wageselt",
           "pi": "87B2",
+          "kw": 0.2,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "SP",
+          "disabled": false,
+          "outlet": ""
+        },
+        {
+          "freq": "96.3",
+          "name": "Lachen & Liedjes",
+          "pi": "82F2",
           "kw": 0.2,
           "pol": "v",
           "directional": false,
