@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-01-14T19:31:51.244Z"
+    "exportedAt": "2026-01-14T19:54:10.976Z"
   },
   "txList": [
     {
@@ -8020,6 +8020,124 @@
           "directionAngle": 194,
           "country": "SP",
           "disabled": true,
+          "outlet": ""
+        }
+      ]
+    },
+    {
+      "id": "tx_1768419760470",
+      "name": "Zlín",
+      "latlng": [
+        9622.5,
+        2215.5
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "89.0",
+          "name": "BRT První Program",
+          "pi": "2201",
+          "kw": 6,
+          "pol": "h",
+          "directional": false,
+          "directionAngle": null,
+          "country": "RB",
+          "disabled": false,
+          "outlet": ""
+        },
+        {
+          "freq": "90.3",
+          "name": "BRT Klasické Rádio",
+          "pi": "2202",
+          "kw": 6,
+          "pol": "h",
+          "directional": false,
+          "directionAngle": null,
+          "country": "RB",
+          "disabled": false,
+          "outlet": ""
+        },
+        {
+          "freq": "99.2",
+          "name": "BRT Kulturní Rádio",
+          "pi": "2203",
+          "kw": 6,
+          "pol": "h",
+          "directional": false,
+          "directionAngle": null,
+          "country": "RB",
+          "disabled": false,
+          "outlet": ""
+        },
+        {
+          "freq": "105.1",
+          "name": "BRT Radiožurnál",
+          "pi": "2204",
+          "kw": 1,
+          "pol": "h",
+          "directional": false,
+          "directionAngle": null,
+          "country": "RB",
+          "disabled": false,
+          "outlet": ""
+        }
+      ]
+    },
+    {
+      "id": "tx_1768420299242",
+      "name": "Střítež",
+      "latlng": [
+        9402.25,
+        1345.5
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "88.8",
+          "name": "BRT První Program",
+          "pi": "2201",
+          "kw": 5,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "RB",
+          "disabled": false,
+          "outlet": ""
+        },
+        {
+          "freq": "94.6",
+          "name": "BRT Klasické Rádio",
+          "pi": "2202",
+          "kw": 5,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "RB",
+          "disabled": false,
+          "outlet": ""
+        },
+        {
+          "freq": "99.0",
+          "name": "BRT Kulturní Rádio",
+          "pi": "2203",
+          "kw": 5,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "RB",
+          "disabled": false,
+          "outlet": ""
+        },
+        {
+          "freq": "105.1",
+          "name": "BRT Radiožurnál",
+          "pi": "2204",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "RB",
+          "disabled": false,
           "outlet": ""
         }
       ]
