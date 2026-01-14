@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-01-13T13:56:00.004Z"
+    "exportedAt": "2026-01-14T02:16:39.549Z"
   },
   "txList": [
     {
@@ -7531,6 +7531,18 @@
       "point": null,
       "stations": [
         {
+          "freq": "98.2",
+          "name": "DFM",
+          "pi": "82DF",
+          "kw": 0.1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "SP",
+          "disabled": false,
+          "outlet": ""
+        },
+        {
           "freq": "100.4",
           "name": "Mix FM",
           "pi": "8932",
@@ -7878,7 +7890,7 @@
           "directional": true,
           "directionAngle": 283,
           "country": "SP",
-          "disabled": true,
+          "disabled": false,
           "outlet": ""
         }
       ]
@@ -8044,6 +8056,52 @@
           "directionAngle": 176,
           "country": "YS",
           "disabled": false,
+          "outlet": ""
+        }
+      ]
+    },
+    {
+      "id": "tx_1768356504372",
+      "name": "Breda",
+      "latlng": [
+        11135,
+        4884.5
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "101.0",
+          "name": "DFM",
+          "pi": "82DF",
+          "kw": 0.1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "SP",
+          "disabled": true,
+          "outlet": ""
+        }
+      ]
+    },
+    {
+      "id": "tx_1768356874397",
+      "name": "Wingraaf",
+      "latlng": [
+        11319.75,
+        3599.25
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "89.2",
+          "name": "DFM",
+          "pi": "82DF",
+          "kw": 0.1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 194,
+          "country": "SP",
+          "disabled": true,
           "outlet": ""
         }
       ]
