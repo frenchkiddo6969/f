@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-01-14T19:20:54.871Z"
+    "exportedAt": "2026-01-14T19:31:51.244Z"
   },
   "txList": [
     {
@@ -1942,6 +1942,18 @@
       "point": null,
       "stations": [
         {
+          "freq": "66.26",
+          "name": "K-Hits",
+          "pi": "",
+          "kw": 0.175,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "SP",
+          "disabled": false,
+          "outlet": ""
+        },
+        {
           "freq": "68.6",
           "name": "Blahaj FM",
           "pi": "",
@@ -1955,7 +1967,7 @@
         },
         {
           "freq": "93.3",
-          "name": "K-Mix Doetinlingen",
+          "name": "K-Mix",
           "pi": "86B8",
           "kw": 3.4,
           "pol": "v",
@@ -1963,7 +1975,7 @@
           "directionAngle": null,
           "country": "SP",
           "disabled": false,
-          "outlet": ""
+          "outlet": "Doetinlingen"
         }
       ]
     },
@@ -5720,7 +5732,7 @@
         },
         {
           "freq": "95.7",
-          "name": "K-Mix Wageselt",
+          "name": "K-Mix",
           "pi": "87B2",
           "kw": 0.2,
           "pol": "v",
@@ -5728,7 +5740,7 @@
           "directionAngle": null,
           "country": "SP",
           "disabled": false,
-          "outlet": ""
+          "outlet": "Wageselt"
         },
         {
           "freq": "96.3",
