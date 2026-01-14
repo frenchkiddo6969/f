@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-01-14T20:19:06.109Z"
+    "exportedAt": "2026-01-14T20:42:36.619Z"
   },
   "txList": [
     {
@@ -8028,8 +8028,8 @@
       "id": "tx_1768419760470",
       "name": "Zlín",
       "latlng": [
-        9622.5,
-        2215.5
+        9619.480651261794,
+        2213.244225113894
       ],
       "point": null,
       "stations": [
@@ -8198,6 +8198,194 @@
           "country": "RB",
           "disabled": false,
           "outlet": ""
+        }
+      ]
+    },
+    {
+      "id": "tx_1768422092695",
+      "name": "Kožlí",
+      "latlng": [
+        8592.25,
+        1286.5
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "90.5",
+          "name": "BRT První Program",
+          "pi": "2201",
+          "kw": 50,
+          "pol": "h",
+          "directional": false,
+          "directionAngle": null,
+          "country": "RB",
+          "disabled": false,
+          "outlet": ""
+        },
+        {
+          "freq": "92.9",
+          "name": "BRT Klasické Rádio",
+          "pi": "2202",
+          "kw": 50,
+          "pol": "h",
+          "directional": false,
+          "directionAngle": null,
+          "country": "RB",
+          "disabled": false,
+          "outlet": ""
+        },
+        {
+          "freq": "93.4",
+          "name": "BRT Kulturní Rádio",
+          "pi": "2203",
+          "kw": 50,
+          "pol": "h",
+          "directional": false,
+          "directionAngle": null,
+          "country": "RB",
+          "disabled": false,
+          "outlet": ""
+        },
+        {
+          "freq": "105.3",
+          "name": "BRT Radiožurnál",
+          "pi": "2204",
+          "kw": 5,
+          "pol": "h",
+          "directional": false,
+          "directionAngle": null,
+          "country": "RB",
+          "disabled": false,
+          "outlet": ""
+        }
+      ]
+    },
+    {
+      "id": "tx_1768422539494",
+      "name": "Zlín",
+      "latlng": [
+        9552.5,
+        2020.75
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "89.4",
+          "name": "Kiss",
+          "pi": "2320",
+          "kw": 2,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 83,
+          "country": "RB",
+          "disabled": false,
+          "outlet": "Zlín"
+        },
+        {
+          "freq": "89.9",
+          "name": "Dance FM",
+          "pi": "23C2",
+          "kw": 2,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 83,
+          "country": "RB",
+          "disabled": false,
+          "outlet": ""
+        },
+        {
+          "freq": "97.2",
+          "name": "Fajn Radio",
+          "pi": "2335",
+          "kw": 5,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 83,
+          "country": "RB",
+          "disabled": false,
+          "outlet": "Zlín"
+        },
+        {
+          "freq": "100.1",
+          "name": "Country Radio",
+          "pi": "2337",
+          "kw": 2,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 83,
+          "country": "RB",
+          "disabled": false,
+          "outlet": "Zlín"
+        },
+        {
+          "freq": "102.7",
+          "name": "SPIN",
+          "pi": "233B",
+          "kw": 5,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 83,
+          "country": "RB",
+          "disabled": false,
+          "outlet": "Zlín"
+        },
+        {
+          "freq": "103.2",
+          "name": "R.Roxy",
+          "pi": "2441",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 83,
+          "country": "RB",
+          "disabled": false,
+          "outlet": ""
+        }
+      ]
+    },
+    {
+      "id": "tx_1768423054654",
+      "name": "Střítež",
+      "latlng": [
+        9432,
+        1247
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "103.0",
+          "name": "SPIN",
+          "pi": "233B",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 4,
+          "country": "RB",
+          "disabled": false,
+          "outlet": "Střítež"
+        }
+      ]
+    },
+    {
+      "id": "tx_1768423282505",
+      "name": "Křižanov",
+      "latlng": [
+        9442,
+        1706.75
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "102.2",
+          "name": "SPIN",
+          "pi": "233B",
+          "kw": 0.1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "RB",
+          "disabled": false,
+          "outlet": "Střítež"
         }
       ]
     }
