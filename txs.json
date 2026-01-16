@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-01-14T20:42:36.619Z"
+    "exportedAt": "2026-01-16T13:44:50.542Z"
   },
   "txList": [
     {
@@ -7379,6 +7379,18 @@
           "country": "SP",
           "disabled": false,
           "outlet": ""
+        },
+        {
+          "freq": "87.6",
+          "name": "Volt Radio",
+          "pi": "87ED",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "SP",
+          "disabled": true,
+          "outlet": "Doetinlingen"
         },
         {
           "freq": "94.6",
