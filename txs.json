@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-01-16T13:44:50.542Z"
+    "exportedAt": "2026-01-19T23:21:52.256Z"
   },
   "txList": [
     {
@@ -4924,18 +4924,6 @@
       "point": null,
       "stations": [
         {
-          "freq": "93.5",
-          "name": "OIRL-FM",
-          "pi": "6B8D",
-          "kw": 4,
-          "pol": "m",
-          "directional": false,
-          "directionAngle": null,
-          "country": "OR",
-          "disabled": false,
-          "outlet": ""
-        },
-        {
           "freq": 94.1,
           "name": "OXOJ-FM",
           "pi": "4E31",
@@ -5495,6 +5483,18 @@
       ],
       "point": null,
       "stations": [
+        {
+          "freq": "93.3",
+          "name": "OHTN-FM",
+          "pi": "2477",
+          "kw": 4,
+          "pol": "c",
+          "directional": false,
+          "directionAngle": null,
+          "country": "OR",
+          "disabled": true,
+          "outlet": ""
+        },
         {
           "freq": "94.5",
           "name": "OPLY-FM",
