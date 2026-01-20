@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-01-20T17:25:02.505Z"
+    "exportedAt": "2026-01-20T21:54:42.725Z"
   },
   "txList": [
     {
@@ -3398,8 +3398,8 @@
       "id": 1754763849351,
       "name": "Groendert",
       "latlng": [
-        10849.25,
-        2582.5
+        10849.139343745197,
+        2582.3539648932715
       ],
       "point": null,
       "stations": [
@@ -6840,6 +6840,18 @@
       "point": null,
       "stations": [
         {
+          "freq": "102.6",
+          "name": "Vibration",
+          "pi": "8560",
+          "kw": 2,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 275,
+          "country": "SP",
+          "disabled": true,
+          "outlet": ""
+        },
+        {
           "freq": "105.7",
           "name": "NRJ Sveland",
           "pi": "8220",
@@ -8398,6 +8410,29 @@
           "country": "RB",
           "disabled": false,
           "outlet": "Střítež"
+        }
+      ]
+    },
+    {
+      "id": "tx_1768945932856",
+      "name": "Aareik",
+      "latlng": [
+        10738.75,
+        3285.75
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "88.1",
+          "name": "Vibration",
+          "pi": "8560",
+          "kw": 0.1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "SP",
+          "disabled": true,
+          "outlet": ""
         }
       ]
     }
