@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-01-20T21:54:42.725Z"
+    "exportedAt": "2026-01-20T22:05:32.634Z"
   },
   "txList": [
     {
@@ -8424,6 +8424,52 @@
       "stations": [
         {
           "freq": "88.1",
+          "name": "Vibration",
+          "pi": "8560",
+          "kw": 0.1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "SP",
+          "disabled": true,
+          "outlet": ""
+        }
+      ]
+    },
+    {
+      "id": "tx_1768946471807",
+      "name": "Heerde",
+      "latlng": [
+        10850,
+        2851.75
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "106.6",
+          "name": "Vibration",
+          "pi": "8560",
+          "kw": 0.4,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 4,
+          "country": "SP",
+          "disabled": true,
+          "outlet": ""
+        }
+      ]
+    },
+    {
+      "id": "tx_1768946635358",
+      "name": "Leopoldsburg",
+      "latlng": [
+        10707.5,
+        3095.5
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "92.4",
           "name": "Vibration",
           "pi": "8560",
           "kw": 0.1,
