@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-01-20T16:25:19.740Z"
+    "exportedAt": "2026-01-20T17:25:02.505Z"
   },
   "txList": [
     {
@@ -5492,7 +5492,7 @@
           "directional": false,
           "directionAngle": null,
           "country": "OR",
-          "disabled": true,
+          "disabled": false,
           "outlet": ""
         },
         {
