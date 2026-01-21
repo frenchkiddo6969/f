@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-01-21T02:03:03.940Z"
+    "exportedAt": "2026-01-21T02:07:07.923Z"
   },
   "txList": [
     {
@@ -8507,7 +8507,7 @@
           "freq": "162.450",
           "name": "OHZ83",
           "pi": "",
-          "kw": 0.3,
+          "kw": 0.4,
           "pol": "",
           "directional": false,
           "directionAngle": null,
@@ -8529,6 +8529,29 @@
         {
           "freq": "162.525",
           "name": "OXP23",
+          "pi": "",
+          "kw": 0.5,
+          "pol": "",
+          "directional": false,
+          "directionAngle": null,
+          "country": "OR",
+          "disabled": false,
+          "outlet": ""
+        }
+      ]
+    },
+    {
+      "id": "tx_1768961074169",
+      "name": "Wichita",
+      "latlng": [
+        7301.25,
+        9993.25
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "162.475",
+          "name": "OEC59",
           "pi": "",
           "kw": 0.5,
           "pol": "",
