@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-01-21T01:37:19.249Z"
+    "exportedAt": "2026-01-21T02:03:03.940Z"
   },
   "txList": [
     {
@@ -8490,6 +8490,52 @@
           "directionAngle": null,
           "country": "SP",
           "disabled": true,
+          "outlet": ""
+        }
+      ]
+    },
+    {
+      "id": "tx_1768960772132",
+      "name": "Facesits",
+      "latlng": [
+        8105.5,
+        10554.75
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "162.450",
+          "name": "OHZ83",
+          "pi": "",
+          "kw": 0.3,
+          "pol": "",
+          "directional": false,
+          "directionAngle": null,
+          "country": "OR",
+          "disabled": false,
+          "outlet": ""
+        }
+      ]
+    },
+    {
+      "id": "tx_1768960936301",
+      "name": "Saint Miguel",
+      "latlng": [
+        7594.75,
+        11148.5
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "162.525",
+          "name": "OXP23",
+          "pi": "",
+          "kw": 0.5,
+          "pol": "",
+          "directional": false,
+          "directionAngle": null,
+          "country": "OR",
+          "disabled": false,
           "outlet": ""
         }
       ]
