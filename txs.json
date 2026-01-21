@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-01-21T02:07:07.923Z"
+    "exportedAt": "2026-01-21T18:14:05.852Z"
   },
   "txList": [
     {
@@ -5931,6 +5931,18 @@
       "point": null,
       "stations": [
         {
+          "freq": "102.8",
+          "name": "Vibration",
+          "pi": "8560",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "SP",
+          "disabled": false,
+          "outlet": ""
+        },
+        {
           "freq": "104.4",
           "name": "iRadio",
           "pi": "83E2",
@@ -6848,7 +6860,7 @@
           "directional": true,
           "directionAngle": 275,
           "country": "SP",
-          "disabled": true,
+          "disabled": false,
           "outlet": ""
         },
         {
@@ -8443,7 +8455,7 @@
           "directional": false,
           "directionAngle": null,
           "country": "SP",
-          "disabled": true,
+          "disabled": false,
           "outlet": ""
         }
       ]
@@ -8481,7 +8493,7 @@
       "point": null,
       "stations": [
         {
-          "freq": "92.4",
+          "freq": "92.7",
           "name": "Vibration",
           "pi": "8560",
           "kw": 0.1,
@@ -8489,7 +8501,7 @@
           "directional": false,
           "directionAngle": null,
           "country": "SP",
-          "disabled": true,
+          "disabled": false,
           "outlet": ""
         }
       ]
