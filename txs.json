@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-01-20T22:05:32.634Z"
+    "exportedAt": "2026-01-21T01:37:19.249Z"
   },
   "txList": [
     {
@@ -8020,7 +8020,19 @@
           "directional": false,
           "directionAngle": null,
           "country": "SP",
-          "disabled": true,
+          "disabled": false,
+          "outlet": ""
+        },
+        {
+          "freq": "103.4",
+          "name": "Radio FG.",
+          "pi": "822C",
+          "kw": 0.1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "SP",
+          "disabled": false,
           "outlet": ""
         }
       ]
