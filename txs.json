@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-01-21T18:28:12.195Z"
+    "exportedAt": "2026-01-21T18:52:36.342Z"
   },
   "txList": [
     {
@@ -7482,7 +7482,7 @@
           "kw": 0.2,
           "pol": "v",
           "directional": true,
-          "directionAngle": null,
+          "directionAngle": 0,
           "country": "SP",
           "disabled": false,
           "outlet": ""
@@ -8616,6 +8616,29 @@
           "pol": "v",
           "directional": false,
           "directionAngle": null,
+          "country": "SP",
+          "disabled": false,
+          "outlet": ""
+        }
+      ]
+    },
+    {
+      "id": "tx_1769021387383",
+      "name": "Peer",
+      "latlng": [
+        10942.25,
+        3109.25
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "98.7",
+          "name": "Vibration",
+          "pi": "8560",
+          "kw": 0.2,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 160,
           "country": "SP",
           "disabled": false,
           "outlet": ""
