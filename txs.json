@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-01-21T18:19:47.230Z"
+    "exportedAt": "2026-01-21T18:28:12.195Z"
   },
   "txList": [
     {
@@ -7476,6 +7476,18 @@
           "outlet": ""
         },
         {
+          "freq": "95.1",
+          "name": "Vibration",
+          "pi": "8560",
+          "kw": 0.2,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": null,
+          "country": "SP",
+          "disabled": false,
+          "outlet": ""
+        },
+        {
           "freq": "106.8",
           "name": "Lachen & Liedjes",
           "pi": "82F2",
@@ -8069,6 +8081,18 @@
           "country": "SP",
           "disabled": true,
           "outlet": ""
+        },
+        {
+          "freq": "104.5",
+          "name": "Vibration",
+          "pi": "8560",
+          "kw": 0.1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 194,
+          "country": "SP",
+          "disabled": true,
+          "outlet": ""
         }
       ]
     },
@@ -8478,7 +8502,7 @@
           "directional": true,
           "directionAngle": 4,
           "country": "SP",
-          "disabled": false,
+          "disabled": true,
           "outlet": ""
         }
       ]
@@ -8570,6 +8594,29 @@
           "directional": false,
           "directionAngle": null,
           "country": "OR",
+          "disabled": false,
+          "outlet": ""
+        }
+      ]
+    },
+    {
+      "id": "tx_1769019840620",
+      "name": "Bellem",
+      "latlng": [
+        10725.5,
+        2734
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "102.8",
+          "name": "Vibration",
+          "pi": "8560",
+          "kw": 0.2,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "SP",
           "disabled": false,
           "outlet": ""
         }
