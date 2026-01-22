@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-01-22T22:12:52.689Z"
+    "exportedAt": "2026-01-22T23:07:37.751Z"
   },
   "txList": [
     {
@@ -8659,6 +8659,65 @@
           "name": "Vibration",
           "pi": "8560",
           "kw": 0.2,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "SP",
+          "disabled": false,
+          "outlet": ""
+        }
+      ]
+    },
+    {
+      "id": "tx_1769122974919",
+      "name": "Groendert",
+      "latlng": [
+        10903.75,
+        2398.5
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "88.8",
+          "name": "Mega FM",
+          "pi": "89A4",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "SP",
+          "disabled": false,
+          "outlet": ""
+        },
+        {
+          "freq": "95.2",
+          "name": "Europa 2",
+          "pi": "82E2",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "SP",
+          "disabled": false,
+          "outlet": ""
+        },
+        {
+          "freq": "103.5",
+          "name": "Fun Radio",
+          "pi": "8217",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "SP",
+          "disabled": false,
+          "outlet": ""
+        },
+        {
+          "freq": "107.1",
+          "name": "Europa 1",
+          "pi": "82E1",
+          "kw": 0.1,
           "pol": "v",
           "directional": false,
           "directionAngle": null,
