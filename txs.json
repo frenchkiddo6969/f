@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-01-22T21:22:05.023Z"
+    "exportedAt": "2026-01-22T22:12:52.689Z"
   },
   "txList": [
     {
@@ -239,8 +239,8 @@
           "outlet": ""
         },
         {
-          "freq": 92.3,
-          "name": "Slam!",
+          "freq": "92.3",
+          "name": "R.Alpha",
           "pi": "8731",
           "kw": 3,
           "pol": "V",
@@ -348,8 +348,8 @@
         },
         {
           "freq": "104.7",
-          "name": "Qmusic",
-          "pi": "83C8",
+          "name": "Shine FM",
+          "pi": "8767",
           "kw": 2,
           "pol": "v",
           "directional": true,
