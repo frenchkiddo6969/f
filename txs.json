@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-01-21T18:52:36.342Z"
+    "exportedAt": "2026-01-22T21:00:38.115Z"
   },
   "txList": [
     {
@@ -6846,8 +6846,8 @@
       "id": "tx_1765233565831",
       "name": "Groendert",
       "latlng": [
-        10875,
-        2513
+        10874.75,
+        2512.75
       ],
       "point": null,
       "stations": [
@@ -8465,8 +8465,8 @@
       "id": "tx_1768945932856",
       "name": "Aareik",
       "latlng": [
-        10738.75,
-        3285.75
+        10736.5,
+        3282.75
       ],
       "point": null,
       "stations": [
@@ -8488,8 +8488,8 @@
       "id": "tx_1768946471807",
       "name": "Heerde",
       "latlng": [
-        10850,
-        2851.75
+        10852.25,
+        2846
       ],
       "point": null,
       "stations": [
@@ -8502,7 +8502,7 @@
           "directional": true,
           "directionAngle": 4,
           "country": "SP",
-          "disabled": true,
+          "disabled": false,
           "outlet": ""
         }
       ]
@@ -8639,6 +8639,29 @@
           "pol": "v",
           "directional": true,
           "directionAngle": 160,
+          "country": "SP",
+          "disabled": false,
+          "outlet": ""
+        }
+      ]
+    },
+    {
+      "id": "tx_1769115328775",
+      "name": "Mastenbroek",
+      "latlng": [
+        10786.75,
+        3551.75
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "106.9",
+          "name": "Vibration",
+          "pi": "8560",
+          "kw": 0.1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
           "country": "SP",
           "disabled": false,
           "outlet": ""
