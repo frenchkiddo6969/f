@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-01-22T21:00:38.115Z"
+    "exportedAt": "2026-01-22T21:22:05.023Z"
   },
   "txList": [
     {
@@ -8658,7 +8658,7 @@
           "freq": "106.9",
           "name": "Vibration",
           "pi": "8560",
-          "kw": 0.1,
+          "kw": 0.2,
           "pol": "v",
           "directional": false,
           "directionAngle": null,
