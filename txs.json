@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-01-23T17:07:45.569Z"
+    "exportedAt": "2026-01-23T17:23:49.711Z"
   },
   "txList": [
     {
@@ -8795,6 +8795,29 @@
           "country": "SP",
           "disabled": false,
           "outlet": "Zuidwest"
+        }
+      ]
+    },
+    {
+      "id": "tx_1769188729664",
+      "name": "Zoutburg",
+      "latlng": [
+        11016,
+        3791.5
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "106.6",
+          "name": "Vibration",
+          "pi": "8560",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 3,
+          "country": "SP",
+          "disabled": false,
+          "outlet": ""
         }
       ]
     }
