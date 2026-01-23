@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-01-23T17:05:51.298Z"
+    "exportedAt": "2026-01-23T17:07:45.569Z"
   },
   "txList": [
     {
@@ -5594,10 +5594,10 @@
           "freq": "101.3",
           "name": "Vibration",
           "pi": "8560",
-          "kw": 0.1,
+          "kw": 0.2,
           "pol": "v",
-          "directional": false,
-          "directionAngle": null,
+          "directional": true,
+          "directionAngle": 271,
           "country": "SP",
           "disabled": false,
           "outlet": ""
