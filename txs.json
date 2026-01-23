@@ -14,7 +14,7 @@
       "stations": [
         {
           "freq": "88.7",
-          "name": "SPO Radio 1",
+          "name": "SPO P1",
           "pi": "8201",
           "kw": 97,
           "pol": "H",
@@ -26,7 +26,7 @@
         },
         {
           "freq": 90,
-          "name": "SPO Radio 2",
+          "name": "SPO P2",
           "pi": "8202",
           "kw": 97,
           "pol": "H",
@@ -38,7 +38,7 @@
         },
         {
           "freq": 99.7,
-          "name": "Hit Radio SPO 3",
+          "name": "SPO P3",
           "pi": "8203",
           "kw": 97,
           "pol": "H",
@@ -573,7 +573,7 @@
       "stations": [
         {
           "freq": "90.2",
-          "name": "SPO Radio 1",
+          "name": "SPO P1",
           "pi": "8201",
           "kw": 15,
           "pol": "C",
@@ -585,7 +585,7 @@
         },
         {
           "freq": 93.5,
-          "name": "SPO Radio 2",
+          "name": "SPO P2",
           "pi": "8202",
           "kw": 15,
           "pol": "C",
@@ -597,7 +597,7 @@
         },
         {
           "freq": "97.2",
-          "name": "Hit Radio SPO 3",
+          "name": "SPO P3",
           "pi": "8203",
           "kw": 15,
           "pol": "C",
@@ -691,7 +691,7 @@
       "stations": [
         {
           "freq": "90.1",
-          "name": "SPO Radio 1",
+          "name": "SPO P1",
           "pi": "8201",
           "kw": 10,
           "pol": "H",
@@ -703,7 +703,7 @@
         },
         {
           "freq": "94.7",
-          "name": "SPO Radio 2",
+          "name": "SPO P2",
           "pi": "8202",
           "kw": 10,
           "pol": "H",
@@ -715,7 +715,7 @@
         },
         {
           "freq": "101.7",
-          "name": "Hit Radio SPO 3",
+          "name": "SPO P3",
           "pi": "8203",
           "kw": 10,
           "pol": "H",
@@ -762,7 +762,7 @@
       "stations": [
         {
           "freq": "87.6",
-          "name": "SPO Radio 1",
+          "name": "SPO P1",
           "pi": "8201",
           "kw": 20,
           "pol": "V",
@@ -774,7 +774,7 @@
         },
         {
           "freq": 90.6,
-          "name": "SPO Radio 2",
+          "name": "SPO P2",
           "pi": "8202",
           "kw": 20,
           "pol": "V",
@@ -786,7 +786,7 @@
         },
         {
           "freq": 98.7,
-          "name": "Hit Radio SPO 3",
+          "name": "SPO P3",
           "pi": "8203",
           "kw": 20,
           "pol": "V",
@@ -928,7 +928,7 @@
       "stations": [
         {
           "freq": "87.6",
-          "name": "SPO Radio 1",
+          "name": "SPO P1",
           "pi": "8201",
           "kw": 50,
           "pol": "H",
@@ -940,7 +940,7 @@
         },
         {
           "freq": 90.5,
-          "name": "SPO Radio 2",
+          "name": "SPO P2",
           "pi": "8202",
           "kw": 50,
           "pol": "H",
@@ -952,7 +952,7 @@
         },
         {
           "freq": 95.8,
-          "name": "Hit Radio SPO 3",
+          "name": "SPO P3",
           "pi": "8203",
           "kw": 50,
           "pol": "H",
@@ -1010,7 +1010,7 @@
       "stations": [
         {
           "freq": "87.9",
-          "name": "SPO Radio 1",
+          "name": "SPO P1",
           "pi": "8201",
           "kw": 12,
           "pol": "H",
@@ -1034,7 +1034,7 @@
         },
         {
           "freq": 97.8,
-          "name": "Hit Radio SPO 3",
+          "name": "SPO P3",
           "pi": "8203",
           "kw": 12,
           "pol": "H",
@@ -1070,7 +1070,7 @@
         },
         {
           "freq": 104.2,
-          "name": "SPO Radio 2",
+          "name": "SPO P2",
           "pi": "8202",
           "kw": 12,
           "pol": "H",
@@ -1211,7 +1211,7 @@
       "stations": [
         {
           "freq": "90.8",
-          "name": "SPO Radio 1",
+          "name": "SPO P1",
           "pi": "8201",
           "kw": 18,
           "pol": "V",
@@ -1223,7 +1223,7 @@
         },
         {
           "freq": "93.1",
-          "name": "SPO Radio 2",
+          "name": "SPO P2",
           "pi": "8202",
           "kw": 18,
           "pol": "V",
@@ -1247,7 +1247,7 @@
         },
         {
           "freq": "103.2",
-          "name": "Hit Radio SPO 3",
+          "name": "SPO P3",
           "pi": "8203",
           "kw": 18,
           "pol": "V",
@@ -2334,7 +2334,7 @@
       "stations": [
         {
           "freq": "90.2",
-          "name": "SPO Radio 1",
+          "name": "SPO P1",
           "pi": "8201",
           "kw": 8.7,
           "pol": "C",
@@ -2346,7 +2346,7 @@
         },
         {
           "freq": 91.8,
-          "name": "SPO Radio 2",
+          "name": "SPO P2",
           "pi": "8202",
           "kw": 8.7,
           "pol": "C",
@@ -2358,7 +2358,7 @@
         },
         {
           "freq": 98.9,
-          "name": "Hit Radio SPO 3",
+          "name": "SPO P3",
           "pi": "8203",
           "kw": 8.7,
           "pol": "C",
@@ -3334,7 +3334,7 @@
       "stations": [
         {
           "freq": "94.4",
-          "name": "SPO Radio 1",
+          "name": "SPO P1",
           "pi": "8201",
           "kw": 4,
           "pol": "H",
@@ -3346,7 +3346,7 @@
         },
         {
           "freq": "96.6",
-          "name": "SPO Radio 2",
+          "name": "SPO P2",
           "pi": "8202",
           "kw": 4,
           "pol": "H",
@@ -3358,7 +3358,7 @@
         },
         {
           "freq": "99.5",
-          "name": "Hit Radio SPO 3",
+          "name": "SPO P3",
           "pi": "8203",
           "kw": 4,
           "pol": "H",
@@ -4690,7 +4690,7 @@
       "stations": [
         {
           "freq": "90.5",
-          "name": "SPO Radio 1",
+          "name": "SPO P1",
           "pi": "8201",
           "kw": 3,
           "pol": "V",
@@ -4702,7 +4702,7 @@
         },
         {
           "freq": 96.8,
-          "name": "SPO Radio 2",
+          "name": "SPO P2",
           "pi": "8202",
           "kw": 3,
           "pol": "V",
@@ -4726,7 +4726,7 @@
         },
         {
           "freq": 99.1,
-          "name": "Hit Radio SPO 3",
+          "name": "SPO P3",
           "pi": "8203",
           "kw": 3,
           "pol": "V",
@@ -5579,7 +5579,7 @@
       "stations": [
         {
           "freq": "69.71",
-          "name": "SPO Radio 1",
+          "name": "SPO P1",
           "pi": "",
           "kw": 1,
           "pol": "",
@@ -6900,7 +6900,7 @@
       "stations": [
         {
           "freq": "67.22",
-          "name": "SPO Radio 1",
+          "name": "SPO P1",
           "pi": "",
           "kw": 5,
           "pol": "h",
@@ -6912,7 +6912,7 @@
         },
         {
           "freq": "70.43",
-          "name": "SPO Radio 2",
+          "name": "SPO P2",
           "pi": "",
           "kw": 5,
           "pol": "h",
@@ -6924,7 +6924,7 @@
         },
         {
           "freq": "71.33",
-          "name": "Hit Radio SPO 3",
+          "name": "SPO P3",
           "pi": "",
           "kw": 5,
           "pol": "h",
@@ -7159,7 +7159,7 @@
       "stations": [
         {
           "freq": "88.3",
-          "name": "SPO Radio 1",
+          "name": "SPO P1",
           "pi": "8201",
           "kw": 5,
           "pol": "h",
@@ -7171,7 +7171,7 @@
         },
         {
           "freq": "92.6",
-          "name": "SPO Radio 2",
+          "name": "SPO P2",
           "pi": "8202",
           "kw": 5,
           "pol": "h",
@@ -7195,7 +7195,7 @@
         },
         {
           "freq": "98.0",
-          "name": "Hit Radio SPO 3",
+          "name": "SPO P3",
           "pi": "8203",
           "kw": 5,
           "pol": "h",
@@ -7230,7 +7230,7 @@
       "stations": [
         {
           "freq": "91.7",
-          "name": "SPO Radio 1",
+          "name": "SPO P1",
           "pi": "8201",
           "kw": 0.5,
           "pol": "v",
@@ -7242,7 +7242,7 @@
         },
         {
           "freq": "96.4",
-          "name": "SPO Radio 2",
+          "name": "SPO P2",
           "pi": "8202",
           "kw": 0.5,
           "pol": "v",
@@ -7254,7 +7254,7 @@
         },
         {
           "freq": "98.5",
-          "name": "Hit Radio SPO 3",
+          "name": "SPO P3",
           "pi": "8203",
           "kw": 0.2,
           "pol": "v",
