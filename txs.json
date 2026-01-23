@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-01-23T14:21:21.080Z"
+    "exportedAt": "2026-01-23T14:44:20.658Z"
   },
   "txList": [
     {
@@ -1116,7 +1116,7 @@
           "outlet": ""
         },
         {
-          "freq": "104.2",
+          "freq": "101.9",
           "name": "Pervoe Setevoe",
           "pi": "8862",
           "kw": 0.63,
@@ -1126,6 +1126,18 @@
           "country": "SP",
           "disabled": false,
           "outlet": ""
+        },
+        {
+          "freq": "103.9",
+          "name": "SPIN Sveland",
+          "pi": "83E1",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 82,
+          "country": "SP",
+          "disabled": false,
+          "outlet": "Zuidwest"
         },
         {
           "freq": "105.3",
@@ -5471,6 +5483,18 @@
           "country": "SP",
           "disabled": false,
           "outlet": ""
+        },
+        {
+          "freq": "103.0",
+          "name": "SPIN Sveland",
+          "pi": "83E1",
+          "kw": 0.1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 90,
+          "country": "SP",
+          "disabled": false,
+          "outlet": "Zuidwest"
         }
       ]
     },
