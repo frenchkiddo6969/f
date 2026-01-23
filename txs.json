@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-01-23T17:25:21.159Z"
+    "exportedAt": "2026-01-23T17:26:26.807Z"
   },
   "txList": [
     {
@@ -5736,6 +5736,18 @@
           "name": "R.Rekord",
           "pi": "82C6",
           "kw": 0.5,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "SP",
+          "disabled": false,
+          "outlet": ""
+        },
+        {
+          "freq": "106.9",
+          "name": "Vibration",
+          "pi": "8560",
+          "kw": 0.1,
           "pol": "v",
           "directional": false,
           "directionAngle": null,
