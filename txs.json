@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-01-23T14:44:20.658Z"
+    "exportedAt": "2026-01-23T14:51:40.616Z"
   },
   "txList": [
     {
@@ -5356,6 +5356,18 @@
           "outlet": ""
         },
         {
+          "freq": "102.8",
+          "name": "SPIN Sveland",
+          "pi": "83E1",
+          "kw": 0.1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 87,
+          "country": "SP",
+          "disabled": false,
+          "outlet": "Zuidwest"
+        },
+        {
           "freq": "103.6",
           "name": "Hit FM",
           "pi": "8777",
@@ -8748,6 +8760,29 @@
           "country": "SP",
           "disabled": false,
           "outlet": ""
+        }
+      ]
+    },
+    {
+      "id": "tx_1769179746535",
+      "name": "Vologda",
+      "latlng": [
+        10488.75,
+        3278
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "102.1",
+          "name": "SPIN Sveland",
+          "pi": "83E1",
+          "kw": 0.2,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 182,
+          "country": "SP",
+          "disabled": false,
+          "outlet": "Zuidwest"
         }
       ]
     }
