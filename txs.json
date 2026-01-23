@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-01-22T23:07:37.751Z"
+    "exportedAt": "2026-01-23T14:21:21.080Z"
   },
   "txList": [
     {
@@ -6290,10 +6290,10 @@
           "directionAngle": null,
           "country": "OR",
           "disabled": false,
-          "outlet": ""
+          "outlet": "Rádió 1"
         },
         {
-          "freq": 102.3,
+          "freq": "102.3",
           "name": "O842AF-FM",
           "pi": "83C7",
           "kw": 0.1,
@@ -6302,7 +6302,7 @@
           "directionAngle": null,
           "country": "",
           "disabled": false,
-          "outlet": ""
+          "outlet": "Radio 538"
         }
       ]
     },
