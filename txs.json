@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-01-25T14:56:27.957Z"
+    "exportedAt": "2026-01-25T22:32:23.946Z"
   },
   "txList": [
     {
@@ -1263,6 +1263,18 @@
           "pi": "8203",
           "kw": 18,
           "pol": "V",
+          "directional": false,
+          "directionAngle": null,
+          "country": "SP",
+          "disabled": false,
+          "outlet": ""
+        },
+        {
+          "freq": "162.400",
+          "name": "NWB-OMI",
+          "pi": "",
+          "kw": 1,
+          "pol": "",
           "directional": false,
           "directionAngle": null,
           "country": "SP",
@@ -8853,6 +8865,29 @@
           "country": "SP",
           "disabled": false,
           "outlet": "Zuidwest"
+        }
+      ]
+    },
+    {
+      "id": "tx_1769379946038",
+      "name": "Doetinlingen",
+      "latlng": [
+        11584,
+        5068.5
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "162.400",
+          "name": "NWB-DLG",
+          "pi": "",
+          "kw": 1,
+          "pol": "",
+          "directional": false,
+          "directionAngle": null,
+          "country": "SP",
+          "disabled": false,
+          "outlet": ""
         }
       ]
     }
