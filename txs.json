@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-01-23T17:26:26.807Z"
+    "exportedAt": "2026-01-25T00:38:11.922Z"
   },
   "txList": [
     {
@@ -3510,9 +3510,9 @@
       "point": null,
       "stations": [
         {
-          "freq": "96.9",
-          "name": "ORKD-FM",
-          "pi": "3DEB",
+          "freq": "96.1",
+          "name": "OXXM-FM",
+          "pi": "4F1E",
           "kw": 6.3,
           "pol": "V",
           "directional": true,
@@ -3522,14 +3522,14 @@
           "outlet": ""
         },
         {
-          "freq": 100.3,
-          "name": "ONRJ-FM",
-          "pi": "3417",
+          "freq": "96.9",
+          "name": "ORKD-FM",
+          "pi": "3DEB",
           "kw": 6.3,
           "pol": "V",
           "directional": true,
           "directionAngle": 180,
-          "country": "",
+          "country": "OR",
           "disabled": false,
           "outlet": ""
         }
