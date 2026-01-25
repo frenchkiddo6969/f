@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-01-25T00:38:11.922Z"
+    "exportedAt": "2026-01-25T14:56:27.957Z"
   },
   "txList": [
     {
@@ -8830,6 +8830,29 @@
           "country": "SP",
           "disabled": false,
           "outlet": ""
+        }
+      ]
+    },
+    {
+      "id": "tx_1769352940237",
+      "name": "Tumazy",
+      "latlng": [
+        10360,
+        3116
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "102.7",
+          "name": "SPIN Sveland",
+          "pi": "83E1",
+          "kw": 0.07,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 310,
+          "country": "SP",
+          "disabled": false,
+          "outlet": "Zuidwest"
         }
       ]
     }
