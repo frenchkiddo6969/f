@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-01-25T22:32:23.946Z"
+    "exportedAt": "2026-01-26T00:29:21.524Z"
   },
   "txList": [
     {
@@ -3728,6 +3728,18 @@
           "pi": "1220",
           "kw": 100,
           "pol": "C",
+          "directional": false,
+          "directionAngle": null,
+          "country": "OR",
+          "disabled": false,
+          "outlet": ""
+        },
+        {
+          "freq": "94.9",
+          "name": "OBUL-FM",
+          "pi": "14B7",
+          "kw": 10,
+          "pol": "c",
           "directional": false,
           "directionAngle": null,
           "country": "OR",
