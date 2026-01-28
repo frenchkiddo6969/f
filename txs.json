@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-01-26T00:29:21.524Z"
+    "exportedAt": "2026-01-28T12:00:12.463Z"
   },
   "txList": [
     {
@@ -5659,6 +5659,18 @@
           "directionAngle": null,
           "country": "SP",
           "disabled": false,
+          "outlet": ""
+        },
+        {
+          "freq": "90.4",
+          "name": "Studio Rave",
+          "pi": "8742",
+          "kw": 0.1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "SP",
+          "disabled": true,
           "outlet": ""
         },
         {
