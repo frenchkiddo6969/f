@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-01-28T12:00:12.463Z"
+    "exportedAt": "2026-01-31T11:28:54.075Z"
   },
   "txList": [
     {
@@ -8911,6 +8911,77 @@
           "directionAngle": null,
           "country": "SP",
           "disabled": false,
+          "outlet": ""
+        }
+      ]
+    },
+    {
+      "id": "tx_1769858486519",
+      "name": "Bellem",
+      "latlng": [
+        10669,
+        2818.75
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "91.2",
+          "name": "NRJ Sveland",
+          "pi": "8220",
+          "kw": 0.1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 275,
+          "country": "SP",
+          "disabled": true,
+          "outlet": ""
+        },
+        {
+          "freq": "98.7",
+          "name": "R.Rekord",
+          "pi": "82C6",
+          "kw": 0.1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 275,
+          "country": "SP",
+          "disabled": true,
+          "outlet": ""
+        },
+        {
+          "freq": "100.2",
+          "name": "Radio FG.",
+          "pi": "822C",
+          "kw": 0.1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 275,
+          "country": "SP",
+          "disabled": true,
+          "outlet": ""
+        },
+        {
+          "freq": "104.3",
+          "name": "DFM",
+          "pi": "82DF",
+          "kw": 0.1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 275,
+          "country": "SP",
+          "disabled": true,
+          "outlet": ""
+        },
+        {
+          "freq": "105.5",
+          "name": "Fun Radio",
+          "pi": "8217",
+          "kw": 0.1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 275,
+          "country": "SP",
+          "disabled": true,
           "outlet": ""
         }
       ]
