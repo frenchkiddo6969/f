@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-02-02T22:28:55.021Z"
+    "exportedAt": "2026-02-02T22:42:41.972Z"
   },
   "txList": [
     {
@@ -9169,6 +9169,29 @@
           "directionAngle": null,
           "country": "SP",
           "disabled": false,
+          "outlet": ""
+        }
+      ]
+    },
+    {
+      "id": "tx_1770072118773",
+      "name": "Sint-Pieter",
+      "latlng": [
+        12063,
+        4511
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "91.2",
+          "name": "Yes! 91,2",
+          "pi": "873E",
+          "kw": 1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "SP",
+          "disabled": true,
           "outlet": ""
         }
       ]
