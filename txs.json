@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-01-31T20:35:29.432Z"
+    "exportedAt": "2026-02-02T12:18:20.213Z"
   },
   "txList": [
     {
@@ -7478,7 +7478,7 @@
       "point": null,
       "stations": [
         {
-          "freq": "88.7",
+          "freq": "89.1",
           "name": "Top Music",
           "pi": "87C7",
           "kw": 0.2,
