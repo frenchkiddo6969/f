@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-02-02T14:05:27.905Z"
+    "exportedAt": "2026-02-02T14:37:52.410Z"
   },
   "txList": [
     {
@@ -9086,7 +9086,7 @@
           "directional": true,
           "directionAngle": 310,
           "country": "SP",
-          "disabled": true,
+          "disabled": false,
           "outlet": ""
         },
         {
@@ -9098,7 +9098,7 @@
           "directional": true,
           "directionAngle": 300,
           "country": "SP",
-          "disabled": true,
+          "disabled": false,
           "outlet": ""
         },
         {
@@ -9110,7 +9110,7 @@
           "directional": true,
           "directionAngle": 310,
           "country": "SP",
-          "disabled": true,
+          "disabled": false,
           "outlet": "Diknep"
         },
         {
@@ -9122,7 +9122,7 @@
           "directional": true,
           "directionAngle": 310,
           "country": "SP",
-          "disabled": true,
+          "disabled": false,
           "outlet": ""
         }
       ]
