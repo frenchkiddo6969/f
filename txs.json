@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-02-02T14:37:52.410Z"
+    "exportedAt": "2026-02-02T19:02:06.497Z"
   },
   "txList": [
     {
@@ -5085,7 +5085,7 @@
           "directional": false,
           "directionAngle": null,
           "country": "SP",
-          "disabled": true,
+          "disabled": false,
           "outlet": ""
         }
       ]
@@ -7521,7 +7521,7 @@
           "directional": false,
           "directionAngle": null,
           "country": "SP",
-          "disabled": true,
+          "disabled": false,
           "outlet": "Doetinlingen"
         },
         {
