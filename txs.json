@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-02-02T12:36:22.793Z"
+    "exportedAt": "2026-02-02T12:51:05.996Z"
   },
   "txList": [
     {
@@ -9008,7 +9008,7 @@
       "point": null,
       "stations": [
         {
-          "freq": "106.5",
+          "freq": "101.1",
           "name": "Top Music",
           "pi": "87C7",
           "kw": 0.1,
@@ -9016,7 +9016,7 @@
           "directional": false,
           "directionAngle": null,
           "country": "SP",
-          "disabled": true,
+          "disabled": false,
           "outlet": ""
         }
       ]
@@ -9031,7 +9031,7 @@
       "point": null,
       "stations": [
         {
-          "freq": "101.1",
+          "freq": "101.3",
           "name": "Top Music",
           "pi": "87C7",
           "kw": 0.2,
@@ -9039,7 +9039,7 @@
           "directional": true,
           "directionAngle": 265,
           "country": "SP",
-          "disabled": true,
+          "disabled": false,
           "outlet": ""
         }
       ]
