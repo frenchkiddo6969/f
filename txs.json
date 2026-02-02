@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-02-02T13:38:16.003Z"
+    "exportedAt": "2026-02-02T14:01:07.936Z"
   },
   "txList": [
     {
@@ -9128,6 +9128,29 @@
           "freq": "92.8",
           "name": "Dorpen FM",
           "pi": "8902",
+          "kw": 0.1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "SP",
+          "disabled": false,
+          "outlet": ""
+        }
+      ]
+    },
+    {
+      "id": "tx_1770040748901",
+      "name": "Bierbeek",
+      "latlng": [
+        11311.5,
+        4889.75
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "96.1",
+          "name": "Mix FM",
+          "pi": "8932",
           "kw": 0.1,
           "pol": "v",
           "directional": false,
