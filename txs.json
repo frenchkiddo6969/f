@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-02-02T12:18:20.213Z"
+    "exportedAt": "2026-02-02T12:36:22.793Z"
   },
   "txList": [
     {
@@ -8994,6 +8994,52 @@
           "directionAngle": 275,
           "country": "SP",
           "disabled": false,
+          "outlet": ""
+        }
+      ]
+    },
+    {
+      "id": "tx_1770035117311",
+      "name": "Loosbroek",
+      "latlng": [
+        10705.25,
+        4476.5
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "106.5",
+          "name": "Top Music",
+          "pi": "87C7",
+          "kw": 0.1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "SP",
+          "disabled": true,
+          "outlet": ""
+        }
+      ]
+    },
+    {
+      "id": "tx_1770035620936",
+      "name": "Tragal-Enter",
+      "latlng": [
+        10883.25,
+        4576
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "101.1",
+          "name": "Top Music",
+          "pi": "87C7",
+          "kw": 0.2,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 265,
+          "country": "SP",
+          "disabled": true,
           "outlet": ""
         }
       ]
