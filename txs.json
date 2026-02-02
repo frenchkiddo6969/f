@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-02-02T14:01:07.936Z"
+    "exportedAt": "2026-02-02T14:05:27.905Z"
   },
   "txList": [
     {
@@ -8143,6 +8143,18 @@
       ],
       "point": null,
       "stations": [
+        {
+          "freq": "99.3",
+          "name": "Jazz Radio",
+          "pi": "82FC",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 85,
+          "country": "SP",
+          "disabled": false,
+          "outlet": ""
+        },
         {
           "freq": "101.0",
           "name": "DFM",
