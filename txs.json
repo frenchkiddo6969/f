@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-02-02T19:02:06.497Z"
+    "exportedAt": "2026-02-02T20:09:33.056Z"
   },
   "txList": [
     {
@@ -193,15 +193,15 @@
         },
         {
           "freq": "103.2",
-          "name": "Hit FM",
-          "pi": "8777",
+          "name": "RTO R.1 [F]",
+          "pi": "8168",
           "kw": 5,
           "pol": "v",
           "directional": false,
           "directionAngle": null,
           "country": "SP",
           "disabled": false,
-          "outlet": "Doetinlingen"
+          "outlet": ""
         }
       ]
     },
