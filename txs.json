@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-02-03T09:52:29.384Z"
+    "exportedAt": "2026-02-07T15:54:29.079Z"
   },
   "txList": [
     {
@@ -379,7 +379,7 @@
           "directional": true,
           "directionAngle": 270,
           "country": "SP",
-          "disabled": false,
+          "disabled": true,
           "outlet": ""
         },
         {
@@ -1337,7 +1337,7 @@
           "directional": false,
           "directionAngle": null,
           "country": "SP",
-          "disabled": false,
+          "disabled": true,
           "outlet": ""
         }
       ]
@@ -9188,6 +9188,52 @@
           "pi": "873E",
           "kw": 1,
           "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "SP",
+          "disabled": false,
+          "outlet": ""
+        }
+      ]
+    },
+    {
+      "id": "tx_1770478655948",
+      "name": "Vilren",
+      "latlng": [
+        11231.114910738997,
+        3935.968689463697
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "162.550",
+          "name": "NWB-VIL",
+          "pi": "",
+          "kw": 1,
+          "pol": "",
+          "directional": false,
+          "directionAngle": null,
+          "country": "SP",
+          "disabled": false,
+          "outlet": ""
+        }
+      ]
+    },
+    {
+      "id": "tx_1770479038799",
+      "name": "Diknep",
+      "latlng": [
+        10404,
+        3887.25
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "162.475",
+          "name": "NWB-DIK",
+          "pi": "",
+          "kw": 1,
+          "pol": "",
           "directional": false,
           "directionAngle": null,
           "country": "SP",
