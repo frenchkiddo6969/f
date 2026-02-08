@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-02-08T18:55:59.111Z"
+    "exportedAt": "2026-02-08T19:10:30.950Z"
   },
   "txList": [
     {
@@ -5886,13 +5886,25 @@
       "point": null,
       "stations": [
         {
+          "freq": "88.2",
+          "name": "Radio Star",
+          "pi": "8778",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 290,
+          "country": "SP",
+          "disabled": false,
+          "outlet": ""
+        },
+        {
           "freq": "100",
           "name": "R.Rekord",
           "pi": "82C6",
           "kw": 0.5,
           "pol": "v",
-          "directional": false,
-          "directionAngle": null,
+          "directional": true,
+          "directionAngle": 290,
           "country": "SP",
           "disabled": false,
           "outlet": ""
