@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-02-08T12:32:40.496Z"
+    "exportedAt": "2026-02-08T18:55:59.111Z"
   },
   "txList": [
     {
@@ -132,7 +132,7 @@
           "outlet": ""
         },
         {
-          "freq": "98.0",
+          "freq": "98.2",
           "name": "Novoye Radio [RUS]",
           "pi": "7739",
           "kw": 5,
@@ -157,15 +157,15 @@
         },
         {
           "freq": "100.8",
-          "name": "Flaix FM Sveland",
-          "pi": "82C8",
+          "name": "Radio FG.",
+          "pi": "822C",
           "kw": 8,
           "pol": "V",
           "directional": false,
           "directionAngle": null,
           "country": "SP",
           "disabled": false,
-          "outlet": "Doetinlingen"
+          "outlet": ""
         },
         {
           "freq": 101.3,
@@ -228,15 +228,15 @@
         },
         {
           "freq": "91.4",
-          "name": "Radio FG.",
-          "pi": "822C",
+          "name": "Flaix FM Sveland",
+          "pi": "82C8",
           "kw": 7,
           "pol": "v",
           "directional": true,
           "directionAngle": 270,
           "country": "SP",
           "disabled": false,
-          "outlet": ""
+          "outlet": "Doetinlingen"
         },
         {
           "freq": "92.3",
@@ -1554,6 +1554,18 @@
           "outlet": ""
         },
         {
+          "freq": "98.3",
+          "name": "Text Radio",
+          "pi": "8789",
+          "kw": 1,
+          "pol": "V",
+          "directional": true,
+          "directionAngle": 216,
+          "country": "",
+          "disabled": false,
+          "outlet": ""
+        },
+        {
           "freq": "101.2",
           "name": "DFM",
           "pi": "82DF",
@@ -1576,18 +1588,6 @@
           "country": "",
           "disabled": false,
           "outlet": "Diknep"
-        },
-        {
-          "freq": 107.7,
-          "name": "Text Radio",
-          "pi": "8789",
-          "kw": 1,
-          "pol": "V",
-          "directional": true,
-          "directionAngle": 216,
-          "country": "",
-          "disabled": false,
-          "outlet": ""
         }
       ]
     },
@@ -6960,6 +6960,18 @@
       "point": null,
       "stations": [
         {
+          "freq": "98.8",
+          "name": "West FM",
+          "pi": "8624",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 275,
+          "country": "SP",
+          "disabled": false,
+          "outlet": ""
+        },
+        {
           "freq": "102.6",
           "name": "Vibration",
           "pi": "8560",
@@ -7711,7 +7723,7 @@
       "point": null,
       "stations": [
         {
-          "freq": "98.2",
+          "freq": "98.4",
           "name": "DFM",
           "pi": "82DF",
           "kw": 0.1,
@@ -8614,6 +8626,18 @@
       "point": null,
       "stations": [
         {
+          "freq": "98.1",
+          "name": "Radio FG.",
+          "pi": "822C",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 4,
+          "country": "SP",
+          "disabled": false,
+          "outlet": ""
+        },
+        {
           "freq": "106.6",
           "name": "Vibration",
           "pi": "8560",
@@ -9252,10 +9276,22 @@
       "point": null,
       "stations": [
         {
+          "freq": "98.6",
+          "name": "DFM",
+          "pi": "82DF",
+          "kw": 0.1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "SP",
+          "disabled": true,
+          "outlet": ""
+        },
+        {
           "freq": "102.1",
           "name": "SPIN Sveland",
           "pi": "83E1",
-          "kw": 0.15,
+          "kw": 0.1,
           "pol": "v",
           "directional": false,
           "directionAngle": null,
