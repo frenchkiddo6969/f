@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-02-07T15:54:29.079Z"
+    "exportedAt": "2026-02-08T12:32:40.496Z"
   },
   "txList": [
     {
@@ -1298,8 +1298,8 @@
           "pi": "82C8",
           "kw": 10,
           "pol": "V",
-          "directional": false,
-          "directionAngle": null,
+          "directional": true,
+          "directionAngle": 180,
           "country": "SP",
           "disabled": false,
           "outlet": "Omigrad"
@@ -1310,8 +1310,8 @@
           "pi": "84C1",
           "kw": 6.3,
           "pol": "C",
-          "directional": false,
-          "directionAngle": null,
+          "directional": true,
+          "directionAngle": 180,
           "country": "SP",
           "disabled": false,
           "outlet": ""
@@ -1322,8 +1322,8 @@
           "pi": "8213",
           "kw": 1,
           "pol": "V",
-          "directional": false,
-          "directionAngle": null,
+          "directional": true,
+          "directionAngle": 180,
           "country": "SP",
           "disabled": false,
           "outlet": "Omigrad"
@@ -1334,8 +1334,8 @@
           "pi": "82A4",
           "kw": 0.5,
           "pol": "C",
-          "directional": false,
-          "directionAngle": null,
+          "directional": true,
+          "directionAngle": 180,
           "country": "SP",
           "disabled": true,
           "outlet": ""
@@ -9239,6 +9239,29 @@
           "country": "SP",
           "disabled": false,
           "outlet": ""
+        }
+      ]
+    },
+    {
+      "id": "tx_1770553893782",
+      "name": "Leningrad",
+      "latlng": [
+        10130.25,
+        3382.5
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "102.1",
+          "name": "SPIN Sveland",
+          "pi": "83E1",
+          "kw": 0.15,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "SP",
+          "disabled": true,
+          "outlet": "Zuidwest"
         }
       ]
     }
