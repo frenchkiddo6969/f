@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-02-09T10:37:47.311Z"
+    "exportedAt": "2026-02-09T11:04:46.261Z"
   },
   "txList": [
     {
@@ -9344,6 +9344,18 @@
           "country": "SP",
           "disabled": false,
           "outlet": ""
+        },
+        {
+          "freq": "99.6",
+          "name": "FM Bergbewoner",
+          "pi": "8731",
+          "kw": 0.1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "SP",
+          "disabled": false,
+          "outlet": ""
         }
       ]
     },
@@ -9351,8 +9363,8 @@
       "id": "tx_1770633364964",
       "name": "Lechten",
       "latlng": [
-        11291,
-        4512.75
+        11291.565263578445,
+        4512.147547072001
       ],
       "point": null,
       "stations": [
@@ -9362,6 +9374,29 @@
           "pi": "8902",
           "kw": 0.2,
           "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "SP",
+          "disabled": false,
+          "outlet": ""
+        }
+      ]
+    },
+    {
+      "id": "tx_1770634949324",
+      "name": "Aareik=Nuth",
+      "latlng": [
+        10627.5,
+        3451.25
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "105.3",
+          "name": "Fine Radio",
+          "pi": "89E9",
+          "kw": 0.3,
+          "pol": "",
           "directional": false,
           "directionAngle": null,
           "country": "SP",
