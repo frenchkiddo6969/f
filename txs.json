@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-02-08T19:20:26.448Z"
+    "exportedAt": "2026-02-09T10:37:47.311Z"
   },
   "txList": [
     {
@@ -9337,6 +9337,29 @@
           "freq": "95.1",
           "name": "Vibration",
           "pi": "8560",
+          "kw": 0.2,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "SP",
+          "disabled": false,
+          "outlet": ""
+        }
+      ]
+    },
+    {
+      "id": "tx_1770633364964",
+      "name": "Lechten",
+      "latlng": [
+        11291,
+        4512.75
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "101.5",
+          "name": "Dorpen FM",
+          "pi": "8902",
           "kw": 0.2,
           "pol": "v",
           "directional": false,
