@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-02-09T11:04:46.261Z"
+    "exportedAt": "2026-02-09T16:08:54.250Z"
   },
   "txList": [
     {
@@ -9275,6 +9275,18 @@
       ],
       "point": null,
       "stations": [
+        {
+          "freq": "90.0",
+          "name": "Radio FG.",
+          "pi": "822C",
+          "kw": 0.1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "SP",
+          "disabled": true,
+          "outlet": ""
+        },
         {
           "freq": "98.6",
           "name": "DFM",
