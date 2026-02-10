@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-02-10T09:08:41.161Z"
+    "exportedAt": "2026-02-10T09:11:52.909Z"
   },
   "txList": [
     {
@@ -832,18 +832,6 @@
       "point": null,
       "stations": [
         {
-          "freq": "88",
-          "name": "NRJ Sveland",
-          "pi": "8220",
-          "kw": 1,
-          "pol": "V",
-          "directional": true,
-          "directionAngle": 0,
-          "country": "SP",
-          "disabled": false,
-          "outlet": ""
-        },
-        {
           "freq": "88.8",
           "name": "Novoye Radio [RUS]",
           "pi": "7739",
@@ -895,6 +883,18 @@
           "freq": "100.5",
           "name": "Europa 2",
           "pi": "82E2",
+          "kw": 1,
+          "pol": "V",
+          "directional": true,
+          "directionAngle": 0,
+          "country": "SP",
+          "disabled": false,
+          "outlet": ""
+        },
+        {
+          "freq": "102.2",
+          "name": "NRJ Sveland",
+          "pi": "8220",
           "kw": 1,
           "pol": "V",
           "directional": true,
@@ -3630,7 +3630,7 @@
         },
         {
           "freq": "103.9",
-          "name": "Radio Star",
+          "name": "R.Star",
           "pi": "8778",
           "kw": 1,
           "pol": "V",
@@ -5886,13 +5886,25 @@
       "point": null,
       "stations": [
         {
+          "freq": "88.2",
+          "name": "R.Star",
+          "pi": "8778",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 290,
+          "country": "SP",
+          "disabled": false,
+          "outlet": ""
+        },
+        {
           "freq": "100",
           "name": "R.Rekord",
           "pi": "82C6",
           "kw": 0.5,
           "pol": "v",
-          "directional": false,
-          "directionAngle": null,
+          "directional": true,
+          "directionAngle": 290,
           "country": "SP",
           "disabled": false,
           "outlet": ""
