@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-02-10T16:09:42.503Z"
+    "exportedAt": "2026-02-10T16:30:26.800Z"
   },
   "txList": [
     {
@@ -8625,6 +8625,18 @@
           "country": "SP",
           "disabled": false,
           "outlet": ""
+        },
+        {
+          "freq": "92.2",
+          "name": "Hot Radio",
+          "pi": "8880",
+          "kw": 0.1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "SP",
+          "disabled": false,
+          "outlet": ""
         }
       ]
     },
@@ -9446,6 +9458,111 @@
           "pol": "v",
           "directional": false,
           "directionAngle": null,
+          "country": "SP",
+          "disabled": false,
+          "outlet": ""
+        },
+        {
+          "freq": "98.4",
+          "name": "Hot Radio",
+          "pi": "8880",
+          "kw": 0.1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 220,
+          "country": "SP",
+          "disabled": false,
+          "outlet": ""
+        },
+        {
+          "freq": "102.8",
+          "name": "SPIN Sveland",
+          "pi": "83E1",
+          "kw": 0.1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 220,
+          "country": "SP",
+          "disabled": false,
+          "outlet": "Zuidwest"
+        },
+        {
+          "freq": "106.0",
+          "name": "DFM",
+          "pi": "82DF",
+          "kw": 0.1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 220,
+          "country": "SP",
+          "disabled": false,
+          "outlet": ""
+        }
+      ]
+    },
+    {
+      "id": "tx_1770740615072",
+      "name": "Grijzegrubben",
+      "latlng": [
+        10555.25,
+        3417.75
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "107.6",
+          "name": "R.FG",
+          "pi": "822C",
+          "kw": 0.063,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 221,
+          "country": "SP",
+          "disabled": false,
+          "outlet": ""
+        }
+      ]
+    },
+    {
+      "id": "tx_1770740857574",
+      "name": "Mastenbroek",
+      "latlng": [
+        10919.75,
+        3456
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "105.6",
+          "name": "Hot Radio",
+          "pi": "8880",
+          "kw": 0.1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 135,
+          "country": "SP",
+          "disabled": false,
+          "outlet": ""
+        }
+      ]
+    },
+    {
+      "id": "tx_1770740976393",
+      "name": "Bolsrade",
+      "latlng": [
+        10802.811265497685,
+        3682.4167019894544
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "99.3",
+          "name": "Hot Radio",
+          "pi": "8880",
+          "kw": 0.3,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 141,
           "country": "SP",
           "disabled": false,
           "outlet": ""
