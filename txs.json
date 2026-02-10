@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-02-09T16:08:54.250Z"
+    "exportedAt": "2026-02-10T09:08:41.161Z"
   },
   "txList": [
     {
@@ -856,18 +856,6 @@
           "outlet": ""
         },
         {
-          "freq": "93",
-          "name": "Radio FG.",
-          "pi": "822C",
-          "kw": 1,
-          "pol": "V",
-          "directional": true,
-          "directionAngle": 0,
-          "country": "SP",
-          "disabled": false,
-          "outlet": ""
-        },
-        {
           "freq": "94.1",
           "name": "Europa 1",
           "pi": "82E1",
@@ -883,6 +871,18 @@
           "freq": "96.8",
           "name": "Fun Radio",
           "pi": "8217",
+          "kw": 1,
+          "pol": "V",
+          "directional": true,
+          "directionAngle": 0,
+          "country": "SP",
+          "disabled": false,
+          "outlet": ""
+        },
+        {
+          "freq": "98.7",
+          "name": "Radio FG.",
+          "pi": "822C",
           "kw": 1,
           "pol": "V",
           "directional": true,
