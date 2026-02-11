@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-02-10T16:30:26.800Z"
+    "exportedAt": "2026-02-11T12:41:50.577Z"
   },
   "txList": [
     {
@@ -9563,6 +9563,65 @@
           "pol": "v",
           "directional": true,
           "directionAngle": 141,
+          "country": "SP",
+          "disabled": false,
+          "outlet": ""
+        }
+      ]
+    },
+    {
+      "id": "tx_1770813156075",
+      "name": "Nuth",
+      "latlng": [
+        10583.75,
+        3567.25
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "88.1",
+          "name": "SPO P1",
+          "pi": "8201",
+          "kw": 0.05,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 214,
+          "country": "SP",
+          "disabled": false,
+          "outlet": ""
+        },
+        {
+          "freq": "92.7",
+          "name": "NRJ Sveland",
+          "pi": "8220",
+          "kw": 0.05,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 214,
+          "country": "SP",
+          "disabled": false,
+          "outlet": ""
+        },
+        {
+          "freq": "100.3",
+          "name": "Fun Radio",
+          "pi": "8217",
+          "kw": 0.05,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 214,
+          "country": "SP",
+          "disabled": false,
+          "outlet": ""
+        },
+        {
+          "freq": "102.2",
+          "name": "R.538",
+          "pi": "82C7",
+          "kw": 0.05,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 220,
           "country": "SP",
           "disabled": false,
           "outlet": ""
