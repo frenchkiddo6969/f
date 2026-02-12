@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-02-11T12:41:50.577Z"
+    "exportedAt": "2026-02-12T13:55:49.526Z"
   },
   "txList": [
     {
@@ -9533,7 +9533,19 @@
       "point": null,
       "stations": [
         {
-          "freq": "105.6",
+          "freq": "103.7",
+          "name": "R.FG",
+          "pi": "822C",
+          "kw": 0.1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 135,
+          "country": "SP",
+          "disabled": false,
+          "outlet": ""
+        },
+        {
+          "freq": "106.1",
           "name": "Hot Radio",
           "pi": "8880",
           "kw": 0.1,
