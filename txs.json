@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-02-13T20:16:24.669Z"
+    "exportedAt": "2026-02-13T23:26:46.491Z"
   },
   "txList": [
     {
@@ -11199,12 +11199,12 @@
           "kw": 0.2,
           "pol": "v",
           "directional": true,
-          "directionAngle": 182,
+          "directionAngle": 270,
           "country": "SP",
           "disabled": false,
           "outlet": "Zuidwest",
-          "blobMode": "legacy",
-          "blobShapeIndex": 0,
+          "blobMode": "svg",
+          "blobShapeIndex": 13,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         }
