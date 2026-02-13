@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-02-12T13:55:49.526Z"
+    "exportedAt": "2026-02-13T08:59:45.128Z"
   },
   "txList": [
     {
@@ -2393,25 +2393,13 @@
           "outlet": ""
         },
         {
-          "freq": 102.1,
-          "name": "iRadio",
-          "pi": "83E2",
-          "kw": 5,
-          "pol": "v",
-          "directional": false,
-          "directionAngle": null,
-          "country": "",
-          "disabled": false,
-          "outlet": ""
-        },
-        {
-          "freq": 102.5,
+          "freq": "102.1",
           "name": "R.538",
           "pi": "82C7",
           "kw": 5,
           "pol": "c",
-          "directional": true,
-          "directionAngle": 318,
+          "directional": false,
+          "directionAngle": null,
           "country": "",
           "disabled": false,
           "outlet": ""
