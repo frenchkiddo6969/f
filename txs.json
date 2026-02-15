@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-02-15T12:43:22.013Z"
+    "exportedAt": "2026-02-15T20:51:24.398Z"
   },
   "txList": [
     {
@@ -12103,6 +12103,33 @@
           "outlet": "",
           "blobMode": "svg",
           "blobShapeIndex": 13,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1771188669152",
+      "name": "Albenigen",
+      "latlng": [
+        9578.25,
+        8275.75
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "99.5",
+          "name": "R.Move",
+          "pi": "A355",
+          "kw": 0.8,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "AB",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         }
