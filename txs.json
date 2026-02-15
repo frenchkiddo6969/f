@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-02-13T23:33:29.271Z"
+    "exportedAt": "2026-02-15T12:43:22.013Z"
   },
   "txList": [
     {
@@ -11617,6 +11617,22 @@
       ],
       "point": null,
       "stations": [
+        {
+          "freq": "104.7",
+          "name": "Jazz Radio",
+          "pi": "82FC",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 320,
+          "country": "SP",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 1,
+          "blobOffsetX": 2,
+          "blobOffsetY": -7
+        },
         {
           "freq": "162.550",
           "name": "NWB-VIL",
