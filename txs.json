@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-02-15T20:51:24.398Z"
+    "exportedAt": "2026-02-18T16:45:05.996Z"
   },
   "txList": [
     {
@@ -484,14 +484,14 @@
         },
         {
           "freq": "106.2",
-          "name": "R.Fuego",
+          "name": "R.Russkiy Urban",
           "pi": "82A4",
           "kw": 2,
           "pol": "v",
           "directional": true,
           "directionAngle": 180,
           "country": "SP",
-          "disabled": true,
+          "disabled": false,
           "outlet": "",
           "blobMode": "svg",
           "blobShapeIndex": 2,
@@ -1710,14 +1710,14 @@
         },
         {
           "freq": "107.9",
-          "name": "R.Fuego",
+          "name": "R.Russkiy Urban",
           "pi": "82A4",
           "kw": 0.5,
           "pol": "C",
           "directional": true,
           "directionAngle": 180,
           "country": "SP",
-          "disabled": true,
+          "disabled": false,
           "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
@@ -12128,12 +12128,4 @@
           "country": "AB",
           "disabled": false,
           "outlet": "",
-          "blobMode": "legacy",
-          "blobShapeIndex": 0,
-          "blobOffsetX": 0,
-          "blobOffsetY": 0
-        }
-      ]
-    }
-  ]
-}
+       
