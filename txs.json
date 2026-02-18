@@ -12128,4 +12128,12 @@
           "country": "AB",
           "disabled": false,
           "outlet": "",
-       
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    }
+  ]
+}
