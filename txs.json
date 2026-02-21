@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-02-21T15:38:40.553Z"
+    "exportedAt": "2026-02-21T15:46:55.176Z"
   },
   "txList": [
     {
@@ -12144,6 +12144,22 @@
       ],
       "point": null,
       "stations": [
+        {
+          "freq": "91.4",
+          "name": "R.FG",
+          "pi": "822C",
+          "kw": 0.2,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 50,
+          "country": "SP",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 9,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
         {
           "freq": "92.6",
           "name": "Toeloz FM",
