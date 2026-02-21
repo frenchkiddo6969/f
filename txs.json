@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-02-19T12:49:42.756Z"
+    "exportedAt": "2026-02-21T15:38:40.553Z"
   },
   "txList": [
     {
@@ -12130,6 +12130,33 @@
           "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1771688104510",
+      "name": "Toeloz",
+      "latlng": [
+        11184.5,
+        3537.25
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "92.6",
+          "name": "Toeloz FM",
+          "pi": "868A",
+          "kw": 0.6,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 50,
+          "country": "SP",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 9,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         }
