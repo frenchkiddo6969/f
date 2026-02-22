@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-02-22T14:47:37.488Z"
+    "exportedAt": "2026-02-22T15:51:29.780Z"
   },
   "txList": [
     {
@@ -10363,7 +10363,7 @@
           "directional": true,
           "directionAngle": 194,
           "country": "SP",
-          "disabled": true,
+          "disabled": false,
           "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
@@ -10379,7 +10379,7 @@
           "directional": true,
           "directionAngle": 194,
           "country": "SP",
-          "disabled": true,
+          "disabled": false,
           "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
@@ -12189,6 +12189,33 @@
           "outlet": "",
           "blobMode": "svg",
           "blobShapeIndex": 9,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1771775406840",
+      "name": "Vologda",
+      "latlng": [
+        10352.75,
+        3217
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "98.9",
+          "name": "Vashe Radio",
+          "pi": "8698",
+          "kw": 0.2,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "SP",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         }
