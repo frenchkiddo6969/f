@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-02-21T15:46:55.176Z"
+    "exportedAt": "2026-02-22T14:47:37.488Z"
   },
   "txList": [
     {
@@ -7182,6 +7182,22 @@
           "blobOffsetY": 0
         },
         {
+          "freq": "89.8",
+          "name": "RTO R.1 [F]",
+          "pi": "8E10",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "SP",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
           "freq": "90.4",
           "name": "Studio Rave",
           "pi": "8742",
@@ -7190,7 +7206,7 @@
           "directional": false,
           "directionAngle": null,
           "country": "SP",
-          "disabled": true,
+          "disabled": false,
           "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
