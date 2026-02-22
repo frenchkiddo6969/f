@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-02-22T16:48:59.632Z"
+    "exportedAt": "2026-02-22T16:55:33.850Z"
   },
   "txList": [
     {
@@ -2571,7 +2571,7 @@
       "id": 1752267436482,
       "name": "Emmelburg",
       "latlng": [
-        10876.25,
+        10875.5,
         4934.5
       ],
       "point": null,
@@ -8986,6 +8986,22 @@
           "blobOffsetY": 0
         },
         {
+          "freq": "93.9",
+          "name": "R.Russkiy Urban",
+          "pi": "82A4",
+          "kw": 0.2,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 90,
+          "country": "SP",
+          "disabled": true,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
           "freq": "95.0",
           "name": "Europa 2",
           "pi": "82E2",
@@ -9440,6 +9456,22 @@
           "directionAngle": null,
           "country": "SP",
           "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "95.3",
+          "name": "R.Russkiy Urban",
+          "pi": "82A4",
+          "kw": 0.1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "SP",
+          "disabled": true,
           "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
