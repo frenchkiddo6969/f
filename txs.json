@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-02-22T15:51:29.780Z"
+    "exportedAt": "2026-02-22T16:48:59.632Z"
   },
   "txList": [
     {
@@ -7440,7 +7440,7 @@
         },
         {
           "freq": "101.9",
-          "name": "FiestaKanaal",
+          "name": "R.Fuego",
           "pi": "87B9",
           "kw": 0.5,
           "pol": "v",
