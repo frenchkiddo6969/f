@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-02-22T16:55:33.850Z"
+    "exportedAt": "2026-02-23T12:55:38.466Z"
   },
   "txList": [
     {
@@ -5599,14 +5599,14 @@
           "blobOffsetY": 0
         },
         {
-          "freq": 107.4,
+          "freq": "107.4",
           "name": "Hit Radio",
           "pi": "9094",
           "kw": 0.5,
           "pol": "V",
           "directional": true,
           "directionAngle": 27,
-          "country": "",
+          "country": "AK",
           "disabled": false,
           "outlet": "",
           "blobMode": "legacy",
@@ -5642,14 +5642,14 @@
           "blobOffsetY": 0
         },
         {
-          "freq": 97.2,
+          "freq": "97.2",
           "name": "Hit Radio",
           "pi": "9094",
           "kw": 0.5,
           "pol": "V",
           "directional": true,
           "directionAngle": 174,
-          "country": "",
+          "country": "AK",
           "disabled": false,
           "outlet": "",
           "blobMode": "legacy",
@@ -12244,6 +12244,33 @@
           "directional": false,
           "directionAngle": null,
           "country": "SP",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1771851235681",
+      "name": "Al Jahra",
+      "latlng": [
+        7000,
+        7696.25
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "87.7",
+          "name": "RSN 1",
+          "pi": "9901",
+          "kw": 6,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "AK",
           "disabled": false,
           "outlet": "",
           "blobMode": "legacy",
