@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-02-23T12:55:38.466Z"
+    "exportedAt": "2026-02-23T18:42:04.004Z"
   },
   "txList": [
     {
@@ -8804,6 +8804,22 @@
       "point": null,
       "stations": [
         {
+          "freq": "89.9",
+          "name": "R.Russkiy Urban",
+          "pi": "82A4",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 275,
+          "country": "SP",
+          "disabled": true,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
           "freq": "98.8",
           "name": "West FM",
           "pi": "8624",
@@ -11175,6 +11191,22 @@
           "directionAngle": null,
           "country": "SP",
           "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "89.3",
+          "name": "Jazz Radio",
+          "pi": "82FC",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "SP",
+          "disabled": true,
           "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
