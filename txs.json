@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-02-23T18:42:04.004Z"
+    "exportedAt": "2026-02-23T18:50:28.718Z"
   },
   "txList": [
     {
@@ -10950,9 +10950,41 @@
       "point": null,
       "stations": [
         {
+          "freq": "88.6",
+          "name": "Fun Radio",
+          "pi": "8217",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 4,
+          "country": "SP",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
           "freq": "98.1",
           "name": "R.FG",
           "pi": "822C",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 4,
+          "country": "SP",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "106.1",
+          "name": "NRJ Sveland",
+          "pi": "8220",
           "kw": 0.5,
           "pol": "v",
           "directional": true,
