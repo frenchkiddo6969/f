@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-02-23T18:50:28.718Z"
+    "exportedAt": "2026-03-01T09:52:54.263Z"
   },
   "txList": [
     {
@@ -419,16 +419,16 @@
           "blobOffsetY": 0
         },
         {
-          "freq": "103.7",
-          "name": "iRadio",
-          "pi": "83E2",
+          "freq": "103.8",
+          "name": "SPIN Sveland",
+          "pi": "8332",
           "kw": 7,
           "pol": "v",
           "directional": true,
           "directionAngle": 180,
           "country": "SP",
-          "disabled": false,
-          "outlet": "",
+          "disabled": true,
+          "outlet": "103.8",
           "blobMode": "svg",
           "blobShapeIndex": 2,
           "blobOffsetX": 0,
@@ -622,7 +622,7 @@
           "blobOffsetY": 0
         },
         {
-          "freq": 106.2,
+          "freq": "106.2",
           "name": "iRadio",
           "pi": "83E2",
           "kw": 0.5,
@@ -630,7 +630,7 @@
           "directional": false,
           "directionAngle": null,
           "country": "",
-          "disabled": false,
+          "disabled": true,
           "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
@@ -3179,7 +3179,7 @@
           "directional": true,
           "directionAngle": 220,
           "country": "",
-          "disabled": false,
+          "disabled": true,
           "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
@@ -4238,7 +4238,7 @@
           "blobOffsetY": 0
         },
         {
-          "freq": 105.7,
+          "freq": "105.7",
           "name": "iRadio",
           "pi": "83E2",
           "kw": 0.1,
@@ -4246,7 +4246,7 @@
           "directional": false,
           "directionAngle": null,
           "country": "",
-          "disabled": false,
+          "disabled": true,
           "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
@@ -5800,7 +5800,7 @@
           "directional": true,
           "directionAngle": 90,
           "country": "SP",
-          "disabled": false,
+          "disabled": true,
           "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
@@ -5982,7 +5982,7 @@
           "directional": true,
           "directionAngle": 270,
           "country": "",
-          "disabled": false,
+          "disabled": true,
           "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
@@ -7139,7 +7139,7 @@
           "blobOffsetY": 0
         },
         {
-          "freq": 104,
+          "freq": "104",
           "name": "iRadio",
           "pi": "83E2",
           "kw": 0.1,
@@ -7147,7 +7147,7 @@
           "directional": false,
           "directionAngle": null,
           "country": "",
-          "disabled": false,
+          "disabled": true,
           "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
@@ -7498,7 +7498,7 @@
           "blobOffsetY": 0
         },
         {
-          "freq": 103.1,
+          "freq": "103.1",
           "name": "iRadio",
           "pi": "83E2",
           "kw": 2,
@@ -7506,7 +7506,7 @@
           "directional": true,
           "directionAngle": 290,
           "country": "",
-          "disabled": false,
+          "disabled": true,
           "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
@@ -7699,7 +7699,7 @@
           "directional": false,
           "directionAngle": null,
           "country": "SP",
-          "disabled": false,
+          "disabled": true,
           "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
