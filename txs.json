@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-03-03T00:04:18.631Z"
+    "exportedAt": "2026-03-03T10:12:17.861Z"
   },
   "txList": [
     {
@@ -8812,7 +8812,7 @@
           "directional": true,
           "directionAngle": 275,
           "country": "SP",
-          "disabled": true,
+          "disabled": false,
           "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
