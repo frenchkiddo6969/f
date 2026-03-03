@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-03-03T10:12:17.861Z"
+    "exportedAt": "2026-03-03T11:17:39.287Z"
   },
   "txList": [
     {
@@ -12407,6 +12407,49 @@
           "pi": "6204",
           "kw": 79,
           "pol": "h",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BK",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1772536567821",
+      "name": "Katzrin",
+      "latlng": [
+        7595,
+        5870.5
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "98.3",
+          "name": "Emotion 98,3",
+          "pi": "822B",
+          "kw": 2,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BK",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "99.7",
+          "name": "Fine Radio",
+          "pi": "8224",
+          "kw": 2,
+          "pol": "v",
           "directional": false,
           "directionAngle": null,
           "country": "BK",
