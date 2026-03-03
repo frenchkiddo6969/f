@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-03-03T00:03:44.492Z"
+    "exportedAt": "2026-03-03T00:04:18.631Z"
   },
   "txList": [
     {
@@ -12358,7 +12358,7 @@
           "name": "Shatzav R.1",
           "pi": "6201",
           "kw": 158,
-          "pol": "v",
+          "pol": "h",
           "directional": false,
           "directionAngle": null,
           "country": "BK",
@@ -12374,7 +12374,7 @@
           "name": "Shatzav R.2",
           "pi": "6202",
           "kw": 158,
-          "pol": "v",
+          "pol": "h",
           "directional": false,
           "directionAngle": null,
           "country": "BK",
@@ -12390,7 +12390,7 @@
           "name": "Shatzav R.3",
           "pi": "6203",
           "kw": 158,
-          "pol": "v",
+          "pol": "h",
           "directional": false,
           "directionAngle": null,
           "country": "BK",
@@ -12406,7 +12406,7 @@
           "name": "Shatzav R.Hadashot",
           "pi": "6204",
           "kw": 79,
-          "pol": "v",
+          "pol": "h",
           "directional": false,
           "directionAngle": null,
           "country": "BK",
