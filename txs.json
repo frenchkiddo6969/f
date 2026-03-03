@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-03-01T17:45:45.909Z"
+    "exportedAt": "2026-03-03T00:03:44.492Z"
   },
   "txList": [
     {
@@ -12335,6 +12335,81 @@
           "directional": false,
           "directionAngle": null,
           "country": "AK",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1772495975184",
+      "name": "Katzrin",
+      "latlng": [
+        7810.75,
+        5620.25
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "87.9",
+          "name": "Shatzav R.1",
+          "pi": "6201",
+          "kw": 158,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BK",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "91.7",
+          "name": "Shatzav R.2",
+          "pi": "6202",
+          "kw": 158,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BK",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "93.5",
+          "name": "Shatzav R.3",
+          "pi": "6203",
+          "kw": 158,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BK",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "105.1",
+          "name": "Shatzav R.Hadashot",
+          "pi": "6204",
+          "kw": 79,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BK",
           "disabled": false,
           "outlet": "",
           "blobMode": "legacy",
