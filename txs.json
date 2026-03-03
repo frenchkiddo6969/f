@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-03-03T12:10:10.980Z"
+    "exportedAt": "2026-03-03T13:35:39.436Z"
   },
   "txList": [
     {
@@ -12431,9 +12431,9 @@
         {
           "freq": "98.3",
           "name": "Emotion 98,3",
-          "pi": "822B",
+          "pi": "622B",
           "kw": 2,
-          "pol": "v",
+          "pol": "c",
           "directional": false,
           "directionAngle": null,
           "country": "BK",
@@ -12447,9 +12447,41 @@
         {
           "freq": "99.7",
           "name": "Fine Radio",
-          "pi": "8224",
+          "pi": "6224",
           "kw": 2,
-          "pol": "v",
+          "pol": "c",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BK",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "101.6",
+          "name": "R.HaMusika",
+          "pi": "6219",
+          "kw": 1,
+          "pol": "c",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BK",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "102.4",
+          "name": "Dance FM",
+          "pi": "6217",
+          "kw": 2,
+          "pol": "c",
           "directional": false,
           "directionAngle": null,
           "country": "BK",
