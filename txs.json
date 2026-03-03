@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-03-03T11:17:39.287Z"
+    "exportedAt": "2026-03-03T12:06:08.746Z"
   },
   "txList": [
     {
@@ -12458,6 +12458,33 @@
           "blobMode": "legacy",
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1772539487429",
+      "name": "Katzrin",
+      "latlng": [
+        7576.25,
+        6049.75
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "90.0",
+          "name": "R.90s",
+          "pi": "66A7",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 180,
+          "country": "BK",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 2,
+          "blobOffsetX": -5,
           "blobOffsetY": 0
         }
       ]
