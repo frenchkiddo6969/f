@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-03-03T12:06:08.746Z"
+    "exportedAt": "2026-03-03T12:08:06.374Z"
   },
   "txList": [
     {
@@ -12473,7 +12473,7 @@
       "stations": [
         {
           "freq": "90.0",
-          "name": "R.90s",
+          "name": "R.90s FM",
           "pi": "66A7",
           "kw": 0.5,
           "pol": "v",
