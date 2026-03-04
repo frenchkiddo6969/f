@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-03-03T13:57:09.722Z"
+    "exportedAt": "2026-03-04T11:35:59.196Z"
   },
   "txList": [
     {
@@ -713,8 +713,8 @@
           "blobOffsetY": 0
         },
         {
-          "freq": 103.1,
-          "name": "Centraal FM",
+          "freq": "103.1",
+          "name": "R.M",
           "pi": "8888",
           "kw": 1,
           "pol": "V",
