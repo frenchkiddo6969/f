@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-03-04T11:35:59.196Z"
+    "exportedAt": "2026-03-04T13:44:16.565Z"
   },
   "txList": [
     {
@@ -12431,7 +12431,7 @@
         {
           "freq": "98.3",
           "name": "Emotion 98,3",
-          "pi": "622B",
+          "pi": "662B",
           "kw": 2,
           "pol": "c",
           "directional": false,
