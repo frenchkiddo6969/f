@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-03-04T20:49:34.396Z"
+    "exportedAt": "2026-03-05T10:43:28.743Z"
   },
   "txList": [
     {
@@ -9531,6 +9531,22 @@
           "directionAngle": 176,
           "country": "SP",
           "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "91.8",
+          "name": "R.FG",
+          "pi": "822C",
+          "kw": 0.2,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 176,
+          "country": "SP",
+          "disabled": true,
           "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
