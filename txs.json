@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-03-05T10:43:28.743Z"
+    "exportedAt": "2026-03-05T12:29:21.303Z"
   },
   "txList": [
     {
@@ -12439,8 +12439,8 @@
       "id": "tx_1772536567821",
       "name": "Katzrin",
       "latlng": [
-        7595,
-        5870.5
+        7665,
+        5859.5
       ],
       "point": null,
       "stations": [
