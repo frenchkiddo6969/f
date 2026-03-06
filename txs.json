@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-03-06T00:00:16.916Z"
+    "exportedAt": "2026-03-06T00:05:51.528Z"
   },
   "txList": [
     {
@@ -169,7 +169,7 @@
         },
         {
           "freq": "97.6",
-          "name": "RTO R.1 [F]",
+          "name": "RTO Rouge [F]",
           "pi": "8E10",
           "kw": 5,
           "pol": "v",
@@ -380,22 +380,6 @@
           "directionAngle": 180,
           "country": "",
           "disabled": false,
-          "outlet": "",
-          "blobMode": "svg",
-          "blobShapeIndex": 2,
-          "blobOffsetX": 0,
-          "blobOffsetY": 0
-        },
-        {
-          "freq": "97.6",
-          "name": "",
-          "pi": "",
-          "kw": 3.4,
-          "pol": "",
-          "directional": true,
-          "directionAngle": 180,
-          "country": "",
-          "disabled": true,
           "outlet": "",
           "blobMode": "svg",
           "blobShapeIndex": 2,
@@ -7183,7 +7167,7 @@
         },
         {
           "freq": "89.8",
-          "name": "RTO R.1 [F]",
+          "name": "RTO Rouge [F]",
           "pi": "8E10",
           "kw": 0.5,
           "pol": "v",
