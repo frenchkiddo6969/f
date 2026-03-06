@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-03-05T12:29:21.303Z"
+    "exportedAt": "2026-03-06T00:00:16.916Z"
   },
   "txList": [
     {
@@ -168,6 +168,22 @@
           "blobOffsetY": 0
         },
         {
+          "freq": "97.6",
+          "name": "RTO R.1 [F]",
+          "pi": "8E10",
+          "kw": 5,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "SP",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
           "freq": "98.2",
           "name": "Novoye Radio [RUS]",
           "pi": "7739",
@@ -236,22 +252,6 @@
           "name": "Jazz Radio",
           "pi": "82FC",
           "kw": 0.5,
-          "pol": "v",
-          "directional": false,
-          "directionAngle": null,
-          "country": "SP",
-          "disabled": false,
-          "outlet": "",
-          "blobMode": "legacy",
-          "blobShapeIndex": 0,
-          "blobOffsetX": 0,
-          "blobOffsetY": 0
-        },
-        {
-          "freq": "103.2",
-          "name": "RTO R.1 [F]",
-          "pi": "8E10",
-          "kw": 5,
           "pol": "v",
           "directional": false,
           "directionAngle": null,
@@ -388,14 +388,14 @@
         },
         {
           "freq": "97.6",
-          "name": "Top Radio [RUS]",
-          "pi": "7763",
+          "name": "",
+          "pi": "",
           "kw": 3.4,
-          "pol": "v",
+          "pol": "",
           "directional": true,
           "directionAngle": 180,
-          "country": "SP",
-          "disabled": false,
+          "country": "",
+          "disabled": true,
           "outlet": "",
           "blobMode": "svg",
           "blobShapeIndex": 2,
