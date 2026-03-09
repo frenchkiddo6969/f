@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-03-09T16:09:36.972Z"
+    "exportedAt": "2026-03-09T16:36:05.205Z"
   },
   "txList": [
     {
@@ -12609,6 +12609,199 @@
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
           "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1773073335127",
+      "name": "Ayanot",
+      "latlng": [
+        8795.25,
+        6182.5
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "91.1",
+          "name": "Shatzav R.1",
+          "pi": "6201",
+          "kw": 10,
+          "pol": "h",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BK",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "92.6",
+          "name": "Shatzav R.2",
+          "pi": "6202",
+          "kw": 10,
+          "pol": "h",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BK",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "99.7",
+          "name": "Shatzav R.3",
+          "pi": "6203",
+          "kw": 10,
+          "pol": "h",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BK",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "104.7",
+          "name": "Shatzav R.Hadashot",
+          "pi": "6204",
+          "kw": 5,
+          "pol": "h",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BK",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1773073525423",
+      "name": "Shahar",
+      "latlng": [
+        8652.013370937866,
+        5430.4348067858455
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "88.3",
+          "name": "Shatzav R.1",
+          "pi": "6201",
+          "kw": 7.9,
+          "pol": "h",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BK",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "90.9",
+          "name": "Shatzav R.2",
+          "pi": "6202",
+          "kw": 7.9,
+          "pol": "h",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BK",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "96.5",
+          "name": "Shatzav R.3",
+          "pi": "6203",
+          "kw": 7.9,
+          "pol": "h",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BK",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "104.9",
+          "name": "Shatzav R.Hadashot",
+          "pi": "6204",
+          "kw": 0.79,
+          "pol": "h",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BK",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1773073865446",
+      "name": "Shahar",
+      "latlng": [
+        8589.5,
+        5364.25
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "94.1",
+          "name": "R.HaMusika",
+          "pi": "6219",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BK",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 19,
+          "blobOffsetX": 5,
+          "blobOffsetY": -2
+        },
+        {
+          "freq": "100.3",
+          "name": "R.1",
+          "pi": "6224",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": null,
+          "country": "BK",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 19,
+          "blobOffsetX": 5,
+          "blobOffsetY": -2
         }
       ]
     }
