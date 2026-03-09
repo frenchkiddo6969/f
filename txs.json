@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-03-09T18:01:22.894Z"
+    "exportedAt": "2026-03-09T18:09:17.101Z"
   },
   "txList": [
     {
@@ -12598,7 +12598,7 @@
           "directionAngle": 270,
           "country": "BK",
           "disabled": false,
-          "outlet": "",
+          "outlet": "Katzrin",
           "blobMode": "svg",
           "blobShapeIndex": 2,
           "blobOffsetX": 0,
@@ -13190,6 +13190,49 @@
           "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1773079629136",
+      "name": "Shitim",
+      "latlng": [
+        8269.5,
+        5540
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "103.0",
+          "name": "R.Miqra",
+          "pi": "622A",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 80,
+          "country": "BK",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 4,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "107.3",
+          "name": "R.1",
+          "pi": "6224",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 80,
+          "country": "BK",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 4,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         }
