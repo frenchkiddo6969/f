@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-03-09T16:36:05.205Z"
+    "exportedAt": "2026-03-09T17:14:33.886Z"
   },
   "txList": [
     {
@@ -12772,6 +12772,22 @@
       "point": null,
       "stations": [
         {
+          "freq": "92.5",
+          "name": "",
+          "pi": "",
+          "kw": 0,
+          "pol": "",
+          "directional": false,
+          "directionAngle": null,
+          "country": "",
+          "disabled": true,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
           "freq": "94.1",
           "name": "R.HaMusika",
           "pi": "6219",
@@ -12788,6 +12804,70 @@
           "blobOffsetY": -2
         },
         {
+          "freq": "94.9",
+          "name": "",
+          "pi": "",
+          "kw": 0,
+          "pol": "",
+          "directional": false,
+          "directionAngle": null,
+          "country": "",
+          "disabled": true,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "95.5",
+          "name": "",
+          "pi": "",
+          "kw": 0,
+          "pol": "",
+          "directional": false,
+          "directionAngle": null,
+          "country": "",
+          "disabled": true,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "95.9",
+          "name": "",
+          "pi": "",
+          "kw": 0,
+          "pol": "",
+          "directional": false,
+          "directionAngle": null,
+          "country": "",
+          "disabled": true,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "96.9",
+          "name": "",
+          "pi": "",
+          "kw": 0,
+          "pol": "",
+          "directional": false,
+          "directionAngle": null,
+          "country": "",
+          "disabled": true,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
           "freq": "100.3",
           "name": "R.1",
           "pi": "6224",
@@ -12802,6 +12882,156 @@
           "blobShapeIndex": 19,
           "blobOffsetX": 5,
           "blobOffsetY": -2
+        }
+      ]
+    },
+    {
+      "id": "tx_1773076375870",
+      "name": "Shahar",
+      "latlng": [
+        8659.5,
+        5408.25
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "98.2",
+          "name": "",
+          "pi": "",
+          "kw": 0,
+          "pol": "",
+          "directional": false,
+          "directionAngle": null,
+          "country": "",
+          "disabled": true,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "102.3",
+          "name": "",
+          "pi": "",
+          "kw": 0,
+          "pol": "",
+          "directional": false,
+          "directionAngle": null,
+          "country": "",
+          "disabled": true,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "106.0",
+          "name": "",
+          "pi": "",
+          "kw": 0,
+          "pol": "",
+          "directional": false,
+          "directionAngle": null,
+          "country": "",
+          "disabled": true,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1773076423668",
+      "name": "Shahar",
+      "latlng": [
+        8628.5,
+        5366.25
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "89.2",
+          "name": "",
+          "pi": "",
+          "kw": 0,
+          "pol": "",
+          "directional": false,
+          "directionAngle": null,
+          "country": "",
+          "disabled": true,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "90.5",
+          "name": "",
+          "pi": "",
+          "kw": 0,
+          "pol": "",
+          "directional": false,
+          "directionAngle": null,
+          "country": "",
+          "disabled": true,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "93.4",
+          "name": "",
+          "pi": "",
+          "kw": 0,
+          "pol": "",
+          "directional": false,
+          "directionAngle": null,
+          "country": "",
+          "disabled": true,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "98.8",
+          "name": "",
+          "pi": "",
+          "kw": 0,
+          "pol": "",
+          "directional": false,
+          "directionAngle": null,
+          "country": "",
+          "disabled": true,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "99.2",
+          "name": "",
+          "pi": "",
+          "kw": 0,
+          "pol": "",
+          "directional": false,
+          "directionAngle": null,
+          "country": "",
+          "disabled": true,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
         }
       ]
     }
