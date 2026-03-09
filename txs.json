@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-03-09T18:09:17.101Z"
+    "exportedAt": "2026-03-09T18:14:49.408Z"
   },
   "txList": [
     {
@@ -13204,6 +13204,22 @@
       ],
       "point": null,
       "stations": [
+        {
+          "freq": "98.0",
+          "name": "R.HaMusika",
+          "pi": "6219",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 80,
+          "country": "BK",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 4,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
         {
           "freq": "103.0",
           "name": "R.Miqra",
