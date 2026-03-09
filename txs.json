@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-03-09T18:14:49.408Z"
+    "exportedAt": "2026-03-09T18:25:50.904Z"
   },
   "txList": [
     {
@@ -12937,15 +12937,15 @@
           "pi": "",
           "kw": 0,
           "pol": "",
-          "directional": false,
-          "directionAngle": null,
+          "directional": true,
+          "directionAngle": 20,
           "country": "",
           "disabled": true,
           "outlet": "",
-          "blobMode": "legacy",
-          "blobShapeIndex": 0,
-          "blobOffsetX": 0,
-          "blobOffsetY": 0
+          "blobMode": "svg",
+          "blobShapeIndex": 19,
+          "blobOffsetX": 5,
+          "blobOffsetY": -2
         },
         {
           "freq": "94.1",
@@ -12953,8 +12953,8 @@
           "pi": "6219",
           "kw": 0.5,
           "pol": "v",
-          "directional": false,
-          "directionAngle": null,
+          "directional": true,
+          "directionAngle": 20,
           "country": "BK",
           "disabled": false,
           "outlet": "",
@@ -12969,15 +12969,15 @@
           "pi": "",
           "kw": 0,
           "pol": "",
-          "directional": false,
-          "directionAngle": null,
+          "directional": true,
+          "directionAngle": 20,
           "country": "",
           "disabled": true,
           "outlet": "",
-          "blobMode": "legacy",
-          "blobShapeIndex": 0,
-          "blobOffsetX": 0,
-          "blobOffsetY": 0
+          "blobMode": "svg",
+          "blobShapeIndex": 19,
+          "blobOffsetX": 5,
+          "blobOffsetY": -2
         },
         {
           "freq": "95.5",
@@ -12985,15 +12985,15 @@
           "pi": "",
           "kw": 0,
           "pol": "",
-          "directional": false,
-          "directionAngle": null,
+          "directional": true,
+          "directionAngle": 20,
           "country": "",
           "disabled": true,
           "outlet": "",
-          "blobMode": "legacy",
-          "blobShapeIndex": 0,
-          "blobOffsetX": 0,
-          "blobOffsetY": 0
+          "blobMode": "svg",
+          "blobShapeIndex": 19,
+          "blobOffsetX": 5,
+          "blobOffsetY": -2
         },
         {
           "freq": "95.9",
@@ -13001,15 +13001,15 @@
           "pi": "",
           "kw": 0,
           "pol": "",
-          "directional": false,
-          "directionAngle": null,
+          "directional": true,
+          "directionAngle": 20,
           "country": "",
           "disabled": true,
           "outlet": "",
-          "blobMode": "legacy",
-          "blobShapeIndex": 0,
-          "blobOffsetX": 0,
-          "blobOffsetY": 0
+          "blobMode": "svg",
+          "blobShapeIndex": 19,
+          "blobOffsetX": 5,
+          "blobOffsetY": -2
         },
         {
           "freq": "96.9",
@@ -13017,15 +13017,15 @@
           "pi": "",
           "kw": 0,
           "pol": "",
-          "directional": false,
-          "directionAngle": null,
+          "directional": true,
+          "directionAngle": 20,
           "country": "",
           "disabled": true,
           "outlet": "",
-          "blobMode": "legacy",
-          "blobShapeIndex": 0,
-          "blobOffsetX": 0,
-          "blobOffsetY": 0
+          "blobMode": "svg",
+          "blobShapeIndex": 19,
+          "blobOffsetX": 5,
+          "blobOffsetY": -2
         },
         {
           "freq": "100.3",
@@ -13034,7 +13034,7 @@
           "kw": 0.5,
           "pol": "v",
           "directional": true,
-          "directionAngle": null,
+          "directionAngle": 20,
           "country": "BK",
           "disabled": false,
           "outlet": "",
