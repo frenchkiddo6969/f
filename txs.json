@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-03-08T15:15:24.640Z"
+    "exportedAt": "2026-03-09T16:09:36.972Z"
   },
   "txList": [
     {
@@ -12482,15 +12482,15 @@
           "pi": "662B",
           "kw": 2,
           "pol": "c",
-          "directional": false,
-          "directionAngle": null,
+          "directional": true,
+          "directionAngle": 270,
           "country": "BK",
           "disabled": false,
           "outlet": "",
-          "blobMode": "legacy",
-          "blobShapeIndex": 0,
+          "blobMode": "svg",
+          "blobShapeIndex": 2,
           "blobOffsetX": 0,
-          "blobOffsetY": 0
+          "blobOffsetY": -2
         },
         {
           "freq": "99.7",
@@ -12498,15 +12498,15 @@
           "pi": "6224",
           "kw": 2,
           "pol": "c",
-          "directional": false,
-          "directionAngle": null,
+          "directional": true,
+          "directionAngle": 270,
           "country": "BK",
           "disabled": false,
           "outlet": "",
-          "blobMode": "legacy",
-          "blobShapeIndex": 0,
+          "blobMode": "svg",
+          "blobShapeIndex": 2,
           "blobOffsetX": 0,
-          "blobOffsetY": 0
+          "blobOffsetY": -2
         },
         {
           "freq": "101.6",
@@ -12514,15 +12514,15 @@
           "pi": "6219",
           "kw": 1,
           "pol": "c",
-          "directional": false,
-          "directionAngle": null,
+          "directional": true,
+          "directionAngle": 270,
           "country": "BK",
           "disabled": false,
           "outlet": "",
-          "blobMode": "legacy",
-          "blobShapeIndex": 0,
+          "blobMode": "svg",
+          "blobShapeIndex": 2,
           "blobOffsetX": 0,
-          "blobOffsetY": 0
+          "blobOffsetY": -2
         },
         {
           "freq": "102.4",
@@ -12530,15 +12530,15 @@
           "pi": "6217",
           "kw": 2,
           "pol": "c",
-          "directional": false,
-          "directionAngle": null,
+          "directional": true,
+          "directionAngle": 270,
           "country": "BK",
           "disabled": false,
           "outlet": "",
-          "blobMode": "legacy",
-          "blobShapeIndex": 0,
+          "blobMode": "svg",
+          "blobShapeIndex": 2,
           "blobOffsetX": 0,
-          "blobOffsetY": 0
+          "blobOffsetY": -2
         }
       ]
     },
