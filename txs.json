@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-03-09T18:25:50.904Z"
+    "exportedAt": "2026-03-09T18:44:14.929Z"
   },
   "txList": [
     {
@@ -12716,6 +12716,22 @@
           "name": "R.80s90s FM",
           "pi": "66A7",
           "kw": 0.5,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 180,
+          "country": "BK",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 2,
+          "blobOffsetX": -5,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "102.9",
+          "name": "Kol Ktzrin",
+          "pi": "66A8",
+          "kw": 0.63,
           "pol": "v",
           "directional": true,
           "directionAngle": 180,
