@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-03-09T18:44:14.929Z"
+    "exportedAt": "2026-03-14T00:00:39.206Z"
   },
   "txList": [
     {
@@ -5486,65 +5486,6 @@
           "pi": "3DFA",
           "kw": 6.3,
           "pol": "c",
-          "directional": false,
-          "directionAngle": null,
-          "country": "",
-          "disabled": false,
-          "outlet": "",
-          "blobMode": "legacy",
-          "blobShapeIndex": 0,
-          "blobOffsetX": 0,
-          "blobOffsetY": 0
-        }
-      ]
-    },
-    {
-      "id": 1755627263889,
-      "name": "Swimsuit",
-      "latlng": [
-        8090.75,
-        8657.75
-      ],
-      "point": null,
-      "stations": [
-        {
-          "freq": "103.5",
-          "name": "NKM Kossuth Rádió",
-          "pi": "51B1",
-          "kw": 0.275,
-          "pol": "H",
-          "directional": false,
-          "directionAngle": null,
-          "country": "NY",
-          "disabled": false,
-          "outlet": "",
-          "blobMode": "legacy",
-          "blobShapeIndex": 0,
-          "blobOffsetX": 0,
-          "blobOffsetY": 0
-        },
-        {
-          "freq": 105.3,
-          "name": "NKM Bartók Rádió",
-          "pi": "51B2",
-          "kw": 0.275,
-          "pol": "H",
-          "directional": false,
-          "directionAngle": null,
-          "country": "",
-          "disabled": false,
-          "outlet": "",
-          "blobMode": "legacy",
-          "blobShapeIndex": 0,
-          "blobOffsetX": 0,
-          "blobOffsetY": 0
-        },
-        {
-          "freq": 106.7,
-          "name": "NKM Petőfi Rádió",
-          "pi": "51B3",
-          "kw": 0.275,
-          "pol": "H",
           "directional": false,
           "directionAngle": null,
           "country": "",
