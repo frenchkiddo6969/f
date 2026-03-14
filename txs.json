@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-03-14T00:00:39.206Z"
+    "exportedAt": "2026-03-14T00:03:42.168Z"
   },
   "txList": [
     {
@@ -4878,7 +4878,7 @@
           "directional": false,
           "directionAngle": null,
           "country": "NY",
-          "disabled": false,
+          "disabled": true,
           "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
@@ -4886,7 +4886,7 @@
           "blobOffsetY": 0
         },
         {
-          "freq": 98.8,
+          "freq": "98.8",
           "name": "NKM Bartók Rádió",
           "pi": "B202",
           "kw": 6,
@@ -4894,7 +4894,7 @@
           "directional": false,
           "directionAngle": null,
           "country": "",
-          "disabled": false,
+          "disabled": true,
           "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
@@ -4902,7 +4902,7 @@
           "blobOffsetY": 0
         },
         {
-          "freq": 99.7,
+          "freq": "99.7",
           "name": "NKM Petőfi Rádió",
           "pi": "B203",
           "kw": 6,
@@ -4910,7 +4910,7 @@
           "directional": false,
           "directionAngle": null,
           "country": "",
-          "disabled": false,
+          "disabled": true,
           "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
@@ -4937,7 +4937,7 @@
           "directional": true,
           "directionAngle": 272,
           "country": "NY",
-          "disabled": false,
+          "disabled": true,
           "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
@@ -4945,7 +4945,7 @@
           "blobOffsetY": 0
         },
         {
-          "freq": 89,
+          "freq": "89",
           "name": "Hír FM",
           "pi": "B31A",
           "kw": 4,
@@ -4953,7 +4953,7 @@
           "directional": true,
           "directionAngle": 280,
           "country": "",
-          "disabled": false,
+          "disabled": true,
           "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
@@ -4961,7 +4961,7 @@
           "blobOffsetY": 0
         },
         {
-          "freq": 89.9,
+          "freq": "89.9",
           "name": "Humor FM",
           "pi": "B315",
           "kw": 4,
@@ -4969,7 +4969,7 @@
           "directional": true,
           "directionAngle": 280,
           "country": "",
-          "disabled": false,
+          "disabled": true,
           "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
@@ -4977,7 +4977,7 @@
           "blobOffsetY": 0
         },
         {
-          "freq": 90.3,
+          "freq": "90.3",
           "name": "Klasszik Rádió",
           "pi": "B421",
           "kw": 1,
@@ -4985,7 +4985,7 @@
           "directional": true,
           "directionAngle": 280,
           "country": "",
-          "disabled": false,
+          "disabled": true,
           "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
@@ -4993,7 +4993,7 @@
           "blobOffsetY": 0
         },
         {
-          "freq": 91.1,
+          "freq": "91.1",
           "name": "DFM Nagyarorszag",
           "pi": "B3DF",
           "kw": 4,
@@ -5001,7 +5001,7 @@
           "directional": true,
           "directionAngle": 281,
           "country": "",
-          "disabled": false,
+          "disabled": true,
           "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
@@ -5009,7 +5009,7 @@
           "blobOffsetY": 0
         },
         {
-          "freq": 93.7,
+          "freq": "93.7",
           "name": "OnlyHits",
           "pi": "B422",
           "kw": 1,
@@ -5017,7 +5017,7 @@
           "directional": true,
           "directionAngle": 280,
           "country": "",
-          "disabled": false,
+          "disabled": true,
           "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
@@ -5025,7 +5025,7 @@
           "blobOffsetY": 0
         },
         {
-          "freq": 98,
+          "freq": "98",
           "name": "98 Rádió",
           "pi": "B498",
           "kw": 4,
@@ -5033,7 +5033,7 @@
           "directional": true,
           "directionAngle": 280,
           "country": "",
-          "disabled": false,
+          "disabled": true,
           "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
@@ -5041,7 +5041,7 @@
           "blobOffsetY": 0
         },
         {
-          "freq": 104.7,
+          "freq": "104.7",
           "name": "Mária Rádió",
           "pi": "B3CC",
           "kw": 1,
@@ -5049,7 +5049,7 @@
           "directional": true,
           "directionAngle": 280,
           "country": "",
-          "disabled": false,
+          "disabled": true,
           "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
@@ -5057,7 +5057,7 @@
           "blobOffsetY": 0
         },
         {
-          "freq": 107.5,
+          "freq": "107.5",
           "name": "Rock FM",
           "pi": "B41E",
           "kw": 4,
@@ -5065,7 +5065,7 @@
           "directional": true,
           "directionAngle": 280,
           "country": "",
-          "disabled": false,
+          "disabled": true,
           "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
@@ -5073,7 +5073,7 @@
           "blobOffsetY": 0
         },
         {
-          "freq": 107.9,
+          "freq": "107.9",
           "name": "Szia Rádió",
           "pi": "B539",
           "kw": 1,
@@ -5081,7 +5081,7 @@
           "directional": true,
           "directionAngle": 280,
           "country": "",
-          "disabled": false,
+          "disabled": true,
           "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
@@ -5108,7 +5108,7 @@
           "directional": false,
           "directionAngle": null,
           "country": "NY",
-          "disabled": false,
+          "disabled": true,
           "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
@@ -5116,7 +5116,7 @@
           "blobOffsetY": 0
         },
         {
-          "freq": 90.8,
+          "freq": "90.8",
           "name": "NKM Petőfi Rádió",
           "pi": "B203",
           "kw": 5,
@@ -5124,7 +5124,7 @@
           "directional": false,
           "directionAngle": null,
           "country": "",
-          "disabled": false,
+          "disabled": true,
           "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
@@ -5132,7 +5132,7 @@
           "blobOffsetY": 0
         },
         {
-          "freq": 105.5,
+          "freq": "105.5",
           "name": "NKM Bartók Rádió",
           "pi": "B202",
           "kw": 6,
@@ -5140,7 +5140,7 @@
           "directional": false,
           "directionAngle": null,
           "country": "",
-          "disabled": false,
+          "disabled": true,
           "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
@@ -5167,7 +5167,7 @@
           "directional": false,
           "directionAngle": null,
           "country": "NY",
-          "disabled": false,
+          "disabled": true,
           "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
@@ -5175,7 +5175,7 @@
           "blobOffsetY": 0
         },
         {
-          "freq": 95.5,
+          "freq": "95.5",
           "name": "NKM Bartók Rádió",
           "pi": "B202",
           "kw": 6.3,
@@ -5183,7 +5183,7 @@
           "directional": false,
           "directionAngle": null,
           "country": "",
-          "disabled": false,
+          "disabled": true,
           "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
@@ -5191,7 +5191,7 @@
           "blobOffsetY": 0
         },
         {
-          "freq": 97.4,
+          "freq": "97.4",
           "name": "NKM Petőfi Rádió",
           "pi": "B203",
           "kw": 6.3,
@@ -5199,7 +5199,7 @@
           "directional": false,
           "directionAngle": null,
           "country": "",
-          "disabled": false,
+          "disabled": true,
           "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
@@ -5226,7 +5226,7 @@
           "directional": true,
           "directionAngle": 197,
           "country": "NY",
-          "disabled": false,
+          "disabled": true,
           "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
@@ -5350,7 +5350,7 @@
           "directional": true,
           "directionAngle": 93,
           "country": "NY",
-          "disabled": false,
+          "disabled": true,
           "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
@@ -5358,7 +5358,7 @@
           "blobOffsetY": 0
         },
         {
-          "freq": 104.5,
+          "freq": "104.5",
           "name": "Hír FM",
           "pi": "B31A",
           "kw": 0.5,
@@ -5366,7 +5366,7 @@
           "directional": true,
           "directionAngle": 93,
           "country": "",
-          "disabled": false,
+          "disabled": true,
           "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
