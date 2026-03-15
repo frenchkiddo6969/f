@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-03-15T23:29:38.414Z"
+    "exportedAt": "2026-03-15T23:40:22.685Z"
   },
   "txList": [
     {
@@ -8700,6 +8700,22 @@
           "directionAngle": null,
           "country": "OR",
           "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "94.7",
+          "name": "ORNL-FM",
+          "pi": "3E41",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "OR",
+          "disabled": true,
           "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
