@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-03-15T21:49:01.554Z"
+    "exportedAt": "2026-03-15T23:29:38.414Z"
   },
   "txList": [
     {
@@ -8390,8 +8390,8 @@
       "id": 1764209144517,
       "name": "Rouen",
       "latlng": [
-        10149.75,
-        9587
+        10148.25,
+        9582
       ],
       "point": null,
       "stations": [
@@ -8594,15 +8594,31 @@
           "blobOffsetY": 0
         },
         {
-          "freq": 105.3,
+          "freq": "105.3",
           "name": "OPB Classical",
           "pi": "5204",
-          "kw": 0.05,
+          "kw": 0.1,
           "pol": "v",
           "directional": false,
           "directionAngle": null,
           "country": "",
           "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "105.7",
+          "name": "ORNP-FM",
+          "pi": "3E45",
+          "kw": 0.1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "OR",
+          "disabled": true,
           "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
@@ -8652,36 +8668,9 @@
           "name": "OPB R.Aisne",
           "pi": "5A55",
           "kw": 0.5,
-          "pol": "",
+          "pol": "h",
           "directional": true,
           "directionAngle": 310,
-          "country": "OR",
-          "disabled": false,
-          "outlet": "",
-          "blobMode": "legacy",
-          "blobShapeIndex": 0,
-          "blobOffsetX": 0,
-          "blobOffsetY": 0
-        }
-      ]
-    },
-    {
-      "id": 1764210970465,
-      "name": "Toulouse",
-      "latlng": [
-        9652.5,
-        9304.25
-      ],
-      "point": null,
-      "stations": [
-        {
-          "freq": "100.5",
-          "name": "OPB R.Aisne",
-          "pi": "5A55",
-          "kw": 0.1,
-          "pol": "v",
-          "directional": false,
-          "directionAngle": null,
           "country": "OR",
           "disabled": false,
           "outlet": "",
@@ -13249,6 +13238,49 @@
           "outlet": "",
           "blobMode": "svg",
           "blobShapeIndex": 5,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1773616884334",
+      "name": "Rouen",
+      "latlng": [
+        9867.5,
+        9580.25
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "94.9",
+          "name": "OSKY-FM",
+          "pi": "A4A4",
+          "kw": 6.538,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "OR",
+          "disabled": true,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "100.3",
+          "name": "ONRJ-FM",
+          "pi": "3417",
+          "kw": 6.538,
+          "pol": "c",
+          "directional": false,
+          "directionAngle": null,
+          "country": "OR",
+          "disabled": true,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         }
