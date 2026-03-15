@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-03-14T00:03:42.168Z"
+    "exportedAt": "2026-03-15T21:49:01.554Z"
   },
   "txList": [
     {
@@ -13206,6 +13206,49 @@
           "outlet": "",
           "blobMode": "svg",
           "blobShapeIndex": 4,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1773610224934",
+      "name": "Tollebeek",
+      "latlng": [
+        11481.5,
+        4446.75
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "94.7",
+          "name": "R.FG",
+          "pi": "822C",
+          "kw": 0.1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 40,
+          "country": "SP",
+          "disabled": true,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 5,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "96.5",
+          "name": "Fun Radio",
+          "pi": "8217",
+          "kw": 0.1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 40,
+          "country": "SP",
+          "disabled": true,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 5,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         }
