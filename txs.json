@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-03-15T23:40:22.685Z"
+    "exportedAt": "2026-03-16T01:25:00.848Z"
   },
   "txList": [
     {
@@ -13269,15 +13269,31 @@
       "point": null,
       "stations": [
         {
+          "freq": "92.5",
+          "name": "OKSN-FM",
+          "pi": "2C49",
+          "kw": 7.421,
+          "pol": "c",
+          "directional": false,
+          "directionAngle": null,
+          "country": "OR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
           "freq": "94.9",
           "name": "OSKY-FM",
           "pi": "A4A4",
           "kw": 6.538,
-          "pol": "v",
+          "pol": "c",
           "directional": false,
           "directionAngle": null,
           "country": "OR",
-          "disabled": true,
+          "disabled": false,
           "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
@@ -13293,7 +13309,7 @@
           "directional": false,
           "directionAngle": null,
           "country": "OR",
-          "disabled": true,
+          "disabled": false,
           "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
