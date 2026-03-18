@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-03-16T01:25:00.848Z"
+    "exportedAt": "2026-03-18T19:00:45.585Z"
   },
   "txList": [
     {
@@ -169,7 +169,7 @@
         },
         {
           "freq": "97.6",
-          "name": "RTO Rouge [F]",
+          "name": "RTO Flash FM [F]",
           "pi": "8E10",
           "kw": 5,
           "pol": "v",
@@ -7108,7 +7108,7 @@
         },
         {
           "freq": "89.8",
-          "name": "RTO Rouge [F]",
+          "name": "RTO Flash FM [F]",
           "pi": "8E10",
           "kw": 0.5,
           "pol": "v",
