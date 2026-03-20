@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-03-18T19:00:45.585Z"
+    "exportedAt": "2026-03-20T23:10:00.802Z"
   },
   "txList": [
     {
@@ -13220,8 +13220,8 @@
       "id": "tx_1773610224934",
       "name": "Tollebeek",
       "latlng": [
-        11481.5,
-        4446.75
+        11481.552991316266,
+        4447.1124061415085
       ],
       "point": null,
       "stations": [
@@ -13234,7 +13234,23 @@
           "directional": true,
           "directionAngle": 40,
           "country": "SP",
-          "disabled": true,
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 5,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "96.1",
+          "name": "R.Rock",
+          "pi": "8733",
+          "kw": 0.1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 40,
+          "country": "SP",
+          "disabled": false,
           "outlet": "",
           "blobMode": "svg",
           "blobShapeIndex": 5,
@@ -13250,7 +13266,7 @@
           "directional": true,
           "directionAngle": 40,
           "country": "SP",
-          "disabled": true,
+          "disabled": false,
           "outlet": "",
           "blobMode": "svg",
           "blobShapeIndex": 5,
