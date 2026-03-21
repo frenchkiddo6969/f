@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-03-20T23:10:00.802Z"
+    "exportedAt": "2026-03-21T20:19:19.120Z"
   },
   "txList": [
     {
@@ -8235,15 +8235,15 @@
       "point": null,
       "stations": [
         {
-          "freq": "90.8",
-          "name": "unknown",
-          "pi": "",
-          "kw": 0,
-          "pol": "",
+          "freq": "92.6",
+          "name": "Virgin Radio",
+          "pi": "A355",
+          "kw": 0.6,
+          "pol": "v",
           "directional": false,
           "directionAngle": null,
-          "country": "",
-          "disabled": true,
+          "country": "AB",
+          "disabled": false,
           "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
@@ -8318,6 +8318,22 @@
           "directional": false,
           "directionAngle": null,
           "country": "",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "162.425",
+          "name": "AXI812",
+          "pi": "",
+          "kw": 1.5,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "AB",
           "disabled": false,
           "outlet": "",
           "blobMode": "legacy",
