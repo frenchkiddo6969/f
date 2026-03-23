@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-03-21T20:19:19.120Z"
+    "exportedAt": "2026-03-23T00:26:26.253Z"
   },
   "txList": [
     {
@@ -3187,7 +3187,7 @@
           "blobOffsetY": 0
         },
         {
-          "freq": 105.2,
+          "freq": "105.2",
           "name": "Jazz Radio",
           "pi": "82FC",
           "kw": 1,
@@ -3198,7 +3198,7 @@
           "disabled": false,
           "outlet": "",
           "blobMode": "legacy",
-          "blobShapeIndex": 0,
+          "blobShapeIndex": 19,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         },
@@ -10344,13 +10344,13 @@
           "kw": 0.5,
           "pol": "v",
           "directional": true,
-          "directionAngle": 85,
+          "directionAngle": 100,
           "country": "SP",
           "disabled": false,
           "outlet": "",
-          "blobMode": "legacy",
-          "blobShapeIndex": 0,
-          "blobOffsetX": 0,
+          "blobMode": "svg",
+          "blobShapeIndex": 17,
+          "blobOffsetX": 10,
           "blobOffsetY": 0
         },
         {
