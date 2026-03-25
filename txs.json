@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-03-25T14:18:13.168Z"
+    "exportedAt": "2026-03-25T14:27:54.651Z"
   },
   "txList": [
     {
@@ -12456,14 +12456,14 @@
         },
         {
           "freq": "91.3",
-          "name": "",
-          "pi": "",
+          "name": "R.Jazzy",
+          "pi": "6218",
           "kw": 2,
-          "pol": "",
+          "pol": "c",
           "directional": true,
           "directionAngle": 270,
           "country": "BK",
-          "disabled": true,
+          "disabled": false,
           "outlet": "",
           "blobMode": "svg",
           "blobShapeIndex": 2,
@@ -12487,7 +12487,7 @@
           "blobOffsetY": -2
         },
         {
-          "freq": "93.6",
+          "freq": "93.9",
           "name": "",
           "pi": "",
           "kw": 2,
@@ -13050,14 +13050,14 @@
         },
         {
           "freq": "102.3",
-          "name": "",
-          "pi": "",
-          "kw": 0,
-          "pol": "",
+          "name": "R.Jazzy",
+          "pi": "6218",
+          "kw": 0.1,
+          "pol": "v",
           "directional": false,
           "directionAngle": null,
-          "country": "",
-          "disabled": true,
+          "country": "BK",
+          "disabled": false,
           "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
