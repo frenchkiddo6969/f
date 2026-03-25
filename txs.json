@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-03-23T00:26:26.253Z"
+    "exportedAt": "2026-03-25T14:18:13.168Z"
   },
   "txList": [
     {
@@ -13027,8 +13027,8 @@
       "id": "tx_1773076375870",
       "name": "Shahar",
       "latlng": [
-        8660.036898322647,
-        5408.071855326041
+        8661.24992631328,
+        5409.982434168867
       ],
       "point": null,
       "stations": [
@@ -13341,6 +13341,49 @@
           "directional": false,
           "directionAngle": null,
           "country": "OR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1774448212831",
+      "name": "Katzrin",
+      "latlng": [
+        7594.25,
+        5871.5
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "92.5",
+          "name": "Russkoye Radio",
+          "pi": "6631",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BK",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "106.2",
+          "name": "Europa Plus",
+          "pi": "6632",
+          "kw": 1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BK",
           "disabled": false,
           "outlet": "",
           "blobMode": "legacy",
