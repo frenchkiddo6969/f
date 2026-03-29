@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-03-26T22:52:43.563Z"
+    "exportedAt": "2026-03-29T11:15:38.832Z"
   },
   "txList": [
     {
@@ -12760,7 +12760,7 @@
       "point": null,
       "stations": [
         {
-          "freq": "91.1",
+          "freq": "89.4",
           "name": "Shatzav R.1",
           "pi": "6201",
           "kw": 10,
@@ -12776,7 +12776,7 @@
           "blobOffsetY": 0
         },
         {
-          "freq": "92.6",
+          "freq": "92.9",
           "name": "Shatzav R.2",
           "pi": "6202",
           "kw": 10,
@@ -12792,7 +12792,7 @@
           "blobOffsetY": 0
         },
         {
-          "freq": "99.7",
+          "freq": "97.8",
           "name": "Shatzav R.3",
           "pi": "6203",
           "kw": 10,
