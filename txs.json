@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-03-30T20:43:48.692Z"
+    "exportedAt": "2026-03-30T21:57:37.149Z"
   },
   "txList": [
     {
@@ -13606,8 +13606,8 @@
           "pi": "1299",
           "kw": 1,
           "pol": "v",
-          "directional": false,
-          "directionAngle": null,
+          "directional": true,
+          "directionAngle": 190,
           "country": "CE",
           "disabled": false,
           "outlet": "Vilaplana",
@@ -13638,8 +13638,8 @@
           "pi": "1268",
           "kw": 1,
           "pol": "v",
-          "directional": false,
-          "directionAngle": null,
+          "directional": true,
+          "directionAngle": 190,
           "country": "CE",
           "disabled": false,
           "outlet": "Vilaplana",
