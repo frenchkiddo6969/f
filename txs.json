@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-03-30T20:07:45.685Z"
+    "exportedAt": "2026-03-30T20:43:48.692Z"
   },
   "txList": [
     {
@@ -13442,7 +13442,7 @@
           "pol": "v",
           "directional": true,
           "directionAngle": 0,
-          "country": "Falgueró",
+          "country": "CE",
           "disabled": false,
           "outlet": "",
           "blobMode": "legacy",
