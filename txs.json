@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-03-29T11:15:38.832Z"
+    "exportedAt": "2026-03-30T18:28:31.432Z"
   },
   "txList": [
     {
@@ -9836,7 +9836,7 @@
     },
     {
       "id": "tx_1766767289698",
-      "name": "Kozani",
+      "name": "Falgueró",
       "latlng": [
         9546.75,
         6208
@@ -9845,7 +9845,7 @@
       "stations": [
         {
           "freq": "88.8",
-          "name": "DRT R.1",
+          "name": "RNC R.1",
           "pi": "1201",
           "kw": 35,
           "pol": "h",
@@ -9861,7 +9861,7 @@
         },
         {
           "freq": "90.2",
-          "name": "DRT R.2",
+          "name": "RNC R.2",
           "pi": "1202",
           "kw": 35,
           "pol": "h",
@@ -9877,7 +9877,7 @@
         },
         {
           "freq": "93.5",
-          "name": "DRT R.3",
+          "name": "RNC R.3",
           "pi": "1203",
           "kw": 35,
           "pol": "h",
@@ -9895,7 +9895,7 @@
     },
     {
       "id": "tx_1766767609835",
-      "name": "Desfina",
+      "name": "Lluçanega",
       "latlng": [
         10084.25,
         6189.25
@@ -9904,7 +9904,7 @@
       "stations": [
         {
           "freq": "91.8",
-          "name": "DRT R.1",
+          "name": "RNC R.1",
           "pi": "1201",
           "kw": 6,
           "pol": "v",
@@ -9920,7 +9920,7 @@
         },
         {
           "freq": "94.6",
-          "name": "DRT R.2",
+          "name": "RNC R.2",
           "pi": "1202",
           "kw": 6,
           "pol": "v",
@@ -9936,7 +9936,7 @@
         },
         {
           "freq": "96.3",
-          "name": "DRT R.3",
+          "name": "RNC R.3",
           "pi": "1203",
           "kw": 6,
           "pol": "v",
