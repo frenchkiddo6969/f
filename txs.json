@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-03-30T21:57:37.149Z"
+    "exportedAt": "2026-03-30T23:38:50.806Z"
   },
   "txList": [
     {
@@ -9919,7 +9919,7 @@
           "blobOffsetY": 0
         },
         {
-          "freq": "94.6",
+          "freq": "94.2",
           "name": "RNC R.2",
           "pi": "1202",
           "kw": 6,
@@ -13397,8 +13397,8 @@
       "id": "tx_1774900076310",
       "name": "Falgueró",
       "latlng": [
-        9490.25,
-        6022.5
+        9488.945523929331,
+        6018.062795412408
       ],
       "point": null,
       "stations": [
@@ -13675,6 +13675,226 @@
           "country": "CE",
           "disabled": false,
           "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1774913095437",
+      "name": "Lluçanega",
+      "latlng": [
+        10211.25,
+        6230.5
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "92.3",
+          "name": "Canal 100",
+          "pi": "12CE",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 270,
+          "country": "CE",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "93.2",
+          "name": "Ràdio Flaixbac",
+          "pi": "1266",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 270,
+          "country": "CE",
+          "disabled": false,
+          "outlet": "Lluçanega",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "94.6",
+          "name": "Pròxima FM",
+          "pi": "12A4",
+          "kw": 1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "CE",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "105.9",
+          "name": "Flaix FM",
+          "pi": "1299",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 270,
+          "country": "CE",
+          "disabled": false,
+          "outlet": "Lluçanega",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1774913445295",
+      "name": "Monistrol",
+      "latlng": [
+        9750.75,
+        6449.75
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "90.6",
+          "name": "RNC R.1",
+          "pi": "1201",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 1,
+          "country": "CE",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "107.5",
+          "name": "RNC R.2",
+          "pi": "1202",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 1,
+          "country": "CE",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "107.9",
+          "name": "RNC R.3",
+          "pi": "1203",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 1,
+          "country": "CE",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1774913484067",
+      "name": "Monistrol",
+      "latlng": [
+        9782.115210934699,
+        6491.240251292506
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "95.2",
+          "name": "Flaix FM",
+          "pi": "1299",
+          "kw": 0.1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 2,
+          "country": "CE",
+          "disabled": false,
+          "outlet": "Monistrol",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "96.0",
+          "name": "Ràdio Flaixbac",
+          "pi": "1268",
+          "kw": 0.1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 2,
+          "country": "CE",
+          "disabled": false,
+          "outlet": "Monistrol",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1774913825989",
+      "name": "Corbera del Solanç",
+      "latlng": [
+        9966,
+        6343.75
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "100.7",
+          "name": "Ràdio Flaixbac",
+          "pi": "1268",
+          "kw": 0.1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 90,
+          "country": "CE",
+          "disabled": false,
+          "outlet": "Monistrol",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "106.6",
+          "name": "Flaix FM",
+          "pi": "1299",
+          "kw": 0.1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 90,
+          "country": "CE",
+          "disabled": false,
+          "outlet": "Monistrol",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
