@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-03-31T15:07:47.979Z"
+    "exportedAt": "2026-03-31T17:07:29.708Z"
   },
   "txList": [
     {
@@ -14892,6 +14892,226 @@
           "country": "CE",
           "disabled": false,
           "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 2,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1774975728630",
+      "name": "Bellvís",
+      "latlng": [
+        10377.25,
+        6745.5
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "91.6",
+          "name": "RNC R.1",
+          "pi": "1201",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 270,
+          "country": "CE",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 2,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "94.4",
+          "name": "RNC R.2",
+          "pi": "1202",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 270,
+          "country": "CE",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 2,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "96.0",
+          "name": "RNC R.3",
+          "pi": "1203",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 270,
+          "country": "CE",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 2,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1774976027323",
+      "name": "Montalé",
+      "latlng": [
+        9783.75,
+        7023.75
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "89.5",
+          "name": "RNC R.1",
+          "pi": "1201",
+          "kw": 5,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "CE",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "91.2",
+          "name": "RNC R.2",
+          "pi": "1202",
+          "kw": 5,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "CE",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "92.8",
+          "name": "RNC R.3",
+          "pi": "1203",
+          "kw": 5,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "CE",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1774976258404",
+      "name": "Montagé",
+      "latlng": [
+        9810.5,
+        7016.5
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "94.6",
+          "name": "Pròxima FM",
+          "pi": "12A4",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "CE",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1774976464595",
+      "name": "Olot",
+      "latlng": [
+        9228.75,
+        7089.75
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "97.6",
+          "name": "Els 40",
+          "pi": "1235",
+          "kw": 0.74,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 300,
+          "country": "CE",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 2,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "98.1",
+          "name": "Ràdio Olot",
+          "pi": "13CC",
+          "kw": 1.4,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 300,
+          "country": "CE",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 2,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "100.3",
+          "name": "Ràdio Flaixbac",
+          "pi": "1268",
+          "kw": 0.74,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 300,
+          "country": "CE",
+          "disabled": false,
+          "outlet": "Olot",
+          "blobMode": "svg",
+          "blobShapeIndex": 2,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "100.8",
+          "name": "Flaix FM",
+          "pi": "1299",
+          "kw": 0.74,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 300,
+          "country": "CE",
+          "disabled": false,
+          "outlet": "Olot",
           "blobMode": "svg",
           "blobShapeIndex": 2,
           "blobOffsetX": 0,
