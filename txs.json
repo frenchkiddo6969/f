@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-03-31T14:53:10.570Z"
+    "exportedAt": "2026-03-31T15:07:47.979Z"
   },
   "txList": [
     {
@@ -14795,7 +14795,7 @@
           "name": "Ràdio Flaixbac",
           "pi": "1268",
           "kw": 0.5,
-          "pol": "Any",
+          "pol": "v",
           "directional": true,
           "directionAngle": 270,
           "country": "CE",
@@ -14821,6 +14821,81 @@
           "blobShapeIndex": 2,
           "blobOffsetX": 0,
           "blobOffsetY": -7
+        }
+      ]
+    },
+    {
+      "id": "tx_1774969160608",
+      "name": "Gandesa",
+      "latlng": [
+        9072.5,
+        4891
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "91.0",
+          "name": "Ràdio Flaixbac",
+          "pi": "1268",
+          "kw": 0.2,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 230,
+          "country": "CE",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 2,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "92.5",
+          "name": "Flaix FM",
+          "pi": "1299",
+          "kw": 0.2,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 230,
+          "country": "CE",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 2,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "93.1",
+          "name": "Canal 100",
+          "pi": "12CE",
+          "kw": 0.2,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 230,
+          "country": "CE",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 2,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "102.2",
+          "name": "Els 40",
+          "pi": "1235",
+          "kw": 0.2,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 230,
+          "country": "CE",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 2,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
         }
       ]
     }
