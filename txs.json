@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-03-31T12:19:16.115Z"
+    "exportedAt": "2026-03-31T12:34:34.806Z"
   },
   "txList": [
     {
@@ -14334,6 +14334,140 @@
           "name": "RNC R.3",
           "pi": "1203",
           "kw": 0.1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "CE",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1774959844698",
+      "name": "Capolat",
+      "latlng": [
+        8917,
+        5800.5
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "92.7",
+          "name": "RNC R.1",
+          "pi": "1201",
+          "kw": 0.2,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "CE",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "94.1",
+          "name": "RNC R.2",
+          "pi": "1202",
+          "kw": 0.2,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "CE",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "96.5",
+          "name": "RNC R.3",
+          "pi": "1203",
+          "kw": 0.2,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "CE",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1774960042087",
+      "name": "La Fatarella",
+      "latlng": [
+        8856.25,
+        5498.5
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "88.3",
+          "name": "RNC R.1",
+          "pi": "1201",
+          "kw": 0.05,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "CE",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "89.7",
+          "name": "RNC R.2",
+          "pi": "1202",
+          "kw": 0.05,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "CE",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "90.1",
+          "name": "Els 40",
+          "pi": "1235",
+          "kw": 0.05,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "CE",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "94.7",
+          "name": "RNC R.3",
+          "pi": "1203",
+          "kw": 0.05,
           "pol": "v",
           "directional": false,
           "directionAngle": null,
