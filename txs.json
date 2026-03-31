@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-03-31T13:40:57.621Z"
+    "exportedAt": "2026-03-31T14:27:08.837Z"
   },
   "txList": [
     {
@@ -13404,7 +13404,7 @@
       "stations": [
         {
           "freq": "91.4",
-          "name": "R. OndaFalgueró",
+          "name": "R. Ona Falgueró",
           "pi": "14A1",
           "kw": 1,
           "pol": "v",
@@ -14705,6 +14705,22 @@
           "blobOffsetY": 0
         },
         {
+          "freq": "96.1",
+          "name": "Sud Llunyà FM",
+          "pi": "163C",
+          "kw": 0.1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "CE",
+          "disabled": false,
+          "outlet": "Branyola",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
           "freq": "100.0",
           "name": "Ràdio Flaixbac",
           "pi": "1268",
@@ -14715,6 +14731,33 @@
           "country": "CE",
           "disabled": false,
           "outlet": "Branyola",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1774967092747",
+      "name": "Castellverda",
+      "latlng": [
+        8591.5,
+        6278.25
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "92.5",
+          "name": "Sud Llunyà FM",
+          "pi": "163C",
+          "kw": 0.1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "CE",
+          "disabled": false,
+          "outlet": "Castellverda",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
