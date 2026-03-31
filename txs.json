@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-03-31T17:07:29.708Z"
+    "exportedAt": "2026-03-31T17:14:44.724Z"
   },
   "txList": [
     {
@@ -15053,6 +15053,22 @@
       ],
       "point": null,
       "stations": [
+        {
+          "freq": "89.1",
+          "name": "Pròxima FM",
+          "pi": "12A4",
+          "kw": 0.93,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 300,
+          "country": "CE",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 2,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
         {
           "freq": "97.6",
           "name": "Els 40",
