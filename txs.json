@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-03-31T12:34:34.806Z"
+    "exportedAt": "2026-03-31T13:40:57.621Z"
   },
   "txList": [
     {
@@ -13451,6 +13451,22 @@
           "blobOffsetY": 0
         },
         {
+          "freq": "96.9",
+          "name": "Estimada FM",
+          "pi": "1224",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 0,
+          "country": "CE",
+          "disabled": false,
+          "outlet": "Falgueró",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
           "freq": "100.0",
           "name": "Canal 100",
           "pi": "12CE",
@@ -14474,6 +14490,231 @@
           "country": "CE",
           "disabled": false,
           "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1774963476155",
+      "name": "Almacelles",
+      "latlng": [
+        8856.25,
+        6084
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "91.3",
+          "name": "RNC R.1",
+          "pi": "1201",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 90,
+          "country": "CE",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "94.2",
+          "name": "RNC R.2",
+          "pi": "1202",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 90,
+          "country": "CE",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "99.0",
+          "name": "RNC R.3",
+          "pi": "1203",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 90,
+          "country": "CE",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "105.4",
+          "name": "Els 40",
+          "pi": "1235",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 90,
+          "country": "CE",
+          "disabled": false,
+          "outlet": "Almacelles",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1774963953111",
+      "name": "Ayanot",
+      "latlng": [
+        8889.5,
+        6129.25
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "91.8",
+          "name": "R.1",
+          "pi": "6224",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": null,
+          "country": "BK",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 2,
+          "blobOffsetX": 7,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "98.3",
+          "name": "R.Miqra",
+          "pi": "622A",
+          "kw": 1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BK",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 2,
+          "blobOffsetX": 7,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "98.7",
+          "name": "R.Jazzy",
+          "pi": "6218",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": null,
+          "country": "BK",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 2,
+          "blobOffsetX": 7,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "99.3",
+          "name": "R.HaMusika",
+          "pi": "6219",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": null,
+          "country": "BK",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 2,
+          "blobOffsetX": 7,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "102.7",
+          "name": "Dance FM",
+          "pi": "6217",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": null,
+          "country": "BK",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 2,
+          "blobOffsetX": 7,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1774964327137",
+      "name": "Branyola",
+      "latlng": [
+        8830,
+        6347.75
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "89.1",
+          "name": "Pròxima FM",
+          "pi": "12A4",
+          "kw": 0.25,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "CE",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "89.7",
+          "name": "Flaix FM",
+          "pi": "1299",
+          "kw": 0.1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "CE",
+          "disabled": false,
+          "outlet": "Branyola",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "100.0",
+          "name": "Ràdio Flaixbac",
+          "pi": "1268",
+          "kw": 0.1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "CE",
+          "disabled": false,
+          "outlet": "Branyola",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
