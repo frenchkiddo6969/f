@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-03-31T00:19:46.658Z"
+    "exportedAt": "2026-03-31T00:41:09.866Z"
   },
   "txList": [
     {
@@ -13419,6 +13419,22 @@
           "blobOffsetY": 0
         },
         {
+          "freq": "93.3",
+          "name": "Els 40",
+          "pi": "1235",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 1,
+          "country": "CE",
+          "disabled": false,
+          "outlet": "Falgueró",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
           "freq": "95.0",
           "name": "Pròxima FM",
           "pi": "12A4",
@@ -13770,6 +13786,22 @@
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
           "blobOffsetY": 0
+        },
+        {
+          "freq": "107.9",
+          "name": "Els 40",
+          "pi": "1235",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 270,
+          "country": "CE",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
         }
       ]
     },
@@ -13951,6 +13983,33 @@
           "pol": "v",
           "directional": true,
           "directionAngle": 230,
+          "country": "CE",
+          "disabled": false,
+          "outlet": "Vilaplana",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1774917502724",
+      "name": "Vilaplana",
+      "latlng": [
+        9745,
+        5503.25
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "103.2",
+          "name": "Els 40",
+          "pi": "1235",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 260,
           "country": "CE",
           "disabled": false,
           "outlet": "Vilaplana",
