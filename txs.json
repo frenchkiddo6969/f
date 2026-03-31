@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-03-31T01:09:47.313Z"
+    "exportedAt": "2026-03-31T01:14:37.977Z"
   },
   "txList": [
     {
@@ -14069,6 +14069,49 @@
           "pol": "h",
           "directional": false,
           "directionAngle": null,
+          "country": "CE",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "100.6",
+          "name": "Els 40",
+          "pi": "1235",
+          "kw": 1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "CE",
+          "disabled": false,
+          "outlet": "Branyola",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1774919616275",
+      "name": "Muntilló",
+      "latlng": [
+        9360.75,
+        6564.75
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "96.6",
+          "name": "Els 40",
+          "pi": "1235",
+          "kw": 0.1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 130,
           "country": "CE",
           "disabled": false,
           "outlet": "",
