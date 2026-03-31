@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-03-31T00:41:09.866Z"
+    "exportedAt": "2026-03-31T01:09:47.313Z"
   },
   "txList": [
     {
@@ -12754,8 +12754,8 @@
       "id": "tx_1773073335127",
       "name": "Ayanot",
       "latlng": [
-        8795.25,
-        6182.5
+        8795,
+        6183
       ],
       "point": null,
       "stations": [
@@ -14013,6 +14013,65 @@
           "country": "CE",
           "disabled": false,
           "outlet": "Vilaplana",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1774919245524",
+      "name": "Branyola",
+      "latlng": [
+        8912.25,
+        6539.25
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "92.1",
+          "name": "RNC R.1",
+          "pi": "1201",
+          "kw": 6.3,
+          "pol": "h",
+          "directional": false,
+          "directionAngle": null,
+          "country": "CE",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "97.2",
+          "name": "RNC R.2",
+          "pi": "1202",
+          "kw": 6.3,
+          "pol": "h",
+          "directional": false,
+          "directionAngle": null,
+          "country": "CE",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "99.8",
+          "name": "RNC R.3",
+          "pi": "1203",
+          "kw": 6.3,
+          "pol": "h",
+          "directional": false,
+          "directionAngle": null,
+          "country": "CE",
+          "disabled": false,
+          "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
