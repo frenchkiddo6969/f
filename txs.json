@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-03-31T14:27:08.837Z"
+    "exportedAt": "2026-03-31T14:53:10.570Z"
   },
   "txList": [
     {
@@ -13397,8 +13397,8 @@
       "id": "tx_1774900076310",
       "name": "Falgueró",
       "latlng": [
-        9488.945523929331,
-        6018.062795412408
+        9488,
+        6020
       ],
       "point": null,
       "stations": [
@@ -14762,6 +14762,65 @@
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
           "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1774968257577",
+      "name": "Torelló",
+      "latlng": [
+        9234.25,
+        5461
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "95.2",
+          "name": "Flaix FM",
+          "pi": "1299",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 270,
+          "country": "CE",
+          "disabled": false,
+          "outlet": "Torelló",
+          "blobMode": "svg",
+          "blobShapeIndex": 2,
+          "blobOffsetX": 0,
+          "blobOffsetY": -7
+        },
+        {
+          "freq": "100.7",
+          "name": "Ràdio Flaixbac",
+          "pi": "1268",
+          "kw": 0.5,
+          "pol": "Any",
+          "directional": true,
+          "directionAngle": 270,
+          "country": "CE",
+          "disabled": false,
+          "outlet": "Torelló",
+          "blobMode": "svg",
+          "blobShapeIndex": 2,
+          "blobOffsetX": 0,
+          "blobOffsetY": -7
+        },
+        {
+          "freq": "105.7",
+          "name": "Els 40",
+          "pi": "1235",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 270,
+          "country": "CE",
+          "disabled": false,
+          "outlet": "Torelló",
+          "blobMode": "svg",
+          "blobShapeIndex": 2,
+          "blobOffsetX": 0,
+          "blobOffsetY": -7
         }
       ]
     }
