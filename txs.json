@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-03-31T01:14:37.977Z"
+    "exportedAt": "2026-03-31T12:19:16.115Z"
   },
   "txList": [
     {
@@ -14105,6 +14105,38 @@
       "point": null,
       "stations": [
         {
+          "freq": "89.9",
+          "name": "Flaix FM",
+          "pi": "1299",
+          "kw": 0.1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 130,
+          "country": "CE",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "96.1",
+          "name": "Ràdio Flaixbac",
+          "pi": "1268",
+          "kw": 0.1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 130,
+          "country": "CE",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
           "freq": "96.6",
           "name": "Els 40",
           "pi": "1235",
@@ -14112,6 +14144,199 @@
           "pol": "v",
           "directional": true,
           "directionAngle": 130,
+          "country": "CE",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1774958605549",
+      "name": "Torelló",
+      "latlng": [
+        9120.75,
+        5398.5
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "89.0",
+          "name": "RNC R.1",
+          "pi": "1201",
+          "kw": 5,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "CE",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "90.4",
+          "name": "RNC R.2",
+          "pi": "1202",
+          "kw": 5,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "CE",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "93.7",
+          "name": "RNC R.3",
+          "pi": "1203",
+          "kw": 5,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "CE",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1774958966753",
+      "name": "Olot",
+      "latlng": [
+        9137.25,
+        7137.5
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "88.0",
+          "name": "RNC R.2",
+          "pi": "1202",
+          "kw": 6.3,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "CE",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "91.0",
+          "name": "RNC R.3",
+          "pi": "1203",
+          "kw": 6.3,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "CE",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "93.0",
+          "name": "RNC R.1",
+          "pi": "1201",
+          "kw": 6.3,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "CE",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1774959445301",
+      "name": "Talaixà",
+      "latlng": [
+        9961.75,
+        5893
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "89.6",
+          "name": "RNC R.1",
+          "pi": "1201",
+          "kw": 0.1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "CE",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "90.0",
+          "name": "RNC R.2",
+          "pi": "1202",
+          "kw": 0.1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "CE",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "99.7",
+          "name": "Canal 100",
+          "pi": "12CE",
+          "kw": 0.1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "CE",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "100.2",
+          "name": "RNC R.3",
+          "pi": "1203",
+          "kw": 0.1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
           "country": "CE",
           "disabled": false,
           "outlet": "",
