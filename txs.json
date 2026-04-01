@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-03-31T17:14:44.724Z"
+    "exportedAt": "2026-04-01T19:38:19.294Z"
   },
   "txList": [
     {
@@ -15131,6 +15131,33 @@
           "blobMode": "svg",
           "blobShapeIndex": 2,
           "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1775072220645",
+      "name": "Doetinlingen",
+      "latlng": [
+        11592.5,
+        4983
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "90.4",
+          "name": "R.Campus Doetinlingen",
+          "pi": "89C7",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 340,
+          "country": "SP",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 11,
+          "blobOffsetX": -7,
           "blobOffsetY": 0
         }
       ]
