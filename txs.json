@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-04-01T19:38:19.294Z"
+    "exportedAt": "2026-04-02T12:24:59.001Z"
   },
   "txList": [
     {
@@ -6753,6 +6753,22 @@
           "blobOffsetY": 0
         },
         {
+          "freq": "101.0",
+          "name": "R.FG",
+          "pi": "822C",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 90,
+          "country": "SP",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 3,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
           "freq": "102.8",
           "name": "SPIN Sveland",
           "pi": "83E1",
@@ -11818,7 +11834,7 @@
           "directional": true,
           "directionAngle": 90,
           "country": "SP",
-          "disabled": true,
+          "disabled": false,
           "outlet": "",
           "blobMode": "svg",
           "blobShapeIndex": 3,
@@ -11834,7 +11850,7 @@
           "directional": true,
           "directionAngle": 90,
           "country": "SP",
-          "disabled": true,
+          "disabled": false,
           "outlet": "",
           "blobMode": "svg",
           "blobShapeIndex": 3,
@@ -11850,7 +11866,7 @@
           "directional": true,
           "directionAngle": 90,
           "country": "SP",
-          "disabled": true,
+          "disabled": false,
           "outlet": "Zuidwest",
           "blobMode": "svg",
           "blobShapeIndex": 3,
