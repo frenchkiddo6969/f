@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-04-02T12:30:51.208Z"
+    "exportedAt": "2026-04-02T13:11:49.609Z"
   },
   "txList": [
     {
@@ -10031,6 +10031,22 @@
       ],
       "point": null,
       "stations": [
+        {
+          "freq": "99.3",
+          "name": "R.Campus Omigrad",
+          "pi": "89C8",
+          "kw": 0.1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "SP",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
         {
           "freq": "101.4",
           "name": "Jazz Radio",
