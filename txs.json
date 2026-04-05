@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-04-03T23:05:41.193Z"
+    "exportedAt": "2026-04-05T12:09:57.035Z"
   },
   "txList": [
     {
@@ -11346,6 +11346,22 @@
       ],
       "point": null,
       "stations": [
+        {
+          "freq": "98.1",
+          "name": "ONR Omigrad Novosti Radio",
+          "pi": "84C1",
+          "kw": 0.2,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 270,
+          "country": "SP",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 13,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
         {
           "freq": "102.1",
           "name": "SPIN Sveland",
