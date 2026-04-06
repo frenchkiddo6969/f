@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-04-06T02:23:29.860Z"
+    "exportedAt": "2026-04-06T21:56:05.159Z"
   },
   "txList": [
     {
@@ -7482,14 +7482,14 @@
       "point": null,
       "stations": [
         {
-          "freq": 93.1,
-          "name": "OSTU-FM",
-          "pi": "418A",
-          "kw": 4,
+          "freq": "99.3",
+          "name": "OFUE-FM",
+          "pi": "1F40",
+          "kw": 5,
           "pol": "h",
           "directional": false,
           "directionAngle": null,
-          "country": "",
+          "country": "OR",
           "disabled": false,
           "outlet": "",
           "blobMode": "legacy",
