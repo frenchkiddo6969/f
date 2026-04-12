@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-04-12T11:27:17.691Z"
+    "exportedAt": "2026-04-12T15:59:57.348Z"
   },
   "txList": [
     {
@@ -2287,8 +2287,8 @@
       "id": 1750810541497,
       "name": "Tunset Peak",
       "latlng": [
-        421.8187379903384,
-        384.365335703126
+        421.328125,
+        385.1484375
       ],
       "point": null,
       "stations": [
@@ -3820,8 +3820,8 @@
       "id": 1754583387069,
       "name": "Swimsuit",
       "latlng": [
-        543.5649596263027,
-        154.894529728949
+        543.4140625,
+        155.5546875
       ],
       "point": null,
       "stations": [
@@ -4709,8 +4709,8 @@
       "id": 1755141279056,
       "name": "Harpney Transmitter",
       "latlng": [
-        442.32303627663134,
-        419.89911951025806
+        441.812232176897,
+        420.4482076268573
       ],
       "point": null,
       "stations": [
@@ -5379,8 +5379,8 @@
       "id": 1755624455330,
       "name": "Swimsuit",
       "latlng": [
-        571.4657856049112,
-        133.8490373862362
+        571.3091335683622,
+        134.80327870714166
       ],
       "point": null,
       "stations": [
@@ -6215,8 +6215,8 @@
       "id": 1761601261627,
       "name": "Springton",
       "latlng": [
-        434.23991107701204,
-        376.5279194152613
+        433.9867869532435,
+        377.5839726101603
       ],
       "point": null,
       "stations": [
@@ -6242,8 +6242,8 @@
       "id": 1761693468812,
       "name": "Graycliff Tower",
       "latlng": [
-        481.95843783460987,
-        277.85765857999127
+        482.0625,
+        277.8046875
       ],
       "point": null,
       "stations": [
@@ -6414,8 +6414,8 @@
       "id": 1761849540178,
       "name": "Wichita",
       "latlng": [
-        473.06601561684056,
-        271.2859743563979
+        472.5837853725876,
+        272.0168513280883
       ],
       "point": null,
       "stations": [
@@ -6983,8 +6983,8 @@
       "id": 1762811484629,
       "name": "Springton",
       "latlng": [
-        451.43605773720594,
-        371.1572596482781
+        451.21875,
+        372.390625
       ],
       "point": null,
       "stations": [
@@ -9800,8 +9800,8 @@
       "id": "tx_1766284754271",
       "name": "Swimsuit",
       "latlng": [
-        572.7141447090995,
-        134.53598224015263
+        572.8448811087518,
+        135.72030781399295
       ],
       "point": null,
       "stations": [
@@ -9870,8 +9870,8 @@
       "id": "tx_1766767289698",
       "name": "Falgueró",
       "latlng": [
-        755.6923804054999,
-        -195.01019904321436
+        755.6853775007136,
+        -194.58401419232024
       ],
       "point": null,
       "stations": [
@@ -12379,8 +12379,8 @@
       "id": "tx_1772495975184",
       "name": "Katzrin",
       "latlng": [
-        538.727568097573,
-        -269.7622890557575
+        538.4413933592399,
+        -269.3461208675304
       ],
       "point": null,
       "stations": [
@@ -12454,8 +12454,8 @@
       "id": "tx_1772536567821",
       "name": "Katzrin",
       "latlng": [
-        512.6992807752468,
-        -230.2005104233882
+        512.34375,
+        -230.09375
       ],
       "point": null,
       "stations": [
@@ -12775,8 +12775,8 @@
       "id": "tx_1773073335127",
       "name": "Ayanot",
       "latlng": [
-        661.5973129273067,
-        -199.47534059367115
+        663.2059429480801,
+        -198.43035595490716
       ],
       "point": null,
       "stations": [
@@ -13375,8 +13375,8 @@
       "id": "tx_1774448212831",
       "name": "Katzrin",
       "latlng": [
-        512.6992807752468,
-        -228.9202950138166
+        512.421875,
+        -228.765625
       ],
       "point": null,
       "stations": [
@@ -13541,8 +13541,8 @@
       "id": "tx_1774900515833",
       "name": "Sant Llorenç de Morunys",
       "latlng": [
-        752.2559711276373,
-        -129.18762378519762
+        752.234375,
+        -128.96875
       ],
       "point": null,
       "stations": [
@@ -13616,8 +13616,8 @@
       "id": "tx_1774900928021",
       "name": "Vilaplana",
       "latlng": [
-        780.4098906684284,
-        -281.9399478297307
+        780.4140625,
+        -281.671875
       ],
       "point": null,
       "stations": [
@@ -14061,8 +14061,8 @@
       "id": "tx_1774919245524",
       "name": "Branyola",
       "latlng": [
-        676.2343234239146,
-        -154.98004891953838
+        675.9341753508436,
+        -154.46685542215033
       ],
       "point": null,
       "stations": [
@@ -15373,6 +15373,81 @@
           "directional": false,
           "directionAngle": null,
           "country": "SP",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1776003770897",
+      "name": "Cape Samu",
+      "latlng": [
+        593.1796875,
+        -92.3359375
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "76.1",
+          "name": "UBC National",
+          "pi": "D20A",
+          "kw": 10,
+          "pol": "h",
+          "directional": false,
+          "directionAngle": null,
+          "country": "UU",
+          "disabled": false,
+          "outlet": "Cape Samu",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "80.1",
+          "name": "UBC Music",
+          "pi": "D202",
+          "kw": 10,
+          "pol": "h",
+          "directional": false,
+          "directionAngle": null,
+          "country": "UU",
+          "disabled": false,
+          "outlet": "Cape Samu",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "82.4",
+          "name": "UBC Emergency Service",
+          "pi": "D2AA",
+          "kw": 1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "UU",
+          "disabled": false,
+          "outlet": "Cape Samu",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "89.9",
+          "name": "R.Open",
+          "pi": "D220",
+          "kw": 1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "UU",
           "disabled": false,
           "outlet": "",
           "blobMode": "legacy",
