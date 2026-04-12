@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-04-12T16:06:56.994Z"
+    "exportedAt": "2026-04-12T17:41:49.627Z"
   },
   "txList": [
     {
@@ -15473,7 +15473,7 @@
         },
         {
           "freq": "89.9",
-          "name": "R.Open",
+          "name": "iRadio Ukuhero",
           "pi": "D220",
           "kw": 1,
           "pol": "v",
@@ -15482,6 +15482,81 @@
           "country": "UU",
           "disabled": false,
           "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1776014465794",
+      "name": "Tsunojo",
+      "latlng": [
+        678.890625,
+        -102.5
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "76.8",
+          "name": "UBC National",
+          "pi": "D201",
+          "kw": 0.07,
+          "pol": "h",
+          "directional": false,
+          "directionAngle": null,
+          "country": "UU",
+          "disabled": false,
+          "outlet": "Kitatsuno",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "77.8",
+          "name": "UBC Music",
+          "pi": "D202",
+          "kw": 0.07,
+          "pol": "h",
+          "directional": false,
+          "directionAngle": null,
+          "country": "UU",
+          "disabled": false,
+          "outlet": "Kitatsuno",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "78.3",
+          "name": "UBC Sports",
+          "pi": "D203",
+          "kw": 0.07,
+          "pol": "h",
+          "directional": false,
+          "directionAngle": null,
+          "country": "UU",
+          "disabled": false,
+          "outlet": "Kitatsuno",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "79.1",
+          "name": "UBC Weather",
+          "pi": "D204",
+          "kw": 0.07,
+          "pol": "h",
+          "directional": false,
+          "directionAngle": null,
+          "country": "UU",
+          "disabled": false,
+          "outlet": "Kitatsuno",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
