@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-04-12T11:06:44.894Z"
+    "exportedAt": "2026-04-12T11:27:17.691Z"
   },
   "txList": [
     {
@@ -12150,49 +12150,6 @@
       ]
     },
     {
-      "id": "tx_1770740857574",
-      "name": "Mastenbroek",
-      "latlng": [
-        926.8424135897163,
-        -540.0750890718755
-      ],
-      "point": null,
-      "stations": [
-        {
-          "freq": "103.7",
-          "name": "R.FG",
-          "pi": "822C",
-          "kw": 0.1,
-          "pol": "v",
-          "directional": true,
-          "directionAngle": 135,
-          "country": "SP",
-          "disabled": false,
-          "outlet": "",
-          "blobMode": "legacy",
-          "blobShapeIndex": 0,
-          "blobOffsetX": 0,
-          "blobOffsetY": 0
-        },
-        {
-          "freq": "106.1",
-          "name": "Hot Radio",
-          "pi": "8880",
-          "kw": 0.1,
-          "pol": "v",
-          "directional": true,
-          "directionAngle": 135,
-          "country": "SP",
-          "disabled": false,
-          "outlet": "",
-          "blobMode": "legacy",
-          "blobShapeIndex": 0,
-          "blobOffsetX": 0,
-          "blobOffsetY": 0
-        }
-      ]
-    },
-    {
       "id": "tx_1770740976393",
       "name": "Bolsrade",
       "latlng": [
@@ -15357,6 +15314,65 @@
           "directional": false,
           "directionAngle": null,
           "country": "OR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1775992865870",
+      "name": "Mastenbroek",
+      "latlng": [
+        921.8203125,
+        -531.65625
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "103.7",
+          "name": "R.FG",
+          "pi": "822C",
+          "kw": 0.1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "SP",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "104.5",
+          "name": "DFM",
+          "pi": "82DF",
+          "kw": 0.1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "SP",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "106.1",
+          "name": "Hot Radio",
+          "pi": "8880",
+          "kw": 0.1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "SP",
           "disabled": false,
           "outlet": "",
           "blobMode": "legacy",
