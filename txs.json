@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-04-12T17:41:49.627Z"
+    "exportedAt": "2026-04-14T23:56:42.231Z"
   },
   "txList": [
     {
@@ -232,9 +232,9 @@
           "blobOffsetY": 0
         },
         {
-          "freq": 101.3,
+          "freq": "101.3",
           "name": "Ramadan FM",
-          "pi": "FFFF",
+          "pi": "8744",
           "kw": 1,
           "pol": "V",
           "directional": false,
@@ -2954,6 +2954,22 @@
           "directional": true,
           "directionAngle": 270,
           "country": "",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "101.6",
+          "name": "Moov'",
+          "pi": "872A",
+          "kw": 0.2,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 270,
+          "country": "SP",
           "disabled": false,
           "outlet": "",
           "blobMode": "legacy",
