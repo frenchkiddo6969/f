@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-04-14T23:56:42.231Z"
+    "exportedAt": "2026-04-15T00:02:01.533Z"
   },
   "txList": [
     {
@@ -1537,6 +1537,22 @@
           "country": "SP",
           "disabled": false,
           "outlet": "Omigrad",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "107.1",
+          "name": "Moov'",
+          "pi": "872A",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "SP",
+          "disabled": false,
+          "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
