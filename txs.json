@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-04-22T19:22:16.931Z"
+    "exportedAt": "2026-04-22T19:37:33.063Z"
   },
   "txList": [
     {
@@ -16275,9 +16275,41 @@
           "blobOffsetY": 0
         },
         {
+          "freq": "98.2",
+          "name": "Yumor FM",
+          "pi": "722F",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 97,
+          "country": "TI",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
           "freq": "101.1",
           "name": "Evropa Plus Toznia",
           "pi": "7215",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 97,
+          "country": "TI",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "101.7",
+          "name": "Dorozhnoye Radio",
+          "pi": "7287",
           "kw": 0.5,
           "pol": "v",
           "directional": true,
