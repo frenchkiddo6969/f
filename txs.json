@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-04-22T16:14:19.222Z"
+    "exportedAt": "2026-04-22T19:06:27.966Z"
   },
   "txList": [
     {
@@ -15759,7 +15759,7 @@
           "freq": "88.7",
           "name": "Retro FM",
           "pi": "7218",
-          "kw": 2,
+          "kw": 6.3,
           "pol": "v",
           "directional": true,
           "directionAngle": 182,
@@ -15807,7 +15807,7 @@
           "freq": "100.8",
           "name": "DFM",
           "pi": "722A",
-          "kw": 2,
+          "kw": 5,
           "pol": "v",
           "directional": true,
           "directionAngle": 182,
@@ -16134,6 +16134,33 @@
           "name": "R.Toznia Vesti",
           "pi": "7204",
           "kw": 9.128,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "TI",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1776884676324",
+      "name": "Napas",
+      "latlng": [
+        413.546875,
+        -859.828125
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "107.9",
+          "name": "Retro FM",
+          "pi": "7218",
+          "kw": 5,
           "pol": "v",
           "directional": false,
           "directionAngle": null,
