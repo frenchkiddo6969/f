@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-04-22T19:06:27.966Z"
+    "exportedAt": "2026-04-22T19:22:16.931Z"
   },
   "txList": [
     {
@@ -16037,7 +16037,7 @@
           "freq": "91.4",
           "name": "Retro FM",
           "pi": "7218",
-          "kw": 1,
+          "kw": 5,
           "pol": "v",
           "directional": true,
           "directionAngle": 93,
@@ -16164,6 +16164,140 @@
           "pol": "v",
           "directional": false,
           "directionAngle": null,
+          "country": "TI",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1776885245991",
+      "name": "Lugansk",
+      "latlng": [
+        413.1875,
+        -952.4296875
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "90.8",
+          "name": "R.Toznia",
+          "pi": "7201",
+          "kw": 27.4,
+          "pol": "h",
+          "directional": false,
+          "directionAngle": null,
+          "country": "TI",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "97.5",
+          "name": "R.Toznia Kultura",
+          "pi": "7202",
+          "kw": 27.4,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "TI",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "100.6",
+          "name": "R.Toznia Move",
+          "pi": "7203",
+          "kw": 27.4,
+          "pol": "h",
+          "directional": false,
+          "directionAngle": null,
+          "country": "TI",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "105.5",
+          "name": "R.Toznia Vesti",
+          "pi": "7204",
+          "kw": 6.31,
+          "pol": "h",
+          "directional": false,
+          "directionAngle": null,
+          "country": "TI",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1776885487750",
+      "name": "Lugansk",
+      "latlng": [
+        417.3342630891209,
+        -930.6489685755603
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "96.9",
+          "name": "Retro FM",
+          "pi": "7218",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 97,
+          "country": "TI",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "101.1",
+          "name": "Evropa Plus Toznia",
+          "pi": "7215",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 97,
+          "country": "TI",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "106.0",
+          "name": "Plus FM",
+          "pi": "7702",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 97,
           "country": "TI",
           "disabled": false,
           "outlet": "",
