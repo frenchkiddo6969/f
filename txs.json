@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-04-22T13:36:47.989Z"
+    "exportedAt": "2026-04-22T16:14:19.222Z"
   },
   "txList": [
     {
@@ -15998,6 +15998,145 @@
           "pol": "v",
           "directional": true,
           "directionAngle": 177,
+          "country": "TI",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1776873742230",
+      "name": "Nikolo",
+      "latlng": [
+        483.9375,
+        -853.84375
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "91.0",
+          "name": "R.Toznia",
+          "pi": "7201",
+          "kw": 27.351,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "TI",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "91.4",
+          "name": "Retro FM",
+          "pi": "7218",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 93,
+          "country": "TI",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "94.7",
+          "name": "R.Toznia Kultura",
+          "pi": "7202",
+          "kw": 27.351,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "TI",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "98.7",
+          "name": "Evropa Plus Toznia",
+          "pi": "7215",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 93,
+          "country": "TI",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "99.1",
+          "name": "R.7",
+          "pi": "7227",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 93,
+          "country": "TI",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "102.3",
+          "name": "R.Toznia Move",
+          "pi": "7203",
+          "kw": 27.351,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "TI",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "103.0",
+          "name": "Dorozhnoye Radio",
+          "pi": "7287",
+          "kw": 0.6,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 93,
+          "country": "TI",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "105.3",
+          "name": "R.Toznia Vesti",
+          "pi": "7204",
+          "kw": 9.128,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
           "country": "TI",
           "disabled": false,
           "outlet": "",
