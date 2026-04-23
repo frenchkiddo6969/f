@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-04-23T00:06:01.922Z"
+    "exportedAt": "2026-04-23T00:21:21.773Z"
   },
   "txList": [
     {
@@ -16156,6 +16156,22 @@
       ],
       "point": null,
       "stations": [
+        {
+          "freq": "92.4",
+          "name": "Dorozhnoye Radio",
+          "pi": "7287",
+          "kw": 1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "TI",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
         {
           "freq": "107.9",
           "name": "Retro FM",
