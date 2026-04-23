@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-04-23T13:54:48.512Z"
+    "exportedAt": "2026-04-23T23:56:22.344Z"
   },
   "txList": [
     {
@@ -16539,6 +16539,49 @@
           "pol": "v",
           "directional": true,
           "directionAngle": 11,
+          "country": "TI",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1776988489461",
+      "name": "Kargasok",
+      "latlng": [
+        484.671875,
+        -895.9375
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "101.9",
+          "name": "Dorozhnoye Radio",
+          "pi": "7287",
+          "kw": 0.3,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 318,
+          "country": "TI",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "103.1",
+          "name": "Retro FM",
+          "pi": "7218",
+          "kw": 0.3,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 318,
           "country": "TI",
           "disabled": false,
           "outlet": "",
