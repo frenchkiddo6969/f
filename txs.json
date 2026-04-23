@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-04-22T19:37:33.063Z"
+    "exportedAt": "2026-04-23T00:06:01.922Z"
   },
   "txList": [
     {
@@ -16330,6 +16330,49 @@
           "pol": "v",
           "directional": true,
           "directionAngle": 97,
+          "country": "TI",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1776902504775",
+      "name": "Skopin",
+      "latlng": [
+        518.3828125,
+        -1012.359375
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "87.6",
+          "name": "Avtoradio",
+          "pi": "7261",
+          "kw": 1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "TI",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "97.1",
+          "name": "Like FM",
+          "pi": "7260",
+          "kw": 1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
           "country": "TI",
           "disabled": false,
           "outlet": "",
