@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-04-23T13:44:10.243Z"
+    "exportedAt": "2026-04-23T13:54:48.512Z"
   },
   "txList": [
     {
@@ -10289,7 +10289,7 @@
           "blobOffsetY": 0
         },
         {
-          "freq": "105.3",
+          "freq": "106.0",
           "name": "RTS Nyheter",
           "pi": "E204",
           "kw": 5,
