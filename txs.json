@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-04-23T00:21:21.773Z"
+    "exportedAt": "2026-04-23T13:44:10.243Z"
   },
   "txList": [
     {
@@ -16389,6 +16389,156 @@
           "pol": "v",
           "directional": false,
           "directionAngle": null,
+          "country": "TI",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1776951354309",
+      "name": "Yarok",
+      "latlng": [
+        599.9296875,
+        -1007.796875
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "89.3",
+          "name": "R.Toznia",
+          "pi": "7201",
+          "kw": 0.8,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "TI",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "95.7",
+          "name": "R.Toznia Kultura",
+          "pi": "7202",
+          "kw": 0.8,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "TI",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "96.1",
+          "name": "R.Toznia Move",
+          "pi": "7203",
+          "kw": 0.8,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "TI",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "105.3",
+          "name": "R.Toznia Vesti",
+          "pi": "7204",
+          "kw": 0.4,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "TI",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1776951679663",
+      "name": "Yarok",
+      "latlng": [
+        576.453125,
+        -981.875
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "88.9",
+          "name": "Retro FM",
+          "pi": "7218",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 11,
+          "country": "TI",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "90.0",
+          "name": "Novoye Radio",
+          "pi": "7225",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 11,
+          "country": "TI",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "102.3",
+          "name": "R.7",
+          "pi": "7227",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 11,
+          "country": "TI",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "105.8",
+          "name": "DFM",
+          "pi": "722A",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 11,
           "country": "TI",
           "disabled": false,
           "outlet": "",
