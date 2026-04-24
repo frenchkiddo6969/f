@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-04-23T23:56:22.344Z"
+    "exportedAt": "2026-04-24T15:17:07.817Z"
   },
   "txList": [
     {
@@ -16582,6 +16582,49 @@
           "pol": "v",
           "directional": true,
           "directionAngle": 318,
+          "country": "TI",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1777041371156",
+      "name": "Troitsk",
+      "latlng": [
+        539.5625,
+        -935.8125
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "88.8",
+          "name": "Retro FM",
+          "pi": "7218",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 1,
+          "country": "TI",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "91.3",
+          "name": "Dorozhnoye Radio",
+          "pi": "7287",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 330,
           "country": "TI",
           "disabled": false,
           "outlet": "",
