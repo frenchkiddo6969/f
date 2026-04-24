@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-04-24T15:17:07.817Z"
+    "exportedAt": "2026-04-24T15:39:15.379Z"
   },
   "txList": [
     {
@@ -15845,7 +15845,7 @@
           "directionAngle": 182,
           "country": "TI",
           "disabled": false,
-          "outlet": "Skopin",
+          "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
@@ -16625,6 +16625,97 @@
           "pol": "v",
           "directional": true,
           "directionAngle": 330,
+          "country": "TI",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1777044592921",
+      "name": "Zubova Polyana",
+      "latlng": [
+        566.6327938161203,
+        -823.3032855658282
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "87.7",
+          "name": "Retro FM",
+          "pi": "7218",
+          "kw": 5,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 273,
+          "country": "TI",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "89.5",
+          "name": "Novoye Radio",
+          "pi": "7225",
+          "kw": 5,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 273,
+          "country": "TI",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "91.6",
+          "name": "Evropa Plus Toznia",
+          "pi": "7215",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 273,
+          "country": "TI",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "95.8",
+          "name": "Kiss 95,8",
+          "pi": "787A",
+          "kw": 5,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 273,
+          "country": "TI",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "97.0",
+          "name": "R.7",
+          "pi": "7227",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 273,
           "country": "TI",
           "disabled": false,
           "outlet": "",
