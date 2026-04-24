@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-04-24T15:48:56.740Z"
+    "exportedAt": "2026-04-24T16:34:40.819Z"
   },
   "txList": [
     {
@@ -16807,6 +16807,81 @@
           "pol": "v",
           "directional": true,
           "directionAngle": 273,
+          "country": "TI",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1777048276712",
+      "name": "Zubova Polyana",
+      "latlng": [
+        578.9965989216475,
+        -835.5751176259372
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "94.3",
+          "name": "R.Roks",
+          "pi": "722B",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 180,
+          "country": "TI",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "97.5",
+          "name": "Like FM",
+          "pi": "7260",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 180,
+          "country": "TI",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "105.7",
+          "name": "R.Monte Carlo",
+          "pi": "7219",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 180,
+          "country": "TI",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "106.8",
+          "name": "Russkoye Radio",
+          "pi": "722D",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 180,
           "country": "TI",
           "disabled": false,
           "outlet": "",
