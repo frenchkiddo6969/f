@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-04-24T15:39:15.379Z"
+    "exportedAt": "2026-04-24T15:48:56.740Z"
   },
   "txList": [
     {
@@ -16709,9 +16709,100 @@
           "blobOffsetY": 0
         },
         {
+          "freq": "96.3",
+          "name": "Dorozhnoye Radio",
+          "pi": "7287",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 273,
+          "country": "TI",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
           "freq": "97.0",
           "name": "R.7",
           "pi": "7227",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 273,
+          "country": "TI",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "99.7",
+          "name": "DFM",
+          "pi": "722A",
+          "kw": 5,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 273,
+          "country": "TI",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1777045426922",
+      "name": "Zubova Polyana",
+      "latlng": [
+        566.875,
+        -823.3046875
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "100.1",
+          "name": "Yumor FM",
+          "pi": "722F",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 273,
+          "country": "TI",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "102.1",
+          "name": "Avtoradio",
+          "pi": "7261",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 273,
+          "country": "TI",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "104.2",
+          "name": "Hit FM",
+          "pi": "7212",
           "kw": 1,
           "pol": "v",
           "directional": true,
