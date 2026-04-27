@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-04-25T11:26:14.013Z"
+    "exportedAt": "2026-04-27T16:08:30.439Z"
   },
   "txList": [
     {
@@ -169,7 +169,7 @@
         },
         {
           "freq": "97.6",
-          "name": "RTO Kiss FM [F]",
+          "name": "RTO Radius FM [F]",
           "pi": "8E10",
           "kw": 5,
           "pol": "v",
@@ -7172,7 +7172,7 @@
         },
         {
           "freq": "89.8",
-          "name": "RTO Kiss FM [F]",
+          "name": "RTO Radius FM [F]",
           "pi": "8E10",
           "kw": 0.5,
           "pol": "v",
