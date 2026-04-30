@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-04-27T16:08:30.439Z"
+    "exportedAt": "2026-04-30T13:27:48.956Z"
   },
   "txList": [
     {
@@ -185,8 +185,8 @@
         },
         {
           "freq": "98.2",
-          "name": "Novoye Radio [RUS]",
-          "pi": "7739",
+          "name": "Novoye R.Sveland",
+          "pi": "82C3",
           "kw": 5,
           "pol": "v",
           "directional": false,
@@ -527,8 +527,8 @@
       "stations": [
         {
           "freq": "87.7",
-          "name": "Novoye Radio [RUS]",
-          "pi": "7739",
+          "name": "Novoye R.Sveland",
+          "pi": "82C3",
           "kw": 0.2,
           "pol": "V",
           "directional": false,
@@ -1057,8 +1057,8 @@
       "stations": [
         {
           "freq": "88.8",
-          "name": "Novoye Radio [RUS]",
-          "pi": "7739",
+          "name": "Novoye R.Sveland",
+          "pi": "82C3",
           "kw": 1,
           "pol": "V",
           "directional": true,
@@ -1753,8 +1753,8 @@
         },
         {
           "freq": "88.3",
-          "name": "Novoye Radio [RUS]",
-          "pi": "7739",
+          "name": "Novoye R.Sveland",
+          "pi": "82C3",
           "kw": 1,
           "pol": "V",
           "directional": true,
@@ -1908,8 +1908,8 @@
         },
         {
           "freq": 100.5,
-          "name": "Novoye Radio [RUS]",
-          "pi": "7739",
+          "name": "Novoye R.Sveland",
+          "pi": "82C3",
           "kw": 0.6,
           "pol": "V",
           "directional": true,
@@ -2412,8 +2412,8 @@
       "stations": [
         {
           "freq": "87.7",
-          "name": "Novoye Radio [RUS]",
-          "pi": "7739",
+          "name": "Novoye R.Sveland",
+          "pi": "82C3",
           "kw": 0.06,
           "pol": "V",
           "directional": true,
@@ -2658,8 +2658,8 @@
         },
         {
           "freq": 107.3,
-          "name": "Novoye Radio [RUS]",
-          "pi": "7739",
+          "name": "Novoye R.Sveland",
+          "pi": "82C3",
           "kw": 1,
           "pol": "V",
           "directional": true,
@@ -2840,8 +2840,8 @@
       "stations": [
         {
           "freq": "96.7",
-          "name": "Novoye Radio [RUS]",
-          "pi": "7739",
+          "name": "Novoye R.Sveland",
+          "pi": "82C3",
           "kw": 1,
           "pol": "V",
           "directional": true,
@@ -3011,8 +3011,8 @@
         },
         {
           "freq": 107.5,
-          "name": "Novoye Radio [RUS]",
-          "pi": "7739",
+          "name": "Novoye R.Sveland",
+          "pi": "82C3",
           "kw": 1,
           "pol": "V",
           "directional": true,
@@ -4116,8 +4116,8 @@
         },
         {
           "freq": 93.1,
-          "name": "Novoye Radio [RUS]",
-          "pi": "7739",
+          "name": "Novoye R.Sveland",
+          "pi": "82C3",
           "kw": 0.5,
           "pol": "V",
           "directional": false,
@@ -4373,8 +4373,8 @@
       "stations": [
         {
           "freq": "88.1",
-          "name": "Novoye Radio [RUS]",
-          "pi": "7739",
+          "name": "Novoye R.Sveland",
+          "pi": "82C3",
           "kw": 1,
           "pol": "C",
           "directional": true,
@@ -4582,8 +4582,8 @@
         },
         {
           "freq": "96.2",
-          "name": "Novoye Radio [RUS]",
-          "pi": "7739",
+          "name": "Novoye R.Sveland",
+          "pi": "82C3",
           "kw": 1,
           "pol": "V",
           "directional": true,
@@ -5734,8 +5734,8 @@
         },
         {
           "freq": "104.3",
-          "name": "Novoye Radio [RUS]",
-          "pi": "7739",
+          "name": "Novoye R.Sveland",
+          "pi": "82C3",
           "kw": 1,
           "pol": "V",
           "directional": true,
@@ -5916,8 +5916,8 @@
       "stations": [
         {
           "freq": "98.5",
-          "name": "Novoye Radio [RUS]",
-          "pi": "7739",
+          "name": "Novoye R.Sveland",
+          "pi": "82C3",
           "kw": 0.5,
           "pol": "C",
           "directional": true,
