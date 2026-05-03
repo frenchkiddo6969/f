@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-04-30T17:56:46.802Z"
+    "exportedAt": "2026-05-03T11:07:18.950Z"
   },
   "txList": [
     {
@@ -15364,6 +15364,22 @@
       ],
       "point": null,
       "stations": [
+        {
+          "freq": "92.0",
+          "name": "Studio 92",
+          "pi": "8812",
+          "kw": 0.08,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "SP",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
         {
           "freq": "103.7",
           "name": "R.FG",
