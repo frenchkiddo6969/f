@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-05-06T14:26:04.967Z"
+    "exportedAt": "2026-05-06T17:56:38.550Z"
   },
   "txList": [
     {
@@ -13344,14 +13344,14 @@
         },
         {
           "freq": "96.5",
-          "name": "Fun Radio",
-          "pi": "8217",
+          "name": "MyHits",
+          "pi": "8220",
           "kw": 0.1,
           "pol": "v",
           "directional": true,
           "directionAngle": 40,
           "country": "SP",
-          "disabled": true,
+          "disabled": false,
           "outlet": "",
           "blobMode": "svg",
           "blobShapeIndex": 5,
