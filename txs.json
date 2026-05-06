@@ -452,7 +452,7 @@
         },
         {
           "freq": "105.8",
-          "name": "NRJ Sveland",
+          "name": "MyHits",
           "pi": "8220",
           "kw": 8,
           "pol": "V",
@@ -666,7 +666,7 @@
         },
         {
           "freq": "96",
-          "name": "NRJ Sveland",
+          "name": "MyHits",
           "pi": "8220",
           "kw": 1,
           "pol": "V",
@@ -832,7 +832,7 @@
         },
         {
           "freq": "100.3",
-          "name": "NRJ Sveland",
+          "name": "MyHits",
           "pi": "8220",
           "kw": 1,
           "pol": "V",
@@ -1137,7 +1137,7 @@
         },
         {
           "freq": "102.2",
-          "name": "NRJ Sveland",
+          "name": "MyHits",
           "pi": "8220",
           "kw": 1,
           "pol": "V",
@@ -1785,7 +1785,7 @@
         },
         {
           "freq": "89.4",
-          "name": "NRJ Sveland",
+          "name": "MyHits",
           "pi": "8220",
           "kw": 1,
           "pol": "V",
@@ -2031,7 +2031,7 @@
         },
         {
           "freq": "105.2",
-          "name": "NRJ Sveland",
+          "name": "MyHits",
           "pi": "8220",
           "kw": 1,
           "pol": "V",
@@ -2492,7 +2492,7 @@
         },
         {
           "freq": "107.4",
-          "name": "NRJ Sveland",
+          "name": "MyHits",
           "pi": "8220",
           "kw": 0.063,
           "pol": "V",
@@ -2578,7 +2578,7 @@
       "stations": [
         {
           "freq": "89.5",
-          "name": "NRJ Sveland",
+          "name": "MyHits",
           "pi": "8220",
           "kw": 1,
           "pol": "V",
@@ -2797,7 +2797,7 @@
         },
         {
           "freq": "106.1",
-          "name": "NRJ Sveland",
+          "name": "MyHits",
           "pi": "8220",
           "kw": 1,
           "pol": "V",
@@ -4025,7 +4025,7 @@
         },
         {
           "freq": "92.3",
-          "name": "NRJ Sveland",
+          "name": "MyHits",
           "pi": "8220",
           "kw": 1,
           "pol": "V",
@@ -4223,7 +4223,7 @@
         },
         {
           "freq": 100.3,
-          "name": "NRJ Sveland",
+          "name": "MyHits",
           "pi": "8220",
           "kw": 0.093,
           "pol": "V",
@@ -4689,7 +4689,7 @@
         },
         {
           "freq": 88.5,
-          "name": "NRJ Sveland",
+          "name": "MyHits",
           "pi": "8220",
           "kw": 0.2,
           "pol": "V",
@@ -5702,7 +5702,7 @@
         },
         {
           "freq": "89.2",
-          "name": "NRJ Sveland",
+          "name": "MyHits",
           "pi": "8220",
           "kw": 1,
           "pol": "V",
@@ -5991,7 +5991,7 @@
         },
         {
           "freq": 97.2,
-          "name": "NRJ Sveland",
+          "name": "MyHits",
           "pi": "8220",
           "kw": 1,
           "pol": "V",
@@ -6979,7 +6979,7 @@
       "stations": [
         {
           "freq": "89.2",
-          "name": "NRJ Sveland",
+          "name": "MyHits",
           "pi": "8220",
           "kw": 0.5,
           "pol": "v",
@@ -7279,7 +7279,7 @@
       "stations": [
         {
           "freq": "91.4",
-          "name": "NRJ Sveland",
+          "name": "MyHits",
           "pi": "8220",
           "kw": 0.2,
           "pol": "v",
@@ -8863,7 +8863,7 @@
         },
         {
           "freq": "105.7",
-          "name": "NRJ Sveland",
+          "name": "MyHits",
           "pi": "8220",
           "kw": 2,
           "pol": "v",
@@ -9447,7 +9447,7 @@
         },
         {
           "freq": "104.7",
-          "name": "NRJ Sveland",
+          "name": "MyHits",
           "pi": "8220",
           "kw": 0.1,
           "pol": "v",
@@ -9581,7 +9581,7 @@
         },
         {
           "freq": "94.0",
-          "name": "NRJ Sveland",
+          "name": "MyHits",
           "pi": "8220",
           "kw": 0.2,
           "pol": "v",
@@ -11073,7 +11073,7 @@
         },
         {
           "freq": "106.1",
-          "name": "NRJ Sveland",
+          "name": "MyHits",
           "pi": "8220",
           "kw": 0.5,
           "pol": "v",
@@ -11536,7 +11536,7 @@
       "stations": [
         {
           "freq": "91.2",
-          "name": "NRJ Sveland",
+          "name": "MyHits",
           "pi": "8220",
           "kw": 0.1,
           "pol": "v",
@@ -11713,7 +11713,7 @@
         },
         {
           "freq": "100.3",
-          "name": "NRJ Sveland",
+          "name": "MyHits",
           "pi": "8220",
           "kw": 0.5,
           "pol": "v",
@@ -12251,7 +12251,7 @@
         },
         {
           "freq": "92.7",
-          "name": "NRJ Sveland",
+          "name": "MyHits",
           "pi": "8220",
           "kw": 0.05,
           "pol": "v",
