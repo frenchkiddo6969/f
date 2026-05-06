@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-05-03T11:07:18.950Z"
+    "exportedAt": "2026-05-06T01:33:21.758Z"
   },
   "txList": [
     {
@@ -356,7 +356,7 @@
         },
         {
           "freq": "94.1",
-          "name": "Europa 2",
+          "name": "Power FM",
           "pi": "82E2",
           "kw": 3,
           "pol": "V",
@@ -1121,7 +1121,7 @@
         },
         {
           "freq": "100.5",
-          "name": "Europa 2",
+          "name": "Power FM",
           "pi": "82E2",
           "kw": 1,
           "pol": "V",
@@ -1528,7 +1528,7 @@
         },
         {
           "freq": "97.5",
-          "name": "Europa 2",
+          "name": "Power FM",
           "pi": "82E2",
           "kw": 0.5,
           "pol": "V",
@@ -2733,7 +2733,7 @@
         },
         {
           "freq": "97.5",
-          "name": "Europa 2",
+          "name": "Power FM",
           "pi": "82E2",
           "kw": 1,
           "pol": "V",
@@ -3156,7 +3156,7 @@
       "stations": [
         {
           "freq": "90.4",
-          "name": "Europa 2",
+          "name": "Power FM",
           "pi": "82E2",
           "kw": 0.2,
           "pol": "v",
@@ -4041,7 +4041,7 @@
         },
         {
           "freq": "97.3",
-          "name": "Europa 2",
+          "name": "Power FM",
           "pi": "82E2",
           "kw": 1,
           "pol": "V",
@@ -4614,7 +4614,7 @@
         },
         {
           "freq": "98.5",
-          "name": "Europa 2",
+          "name": "Power FM",
           "pi": "82E2",
           "kw": 0.5,
           "pol": "V",
@@ -9029,7 +9029,7 @@
         },
         {
           "freq": "95.0",
-          "name": "Europa 2",
+          "name": "Power FM",
           "pi": "82E2",
           "kw": 0.5,
           "pol": "v",
@@ -11337,7 +11337,7 @@
         },
         {
           "freq": "95.2",
-          "name": "Europa 2",
+          "name": "Power FM",
           "pi": "82E2",
           "kw": 0.5,
           "pol": "v",
