@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-05-06T01:33:21.758Z"
+    "exportedAt": "2026-05-06T14:12:53.667Z"
   },
   "txList": [
     {
@@ -324,15 +324,15 @@
         },
         {
           "freq": "92.7",
-          "name": "R.Rekord",
-          "pi": "82C6",
-          "kw": 4,
+          "name": "",
+          "pi": "",
+          "kw": 0,
           "pol": "v",
           "directional": true,
           "directionAngle": 180,
           "country": "SP",
-          "disabled": false,
-          "outlet": "Doetinlingen",
+          "disabled": true,
+          "outlet": "",
           "blobMode": "svg",
           "blobShapeIndex": 2,
           "blobOffsetX": 0,
@@ -373,7 +373,7 @@
         {
           "freq": "95.8",
           "name": "R.Rock",
-          "pi": "8733",
+          "pi": "82C6",
           "kw": 3,
           "pol": "V",
           "directional": true,
@@ -483,7 +483,7 @@
           "blobOffsetY": 0
         },
         {
-          "freq": "106.7",
+          "freq": "106.6",
           "name": "Lachen & Liedjes",
           "pi": "82F2",
           "kw": 5,
@@ -1923,8 +1923,8 @@
           "blobOffsetY": 0
         },
         {
-          "freq": 104.7,
-          "name": "R.Rekord",
+          "freq": "104.7",
+          "name": "R.Rock",
           "pi": "82C6",
           "kw": 1,
           "pol": "V",
@@ -2871,8 +2871,8 @@
           "blobOffsetY": 0
         },
         {
-          "freq": 101.5,
-          "name": "R.Rekord",
+          "freq": "101.5",
+          "name": "R.Rock",
           "pi": "82C6",
           "kw": 1,
           "pol": "V",
@@ -3171,8 +3171,8 @@
           "blobOffsetY": 0
         },
         {
-          "freq": 94.2,
-          "name": "R.Rekord",
+          "freq": "94.2",
+          "name": "R.Rock",
           "pi": "82C6",
           "kw": 0.3,
           "pol": "v",
@@ -3966,7 +3966,7 @@
         },
         {
           "freq": "99.8",
-          "name": "R.Rekord",
+          "name": "R.Rock",
           "pi": "82C6",
           "kw": 4,
           "pol": "C",
@@ -4534,7 +4534,7 @@
       "stations": [
         {
           "freq": "89",
-          "name": "R.Rekord",
+          "name": "R.Rock",
           "pi": "82C6",
           "kw": 1,
           "pol": "V",
@@ -6920,8 +6920,8 @@
         },
         {
           "freq": "100.5",
-          "name": "R.Rekord",
-          "pi": "82C6",
+          "name": "R.FG",
+          "pi": "822C",
           "kw": 0.2,
           "pol": "v",
           "directional": false,
@@ -6952,8 +6952,8 @@
         },
         {
           "freq": "107.7",
-          "name": "R.FG",
-          "pi": "822C",
+          "name": "R.Rock",
+          "pi": "82C6",
           "kw": 0.2,
           "pol": "v",
           "directional": false,
@@ -7096,8 +7096,8 @@
           "blobOffsetY": 0
         },
         {
-          "freq": 91,
-          "name": "R.Rekord",
+          "freq": "91",
+          "name": "R.Rock",
           "pi": "82C6",
           "kw": 0.2,
           "pol": "v",
@@ -7294,8 +7294,8 @@
           "blobOffsetY": 0
         },
         {
-          "freq": 92.5,
-          "name": "R.Rekord",
+          "freq": "92.5",
+          "name": "R.Rock",
           "pi": "82C6",
           "kw": 0.2,
           "pol": "v",
@@ -7322,7 +7322,7 @@
       "stations": [
         {
           "freq": "89.8",
-          "name": "R.Rekord",
+          "name": "R.Rock",
           "pi": "82C6",
           "kw": 0.5,
           "pol": "v",
@@ -7472,7 +7472,7 @@
         },
         {
           "freq": "100",
-          "name": "R.Rekord",
+          "name": "R.Rock",
           "pi": "82C6",
           "kw": 0.5,
           "pol": "v",
@@ -10053,7 +10053,23 @@
       "point": null,
       "stations": [
         {
-          "freq": "107.1",
+          "freq": "107.0",
+          "name": "Free Radio 107 FM",
+          "pi": "8756",
+          "kw": 3,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "SP",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "107.4",
           "name": "Nostalgie",
           "pi": "8213",
           "kw": 3,
@@ -11536,8 +11552,8 @@
         },
         {
           "freq": "98.7",
-          "name": "R.Rekord",
-          "pi": "82C6",
+          "name": "R.FG",
+          "pi": "822C",
           "kw": 0.1,
           "pol": "v",
           "directional": true,
@@ -11552,8 +11568,8 @@
         },
         {
           "freq": "100.2",
-          "name": "R.FG",
-          "pi": "822C",
+          "name": "R.Rock",
+          "pi": "82C6",
           "kw": 0.1,
           "pol": "v",
           "directional": true,
