@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-05-08T16:19:47.332Z"
+    "exportedAt": "2026-05-08T17:19:29.813Z"
   },
   "txList": [
     {
@@ -7349,7 +7349,7 @@
       "stations": [
         {
           "freq": "93.5",
-          "name": "R.Rekord",
+          "name": "R.Rock",
           "pi": "82C6",
           "kw": 0.2,
           "pol": "v",
@@ -12773,6 +12773,22 @@
           "freq": "89.7",
           "name": "R.FG",
           "pi": "822C",
+          "kw": 0.1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "SP",
+          "disabled": true,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "90.3",
+          "name": "MyHits",
+          "pi": "8220",
           "kw": 0.1,
           "pol": "v",
           "directional": false,
