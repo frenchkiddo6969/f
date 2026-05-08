@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-05-08T15:50:46.177Z"
+    "exportedAt": "2026-05-08T15:53:05.309Z"
   },
   "txList": [
     {
@@ -6495,7 +6495,7 @@
       "point": null,
       "stations": [
         {
-          "freq": "107.3",
+          "freq": "101.9",
           "name": "Newstalk",
           "pi": "52A1",
           "kw": 0.1,
