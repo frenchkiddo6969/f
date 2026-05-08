@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-05-08T17:19:29.813Z"
+    "exportedAt": "2026-05-08T21:52:25.463Z"
   },
   "txList": [
     {
@@ -169,7 +169,7 @@
         },
         {
           "freq": "97.6",
-          "name": "RTO Radius FM [F]",
+          "name": "RTO Radio 1 [F]",
           "pi": "8E10",
           "kw": 5,
           "pol": "v",
@@ -7156,7 +7156,7 @@
         },
         {
           "freq": "89.8",
-          "name": "RTO Radius FM [F]",
+          "name": "RTO Radio 1 [F]",
           "pi": "8E10",
           "kw": 0.5,
           "pol": "v",
