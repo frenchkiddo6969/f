@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-05-08T15:53:05.309Z"
+    "exportedAt": "2026-05-08T16:19:47.332Z"
   },
   "txList": [
     {
@@ -9524,7 +9524,7 @@
           "directional": true,
           "directionAngle": 176,
           "country": "SP",
-          "disabled": true,
+          "disabled": false,
           "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
@@ -9540,7 +9540,7 @@
           "directional": true,
           "directionAngle": 176,
           "country": "SP",
-          "disabled": true,
+          "disabled": false,
           "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
@@ -9556,7 +9556,7 @@
           "directional": true,
           "directionAngle": 176,
           "country": "SP",
-          "disabled": true,
+          "disabled": false,
           "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
