@@ -1,0 +1,778 @@
+[
+  {
+    "name": "SPT",
+    "latlng": [
+      1018.3984375,
+      -354.8828125
+    ],
+    "category": "Other"
+  },
+  {
+    "name": "InterCity Doetinlingen",
+    "latlng": [
+      1021.0190552023579,
+      -357.72259065152554
+    ],
+    "category": "transport"
+  },
+  {
+    "name": "Sveland Publiek Omroep",
+    "latlng": [
+      1016.6605951602951,
+      -354.9039983836246
+    ],
+    "category": "other"
+  },
+  {
+    "name": "McDonald's",
+    "latlng": [
+      1011.9802893125099,
+      -345.6094878483811
+    ],
+    "category": "restaurant"
+  },
+  {
+    "name": "National Assembly of the Kingdom of Sveland",
+    "latlng": [
+      1015.2247533410002,
+      -342.1660069693318
+    ],
+    "category": "landmark"
+  },
+  {
+    "name": "Communist Party of Sveland",
+    "latlng": [
+      1023.8964976233042,
+      -371.51854746428177
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Senate of the Kingdom of Sveland",
+    "latlng": [
+      1023.3972153767473,
+      -373.9361246581362
+    ],
+    "category": "landmark"
+  },
+  {
+    "name": "Svelish Royal Palace",
+    "latlng": [
+      1023.234375,
+      -380.03125
+    ],
+    "category": "landmark"
+  },
+  {
+    "name": "Level Church Doetinlingen",
+    "latlng": [
+      1026.84375,
+      -370.5625
+    ],
+    "category": "worship"
+  },
+  {
+    "name": "Doetinlingen Mosque",
+    "latlng": [
+      1013.8984375,
+      -353.34375
+    ],
+    "category": "worship"
+  },
+  {
+    "name": "Government Complex of Sveland",
+    "latlng": [
+      1017.5153377742033,
+      -358.9547351191026
+    ],
+    "category": "landmark"
+  },
+  {
+    "name": "Auchan Doetinlingen",
+    "latlng": [
+      1016.8092460496704,
+      -361.68619521137447
+    ],
+    "category": "shopping"
+  },
+  {
+    "name": "Embassy of the Republic of Telonia to the Kingdom of Sveland",
+    "latlng": [
+      1014.9965416760087,
+      -365.1212155917474
+    ],
+    "category": "other"
+  },
+  {
+    "name": "SPT Shop Emmelburg",
+    "latlng": [
+      919.65625,
+      -374.1484375
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Consulate of the Republic of Telonia in Emmelburg",
+    "latlng": [
+      918.453125,
+      -374.09375
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Grana Emmelburg",
+    "latlng": [
+      916.8136509029963,
+      -369.23951852775895
+    ],
+    "category": "shopping"
+  },
+  {
+    "name": "Auchan Vollestad",
+    "latlng": [
+      1027.9564831499433,
+      -323.28038152372466
+    ],
+    "category": "shopping"
+  },
+  {
+    "name": "Grana Doetinlingen Oost",
+    "latlng": [
+      1025.203125,
+      -340.84375
+    ],
+    "category": "shopping"
+  },
+  {
+    "name": "University of Doetinlingen",
+    "latlng": [
+      1016.8747940635354,
+      -371.55146788316256
+    ],
+    "category": "school"
+  },
+  {
+    "name": "Doetinlingen Airport",
+    "latlng": [
+      1029.9231238851185,
+      -396.090282899027
+    ],
+    "category": "transport"
+  },
+  {
+    "name": "SPT Shop Doetinlingen",
+    "latlng": [
+      1020.3771823391,
+      -372.2806717512612
+    ],
+    "category": "other"
+  },
+  {
+    "name": "West Pharmacy",
+    "latlng": [
+      1020.4324250563803,
+      -373.2308464884806
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Doetinlingen Gemeentehuis",
+    "latlng": [
+      1012.296875,
+      -357.46875
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Grana Vilren",
+    "latlng": [
+      955.5868028904282,
+      -458.56446544952956
+    ],
+    "category": "shopping"
+  },
+  {
+    "name": "Hotel 5",
+    "latlng": [
+      950.0200576110386,
+      -452.26107782953335
+    ],
+    "category": "hotel"
+  },
+  {
+    "name": "Grana Diknep",
+    "latlng": [
+      846.7619192848672,
+      -490.2692145210437
+    ],
+    "category": "shopping"
+  },
+  {
+    "name": "Grana Wageselt",
+    "latlng": [
+      880.2421875,
+      -270.125
+    ],
+    "category": "shopping"
+  },
+  {
+    "name": "SPT Shop Wageselt",
+    "latlng": [
+      880.4609375,
+      -275.3984375
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Grana Omigrad Centrum",
+    "latlng": [
+      824.8621573410197,
+      -596.8865116690944
+    ],
+    "category": "shopping"
+  },
+  {
+    "name": "Politie",
+    "latlng": [
+      825.5141327847796,
+      -589.4100670538096
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Omigrad Public Hospital",
+    "latlng": [
+      820.0326312390639,
+      -598.8401078485578
+    ],
+    "category": "hospital"
+  },
+  {
+    "name": "Omigrad University",
+    "latlng": [
+      821.5426586963908,
+      -594.2904024740744
+    ],
+    "category": "school"
+  },
+  {
+    "name": "SPT Shop Omigrad",
+    "latlng": [
+      827.6328125,
+      -587.5234375
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Miranda Apteka",
+    "latlng": [
+      828.7890625,
+      -587.5078125
+    ],
+    "category": "other"
+  },
+  {
+    "name": "RadioLand Omigrad",
+    "latlng": [
+      829.5,
+      -586.296875
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Pyatyorochka Omigrad",
+    "latlng": [
+      828.625,
+      -590.875
+    ],
+    "category": "shopping"
+  },
+  {
+    "name": "InterCity Omigrad",
+    "latlng": [
+      827.8342155306945,
+      -599.9359096629614
+    ],
+    "category": "transport"
+  },
+  {
+    "name": "Pyatyorochka Doetinlingen",
+    "latlng": [
+      1016.2892212603654,
+      -357.0447303253823
+    ],
+    "category": "shopping"
+  },
+  {
+    "name": "RadioLand Doetinlingen",
+    "latlng": [
+      1018.671875,
+      -357.484375
+    ],
+    "category": "other"
+  },
+  {
+    "name": "SveBank",
+    "latlng": [
+      1023.09375,
+      -361.796875
+    ],
+    "category": "other"
+  },
+  {
+    "name": "SvePost",
+    "latlng": [
+      1023.046875,
+      -364.171875
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Radio FG Sveland",
+    "latlng": [
+      1020.7299970596144,
+      -376.8924011180125
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Nationaal Weerbureau van het Koninkrijk Sveland - Doetinlingen",
+    "latlng": [
+      1010.703125,
+      -337.875
+    ],
+    "category": "other"
+  },
+  {
+    "name": "SPO Nieuws",
+    "latlng": [
+      1016.15625,
+      -352.421875
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Orrish Embassy to Sveland",
+    "latlng": [
+      1017.7109375,
+      -352.046875
+    ],
+    "category": "other"
+  },
+  {
+    "name": "89 Apotheek",
+    "latlng": [
+      1020.5625,
+      -345.6171875
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Kapitaal 98.7",
+    "latlng": [
+      1022.40625,
+      -345.609375
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Vodafone Sveland",
+    "latlng": [
+      1014.3984375,
+      -361.890625
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Public Hospital of Doetinlingen",
+    "latlng": [
+      1028.3873763447289,
+      -373.7501280309145
+    ],
+    "category": "hospital"
+  },
+  {
+    "name": "Albert Heijn Doetinlingen",
+    "latlng": [
+      1024.0563473099614,
+      -376.50121535146843
+    ],
+    "category": "shopping"
+  },
+  {
+    "name": "Populaire Unie",
+    "latlng": [
+      1023.4928715937033,
+      -377.42929300177576
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Port Authority Doetinlingen-Vollestad",
+    "latlng": [
+      1040.3797026962477,
+      -327.3478397656709
+    ],
+    "category": "transport"
+  },
+  {
+    "name": "Mix FM",
+    "latlng": [
+      980.1015625,
+      -420.5390625
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Rottingem Zendmast",
+    "latlng": [
+      963.1015625,
+      -323.921875
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Arnemegen Zendmast",
+    "latlng": [
+      921.0703125,
+      -649.1875
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Nijselt Zendmast",
+    "latlng": [
+      861.4375,
+      -279.5703125
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Stawijk Zendmast",
+    "latlng": [
+      839.9609375,
+      -438.6875
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Appingemeer Zendmast",
+    "latlng": [
+      823.3125,
+      -588.046875
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Zoetergraaf Zendmast",
+    "latlng": [
+      912.703125,
+      -587.1796875
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Oosterhon Zendmast",
+    "latlng": [
+      1010.8203125,
+      -531.6875
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Pijnacker Zendmast",
+    "latlng": [
+      949.46875,
+      -471.4296875
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Roesstal Zendmast",
+    "latlng": [
+      1006.703125,
+      -444.3125
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Radio Vibration",
+    "latlng": [
+      954.4873606790591,
+      -559.6891798593275
+    ],
+    "category": "other"
+  },
+  {
+    "name": "SPT Shop Zaltkerk",
+    "latlng": [
+      954.0625,
+      -559.484375
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Markt van Mastenbroek",
+    "latlng": [
+      923.9896892286089,
+      -525.8885714205826
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Stadhuis Mastenbroek",
+    "latlng": [
+      920.6414113044112,
+      -525.6295448312028
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Sveland Thermal Plant",
+    "latlng": [
+      905.4765625,
+      -485.9921875
+    ],
+    "category": "other"
+  },
+  {
+    "name": "RadioLand Diknep",
+    "latlng": [
+      856.1484375,
+      -484.625
+    ],
+    "category": "other"
+  },
+  {
+    "name": "SPT Shop Diknep",
+    "latlng": [
+      851.890625,
+      -491.1796875
+    ],
+    "category": "other"
+  },
+  {
+    "name": "SPT Shop Toeloz",
+    "latlng": [
+      958.546875,
+      -524.359375
+    ],
+    "category": "other"
+  },
+  {
+    "name": "RadioLand Toeloz",
+    "latlng": [
+      958.7109375,
+      -521.9140625
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Stadhuis Enzee",
+    "latlng": [
+      1012.2939752848945,
+      -548.1501545715668
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Huisarts in Tragal",
+    "latlng": [
+      919.9296875,
+      -414.953125
+    ],
+    "category": "hospital"
+  },
+  {
+    "name": "Emmelburg Stadhuis",
+    "latlng": [
+      922.328125,
+      -367.703125
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Stadhuis van Wageselt",
+    "latlng": [
+      875.4375,
+      -268.796875
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Port Authority Wageselt",
+    "latlng": [
+      875.8401368471874,
+      -275.15292622921527
+    ],
+    "category": "transport"
+  },
+  {
+    "name": "Port Authority Bellem-Groendert",
+    "latlng": [
+      893.8334723952336,
+      -631.3161227582145
+    ],
+    "category": "transport"
+  },
+  {
+    "name": "Omigrad Metro - Gemeentehuis",
+    "latlng": [
+      824.9140625,
+      -591.1640625
+    ],
+    "category": "transport"
+  },
+  {
+    "name": "Omigrad Metro - Oostelijke Kant",
+    "latlng": [
+      825.890625,
+      -587.0546875
+    ],
+    "category": "transport"
+  },
+  {
+    "name": "Omigrad Metro - Lenin-Halt",
+    "latlng": [
+      830.1875,
+      -593.71875
+    ],
+    "category": "transport"
+  },
+  {
+    "name": "Omigrad Metro - InterCity",
+    "latlng": [
+      827.375,
+      -602.8046875
+    ],
+    "category": "transport"
+  },
+  {
+    "name": "Omigrad Metro - Ziekenhuis",
+    "latlng": [
+      817.375,
+      -600.8203125
+    ],
+    "category": "transport"
+  },
+  {
+    "name": "Communistische Partij van Omigrad",
+    "latlng": [
+      821.9765625,
+      -599.1640625
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Pyatyorochka Nikograd",
+    "latlng": [
+      841.09375,
+      -602.625
+    ],
+    "category": "shopping"
+  },
+  {
+    "name": "Omigrad Sign",
+    "latlng": [
+      832.9867333477343,
+      -586.5778056654193
+    ],
+    "category": "landmark"
+  },
+  {
+    "name": "SPT Shop Groendert",
+    "latlng": [
+      921.6726768494527,
+      -660.0099488265103
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Grana Herlecht",
+    "latlng": [
+      1016.9459631909727,
+      -455.91038613888503
+    ],
+    "category": "shopping"
+  },
+  {
+    "name": "Top Petrol",
+    "latlng": [
+      1020.1910537829593,
+      -361.03584757035736
+    ],
+    "category": "other"
+  },
+  {
+    "name": "MyHits Radio",
+    "latlng": [
+      1016.3354213397865,
+      -345.55757371415007
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Zwemkledingwinkel Doetinlingen",
+    "latlng": [
+      1014.256289264454,
+      -347.12313830185855
+    ],
+    "category": "shopping"
+  },
+  {
+    "name": "Uw Lokale 104.3",
+    "latlng": [
+      1014.2010465471739,
+      -349.465429514539
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Auchan Express Emmelburg",
+    "latlng": [
+      918.640625,
+      -367.5234375
+    ],
+    "category": "shopping"
+  },
+  {
+    "name": "SPT Store Vilren",
+    "latlng": [
+      943.457222798151,
+      -453.1449613060165
+    ],
+    "category": "other"
+  },
+  {
+    "name": "loja de maiôs",
+    "latlng": [
+      1025.7282994121908,
+      -268.751517310029
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Universiteit Wageselt",
+    "latlng": [
+      878.015625,
+      -272.890625
+    ],
+    "category": "school"
+  },
+  {
+    "name": "Wageselt Coast Hotel",
+    "latlng": [
+      882.40625,
+      -273.359375
+    ],
+    "category": "hotel"
+  },
+  {
+    "name": "Het bos van de hoofdstad",
+    "latlng": [
+      1006.40625,
+      -353.78125
+    ],
+    "category": "park"
+  }
+]
