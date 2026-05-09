@@ -1,0 +1,466 @@
+[
+  {
+    "name": "Doetinlingen",
+    "latlng": [
+      1018.6094153861337,
+      -363.18772048694046
+    ],
+    "type": "capital"
+  },
+  {
+    "name": "Omigrad",
+    "latlng": [
+      823.5630898617283,
+      -595.0495101694866
+    ],
+    "type": "city"
+  },
+  {
+    "name": "Wageselt",
+    "latlng": [
+      881.4254485510794,
+      -271.80815122280944
+    ],
+    "type": "city"
+  },
+  {
+    "name": "Zaltkerk",
+    "latlng": [
+      948.59375,
+      -559.0625
+    ],
+    "type": "town"
+  },
+  {
+    "name": "Diknep",
+    "latlng": [
+      854.8763181573075,
+      -486.27463013343714
+    ],
+    "type": "town"
+  },
+  {
+    "name": "Groendert",
+    "latlng": [
+      923.481456229631,
+      -661.1006462355978
+    ],
+    "type": "city"
+  },
+  {
+    "name": "Emmelburg",
+    "latlng": [
+      918.6067522560863,
+      -368.8586006237346
+    ],
+    "type": "city"
+  },
+  {
+    "name": "Brasbeke",
+    "latlng": [
+      848.3593709390913,
+      -400.1615816088614
+    ],
+    "type": "town"
+  },
+  {
+    "name": "Bolsrade",
+    "latlng": [
+      903.3329740863029,
+      -497.81067783019904
+    ],
+    "type": "town"
+  },
+  {
+    "name": "Mastenbroek",
+    "latlng": [
+      922.6859611007961,
+      -528.0319888510543
+    ],
+    "type": "town"
+  },
+  {
+    "name": "Nuth",
+    "latlng": [
+      883.7295764057006,
+      -528.0829487793327
+    ],
+    "type": "town"
+  },
+  {
+    "name": "Kaluga",
+    "latlng": [
+      850.25,
+      -530.9375
+    ],
+    "type": "town"
+  },
+  {
+    "name": "Kirov",
+    "latlng": [
+      837.8481657484199,
+      -562.3494777009216
+    ],
+    "type": "town"
+  },
+  {
+    "name": "Nikograd",
+    "latlng": [
+      838.9375,
+      -601.8125
+    ],
+    "type": "town"
+  },
+  {
+    "name": "Tumazy",
+    "latlng": [
+      860.5523689602702,
+      -586.7354737432794
+    ],
+    "type": "town"
+  },
+  {
+    "name": "Vologda",
+    "latlng": [
+      857.0467026935236,
+      -564.2044506241035
+    ],
+    "type": "town"
+  },
+  {
+    "name": "Toeloz",
+    "latlng": [
+      959.1019603319033,
+      -523.5241831209901
+    ],
+    "type": "town"
+  },
+  {
+    "name": "Enzee",
+    "latlng": [
+      1011.2510854444112,
+      -548.2729204625192
+    ],
+    "type": "town"
+  },
+  {
+    "name": "Vilren",
+    "latlng": [
+      946.8125,
+      -455.8125
+    ],
+    "type": "city"
+  },
+  {
+    "name": "Kortlecht",
+    "latlng": [
+      870.5625,
+      -360.375
+    ],
+    "type": "town"
+  },
+  {
+    "name": "Bergerijk",
+    "latlng": [
+      868.1955193966741,
+      -368.98867015193804
+    ],
+    "type": "town"
+  },
+  {
+    "name": "Tragal",
+    "latlng": [
+      918.7084854566218,
+      -415.9334669460745
+    ],
+    "type": "town"
+  },
+  {
+    "name": "Tollebeek",
+    "latlng": [
+      993.90625,
+      -421.1875
+    ],
+    "type": "town"
+  },
+  {
+    "name": "Olen",
+    "latlng": [
+      979.0662074850906,
+      -420.4482076268573
+    ],
+    "type": "town"
+  },
+  {
+    "name": "Brusschaat",
+    "latlng": [
+      1019.4477993360827,
+      -413.2494724634456
+    ],
+    "type": "town"
+  },
+  {
+    "name": "Herlecht",
+    "latlng": [
+      1017.6639886635786,
+      -455.98660315885587
+    ],
+    "type": "town"
+  },
+  {
+    "name": "Sint Pieter",
+    "latlng": [
+      1067.0449949310105,
+      -431.6426411549224
+    ],
+    "type": "town"
+  },
+  {
+    "name": "Endrecht",
+    "latlng": [
+      1042.34375,
+      -369.46875
+    ],
+    "type": "town"
+  },
+  {
+    "name": "Vollestad",
+    "latlng": [
+      1030.2032207377072,
+      -324.27068013221367
+    ],
+    "type": "town"
+  },
+  {
+    "name": "Breda",
+    "latlng": [
+      957.5109700742336,
+      -344.7145558284419
+    ],
+    "type": "town"
+  },
+  {
+    "name": "Lechten",
+    "latlng": [
+      957.46875,
+      -414.65625
+    ],
+    "type": "town"
+  },
+  {
+    "name": "Tienen",
+    "latlng": [
+      895.2262070829976,
+      -430.6834936812736
+    ],
+    "type": "town"
+  },
+  {
+    "name": "Schoenacker",
+    "latlng": [
+      904.171875,
+      -451.28125
+    ],
+    "type": "town"
+  },
+  {
+    "name": "Zotteselt",
+    "latlng": [
+      914.90625,
+      -455.96875
+    ],
+    "type": "town"
+  },
+  {
+    "name": "Jubbega",
+    "latlng": [
+      915.6048061464118,
+      -481.2555296548915
+    ],
+    "type": "town"
+  },
+  {
+    "name": "Gorinchem",
+    "latlng": [
+      919.8618442486337,
+      -490.45283419672904
+    ],
+    "type": "town"
+  },
+  {
+    "name": "Zoutburg",
+    "latlng": [
+      953.25,
+      -496.453125
+    ],
+    "type": "town"
+  },
+  {
+    "name": "Aareik",
+    "latlng": [
+      900.2847245810082,
+      -557.1989871574926
+    ],
+    "type": "town"
+  },
+  {
+    "name": "Leopoldsburg",
+    "latlng": [
+      896.84375,
+      -579.34375
+    ],
+    "type": "town"
+  },
+  {
+    "name": "Bellem",
+    "latlng": [
+      895.5287016805647,
+      -627.9199380826087
+    ],
+    "type": "town"
+  },
+  {
+    "name": "Leningrad",
+    "latlng": [
+      828.25,
+      -549.03125
+    ],
+    "type": "town"
+  },
+  {
+    "name": "Tilburg",
+    "latlng": [
+      1009.4961465120844,
+      -335.7278937900455
+    ],
+    "type": "town"
+  },
+  {
+    "name": "Rinkveld",
+    "latlng": [
+      1018.578125,
+      -332.515625
+    ],
+    "type": "town"
+  },
+  {
+    "name": "Zotteloon",
+    "latlng": [
+      1009.7063706158978,
+      -373.25289632074254
+    ],
+    "type": "town"
+  },
+  {
+    "name": "Blokkerk",
+    "latlng": [
+      869.9623117285742,
+      -415.95556403298656
+    ],
+    "type": "town"
+  },
+  {
+    "name": "Shapeer",
+    "latlng": [
+      880.2362414360766,
+      -454.27711793103947
+    ],
+    "type": "town"
+  },
+  {
+    "name": "Springton",
+    "latlng": [
+      442.97965033851364,
+      386.19501059713366
+    ],
+    "type": "capital"
+  },
+  {
+    "name": "Wichita",
+    "latlng": [
+      481.0342780186007,
+      267.57160087561226
+    ],
+    "type": "city"
+  },
+  {
+    "name": "Facesits",
+    "latlng": [
+      569.6302080863035,
+      356.167530943315
+    ],
+    "type": "city"
+  },
+  {
+    "name": "Swimsuit",
+    "latlng": [
+      566.9544920775473,
+      106.73133857149422
+    ],
+    "type": "city"
+  },
+  {
+    "name": "Broken Arrow",
+    "latlng": [
+      668.0370968527786,
+      269.652713326867
+    ],
+    "type": "city"
+  },
+  {
+    "name": "Rouen",
+    "latlng": [
+      797,
+      209.625
+    ],
+    "type": "city"
+  },
+  {
+    "name": "Katzrin",
+    "latlng": [
+      512.875,
+      -233.5
+    ],
+    "type": "capital"
+  },
+  {
+    "name": "Falgueró",
+    "latlng": [
+      758.4360105328972,
+      -225.09745915822873
+    ],
+    "type": "capital"
+  },
+  {
+    "name": "Korteind",
+    "latlng": [
+      836.4213917926951,
+      -518.4943021411864
+    ],
+    "type": "town"
+  },
+  {
+    "name": "Redenção",
+    "latlng": [
+      1023.65625,
+      -267.59375
+    ],
+    "type": "town"
+  },
+  {
+    "name": "Xanxerê",
+    "latlng": [
+      996.777588231372,
+      -173.487441672032
+    ],
+    "type": "town"
+  },
+  {
+    "name": "Tordilho",
+    "latlng": [
+      1033.8359375,
+      -201.8203125
+    ],
+    "type": "town"
+  }
+]
