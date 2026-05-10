@@ -462,5 +462,317 @@
       -201.8203125
     ],
     "type": "town"
+  },
+  {
+    "name": "Albenigen",
+    "latlng": [
+      760,
+      65.5625
+    ],
+    "type": "capital"
+  },
+  {
+    "name": "Graz",
+    "latlng": [
+      769.75,
+      51.6875
+    ],
+    "type": "city"
+  },
+  {
+    "name": "Vilaplana",
+    "latlng": [
+      776.9882876944323,
+      -290.81876961290186
+    ],
+    "type": "city"
+  },
+  {
+    "name": "Cape Samu",
+    "latlng": [
+      574.684338325065,
+      -135.04933299749652
+    ],
+    "type": "capital"
+  },
+  {
+    "name": "Tsunojo",
+    "latlng": [
+      679.5,
+      -100.84375
+    ],
+    "type": "town"
+  },
+  {
+    "name": "Muntilló",
+    "latlng": [
+      727.4542332333931,
+      -147.39337478619015
+    ],
+    "type": "town"
+  },
+  {
+    "name": "Sant Llorenç de Morunys",
+    "latlng": [
+      747.1101869399487,
+      -123.69060708122608
+    ],
+    "type": "town"
+  },
+  {
+    "name": "Bellvís",
+    "latlng": [
+      849.389923813428,
+      -127.38970604813895
+    ],
+    "type": "town"
+  },
+  {
+    "name": "Castellverda",
+    "latlng": [
+      633.4375,
+      -187.375
+    ],
+    "type": "town"
+  },
+  {
+    "name": "Branyola",
+    "latlng": [
+      665.5625,
+      -175.3125
+    ],
+    "type": "town"
+  },
+  {
+    "name": "Capolat",
+    "latlng": [
+      683.390625,
+      -239.40625
+    ],
+    "type": "town"
+  },
+  {
+    "name": "La Fatarella",
+    "latlng": [
+      669.3666855484452,
+      -281.3981019607626
+    ],
+    "type": "town"
+  },
+  {
+    "name": "Almacelles",
+    "latlng": [
+      666.2904489026183,
+      -206.21594628594062
+    ],
+    "type": "town"
+  },
+  {
+    "name": "Ayanot",
+    "latlng": [
+      673.0912270915402,
+      -193.02317985387918
+    ],
+    "type": "city"
+  },
+  {
+    "name": "Thongsville",
+    "latlng": [
+      570.0761607544295,
+      124.68093346356655
+    ],
+    "type": "town"
+  },
+  {
+    "name": "Salina",
+    "latlng": [
+      557.3665097128379,
+      143.89406091532925
+    ],
+    "type": "town"
+  },
+  {
+    "name": "Bendover",
+    "latlng": [
+      553.572621366711,
+      224.46678684678844
+    ],
+    "type": "town"
+  },
+  {
+    "name": "Butt",
+    "latlng": [
+      559.5962730534679,
+      294.40308640786117
+    ],
+    "type": "town"
+  },
+  {
+    "name": "East Butt",
+    "latlng": [
+      541.4608645496764,
+      326.66032940230997
+    ],
+    "type": "town"
+  },
+  {
+    "name": "Boringtown",
+    "latlng": [
+      629.8995595157413,
+      348.05121595216593
+    ],
+    "type": "town"
+  },
+  {
+    "name": "Lincoln",
+    "latlng": [
+      475.3855442223378,
+      356.0932054986273
+    ],
+    "type": "town"
+  },
+  {
+    "name": "Saint Petersburg",
+    "latlng": [
+      469.8125,
+      324.875
+    ],
+    "type": "town"
+  },
+  {
+    "name": "Mitchfield",
+    "latlng": [
+      435.4375,
+      274.625
+    ],
+    "type": "town"
+  },
+  {
+    "name": "Elk City",
+    "latlng": [
+      478.625,
+      280.59375
+    ],
+    "type": "town"
+  },
+  {
+    "name": "Door",
+    "latlng": [
+      431.5,
+      366.5625
+    ],
+    "type": "town"
+  },
+  {
+    "name": "Justice",
+    "latlng": [
+      425.1415436134728,
+      372.5191287746024
+    ],
+    "type": "town"
+  },
+  {
+    "name": "Wade",
+    "latlng": [
+      512.4212530452323,
+      356.17218788590145
+    ],
+    "type": "town"
+  },
+  {
+    "name": "Saint Miguel",
+    "latlng": [
+      515.5692318326414,
+      411.4477583029223
+    ],
+    "type": "city"
+  },
+  {
+    "name": "Trent",
+    "latlng": [
+      608.5395783802987,
+      219.03708549456368
+    ],
+    "type": "town"
+  },
+  {
+    "name": "Dublin",
+    "latlng": [
+      649.802704887308,
+      272.9759988017371
+    ],
+    "type": "town"
+  },
+  {
+    "name": "Little Tulsa",
+    "latlng": [
+      662.537013945891,
+      256.86873684058776
+    ],
+    "type": "town"
+  },
+  {
+    "name": "York",
+    "latlng": [
+      675.5,
+      260.0625
+    ],
+    "type": "town"
+  },
+  {
+    "name": "Winston",
+    "latlng": [
+      645.5193887721093,
+      256.84129883405643
+    ],
+    "type": "town"
+  },
+  {
+    "name": "Spanking",
+    "latlng": [
+      659.03125,
+      281.3125
+    ],
+    "type": "town"
+  },
+  {
+    "name": "Jackson",
+    "latlng": [
+      667.4352515946592,
+      218.94840412168594
+    ],
+    "type": "town"
+  },
+  {
+    "name": "Castlebar",
+    "latlng": [
+      653.4135656104795,
+      170.63263964171855
+    ],
+    "type": "town"
+  },
+  {
+    "name": "Horsepark",
+    "latlng": [
+      615.4038705014171,
+      132.58252147247765
+    ],
+    "type": "town"
+  },
+  {
+    "name": "Prix-lès-Mézières",
+    "latlng": [
+      807.3919487084494,
+      134.63539948601272
+    ],
+    "type": "town"
+  },
+  {
+    "name": "Llanera",
+    "latlng": [
+      789.4105480277439,
+      -237.3954703324182
+    ],
+    "type": "town"
   }
 ]
