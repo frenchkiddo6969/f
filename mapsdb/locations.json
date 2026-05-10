@@ -701,7 +701,7 @@
       1020.1910537829593,
       -361.03584757035736
     ],
-    "category": "other"
+    "category": "gasstation"
   },
   {
     "name": "MyHits Radio",
@@ -717,7 +717,7 @@
       1014.256289264454,
       -347.12313830185855
     ],
-    "category": "shopping"
+    "category": "swimsuitstore"
   },
   {
     "name": "Uw Lokale 104.3",
@@ -1005,7 +1005,7 @@
       568.3014476401394,
       358.2218728980824
     ],
-    "category": "other"
+    "category": "gasstation"
   },
   {
     "name": "Equinox Springton",
@@ -1013,7 +1013,7 @@
       445.9413109726786,
       378.9539919987092
     ],
-    "category": "other"
+    "category": "gasstation"
   },
   {
     "name": "Insta Food Market",
@@ -1053,7 +1053,7 @@
       659.1953125,
       255.3125
     ],
-    "category": "other"
+    "category": "swimsuitstore"
   },
   {
     "name": "RadioLand Little Tulsa",
@@ -1293,7 +1293,7 @@
       508.9527731794068,
       -235.22145107530386
     ],
-    "category": "other"
+    "category": "swimsuitstore"
   },
   {
     "name": "Katzrin Plaza",
@@ -1414,5 +1414,21 @@
       -225.9307704893451
     ],
     "category": "shopping"
+  },
+  {
+    "name": "ViseOil Wageselt",
+    "latlng": [
+      880.703125,
+      -276.5625
+    ],
+    "category": "gasstation"
+  },
+  {
+    "name": "KFC Facesits",
+    "latlng": [
+      566.9453125,
+      358.1171875
+    ],
+    "category": "restaurant"
   }
 ]
