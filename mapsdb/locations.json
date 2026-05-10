@@ -774,5 +774,13 @@
       -353.78125
     ],
     "category": "park"
+  },
+  {
+    "name": "Standbeeld van de voorbevolking van Sveland",
+    "latlng": [
+      1014.4921875,
+      -354.1328125
+    ],
+    "category": "landmark"
   }
 ]
