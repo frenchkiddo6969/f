@@ -1430,5 +1430,13 @@
       358.1171875
     ],
     "category": "restaurant"
+  },
+  {
+    "name": "SPPC Doetinlingen",
+    "latlng": [
+      1024.1488837125778,
+      -385.7676392901796
+    ],
+    "category": "other"
   }
 ]
