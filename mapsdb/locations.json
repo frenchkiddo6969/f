@@ -782,5 +782,637 @@
       -354.1328125
     ],
     "category": "landmark"
+  },
+  {
+    "name": "Poormart Springton",
+    "latlng": [
+      437.2194283752192,
+      387.4585431568241
+    ],
+    "category": "shopping"
+  },
+  {
+    "name": "Springton Leisure Center",
+    "latlng": [
+      437.1135247513028,
+      383.8263996628228
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Svelish Embassy to the Republic of Orland",
+    "latlng": [
+      437.41183542461584,
+      380.7107104082196
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Altus HQ",
+    "latlng": [
+      440.26677160741366,
+      381.6425771100139
+    ],
+    "category": "other"
+  },
+  {
+    "name": "OPB",
+    "latlng": [
+      441.43739736124445,
+      378.5766525166475
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Orrish Government Complex",
+    "latlng": [
+      441.897544067768,
+      377.3850988279516
+    ],
+    "category": "landmark"
+  },
+  {
+    "name": "Springton Town Hall",
+    "latlng": [
+      444.3175083428917,
+      381.5496703041543
+    ],
+    "category": "landmark"
+  },
+  {
+    "name": "Mak.by Springton",
+    "latlng": [
+      441.85334989394386,
+      385.1632734210036
+    ],
+    "category": "restaurant"
+  },
+  {
+    "name": "NWS Springton Office",
+    "latlng": [
+      440.46875,
+      389.3828125
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Femboy Attire Springton",
+    "latlng": [
+      439.6875,
+      389.0625
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Altus Shop East Springton",
+    "latlng": [
+      440.2109375,
+      390.203125
+    ],
+    "category": "other"
+  },
+  {
+    "name": "RadioLand Springton",
+    "latlng": [
+      442.3246534299422,
+      389.86060052200344
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Springton General Hospital",
+    "latlng": [
+      452.4154104129868,
+      397.704587395542
+    ],
+    "category": "hospital"
+  },
+  {
+    "name": "Springton Port Authority",
+    "latlng": [
+      453.4665309320539,
+      391.2270571967907
+    ],
+    "category": "transport"
+  },
+  {
+    "name": "Radioplay Orland",
+    "latlng": [
+      443.7962221566362,
+      395.4709562925243
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Altus Shop West Springton",
+    "latlng": [
+      439.5792612440527,
+      378.74388476719474
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Springton's Local 104.3",
+    "latlng": [
+      439.0868551729969,
+      378.6231059195773
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Dialogue Store - West Springton",
+    "latlng": [
+      433.81903928075826,
+      377.34099199871497
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Dialogue Shop - Springton",
+    "latlng": [
+      443.7734375,
+      385.4609375
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Supreme Court of Orland",
+    "latlng": [
+      445.06847603965144,
+      389.0302636306175
+    ],
+    "category": "landmark"
+  },
+  {
+    "name": "Springton Airport",
+    "latlng": [
+      434.7822820820784,
+      399.4490401096631
+    ],
+    "category": "transport"
+  },
+  {
+    "name": "Justice Coal Power Plant",
+    "latlng": [
+      422.5183988458742,
+      369.28651647467444
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Altus Shop Wichita",
+    "latlng": [
+      479.609375,
+      268.046875
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Wichita Town Hall",
+    "latlng": [
+      480.2421875,
+      270.2890625
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Pharma6",
+    "latlng": [
+      571.4453125,
+      354.15625
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Facesits Catholic Church",
+    "latlng": [
+      573.2578125,
+      353.9765625
+    ],
+    "category": "worship"
+  },
+  {
+    "name": "Facesits Hospital",
+    "latlng": [
+      572.2431495866412,
+      360.65258909842515
+    ],
+    "category": "hospital"
+  },
+  {
+    "name": "Equinox Facesits",
+    "latlng": [
+      568.3014476401394,
+      358.2218728980824
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Equinox Springton",
+    "latlng": [
+      445.9413109726786,
+      378.9539919987092
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Insta Food Market",
+    "latlng": [
+      607.8024726036617,
+      217.52372356251166
+    ],
+    "category": "shopping"
+  },
+  {
+    "name": "Pharmacy of Trent",
+    "latlng": [
+      610.3546861420069,
+      217.49057793214354
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Trent Swimsuit Shop",
+    "latlng": [
+      606.7307638884258,
+      223.2800147031084
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Costcutter",
+    "latlng": [
+      661.1153894737681,
+      254.14780250394688
+    ],
+    "category": "shopping"
+  },
+  {
+    "name": "poolday Little Tulsa",
+    "latlng": [
+      659.1953125,
+      255.3125
+    ],
+    "category": "other"
+  },
+  {
+    "name": "RadioLand Little Tulsa",
+    "latlng": [
+      659.09375,
+      256.125
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Dialogue Shop - Little Tulsa",
+    "latlng": [
+      663.3360124762835,
+      254.82478711167684
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Broken Arrow Hospital",
+    "latlng": [
+      666.8571353091723,
+      270.12483439376746
+    ],
+    "category": "hospital"
+  },
+  {
+    "name": "Altus Shop Broken Arrow",
+    "latlng": [
+      663.3359375,
+      270.8046875
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Poormart Broken Arrow",
+    "latlng": [
+      665.9899608809419,
+      275.0519618268947
+    ],
+    "category": "shopping"
+  },
+  {
+    "name": "Dialogue Shop - Broken Arrow",
+    "latlng": [
+      665.5,
+      277
+    ],
+    "category": "other"
+  },
+  {
+    "name": "2degrees",
+    "latlng": [
+      672.1652939304614,
+      277.14106385854063
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Dialogue HQ",
+    "latlng": [
+      673.09375,
+      274.609375
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Broken Arrow Metropolis",
+    "latlng": [
+      673.0061903457151,
+      272.64752363952863
+    ],
+    "category": "landmark"
+  },
+  {
+    "name": "Broken Arrow City Hall",
+    "latlng": [
+      670.680586197279,
+      269.5467181082805
+    ],
+    "category": "landmark"
+  },
+  {
+    "name": "Kim Jong Un Fried Chicken",
+    "latlng": [
+      670.483501099954,
+      268.1277054075399
+    ],
+    "category": "restaurant"
+  },
+  {
+    "name": "BA Hotel",
+    "latlng": [
+      674.2938129815724,
+      269.9408883029307
+    ],
+    "category": "hotel"
+  },
+  {
+    "name": "Broken Arrow University",
+    "latlng": [
+      672.828125,
+      267.953125
+    ],
+    "category": "school"
+  },
+  {
+    "name": "Harps Broken Arrow",
+    "latlng": [
+      670.4619644857138,
+      273.61054325648547
+    ],
+    "category": "shopping"
+  },
+  {
+    "name": "RadioLand Broken Arrow",
+    "latlng": [
+      676.488027065125,
+      274.171648392176
+    ],
+    "category": "other"
+  },
+  {
+    "name": "NWS Broken Arrow Office",
+    "latlng": [
+      673.9259207998989,
+      277.6534851115859
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Public Toilets",
+    "latlng": [
+      664.4921875,
+      274.8046875
+    ],
+    "category": "other"
+  },
+  {
+    "name": "BA Metro Central",
+    "latlng": [
+      664.1484375,
+      273.484375
+    ],
+    "category": "transport"
+  },
+  {
+    "name": "BA Metro West",
+    "latlng": [
+      669.53125,
+      268.0859375
+    ],
+    "category": "transport"
+  },
+  {
+    "name": "BA Metro North",
+    "latlng": [
+      674.796875,
+      272.453125
+    ],
+    "category": "transport"
+  },
+  {
+    "name": "Winston Generating Station",
+    "latlng": [
+      647.640625,
+      254.7109375
+    ],
+    "category": "landmark"
+  },
+  {
+    "name": "Spavinaw County Council",
+    "latlng": [
+      672.1015625,
+      278.390625
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Poormart Swimsuit",
+    "latlng": [
+      567.342706467644,
+      108.72871615088772
+    ],
+    "category": "shopping"
+  },
+  {
+    "name": "Bank of Orland",
+    "latlng": [
+      568.9778908991378,
+      111.03786173320003
+    ],
+    "category": "other"
+  },
+  {
+    "name": "NWS Swimsuit Office",
+    "latlng": [
+      571.3643762856425,
+      107.24821132777838
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Altus Store Swimsuit",
+    "latlng": [
+      569.022085072962,
+      113.43539566316068
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Hindon General",
+    "latlng": [
+      574.1817548669326,
+      111.97698792696342
+    ],
+    "category": "hospital"
+  },
+  {
+    "name": "Quickstop",
+    "latlng": [
+      561.2314328365967,
+      103.78619282574529
+    ],
+    "category": "shopping"
+  },
+  {
+    "name": "Abdul Electronics",
+    "latlng": [
+      563.7120445530477,
+      103.82335554808913
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Iris Swimsuit Store",
+    "latlng": [
+      508.9527731794068,
+      -235.22145107530386
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Katzrin Plaza",
+    "latlng": [
+      512.03125,
+      -229.3125
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Tessellis Katzrin",
+    "latlng": [
+      513.2265625,
+      -229.28125
+    ],
+    "category": "other"
+  },
+  {
+    "name": "TESSELLIS",
+    "latlng": [
+      512.7265625,
+      -229.3359375
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Katzrin Market",
+    "latlng": [
+      514.15625,
+      -239.7734375
+    ],
+    "category": "shopping"
+  },
+  {
+    "name": "Cobalt Hotel",
+    "latlng": [
+      516.3760939982225,
+      -235.08310408936657
+    ],
+    "category": "hotel"
+  },
+  {
+    "name": "Falcon Hotel",
+    "latlng": [
+      510.5686531303765,
+      -238.60435782824152
+    ],
+    "category": "hotel"
+  },
+  {
+    "name": "Bagelese Knesset",
+    "latlng": [
+      509.9379808189362,
+      -242.05991653467476
+    ],
+    "category": "landmark"
+  },
+  {
+    "name": "Presidential Palace of Bageland",
+    "latlng": [
+      508.29560500789376,
+      -227.64642641696653
+    ],
+    "category": "landmark"
+  },
+  {
+    "name": "Shatzav",
+    "latlng": [
+      505.28125,
+      -237.90625
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Grand Synagogue of Katzrin",
+    "latlng": [
+      517.609375,
+      -237.796875
+    ],
+    "category": "worship"
+  },
+  {
+    "name": "Albernstein Parliament",
+    "latlng": [
+      756.7148006829248,
+      66.15489766878832
+    ],
+    "category": "landmark"
+  },
+  {
+    "name": "Ukuheroan Parliament",
+    "latlng": [
+      565.7467036013727,
+      -126.52048821958638
+    ],
+    "category": "landmark"
+  },
+  {
+    "name": "Tsunojo Train Stataion",
+    "latlng": [
+      682.0102804540605,
+      -96.02847453646973
+    ],
+    "category": "transport"
+  },
+  {
+    "name": "Parlament de Cerenyola",
+    "latlng": [
+      760.421875,
+      -223.0625
+    ],
+    "category": "landmark"
+  },
+  {
+    "name": "Novavenda",
+    "latlng": [
+      757.2276304779826,
+      -225.9307704893451
+    ],
+    "category": "shopping"
   }
 ]
