@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-05-08T21:52:25.463Z"
+    "exportedAt": "2026-05-10T20:12:12.591Z"
   },
   "txList": [
     {
@@ -4473,22 +4473,6 @@
       ],
       "point": null,
       "stations": [
-        {
-          "freq": "96.1",
-          "name": "OXXM-FM",
-          "pi": "4F1E",
-          "kw": 6.3,
-          "pol": "V",
-          "directional": true,
-          "directionAngle": 180,
-          "country": "OR",
-          "disabled": false,
-          "outlet": "",
-          "blobMode": "legacy",
-          "blobShapeIndex": 0,
-          "blobOffsetX": 0,
-          "blobOffsetY": 0
-        },
         {
           "freq": "107.1",
           "name": "ORKD-FM",
