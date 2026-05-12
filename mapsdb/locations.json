@@ -96,7 +96,7 @@
     "category": "shopping"
   },
   {
-    "name": "Embassy of the Republic of Telonia to the Kingdom of Sveland",
+    "name": "Embassy of the Republic of Orland to the Kingdom of Sveland",
     "latlng": [
       1014.9965416760087,
       -365.1212155917474
@@ -112,7 +112,7 @@
     "category": "other"
   },
   {
-    "name": "Consulate of the Republic of Telonia in Emmelburg",
+    "name": "Consulate of the Republic of Orland in Emmelburg",
     "latlng": [
       918.453125,
       -374.09375
@@ -348,14 +348,6 @@
     "latlng": [
       1016.15625,
       -352.421875
-    ],
-    "category": "other"
-  },
-  {
-    "name": "Orrish Embassy to Sveland",
-    "latlng": [
-      1017.7109375,
-      -352.046875
     ],
     "category": "other"
   },
@@ -1478,5 +1470,21 @@
       -384.4921875
     ],
     "category": "gasstation"
+  },
+  {
+    "name": "Embassy of Bagelland to Sveland",
+    "latlng": [
+      1017.6875,
+      -352.046875
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Albernstein Embassy",
+    "latlng": [
+      1017.5703125,
+      -350.765625
+    ],
+    "category": "other"
   }
 ]
