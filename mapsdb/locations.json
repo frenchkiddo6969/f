@@ -1486,5 +1486,13 @@
       -350.765625
     ],
     "category": "other"
+  },
+  {
+    "name": "ViseOil Omigrad",
+    "latlng": [
+      820.359375,
+      -591.328125
+    ],
+    "category": "gasstation"
   }
 ]
