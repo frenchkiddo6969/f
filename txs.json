@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-05-10T20:12:12.591Z"
+    "exportedAt": "2026-05-12T18:26:20.963Z"
   },
   "txList": [
     {
@@ -15257,49 +15257,6 @@
           "pi": "89C9",
           "kw": 0.1,
           "pol": "",
-          "directional": false,
-          "directionAngle": null,
-          "country": "SP",
-          "disabled": false,
-          "outlet": "",
-          "blobMode": "legacy",
-          "blobShapeIndex": 0,
-          "blobOffsetX": 0,
-          "blobOffsetY": 0
-        }
-      ]
-    },
-    {
-      "id": "tx_1775439012815",
-      "name": "Doetinlingen",
-      "latlng": [
-        1014.6956855469681,
-        -364.904151323184
-      ],
-      "point": null,
-      "stations": [
-        {
-          "freq": "68.21",
-          "name": "Voice of Telonia",
-          "pi": "211A",
-          "kw": 0.152,
-          "pol": "h",
-          "directional": false,
-          "directionAngle": null,
-          "country": "SP",
-          "disabled": false,
-          "outlet": "",
-          "blobMode": "legacy",
-          "blobShapeIndex": 0,
-          "blobOffsetX": 0,
-          "blobOffsetY": 0
-        },
-        {
-          "freq": "69.68",
-          "name": "R. Gaeilge",
-          "pi": "241C",
-          "kw": 0.078,
-          "pol": "c",
           "directional": false,
           "directionAngle": null,
           "country": "SP",
