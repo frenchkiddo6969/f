@@ -24,7 +24,7 @@
     "category": "other"
   },
   {
-    "name": "McDonald's",
+    "name": "Metro Doetinlingen",
     "latlng": [
       1011.9802893125099,
       -345.6094878483811
@@ -1446,5 +1446,37 @@
       -381.11002220076944
     ],
     "category": "shopping"
+  },
+  {
+    "name": "Multipharma",
+    "latlng": [
+      1022.90625,
+      -382.4296875
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Yettel",
+    "latlng": [
+      1024.6328125,
+      -382.453125
+    ],
+    "category": "other"
+  },
+  {
+    "name": "KFC Doetinlingen",
+    "latlng": [
+      1026.6171875,
+      -384.2109375
+    ],
+    "category": "restaurant"
+  },
+  {
+    "name": "ViseOil Doetinlingen West",
+    "latlng": [
+      1021.7578125,
+      -384.4921875
+    ],
+    "category": "gasstation"
   }
 ]
