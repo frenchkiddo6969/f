@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-05-27T22:51:09.899Z"
+    "exportedAt": "2026-05-28T00:50:02.485Z"
   },
   "txList": [
     {
@@ -10317,7 +10317,7 @@
         },
         {
           "freq": "96.7",
-          "name": "Note FM",
+          "name": "GoldDance",
           "pi": "88B3",
           "kw": 1,
           "pol": "v",
