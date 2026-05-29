@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-05-28T00:50:02.485Z"
+    "exportedAt": "2026-05-29T15:02:00.780Z"
   },
   "txList": [
     {
@@ -16883,6 +16883,113 @@
           "directional": false,
           "directionAngle": null,
           "country": "AB",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1780066446167",
+      "name": "Edmonton",
+      "latlng": [
+        668.8125,
+        409.8359375
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "90.9",
+          "name": "OPB Radio 1",
+          "pi": "5201",
+          "kw": 60.3,
+          "pol": "m",
+          "directional": false,
+          "directionAngle": null,
+          "country": "OR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "92.3",
+          "name": "OPB Radio 2",
+          "pi": "5202",
+          "kw": 60.3,
+          "pol": "m",
+          "directional": false,
+          "directionAngle": null,
+          "country": "OR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "93.9",
+          "name": "OPB Radio 3",
+          "pi": "5203",
+          "kw": 60.3,
+          "pol": "m",
+          "directional": false,
+          "directionAngle": null,
+          "country": "OR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "100.5",
+          "name": "OPB Classical",
+          "pi": "5204",
+          "kw": 60.3,
+          "pol": "m",
+          "directional": false,
+          "directionAngle": null,
+          "country": "OR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "103.7",
+          "name": "Newstalk",
+          "pi": "52A1",
+          "kw": 1,
+          "pol": "m",
+          "directional": false,
+          "directionAngle": null,
+          "country": "OR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "107.1",
+          "name": "OFRE-FM",
+          "pi": "1EF2",
+          "kw": 6.3,
+          "pol": "m",
+          "directional": false,
+          "directionAngle": null,
+          "country": "OR",
           "disabled": false,
           "outlet": "",
           "blobMode": "legacy",
