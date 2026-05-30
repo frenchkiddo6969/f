@@ -1494,5 +1494,21 @@
       -591.328125
     ],
     "category": "gasstation"
+  },
+  {
+    "name": "Grana Express Pelt",
+    "latlng": [
+      1019.890625,
+      -592.21875
+    ],
+    "category": "shopping"
+  },
+  {
+    "name": "Grensovergang Pelt",
+    "latlng": [
+      1014.5423199866965,
+      -589.6980781519743
+    ],
+    "category": "other"
   }
 ]
