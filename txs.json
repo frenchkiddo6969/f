@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-05-31T17:18:58.526Z"
+    "exportedAt": "2026-05-31T18:38:45.552Z"
   },
   "txList": [
     {
@@ -17064,6 +17064,33 @@
           "pol": "v",
           "directional": true,
           "directionAngle": 270,
+          "country": "SP",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1780252679708",
+      "name": "Pelt",
+      "latlng": [
+        1022.0078125,
+        -588.953125
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "97.6",
+          "name": "RTO Radio 1 [F]",
+          "pi": "8E10",
+          "kw": 0.083,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
           "country": "SP",
           "disabled": false,
           "outlet": "",
