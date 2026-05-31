@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-05-31T16:43:15.182Z"
+    "exportedAt": "2026-05-31T17:18:58.526Z"
   },
   "txList": [
     {
@@ -17012,7 +17012,7 @@
           "freq": "89.5",
           "name": "R.Borders",
           "pi": "8923",
-          "kw": 0.3,
+          "kw": 0.4,
           "pol": "v",
           "directional": true,
           "directionAngle": 270,
@@ -17028,7 +17028,7 @@
           "freq": "91.3",
           "name": "SPO Nieuws",
           "pi": "8204",
-          "kw": 0.2,
+          "kw": 0.3,
           "pol": "v",
           "directional": true,
           "directionAngle": 270,
