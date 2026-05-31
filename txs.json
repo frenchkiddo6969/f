@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-05-31T01:09:05.428Z"
+    "exportedAt": "2026-05-31T16:43:15.182Z"
   },
   "txList": [
     {
@@ -16996,7 +16996,7 @@
           "freq": "88.0",
           "name": "SPO P1",
           "pi": "8201",
-          "kw": 0.4,
+          "kw": 0.5,
           "pol": "v",
           "directional": true,
           "directionAngle": 270,
