@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-05-30T22:24:46.453Z"
+    "exportedAt": "2026-05-31T01:09:05.428Z"
   },
   "txList": [
     {
@@ -4811,9 +4811,25 @@
           "blobOffsetY": 0
         },
         {
-          "freq": 102.7,
-          "name": "OGNI-FM",
-          "pi": "65DA",
+          "freq": "101.3",
+          "name": "OSTA-FM",
+          "pi": "4176",
+          "kw": 100,
+          "pol": "C",
+          "directional": false,
+          "directionAngle": null,
+          "country": "",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "102.7",
+          "name": "OZAO-FM",
+          "pi": "5212",
           "kw": 100,
           "pol": "C",
           "directional": false,
@@ -4830,22 +4846,6 @@
           "freq": 105.7,
           "name": "OGNH-FM",
           "pi": "2131",
-          "kw": 100,
-          "pol": "C",
-          "directional": false,
-          "directionAngle": null,
-          "country": "",
-          "disabled": false,
-          "outlet": "",
-          "blobMode": "legacy",
-          "blobShapeIndex": 0,
-          "blobOffsetX": 0,
-          "blobOffsetY": 0
-        },
-        {
-          "freq": 106.1,
-          "name": "OZAO-FM",
-          "pi": "5212",
           "kw": 100,
           "pol": "C",
           "directional": false,
@@ -6419,22 +6419,6 @@
       ],
       "point": null,
       "stations": [
-        {
-          "freq": "101.3",
-          "name": "OKCI-FM",
-          "pi": "6F4C",
-          "kw": 6.3,
-          "pol": "c",
-          "directional": false,
-          "directionAngle": null,
-          "country": "OR",
-          "disabled": true,
-          "outlet": "",
-          "blobMode": "legacy",
-          "blobShapeIndex": 0,
-          "blobOffsetX": 0,
-          "blobOffsetY": 0
-        },
         {
           "freq": "105.5",
           "name": "OHTS-FM",
