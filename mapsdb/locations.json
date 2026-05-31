@@ -1526,5 +1526,21 @@
       -594.890625
     ],
     "category": "gasstation"
+  },
+  {
+    "name": "SvePost",
+    "latlng": [
+      1021.3802608979621,
+      -591.333237935103
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Svebank Pelt",
+    "latlng": [
+      1016.7488780936476,
+      -592.6217486500553
+    ],
+    "category": "other"
   }
 ]
