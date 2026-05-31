@@ -1496,19 +1496,35 @@
     "category": "gasstation"
   },
   {
-    "name": "Grana Express Pelt",
-    "latlng": [
-      1019.890625,
-      -592.21875
-    ],
-    "category": "shopping"
-  },
-  {
     "name": "Grensovergang Pelt",
     "latlng": [
       1014.5423199866965,
       -589.6980781519743
     ],
     "category": "other"
+  },
+  {
+    "name": "Grana Express Pelt",
+    "latlng": [
+      1021.4453125,
+      -589.2421875
+    ],
+    "category": "shopping"
+  },
+  {
+    "name": "Tabakshop",
+    "latlng": [
+      1019.9140625,
+      -592.3671875
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Viseoil Pelt",
+    "latlng": [
+      1019.546875,
+      -594.890625
+    ],
+    "category": "gasstation"
   }
 ]
