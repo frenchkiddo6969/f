@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-06-01T14:30:17.521Z"
+    "exportedAt": "2026-06-01T14:51:00.690Z"
   },
   "txList": [
     {
@@ -10448,6 +10448,22 @@
           "freq": "89.2",
           "name": "DFM",
           "pi": "82DF",
+          "kw": 0.1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 194,
+          "country": "SP",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "99.7",
+          "name": "MyHits",
+          "pi": "8220",
           "kw": 0.1,
           "pol": "v",
           "directional": true,
