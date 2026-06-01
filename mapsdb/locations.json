@@ -1549,6 +1549,14 @@
       1018.3781148982017,
       -591.9385203126617
     ],
-    "category": "other"
+    "category": "landmark"
+  },
+  {
+    "name": "Gemeenteraad van Pelt",
+    "latlng": [
+      1019.9453125,
+      -589.9453125
+    ],
+    "category": "landmark"
   }
 ]
