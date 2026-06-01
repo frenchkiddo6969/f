@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-06-01T14:51:00.690Z"
+    "exportedAt": "2026-06-01T15:32:52.339Z"
   },
   "txList": [
     {
@@ -6753,7 +6753,7 @@
           "blobOffsetY": 0
         },
         {
-          "freq": "102.8",
+          "freq": "102.9",
           "name": "SPIN Sveland",
           "pi": "83E1",
           "kw": 0.1,
