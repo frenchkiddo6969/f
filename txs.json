@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-05-31T18:38:45.552Z"
+    "exportedAt": "2026-06-01T14:30:17.521Z"
   },
   "txList": [
     {
@@ -15307,8 +15307,8 @@
       "stations": [
         {
           "freq": "92.0",
-          "name": "Studio 92",
-          "pi": "8812",
+          "name": "MyHits",
+          "pi": "8220",
           "kw": 0.08,
           "pol": "v",
           "directional": false,
