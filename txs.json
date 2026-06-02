@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-06-01T15:37:41.084Z"
+    "exportedAt": "2026-06-02T16:59:21.861Z"
   },
   "txList": [
     {
@@ -17124,6 +17124,65 @@
           "directional": false,
           "directionAngle": null,
           "country": "SP",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1780418889628",
+      "name": "Oujda",
+      "latlng": [
+        1030.6796875,
+        -641.4375
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "92.0",
+          "name": "RTA Al Idaâ Al-Watania",
+          "pi": "1201",
+          "kw": 8,
+          "pol": "h",
+          "directional": false,
+          "directionAngle": null,
+          "country": "AA",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "94.9",
+          "name": "RTA Chaîne Inter",
+          "pi": "1202",
+          "kw": 5,
+          "pol": "h",
+          "directional": false,
+          "directionAngle": null,
+          "country": "AA",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "101.5",
+          "name": "RTA Al-Idaâ Al-Klasikia",
+          "pi": "1203",
+          "kw": 5,
+          "pol": "h",
+          "directional": false,
+          "directionAngle": null,
+          "country": "AA",
           "disabled": false,
           "outlet": "",
           "blobMode": "legacy",
