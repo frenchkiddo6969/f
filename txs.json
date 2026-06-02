@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-06-02T17:03:23.913Z"
+    "exportedAt": "2026-06-02T20:12:56.389Z"
   },
   "txList": [
     {
@@ -17183,6 +17183,60 @@
           "directional": false,
           "directionAngle": null,
           "country": "AA",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1780431031738",
+      "name": "Broken Arrow",
+      "latlng": [
+        685.1171875,
+        286.6328125
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "107.7",
+          "name": "R. Orland Highways",
+          "pi": "5222",
+          "kw": 0.1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "OR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1780431143731",
+      "name": "Les Angles",
+      "latlng": [
+        723.1679954498578,
+        286.7940190079609
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "107.7",
+          "name": "R. Orland Highways",
+          "pi": "5222",
+          "kw": 0.15,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "OR",
           "disabled": false,
           "outlet": "",
           "blobMode": "legacy",
