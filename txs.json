@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-06-02T20:12:56.389Z"
+    "exportedAt": "2026-06-03T18:57:53.441Z"
   },
   "txList": [
     {
@@ -17237,6 +17237,33 @@
           "directional": false,
           "directionAngle": null,
           "country": "OR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1780513002695",
+      "name": "Figuig",
+      "latlng": [
+        990.203125,
+        -610.75
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "103",
+          "name": "Hit Radio",
+          "pi": "1118",
+          "kw": 0.3,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 45,
+          "country": "AA",
           "disabled": false,
           "outlet": "",
           "blobMode": "legacy",
