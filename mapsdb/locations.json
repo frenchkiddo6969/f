@@ -1574,5 +1574,45 @@
       247.09494086415916
     ],
     "category": "performingarts"
+  },
+  {
+    "name": "Metro Doetinlingen - Gemeentehuis",
+    "latlng": [
+      1014.4101349387232,
+      -356.61891410650503
+    ],
+    "category": "transport"
+  },
+  {
+    "name": "Metro Doetinlingen - Universiteit",
+    "latlng": [
+      1018.75,
+      -373.09375
+    ],
+    "category": "transport"
+  },
+  {
+    "name": "Metro Doetinlingen - Nationale Assemblee",
+    "latlng": [
+      1012,
+      -343.703125
+    ],
+    "category": "transport"
+  },
+  {
+    "name": "Metro Doetinlingen - Intercity Doetinlingen",
+    "latlng": [
+      1022.6171875,
+      -360.0625
+    ],
+    "category": "transport"
+  },
+  {
+    "name": "Metro Doetinlingen - Ziekenhuis",
+    "latlng": [
+      1025.4863174083932,
+      -368.5491319979171
+    ],
+    "category": "transport"
   }
 ]
