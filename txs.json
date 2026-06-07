@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-06-07T02:05:42.235Z"
+    "exportedAt": "2026-06-07T02:10:05.088Z"
   },
   "txList": [
     {
@@ -138,7 +138,7 @@
         {
           "freq": "90.8",
           "name": "RTO R.2 [F]",
-          "pi": "82C2",
+          "pi": "8E11",
           "kw": 2,
           "pol": "V",
           "directional": false,
