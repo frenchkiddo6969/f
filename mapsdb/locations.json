@@ -1566,5 +1566,13 @@
       -356.46875
     ],
     "category": "other"
+  },
+  {
+    "name": "K&M Theaters Broken Arrow",
+    "latlng": [
+      658.0589059034589,
+      247.09494086415916
+    ],
+    "category": "performingarts"
   }
 ]
