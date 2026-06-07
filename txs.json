@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-06-07T12:00:13.671Z"
+    "exportedAt": "2026-06-07T20:46:40.229Z"
   },
   "txList": [
     {
@@ -6221,16 +6221,16 @@
       "point": null,
       "stations": [
         {
-          "freq": 94.1,
-          "name": "OXOJ-FM",
-          "pi": "4E31",
+          "freq": "94.1",
+          "name": "ORTO-FM",
+          "pi": "3EE0",
           "kw": 5,
-          "pol": "C",
+          "pol": "m",
           "directional": false,
           "directionAngle": null,
-          "country": "",
+          "country": "SP",
           "disabled": false,
-          "outlet": "",
+          "outlet": "RTO R.1 [F]",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
