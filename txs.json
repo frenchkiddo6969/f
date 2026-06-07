@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-06-03T18:57:53.441Z"
+    "exportedAt": "2026-06-07T02:05:42.235Z"
   },
   "txList": [
     {
@@ -137,7 +137,7 @@
         },
         {
           "freq": "90.8",
-          "name": "R.Trance",
+          "name": "RTO R.2 [F]",
           "pi": "82C2",
           "kw": 2,
           "pol": "V",
@@ -169,7 +169,7 @@
         },
         {
           "freq": "97.6",
-          "name": "RTO Radio 1 [F]",
+          "name": "RTO R.1 [F]",
           "pi": "8E10",
           "kw": 5,
           "pol": "v",
@@ -2938,7 +2938,7 @@
           "directional": true,
           "directionAngle": 270,
           "country": "",
-          "disabled": false,
+          "disabled": true,
           "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
@@ -7124,7 +7124,7 @@
         },
         {
           "freq": "89.8",
-          "name": "RTO Radio 1 [F]",
+          "name": "RTO R.1 [F]",
           "pi": "8E10",
           "kw": 0.5,
           "pol": "v",
@@ -7204,8 +7204,8 @@
         },
         {
           "freq": "106.7",
-          "name": "R.Trance",
-          "pi": "82C2",
+          "name": "RTO R.2 [F]",
+          "pi": "8E11",
           "kw": 1,
           "pol": "v",
           "directional": true,
@@ -9004,7 +9004,7 @@
           "directional": true,
           "directionAngle": 90,
           "country": "SP",
-          "disabled": false,
+          "disabled": true,
           "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
@@ -17116,8 +17116,24 @@
       "point": null,
       "stations": [
         {
+          "freq": "90.9",
+          "name": "RTO R.2 [F]",
+          "pi": "8E11",
+          "kw": 0.083,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "SP",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
           "freq": "97.6",
-          "name": "RTO Radio 1 [F]",
+          "name": "RTO R.1 [F]",
           "pi": "8E10",
           "kw": 0.083,
           "pol": "v",
