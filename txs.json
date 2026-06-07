@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-06-07T02:10:05.088Z"
+    "exportedAt": "2026-06-07T12:00:13.671Z"
   },
   "txList": [
     {
@@ -1089,14 +1089,14 @@
         },
         {
           "freq": "96.8",
-          "name": "Fun Radio",
-          "pi": "8217",
+          "name": "100% SP",
+          "pi": "8228",
           "kw": 1,
           "pol": "V",
           "directional": true,
           "directionAngle": 0,
           "country": "SP",
-          "disabled": true,
+          "disabled": false,
           "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
@@ -2915,14 +2915,14 @@
       "stations": [
         {
           "freq": "88.3",
-          "name": "Flaix FM Sveland",
-          "pi": "82C8",
+          "name": "100% SP",
+          "pi": "8228",
           "kw": 0.2,
           "pol": "V",
           "directional": true,
           "directionAngle": 270,
           "country": "SP",
-          "disabled": true,
+          "disabled": false,
           "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
