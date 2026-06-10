@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-06-07T20:46:40.229Z"
+    "exportedAt": "2026-06-10T15:09:10.555Z"
   },
   "txList": [
     {
@@ -11449,7 +11449,7 @@
       "point": null,
       "stations": [
         {
-          "freq": "102.7",
+          "freq": "102.9",
           "name": "SPIN Sveland",
           "pi": "83E1",
           "kw": 0.07,
