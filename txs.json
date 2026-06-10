@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-06-10T23:36:13.334Z"
+    "exportedAt": "2026-06-10T23:54:00.914Z"
   },
   "txList": [
     {
@@ -17355,6 +17355,33 @@
           "directional": false,
           "directionAngle": null,
           "country": "",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1781135635333",
+      "name": "Decorah",
+      "latlng": [
+        237.58787847867995,
+        96.31015330629897
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "102.7",
+          "name": "OSPI-FM",
+          "pi": "4116",
+          "kw": 97,
+          "pol": "h",
+          "directional": false,
+          "directionAngle": null,
+          "country": "OR",
           "disabled": false,
           "outlet": "",
           "blobMode": "legacy",
