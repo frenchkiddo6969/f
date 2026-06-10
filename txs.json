@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-06-10T15:09:10.555Z"
+    "exportedAt": "2026-06-10T23:36:13.334Z"
   },
   "txList": [
     {
@@ -2310,7 +2310,7 @@
       "stations": [
         {
           "freq": "88.1",
-          "name": "OPB Radio 1",
+          "name": "OPB R.1",
           "pi": "5201",
           "kw": 100,
           "pol": "C",
@@ -2326,7 +2326,7 @@
         },
         {
           "freq": 90.7,
-          "name": "OPB Radio 2",
+          "name": "OPB R.2",
           "pi": "5202",
           "kw": 100,
           "pol": "C",
@@ -2342,7 +2342,7 @@
         },
         {
           "freq": 102.1,
-          "name": "OPB Radio 3",
+          "name": "OPB R.3",
           "pi": "5203",
           "kw": 100,
           "pol": "C",
@@ -3263,7 +3263,7 @@
       "stations": [
         {
           "freq": "89.7",
-          "name": "OPB Radio 1",
+          "name": "OPB R.1",
           "pi": "5201",
           "kw": 79,
           "pol": "C",
@@ -3279,7 +3279,7 @@
         },
         {
           "freq": 92.5,
-          "name": "OPB Radio 2",
+          "name": "OPB R.2",
           "pi": "5202",
           "kw": 79,
           "pol": "C",
@@ -3295,7 +3295,7 @@
         },
         {
           "freq": 97.3,
-          "name": "OPB Radio 3",
+          "name": "OPB R.3",
           "pi": "5203",
           "kw": 79,
           "pol": "C",
@@ -3623,7 +3623,7 @@
       "stations": [
         {
           "freq": "93.9",
-          "name": "OPB Radio 1",
+          "name": "OPB R.1",
           "pi": "5201",
           "kw": 4,
           "pol": "H",
@@ -3639,7 +3639,7 @@
         },
         {
           "freq": 95.3,
-          "name": "OPB Radio 2",
+          "name": "OPB R.2",
           "pi": "5202",
           "kw": 4,
           "pol": "H",
@@ -3655,7 +3655,7 @@
         },
         {
           "freq": 97.9,
-          "name": "OPB Radio 3",
+          "name": "OPB R.3",
           "pi": "5203",
           "kw": 4,
           "pol": "H",
@@ -3768,7 +3768,7 @@
       "stations": [
         {
           "freq": "91.5",
-          "name": "OPB Radio 1",
+          "name": "OPB R.1",
           "pi": "5201",
           "kw": 20,
           "pol": "C",
@@ -3784,7 +3784,7 @@
         },
         {
           "freq": 94.1,
-          "name": "OPB Radio 2",
+          "name": "OPB R.2",
           "pi": "5202",
           "kw": 20,
           "pol": "C",
@@ -3800,7 +3800,7 @@
         },
         {
           "freq": 96.7,
-          "name": "OPB Radio 3",
+          "name": "OPB R.3",
           "pi": "5203",
           "kw": 20,
           "pol": "C",
@@ -3843,7 +3843,7 @@
       "stations": [
         {
           "freq": "90.7",
-          "name": "OPB Radio 1",
+          "name": "OPB R.1",
           "pi": "5201",
           "kw": 20,
           "pol": "C",
@@ -3859,7 +3859,7 @@
         },
         {
           "freq": 93.5,
-          "name": "OPB Radio 2",
+          "name": "OPB R.2",
           "pi": "5202",
           "kw": 20,
           "pol": "C",
@@ -3875,7 +3875,7 @@
         },
         {
           "freq": 98.5,
-          "name": "OPB Radio 3",
+          "name": "OPB R.3",
           "pi": "5203",
           "kw": 20,
           "pol": "C",
@@ -5761,7 +5761,7 @@
       "stations": [
         {
           "freq": "88.7",
-          "name": "OPB Radio 1",
+          "name": "OPB R.1",
           "pi": "5201",
           "kw": 10,
           "pol": "C",
@@ -5777,7 +5777,7 @@
         },
         {
           "freq": 90.1,
-          "name": "OPB Radio 2",
+          "name": "OPB R.2",
           "pi": "5202",
           "kw": 10,
           "pol": "C",
@@ -5793,7 +5793,7 @@
         },
         {
           "freq": 92.1,
-          "name": "OPB Radio 3",
+          "name": "OPB R.3",
           "pi": "5203",
           "kw": 10,
           "pol": "C",
@@ -6249,7 +6249,7 @@
       "stations": [
         {
           "freq": "88.5",
-          "name": "OPB Radio 1",
+          "name": "OPB R.1",
           "pi": "5201",
           "kw": 10,
           "pol": "c",
@@ -6265,7 +6265,7 @@
         },
         {
           "freq": 89.3,
-          "name": "OPB Radio 2",
+          "name": "OPB R.2",
           "pi": "5202",
           "kw": 10,
           "pol": "c",
@@ -6281,7 +6281,7 @@
         },
         {
           "freq": 89.7,
-          "name": "OPB Radio 3",
+          "name": "OPB R.3",
           "pi": "5203",
           "kw": 10,
           "pol": "c",
@@ -6561,7 +6561,7 @@
       "stations": [
         {
           "freq": "88.3",
-          "name": "OPB Radio 1",
+          "name": "OPB R.1",
           "pi": "5201",
           "kw": 0.06,
           "pol": "v",
@@ -6577,7 +6577,7 @@
         },
         {
           "freq": 90.9,
-          "name": "OPB Radio 2",
+          "name": "OPB R.2",
           "pi": "5202",
           "kw": 0.06,
           "pol": "v",
@@ -6593,7 +6593,7 @@
         },
         {
           "freq": 96.5,
-          "name": "OPB Radio 3",
+          "name": "OPB R.3",
           "pi": "5203",
           "kw": 0.06,
           "pol": "v",
@@ -7805,7 +7805,7 @@
       "stations": [
         {
           "freq": "88.1",
-          "name": "OPB Radio 1",
+          "name": "OPB R.1",
           "pi": "5201",
           "kw": 3,
           "pol": "c",
@@ -7821,7 +7821,7 @@
         },
         {
           "freq": 89.9,
-          "name": "OPB Radio 2",
+          "name": "OPB R.2",
           "pi": "5202",
           "kw": 3,
           "pol": "c",
@@ -7837,7 +7837,7 @@
         },
         {
           "freq": 94.9,
-          "name": "OPB Radio 3",
+          "name": "OPB R.3",
           "pi": "5203",
           "kw": 3,
           "pol": "c",
@@ -8413,7 +8413,7 @@
       "stations": [
         {
           "freq": "88.5",
-          "name": "OPB Radio 1",
+          "name": "OPB R.1",
           "pi": "5201",
           "kw": 50,
           "pol": "c",
@@ -8429,7 +8429,7 @@
         },
         {
           "freq": 89.5,
-          "name": "OPB Radio 2",
+          "name": "OPB R.2",
           "pi": "5202",
           "kw": 50,
           "pol": "c",
@@ -8445,7 +8445,7 @@
         },
         {
           "freq": 90.1,
-          "name": "OPB Radio 3",
+          "name": "OPB R.3",
           "pi": "5203",
           "kw": 50,
           "pol": "c",
@@ -8520,7 +8520,7 @@
       "stations": [
         {
           "freq": "88.7",
-          "name": "OPB Radio 1",
+          "name": "OPB R.1",
           "pi": "5201",
           "kw": 1,
           "pol": "v",
@@ -8536,7 +8536,7 @@
         },
         {
           "freq": 90.3,
-          "name": "OPB Radio 2",
+          "name": "OPB R.2",
           "pi": "5202",
           "kw": 1,
           "pol": "v",
@@ -8552,7 +8552,7 @@
         },
         {
           "freq": 93.5,
-          "name": "OPB Radio 3",
+          "name": "OPB R.3",
           "pi": "5203",
           "kw": 1,
           "pol": "v",
@@ -16919,7 +16919,7 @@
       "stations": [
         {
           "freq": "90.9",
-          "name": "OPB Radio 1",
+          "name": "OPB R.1",
           "pi": "5201",
           "kw": 60.3,
           "pol": "m",
@@ -16935,7 +16935,7 @@
         },
         {
           "freq": "92.3",
-          "name": "OPB Radio 2",
+          "name": "OPB R.2",
           "pi": "5202",
           "kw": 60.3,
           "pol": "m",
@@ -16951,7 +16951,7 @@
         },
         {
           "freq": "93.9",
-          "name": "OPB Radio 3",
+          "name": "OPB R.3",
           "pi": "5203",
           "kw": 60.3,
           "pol": "m",
@@ -17280,6 +17280,81 @@
           "directional": true,
           "directionAngle": 45,
           "country": "AA",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1781134496739",
+      "name": "Decorah",
+      "latlng": [
+        291.1796875,
+        135.296875
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "88.7",
+          "name": "OPB R.1",
+          "pi": "5201",
+          "kw": 398,
+          "pol": "m",
+          "directional": false,
+          "directionAngle": null,
+          "country": "OR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "93.3",
+          "name": "OPB R.2",
+          "pi": "5202",
+          "kw": 398,
+          "pol": "m",
+          "directional": false,
+          "directionAngle": null,
+          "country": "OR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "96.3",
+          "name": "OPB R.3",
+          "pi": "5203",
+          "kw": 398,
+          "pol": "m",
+          "directional": false,
+          "directionAngle": null,
+          "country": "OR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "96.7",
+          "name": "OPB Classical",
+          "pi": "5204",
+          "kw": 251,
+          "pol": "m",
+          "directional": false,
+          "directionAngle": null,
+          "country": "",
           "disabled": false,
           "outlet": "",
           "blobMode": "legacy",
