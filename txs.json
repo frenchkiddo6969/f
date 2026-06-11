@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-06-10T23:54:00.914Z"
+    "exportedAt": "2026-06-11T01:43:29.446Z"
   },
   "txList": [
     {
@@ -17373,6 +17373,22 @@
       ],
       "point": null,
       "stations": [
+        {
+          "freq": "95.9",
+          "name": "OCTO-FM",
+          "pi": "1744",
+          "kw": 50,
+          "pol": "c",
+          "directional": false,
+          "directionAngle": null,
+          "country": "OR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
         {
           "freq": "102.7",
           "name": "OSPI-FM",
