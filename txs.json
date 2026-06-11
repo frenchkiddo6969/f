@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-06-11T14:33:38.485Z"
+    "exportedAt": "2026-06-11T18:27:58.435Z"
   },
   "txList": [
     {
@@ -17273,7 +17273,7 @@
       "stations": [
         {
           "freq": "103",
-          "name": "Hit Radio",
+          "name": "KISS",
           "pi": "1118",
           "kw": 0.3,
           "pol": "v",
@@ -17404,6 +17404,81 @@
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
           "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1781202052749",
+      "name": "Oujda",
+      "latlng": [
+        1008.3342699720167,
+        -647.9639280663664
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "88.8",
+          "name": "U Radio",
+          "pi": "1371",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 270,
+          "country": "AA",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 2,
+          "blobOffsetX": 0,
+          "blobOffsetY": -3
+        },
+        {
+          "freq": "90.3",
+          "name": "Medradio",
+          "pi": "125B",
+          "kw": 0.7,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 270,
+          "country": "AA",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 2,
+          "blobOffsetX": 0,
+          "blobOffsetY": -3
+        },
+        {
+          "freq": "93.1",
+          "name": "KISS",
+          "pi": "1118",
+          "kw": 0.7,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 270,
+          "country": "AA",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 2,
+          "blobOffsetX": 0,
+          "blobOffsetY": -3
+        },
+        {
+          "freq": "93.8",
+          "name": "R.Oujda",
+          "pi": "1979",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 270,
+          "country": "AA",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 2,
+          "blobOffsetX": 0,
+          "blobOffsetY": -3
         }
       ]
     }
