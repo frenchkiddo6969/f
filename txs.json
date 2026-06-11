@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-06-11T01:43:29.446Z"
+    "exportedAt": "2026-06-11T14:11:56.674Z"
   },
   "txList": [
     {
@@ -10092,7 +10092,7 @@
       "stations": [
         {
           "freq": "87.6",
-          "name": "RTS P1",
+          "name": "RNK P1",
           "pi": "E201",
           "kw": 10,
           "pol": "c",
@@ -10108,7 +10108,7 @@
         },
         {
           "freq": "92.3",
-          "name": "RTS P2",
+          "name": "RNK P2",
           "pi": "E202",
           "kw": 10,
           "pol": "c",
@@ -10124,7 +10124,7 @@
         },
         {
           "freq": "97.6",
-          "name": "RTS P3",
+          "name": "RNK P3",
           "pi": "E203",
           "kw": 10,
           "pol": "c",
@@ -10140,7 +10140,7 @@
         },
         {
           "freq": "105.1",
-          "name": "RTS Nyheter",
+          "name": "RNK Nyheter",
           "pi": "E204",
           "kw": 5,
           "pol": "c",
@@ -10167,7 +10167,7 @@
       "stations": [
         {
           "freq": "102.1",
-          "name": "RTS MP3",
+          "name": "RNK MP3",
           "pi": "E205",
           "kw": 0.1,
           "pol": "v",
@@ -10210,7 +10210,7 @@
       "stations": [
         {
           "freq": "90.0",
-          "name": "RTS P1",
+          "name": "RNK P1",
           "pi": "E201",
           "kw": 5,
           "pol": "c",
@@ -10226,7 +10226,7 @@
         },
         {
           "freq": "93.7",
-          "name": "RTS P2",
+          "name": "RNK P2",
           "pi": "E202",
           "kw": 5,
           "pol": "c",
@@ -10242,7 +10242,7 @@
         },
         {
           "freq": "96.6",
-          "name": "RTS P3",
+          "name": "RNK P3",
           "pi": "E203",
           "kw": 5,
           "pol": "c",
@@ -10258,7 +10258,7 @@
         },
         {
           "freq": "106.0",
-          "name": "RTS Nyheter",
+          "name": "RNK Nyheter",
           "pi": "E204",
           "kw": 5,
           "pol": "c",
@@ -10344,7 +10344,7 @@
         },
         {
           "freq": "102.4",
-          "name": "RTS MP3",
+          "name": "RNK MP3",
           "pi": "E205",
           "kw": 0.5,
           "pol": "v",
