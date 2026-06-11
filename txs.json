@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-06-11T14:11:56.674Z"
+    "exportedAt": "2026-06-11T14:33:38.485Z"
   },
   "txList": [
     {
@@ -10330,7 +10330,7 @@
           "freq": "88.1",
           "name": "Nostalgi FM",
           "pi": "E213",
-          "kw": 0.5,
+          "kw": 4,
           "pol": "v",
           "directional": true,
           "directionAngle": 310,
@@ -10346,7 +10346,7 @@
           "freq": "102.4",
           "name": "RNK MP3",
           "pi": "E205",
-          "kw": 0.5,
+          "kw": 4,
           "pol": "v",
           "directional": true,
           "directionAngle": 310,
@@ -10362,7 +10362,7 @@
           "freq": "106.7",
           "name": "Rix FM",
           "pi": "E220",
-          "kw": 0.5,
+          "kw": 4,
           "pol": "v",
           "directional": true,
           "directionAngle": 310,
