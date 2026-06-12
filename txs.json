@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-06-12T18:39:20.126Z"
+    "exportedAt": "2026-06-12T22:52:28.309Z"
   },
   "txList": [
     {
@@ -17374,38 +17374,6 @@
       "point": null,
       "stations": [
         {
-          "freq": "93.1",
-          "name": "OHAY-FM",
-          "pi": "2294",
-          "kw": 220,
-          "pol": "c",
-          "directional": false,
-          "directionAngle": null,
-          "country": "OR",
-          "disabled": false,
-          "outlet": "",
-          "blobMode": "legacy",
-          "blobShapeIndex": 0,
-          "blobOffsetX": 0,
-          "blobOffsetY": 0
-        },
-        {
-          "freq": "95.9",
-          "name": "OCTO-FM",
-          "pi": "1744",
-          "kw": 50,
-          "pol": "c",
-          "directional": false,
-          "directionAngle": null,
-          "country": "OR",
-          "disabled": false,
-          "outlet": "",
-          "blobMode": "legacy",
-          "blobShapeIndex": 0,
-          "blobOffsetX": 0,
-          "blobOffsetY": 0
-        },
-        {
           "freq": "102.7",
           "name": "OSPI-FM",
           "pi": "4116",
@@ -17567,6 +17535,49 @@
           "disabled": false,
           "outlet": "",
           "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1781304713249",
+      "name": "Decorah",
+      "latlng": [
+        282.93838656478806,
+        146.71842781346072
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "93.1",
+          "name": "OHAY-FM",
+          "pi": "2294",
+          "kw": 320,
+          "pol": "c",
+          "directional": false,
+          "directionAngle": null,
+          "country": "OR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "95.9",
+          "name": "OCTO-FM",
+          "pi": "1744",
+          "kw": 320,
+          "pol": "c",
+          "directional": false,
+          "directionAngle": null,
+          "country": "OR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
           "blobOffsetY": 0
