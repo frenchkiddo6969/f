@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-06-11T18:27:58.435Z"
+    "exportedAt": "2026-06-12T00:46:49.403Z"
   },
   "txList": [
     {
@@ -17315,7 +17315,7 @@
           "blobOffsetY": 0
         },
         {
-          "freq": "93.3",
+          "freq": "93.5",
           "name": "OPB R.2",
           "pi": "5202",
           "kw": 398,
@@ -17373,6 +17373,22 @@
       ],
       "point": null,
       "stations": [
+        {
+          "freq": "93.1",
+          "name": "OHAY-FM",
+          "pi": "2294",
+          "kw": 220,
+          "pol": "c",
+          "directional": false,
+          "directionAngle": null,
+          "country": "OR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
         {
           "freq": "95.9",
           "name": "OCTO-FM",
