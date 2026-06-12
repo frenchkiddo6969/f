@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-06-12T00:46:49.403Z"
+    "exportedAt": "2026-06-12T18:39:20.126Z"
   },
   "txList": [
     {
@@ -17495,6 +17495,81 @@
           "blobShapeIndex": 2,
           "blobOffsetX": 0,
           "blobOffsetY": -3
+        }
+      ]
+    },
+    {
+      "id": "tx_1781289302953",
+      "name": "Bet Shemesh",
+      "latlng": [
+        593.2109375,
+        -205.203125
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "88.9",
+          "name": "Shatzav R.2",
+          "pi": "6202",
+          "kw": 5,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BK",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "94.3",
+          "name": "Shatzav R.1",
+          "pi": "6201",
+          "kw": 5,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BK",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "99.5",
+          "name": "Shatzav R.3",
+          "pi": "6203",
+          "kw": 5,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BK",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "105.1",
+          "name": "Shatzav R.Hadashot",
+          "pi": "6204",
+          "kw": 0.3,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BK",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
         }
       ]
     }
