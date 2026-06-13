@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-06-12T22:52:28.309Z"
+    "exportedAt": "2026-06-13T02:02:18.724Z"
   },
   "txList": [
     {
@@ -9650,8 +9650,8 @@
           "blobOffsetY": 0
         },
         {
-          "freq": "90",
-          "name": "Activ Radio",
+          "freq": "93",
+          "name": "Q93",
           "pi": "892C",
           "kw": 1,
           "pol": "v",
