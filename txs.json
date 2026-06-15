@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-06-13T02:02:18.724Z"
+    "exportedAt": "2026-06-15T15:12:17.422Z"
   },
   "txList": [
     {
@@ -14844,6 +14844,22 @@
       "point": null,
       "stations": [
         {
+          "freq": "94.6",
+          "name": "Pròxima FM",
+          "pi": "12A4",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 270,
+          "country": "CE",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 2,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
           "freq": "95.2",
           "name": "Flaix FM",
           "pi": "1299",
@@ -14938,6 +14954,22 @@
           "freq": "93.1",
           "name": "Canal 100",
           "pi": "12CE",
+          "kw": 0.2,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 230,
+          "country": "CE",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 2,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "95.0",
+          "name": "Pròxima FM",
+          "pi": "12A4",
           "kw": 0.2,
           "pol": "v",
           "directional": true,
@@ -17579,6 +17611,65 @@
           "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1781536145380",
+      "name": "Gandesa",
+      "latlng": [
+        701.0004315717603,
+        -358.0999925051944
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "88.8",
+          "name": "RNC R.1",
+          "pi": "1201",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 230,
+          "country": "CE",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 2,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "94.2",
+          "name": "RNC R.2",
+          "pi": "1202",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 230,
+          "country": "CE",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 2,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "100.0",
+          "name": "RNC R.3",
+          "pi": "1203",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 230,
+          "country": "CE",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 2,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         }
