@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-06-15T15:12:17.422Z"
+    "exportedAt": "2026-06-17T02:39:08.676Z"
   },
   "txList": [
     {
@@ -17582,6 +17582,22 @@
       ],
       "point": null,
       "stations": [
+        {
+          "freq": "92.1",
+          "name": "OXXR-FM",
+          "pi": "4F23",
+          "kw": 320,
+          "pol": "c",
+          "directional": false,
+          "directionAngle": null,
+          "country": "OR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
         {
           "freq": "93.1",
           "name": "OHAY-FM",
