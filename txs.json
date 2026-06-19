@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-06-17T02:39:08.676Z"
+    "exportedAt": "2026-06-19T21:07:23.309Z"
   },
   "txList": [
     {
@@ -17682,6 +17682,81 @@
           "directional": true,
           "directionAngle": 230,
           "country": "CE",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 2,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1781902371863",
+      "name": "Lőrinci",
+      "latlng": [
+        1052.671875,
+        -927.6875
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "88.0",
+          "name": "JS R.1",
+          "pi": "2201",
+          "kw": 20,
+          "pol": "h",
+          "directional": false,
+          "directionAngle": null,
+          "country": "JF",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "90.0",
+          "name": "JS R.2",
+          "pi": "2202",
+          "kw": 20,
+          "pol": "h",
+          "directional": false,
+          "directionAngle": null,
+          "country": "JF",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "93.0",
+          "name": "JS R.3",
+          "pi": "2203",
+          "kw": 20,
+          "pol": "h",
+          "directional": false,
+          "directionAngle": null,
+          "country": "JF",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "105.3",
+          "name": "JS R.Híradó",
+          "pi": "2204",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 210,
+          "country": "JF",
           "disabled": false,
           "outlet": "",
           "blobMode": "svg",
