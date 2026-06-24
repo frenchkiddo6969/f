@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-06-24T00:55:02.001Z"
+    "exportedAt": "2026-06-24T01:01:46.392Z"
   },
   "txList": [
     {
@@ -13069,6 +13069,22 @@
           "country": "OR",
           "disabled": false,
           "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "107.1",
+          "name": "OROE-FM",
+          "pi": "3E54",
+          "kw": 8.937,
+          "pol": "m",
+          "directional": false,
+          "directionAngle": null,
+          "country": "OR",
+          "disabled": false,
+          "outlet": "iRadio Orland",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
