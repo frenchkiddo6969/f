@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-06-24T00:34:09.051Z"
+    "exportedAt": "2026-06-24T00:36:17.757Z"
   },
   "txList": [
     {
@@ -17436,6 +17436,22 @@
           "freq": "87.6",
           "name": "Gael FM",
           "pi": "223E",
+          "kw": 3.786,
+          "pol": "m",
+          "directional": true,
+          "directionAngle": 200,
+          "country": "OL",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 21,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "103.7",
+          "name": "iRadio",
+          "pi": "22E2",
           "kw": 3.786,
           "pol": "m",
           "directional": true,
