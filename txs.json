@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-06-24T21:36:52.997Z"
+    "exportedAt": "2026-06-24T22:14:34.739Z"
   },
   "txList": [
     {
@@ -292,15 +292,15 @@
         },
         {
           "freq": "91.4",
-          "name": "Flaix FM Sveland",
-          "pi": "82C8",
+          "name": "Alt FM",
+          "pi": "86B1",
           "kw": 7,
           "pol": "v",
           "directional": true,
           "directionAngle": 180,
           "country": "SP",
-          "disabled": true,
-          "outlet": "Doetinlingen",
+          "disabled": false,
+          "outlet": "92.5 KXKA",
           "blobMode": "svg",
           "blobShapeIndex": 2,
           "blobOffsetX": -10,
@@ -340,15 +340,15 @@
         },
         {
           "freq": "93.7",
-          "name": "Fun Radio",
-          "pi": "8217",
+          "name": "GoldDance",
+          "pi": "88B3",
           "kw": 7,
           "pol": "v",
           "directional": true,
           "directionAngle": 180,
           "country": "SP",
-          "disabled": true,
-          "outlet": "Doetinlingen",
+          "disabled": false,
+          "outlet": "",
           "blobMode": "svg",
           "blobShapeIndex": 2,
           "blobOffsetX": -10,
@@ -10282,40 +10282,7 @@
         -355.1953125
       ],
       "point": null,
-      "stations": [
-        {
-          "freq": "96.3",
-          "name": "Alt FM",
-          "pi": "86B1",
-          "kw": 1,
-          "pol": "v",
-          "directional": true,
-          "directionAngle": 283,
-          "country": "SP",
-          "disabled": false,
-          "outlet": "92.5 KXKA",
-          "blobMode": "legacy",
-          "blobShapeIndex": 0,
-          "blobOffsetX": 0,
-          "blobOffsetY": 0
-        },
-        {
-          "freq": "96.7",
-          "name": "GoldDance",
-          "pi": "88B3",
-          "kw": 1,
-          "pol": "v",
-          "directional": true,
-          "directionAngle": 283,
-          "country": "SP",
-          "disabled": false,
-          "outlet": "",
-          "blobMode": "legacy",
-          "blobShapeIndex": 0,
-          "blobOffsetX": 0,
-          "blobOffsetY": 0
-        }
-      ]
+      "stations": []
     },
     {
       "id": "tx_1768224488993",
