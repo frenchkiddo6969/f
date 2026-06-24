@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-06-23T18:18:15.012Z"
+    "exportedAt": "2026-06-24T00:34:09.051Z"
   },
   "txList": [
     {
@@ -10498,8 +10498,8 @@
       "id": "tx_1768419760470",
       "name": "Caisleán an Bharraigh",
       "latlng": [
-        731.3030913552747,
-        -703.5601987371587
+        730.7578125,
+        -703.6796875
       ],
       "point": null,
       "stations": [
@@ -10507,7 +10507,7 @@
           "freq": "89.0",
           "name": "RTPO R.1",
           "pi": "2201",
-          "kw": 6,
+          "kw": 13.784,
           "pol": "h",
           "directional": false,
           "directionAngle": null,
@@ -10523,7 +10523,7 @@
           "freq": "90.3",
           "name": "RTPO 2FM",
           "pi": "2202",
-          "kw": 6,
+          "kw": 13.784,
           "pol": "h",
           "directional": false,
           "directionAngle": null,
@@ -10539,7 +10539,7 @@
           "freq": "99.2",
           "name": "RTPO lyricFM",
           "pi": "2203",
-          "kw": 6,
+          "kw": 13.784,
           "pol": "h",
           "directional": false,
           "directionAngle": null,
@@ -10571,7 +10571,7 @@
           "freq": "104.7",
           "name": "RTPO Nuacht",
           "pi": "2204",
-          "kw": 1,
+          "kw": 5.72,
           "pol": "h",
           "directional": false,
           "directionAngle": null,
@@ -17418,6 +17418,33 @@
           "outlet": "",
           "blobMode": "svg",
           "blobShapeIndex": 2,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1782261139658",
+      "name": "Chaisleán an Bharraigh",
+      "latlng": [
+        770.7265625,
+        -699.3515625
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "87.6",
+          "name": "Gael FM",
+          "pi": "223E",
+          "kw": 3.786,
+          "pol": "m",
+          "directional": true,
+          "directionAngle": 200,
+          "country": "OL",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 21,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         }
