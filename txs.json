@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-06-24T22:14:34.739Z"
+    "exportedAt": "2026-06-24T22:18:46.066Z"
   },
   "txList": [
     {
@@ -10275,16 +10275,6 @@
       ]
     },
     {
-      "id": "tx_1768158823245",
-      "name": "Doetinlingen",
-      "latlng": [
-        1011.0234375,
-        -355.1953125
-      ],
-      "point": null,
-      "stations": []
-    },
-    {
       "id": "tx_1768224488993",
       "name": "Drammen",
       "latlng": [
@@ -14889,6 +14879,22 @@
           "freq": "90.4",
           "name": "R.Campus Doetinlingen",
           "pi": "89C7",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 340,
+          "country": "SP",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 11,
+          "blobOffsetX": -7,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "96.6",
+          "name": "Pepper 96,6",
+          "pi": "88B5",
           "kw": 1,
           "pol": "v",
           "directional": true,
