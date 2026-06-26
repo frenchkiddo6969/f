@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-06-24T22:18:46.066Z"
+    "exportedAt": "2026-06-26T00:35:31.183Z"
   },
   "txList": [
     {
@@ -452,7 +452,7 @@
         },
         {
           "freq": "105.8",
-          "name": "MyHits",
+          "name": "Pro FM",
           "pi": "8220",
           "kw": 8,
           "pol": "V",
@@ -666,7 +666,7 @@
         },
         {
           "freq": "96",
-          "name": "MyHits",
+          "name": "Pro FM",
           "pi": "8220",
           "kw": 1,
           "pol": "V",
@@ -832,7 +832,7 @@
         },
         {
           "freq": "100.3",
-          "name": "MyHits",
+          "name": "Pro FM",
           "pi": "8220",
           "kw": 1,
           "pol": "V",
@@ -1137,7 +1137,7 @@
         },
         {
           "freq": "102.2",
-          "name": "MyHits",
+          "name": "Pro FM",
           "pi": "8220",
           "kw": 1,
           "pol": "V",
@@ -1785,7 +1785,7 @@
         },
         {
           "freq": "89.4",
-          "name": "MyHits",
+          "name": "Pro FM",
           "pi": "8220",
           "kw": 1,
           "pol": "V",
@@ -2031,7 +2031,7 @@
         },
         {
           "freq": "105.2",
-          "name": "MyHits",
+          "name": "Pro FM",
           "pi": "8220",
           "kw": 1,
           "pol": "V",
@@ -2492,7 +2492,7 @@
         },
         {
           "freq": "107.4",
-          "name": "MyHits",
+          "name": "Pro FM",
           "pi": "8220",
           "kw": 0.063,
           "pol": "V",
@@ -2578,7 +2578,7 @@
       "stations": [
         {
           "freq": "89.5",
-          "name": "MyHits",
+          "name": "Pro FM",
           "pi": "8220",
           "kw": 1,
           "pol": "V",
@@ -2797,7 +2797,7 @@
         },
         {
           "freq": "106.1",
-          "name": "MyHits",
+          "name": "Pro FM",
           "pi": "8220",
           "kw": 1,
           "pol": "V",
@@ -4009,7 +4009,7 @@
         },
         {
           "freq": "92.3",
-          "name": "MyHits",
+          "name": "Pro FM",
           "pi": "8220",
           "kw": 1,
           "pol": "V",
@@ -4207,7 +4207,7 @@
         },
         {
           "freq": 100.3,
-          "name": "MyHits",
+          "name": "Pro FM",
           "pi": "8220",
           "kw": 0.093,
           "pol": "V",
@@ -4657,7 +4657,7 @@
         },
         {
           "freq": 88.5,
-          "name": "MyHits",
+          "name": "Pro FM",
           "pi": "8220",
           "kw": 0.2,
           "pol": "V",
@@ -5670,7 +5670,7 @@
         },
         {
           "freq": "89.2",
-          "name": "MyHits",
+          "name": "Pro FM",
           "pi": "8220",
           "kw": 1,
           "pol": "V",
@@ -5959,7 +5959,7 @@
         },
         {
           "freq": 97.2,
-          "name": "MyHits",
+          "name": "Pro FM",
           "pi": "8220",
           "kw": 1,
           "pol": "V",
@@ -6931,7 +6931,7 @@
       "stations": [
         {
           "freq": "89.2",
-          "name": "MyHits",
+          "name": "Pro FM",
           "pi": "8220",
           "kw": 0.5,
           "pol": "v",
@@ -7231,7 +7231,7 @@
       "stations": [
         {
           "freq": "91.4",
-          "name": "MyHits",
+          "name": "Pro FM",
           "pi": "8220",
           "kw": 0.2,
           "pol": "v",
@@ -8815,7 +8815,7 @@
         },
         {
           "freq": "105.7",
-          "name": "MyHits",
+          "name": "Pro FM",
           "pi": "8220",
           "kw": 2,
           "pol": "v",
@@ -9399,7 +9399,7 @@
         },
         {
           "freq": "104.7",
-          "name": "MyHits",
+          "name": "Pro FM",
           "pi": "8220",
           "kw": 0.1,
           "pol": "v",
@@ -9533,7 +9533,7 @@
         },
         {
           "freq": "94.0",
-          "name": "MyHits",
+          "name": "Pro FM",
           "pi": "8220",
           "kw": 0.2,
           "pol": "v",
@@ -10419,7 +10419,7 @@
         },
         {
           "freq": "99.7",
-          "name": "MyHits",
+          "name": "Pro FM",
           "pi": "8220",
           "kw": 0.1,
           "pol": "v",
@@ -10655,7 +10655,7 @@
         },
         {
           "freq": "106.1",
-          "name": "MyHits",
+          "name": "Pro FM",
           "pi": "8220",
           "kw": 0.5,
           "pol": "v",
@@ -11118,7 +11118,7 @@
       "stations": [
         {
           "freq": "91.2",
-          "name": "MyHits",
+          "name": "Pro FM",
           "pi": "8220",
           "kw": 0.1,
           "pol": "v",
@@ -11295,7 +11295,7 @@
         },
         {
           "freq": "100.3",
-          "name": "MyHits",
+          "name": "Pro FM",
           "pi": "8220",
           "kw": 0.5,
           "pol": "v",
@@ -11537,7 +11537,7 @@
         },
         {
           "freq": "99.4",
-          "name": "MyHits",
+          "name": "Pro FM",
           "pi": "8220",
           "kw": 0.1,
           "pol": "v",
@@ -11849,7 +11849,7 @@
         },
         {
           "freq": "92.7",
-          "name": "MyHits",
+          "name": "Pro FM",
           "pi": "8220",
           "kw": 0.05,
           "pol": "v",
@@ -12417,7 +12417,7 @@
         },
         {
           "freq": "90.3",
-          "name": "MyHits",
+          "name": "Pro FM",
           "pi": "8220",
           "kw": 0.1,
           "pol": "v",
@@ -12958,7 +12958,7 @@
         },
         {
           "freq": "96.5",
-          "name": "MyHits",
+          "name": "Pro FM",
           "pi": "8220",
           "kw": 0.1,
           "pol": "v",
@@ -15017,7 +15017,7 @@
       "stations": [
         {
           "freq": "92.0",
-          "name": "MyHits",
+          "name": "Pro FM",
           "pi": "8220",
           "kw": 0.08,
           "pol": "v",
@@ -16752,7 +16752,7 @@
         },
         {
           "freq": "99.4",
-          "name": "MyHits",
+          "name": "Pro FM",
           "pi": "8220",
           "kw": 0.2,
           "pol": "v",
