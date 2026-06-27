@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-06-27T01:46:35.307Z"
+    "exportedAt": "2026-06-27T23:03:58.910Z"
   },
   "txList": [
     {
@@ -17339,7 +17339,7 @@
     },
     {
       "id": "tx_1781902371863",
-      "name": "Lőrinci",
+      "name": "Villetritouls",
       "latlng": [
         1052.671875,
         -927.6875
@@ -17348,13 +17348,13 @@
       "stations": [
         {
           "freq": "88.0",
-          "name": "JS R.1",
-          "pi": "2201",
+          "name": "Valsénie Inter",
+          "pi": "F201",
           "kw": 20,
           "pol": "h",
           "directional": false,
           "directionAngle": null,
-          "country": "JF",
+          "country": "VL",
           "disabled": false,
           "outlet": "",
           "blobMode": "circle",
@@ -17364,13 +17364,13 @@
         },
         {
           "freq": "90.0",
-          "name": "JS R.2",
-          "pi": "2202",
+          "name": "Valsénie Culture",
+          "pi": "F202",
           "kw": 20,
           "pol": "h",
           "directional": false,
           "directionAngle": null,
-          "country": "JF",
+          "country": "VL",
           "disabled": false,
           "outlet": "",
           "blobMode": "circle",
@@ -17380,29 +17380,29 @@
         },
         {
           "freq": "93.0",
-          "name": "JS R.3",
-          "pi": "2203",
+          "name": "Valsénie Musique",
+          "pi": "F203",
           "kw": 20,
           "pol": "h",
           "directional": false,
           "directionAngle": null,
-          "country": "JF",
+          "country": "VL",
           "disabled": false,
           "outlet": "",
-          "blobMode": "legacy",
+          "blobMode": "circle",
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         },
         {
           "freq": "105.3",
-          "name": "JS R.Híradó",
-          "pi": "2204",
+          "name": "Valsénie Info",
+          "pi": "F204",
           "kw": 0.5,
           "pol": "v",
           "directional": true,
           "directionAngle": 210,
-          "country": "JF",
+          "country": "VL",
           "disabled": false,
           "outlet": "",
           "blobMode": "svg",
@@ -17450,6 +17450,65 @@
           "outlet": "",
           "blobMode": "svg",
           "blobShapeIndex": 21,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1782601004627",
+      "name": "Villetritouls",
+      "latlng": [
+        1040.0234375,
+        -935.515625
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "97.4",
+          "name": "Rire et Chansons",
+          "pi": "F226",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 280,
+          "country": "VL",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 17,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "98",
+          "name": "100% Radio",
+          "pi": "F292",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 280,
+          "country": "VL",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 17,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "100.3",
+          "name": "NRJ",
+          "pi": "F220",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 280,
+          "country": "VL",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 17,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         }
