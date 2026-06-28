@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-06-28T16:25:35.348Z"
+    "exportedAt": "2026-06-28T16:27:29.201Z"
   },
   "txList": [
     {
@@ -3189,12 +3189,12 @@
         {
           "freq": "98.0",
           "name": "98FM",
-          "pi": "83E2",
-          "kw": 1,
+          "pi": "87E2",
+          "kw": 4,
           "pol": "v",
           "directional": true,
           "directionAngle": 220,
-          "country": "",
+          "country": "SP",
           "disabled": false,
           "outlet": "",
           "blobMode": "legacy",
