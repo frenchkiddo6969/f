@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-06-27T23:03:58.910Z"
+    "exportedAt": "2026-06-28T16:25:35.348Z"
   },
   "txList": [
     {
@@ -2625,11 +2625,11 @@
           "blobOffsetY": 0
         },
         {
-          "freq": "96",
-          "name": "100% SP",
-          "pi": "8228",
+          "freq": "93.8",
+          "name": "Lachen & Liedjes",
+          "pi": "82F2",
           "kw": 1,
-          "pol": "V",
+          "pol": "v",
           "directional": true,
           "directionAngle": 270,
           "country": "SP",
@@ -2641,16 +2641,16 @@
           "blobOffsetY": 0
         },
         {
-          "freq": "105.9",
-          "name": "Fun Radio",
-          "pi": "8217",
+          "freq": "96",
+          "name": "100% SP",
+          "pi": "8228",
           "kw": 1,
           "pol": "V",
           "directional": true,
           "directionAngle": 270,
-          "country": "",
-          "disabled": true,
-          "outlet": "Emmelburg",
+          "country": "SP",
+          "disabled": false,
+          "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
@@ -3187,15 +3187,15 @@
           "blobOffsetY": 0
         },
         {
-          "freq": "96.9",
-          "name": "iRadio",
+          "freq": "98.0",
+          "name": "98FM",
           "pi": "83E2",
           "kw": 1,
           "pol": "v",
           "directional": true,
           "directionAngle": 220,
           "country": "",
-          "disabled": true,
+          "disabled": false,
           "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
@@ -9248,7 +9248,7 @@
           "blobOffsetY": 0
         },
         {
-          "freq": "98.0",
+          "freq": "96.9",
           "name": "SPO P3",
           "pi": "8203",
           "kw": 5,
@@ -9424,22 +9424,6 @@
       ],
       "point": null,
       "stations": [
-        {
-          "freq": "93.8",
-          "name": "Lachen & Liedjes",
-          "pi": "82F2",
-          "kw": 0.1,
-          "pol": "v",
-          "directional": false,
-          "directionAngle": null,
-          "country": "SP",
-          "disabled": false,
-          "outlet": "",
-          "blobMode": "legacy",
-          "blobShapeIndex": 0,
-          "blobOffsetX": 0,
-          "blobOffsetY": 0
-        },
         {
           "freq": "95.3",
           "name": "R.Russkiy Urban",
