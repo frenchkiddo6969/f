@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-06-28T16:27:29.201Z"
+    "exportedAt": "2026-06-28T16:48:40.363Z"
   },
   "txList": [
     {
@@ -9962,7 +9962,7 @@
       "point": null,
       "stations": [
         {
-          "freq": "96.8",
+          "freq": "107.8",
           "name": "R.Middenlanden",
           "pi": "8969",
           "kw": 1,
