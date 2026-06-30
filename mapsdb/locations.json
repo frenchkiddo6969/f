@@ -1630,5 +1630,21 @@
       -375.0390625
     ],
     "category": "pharmacy"
+  },
+  {
+    "name": "Viseoil Emmelburg",
+    "latlng": [
+      922.125,
+      -374.859375
+    ],
+    "category": "gasstation"
+  },
+  {
+    "name": "98FM",
+    "latlng": [
+      917.0078125,
+      -364.375
+    ],
+    "category": "other"
   }
 ]
