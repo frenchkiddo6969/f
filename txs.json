@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-06-29T21:06:39.356Z"
+    "exportedAt": "2026-06-30T17:56:58.441Z"
   },
   "txList": [
     {
@@ -3177,7 +3177,7 @@
           "kw": 0.3,
           "pol": "v",
           "directional": true,
-          "directionAngle": 200,
+          "directionAngle": 232,
           "country": "SP",
           "disabled": false,
           "outlet": "",
@@ -3193,7 +3193,7 @@
           "kw": 4,
           "pol": "v",
           "directional": true,
-          "directionAngle": 220,
+          "directionAngle": 232,
           "country": "SP",
           "disabled": false,
           "outlet": "",
@@ -3225,7 +3225,7 @@
           "kw": 1,
           "pol": "V",
           "directional": true,
-          "directionAngle": 231,
+          "directionAngle": 232,
           "country": "SP",
           "disabled": false,
           "outlet": "",
@@ -3235,13 +3235,29 @@
           "blobOffsetY": 0
         },
         {
-          "freq": 107.9,
+          "freq": "105.9",
+          "name": "RTO R.1 [F]",
+          "pi": "8E10",
+          "kw": 0.2,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 231,
+          "country": "SP",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "107.9",
           "name": "Europa 1",
           "pi": "82E1",
           "kw": 1,
           "pol": "V",
           "directional": true,
-          "directionAngle": 231,
+          "directionAngle": 232,
           "country": "SP",
           "disabled": false,
           "outlet": "",
