@@ -1614,5 +1614,13 @@
       -368.5491319979171
     ],
     "category": "transport"
+  },
+  {
+    "name": "Svepost EMMELBURG",
+    "latlng": [
+      919.171875,
+      -372.3828125
+    ],
+    "category": "other"
   }
 ]
