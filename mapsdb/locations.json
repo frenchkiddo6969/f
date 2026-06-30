@@ -1622,5 +1622,13 @@
       -372.3828125
     ],
     "category": "other"
+  },
+  {
+    "name": "Apotheek Emmelburg",
+    "latlng": [
+      917.7265625,
+      -375.0390625
+    ],
+    "category": "pharmacy"
   }
 ]
