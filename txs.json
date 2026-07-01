@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-06-30T17:56:58.442Z"
+    "exportedAt": "2026-07-01T01:37:51.296Z"
   },
   "txList": [
     {
@@ -146,8 +146,8 @@
           "country": "SP",
           "disabled": false,
           "outlet": "",
-          "blobMode": "legacy",
-          "blobShapeIndex": 0,
+          "blobMode": "svg",
+          "blobShapeIndex": 22,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         },
@@ -178,8 +178,8 @@
           "country": "SP",
           "disabled": false,
           "outlet": "",
-          "blobMode": "legacy",
-          "blobShapeIndex": 0,
+          "blobMode": "svg",
+          "blobShapeIndex": 22,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         },
@@ -4009,16 +4009,16 @@
       "stations": [
         {
           "freq": "90.7",
-          "name": "Fun Radio",
-          "pi": "8217",
+          "name": "RTO R.1 [F]",
+          "pi": "8E10",
           "kw": 1,
           "pol": "V",
           "directional": false,
           "directionAngle": null,
           "country": "SP",
-          "disabled": true,
-          "outlet": "Wageselt",
-          "blobMode": "legacy",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
           "blobOffsetY": 0
@@ -7149,7 +7149,7 @@
           "country": "SP",
           "disabled": false,
           "outlet": "",
-          "blobMode": "legacy",
+          "blobMode": "circle",
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
           "blobOffsetY": 0
