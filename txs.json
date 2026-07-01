@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-07-01T01:37:51.296Z"
+    "exportedAt": "2026-07-01T01:46:57.055Z"
   },
   "txList": [
     {
@@ -12216,6 +12216,22 @@
           "blobShapeIndex": 2,
           "blobOffsetX": 0,
           "blobOffsetY": -2
+        },
+        {
+          "freq": "97.6",
+          "name": "RTO R.1 [F]",
+          "pi": "6101",
+          "kw": 2,
+          "pol": "m",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BK",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
         },
         {
           "freq": "98.3",
