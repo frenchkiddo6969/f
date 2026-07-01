@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-07-01T01:46:57.055Z"
+    "exportedAt": "2026-07-01T16:15:30.459Z"
   },
   "txList": [
     {
@@ -2571,8 +2571,8 @@
       "id": 1752267436482,
       "name": "Emmelburg",
       "latlng": [
-        921.546875,
-        -355.4375
+        921.5390625,
+        -355.4453125
       ],
       "point": null,
       "stations": [
@@ -4132,15 +4132,15 @@
         },
         {
           "freq": "93.9",
-          "name": "Flaix FM Sveland",
-          "pi": "82C8",
+          "name": "100% SP",
+          "pi": "8228",
           "kw": 0.5,
           "pol": "V",
           "directional": false,
           "directionAngle": null,
           "country": "SP",
-          "disabled": true,
-          "outlet": "Wageselt",
+          "disabled": false,
+          "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
@@ -4168,8 +4168,8 @@
       "id": 1754703456295,
       "name": "Tragal",
       "latlng": [
-        920.9127078448217,
-        -414.08315791038353
+        921.078125,
+        -413.7109375
       ],
       "point": null,
       "stations": [
@@ -9210,8 +9210,8 @@
       "id": "tx_1765241207263",
       "name": "Hoogbeke Zendmast",
       "latlng": [
-        891.3265970755591,
-        -389.4780422337402
+        891.1796875,
+        -389.4453125
       ],
       "point": null,
       "stations": [
@@ -9478,8 +9478,8 @@
       "id": "tx_1765549212925",
       "name": "Kortlecht-Bergeijk",
       "latlng": [
-        881.7142319733092,
-        -360.376560240553
+        881.6875,
+        -360.578125
       ],
       "point": null,
       "stations": [
