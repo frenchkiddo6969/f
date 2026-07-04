@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-07-04T01:41:11.347Z"
+    "exportedAt": "2026-07-04T13:00:08.438Z"
   },
   "txList": [
     {
@@ -9399,22 +9399,6 @@
       "stations": [
         {
           "freq": "90.7",
-          "name": "Flaix FM Sveland",
-          "pi": "82C8",
-          "kw": 0.1,
-          "pol": "v",
-          "directional": true,
-          "directionAngle": 347,
-          "country": "SP",
-          "disabled": true,
-          "outlet": "",
-          "blobMode": "legacy",
-          "blobShapeIndex": 0,
-          "blobOffsetX": 0,
-          "blobOffsetY": 0
-        },
-        {
-          "freq": "104.7",
           "name": "R.Impuls",
           "pi": "8220",
           "kw": 0.1,
