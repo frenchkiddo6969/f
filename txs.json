@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-07-04T13:00:08.438Z"
+    "exportedAt": "2026-07-04T19:20:05.726Z"
   },
   "txList": [
     {
@@ -10321,57 +10321,57 @@
       "id": "tx_1768356504372",
       "name": "Breda",
       "latlng": [
-        953.7133433073694,
-        -361.6567756501245
+        954.041408010933,
+        -361.8162647395779
       ],
       "point": null,
       "stations": [
         {
           "freq": "99.3",
-          "name": "Jazz Radio",
-          "pi": "82FC",
-          "kw": 0.5,
+          "name": "R.Impuls",
+          "pi": "8220",
+          "kw": 0.2,
           "pol": "v",
           "directional": true,
-          "directionAngle": 100,
+          "directionAngle": 110,
           "country": "SP",
           "disabled": false,
           "outlet": "",
           "blobMode": "svg",
           "blobShapeIndex": 17,
-          "blobOffsetX": 10,
+          "blobOffsetX": 5,
           "blobOffsetY": 0
         },
         {
           "freq": "101.0",
           "name": "TOPradio",
           "pi": "82DF",
-          "kw": 0.1,
+          "kw": 0.2,
           "pol": "v",
-          "directional": false,
-          "directionAngle": null,
+          "directional": true,
+          "directionAngle": 110,
           "country": "SP",
           "disabled": false,
           "outlet": "",
-          "blobMode": "legacy",
-          "blobShapeIndex": 0,
-          "blobOffsetX": 0,
+          "blobMode": "svg",
+          "blobShapeIndex": 17,
+          "blobOffsetX": 5,
           "blobOffsetY": 0
         },
         {
           "freq": "103.4",
           "name": "R.FG",
           "pi": "822C",
-          "kw": 0.1,
+          "kw": 0.2,
           "pol": "v",
-          "directional": false,
-          "directionAngle": null,
+          "directional": true,
+          "directionAngle": 110,
           "country": "SP",
           "disabled": false,
           "outlet": "",
-          "blobMode": "legacy",
-          "blobShapeIndex": 0,
-          "blobOffsetX": 0,
+          "blobMode": "svg",
+          "blobShapeIndex": 17,
+          "blobOffsetX": 5,
           "blobOffsetY": 0
         }
       ]
