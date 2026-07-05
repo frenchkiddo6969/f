@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-07-05T20:16:10.111Z"
+    "exportedAt": "2026-07-05T20:17:31.771Z"
   },
   "txList": [
     {
@@ -2930,6 +2930,22 @@
           "blobOffsetY": 0
         },
         {
+          "freq": "90.9",
+          "name": "R.Trance",
+          "pi": "82C2",
+          "kw": 0.5,
+          "pol": "V",
+          "directional": true,
+          "directionAngle": 270,
+          "country": "SP",
+          "disabled": true,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
           "freq": "94.5",
           "name": "TOPradio",
           "pi": "82DF",
@@ -3001,97 +3017,6 @@
           "pol": "V",
           "directional": true,
           "directionAngle": 270,
-          "country": "SP",
-          "disabled": false,
-          "outlet": "",
-          "blobMode": "legacy",
-          "blobShapeIndex": 0,
-          "blobOffsetX": 0,
-          "blobOffsetY": 0
-        }
-      ]
-    },
-    {
-      "id": 1754419660598,
-      "name": "Roesstal Zendmast",
-      "latlng": [
-        1006.5189334145347,
-        -444.1526076522712
-      ],
-      "point": null,
-      "stations": [
-        {
-          "freq": "91.0",
-          "name": "SPO P1",
-          "pi": "8201",
-          "kw": 8.7,
-          "pol": "C",
-          "directional": false,
-          "directionAngle": null,
-          "country": "SP",
-          "disabled": false,
-          "outlet": "",
-          "blobMode": "legacy",
-          "blobShapeIndex": 0,
-          "blobOffsetX": 0,
-          "blobOffsetY": 0
-        },
-        {
-          "freq": 91.8,
-          "name": "SPO P2",
-          "pi": "8202",
-          "kw": 8.7,
-          "pol": "C",
-          "directional": false,
-          "directionAngle": null,
-          "country": "SP",
-          "disabled": false,
-          "outlet": "",
-          "blobMode": "legacy",
-          "blobShapeIndex": 0,
-          "blobOffsetX": 0,
-          "blobOffsetY": 0
-        },
-        {
-          "freq": 98.9,
-          "name": "SPO P3",
-          "pi": "8203",
-          "kw": 8.7,
-          "pol": "C",
-          "directional": false,
-          "directionAngle": null,
-          "country": "SP",
-          "disabled": false,
-          "outlet": "",
-          "blobMode": "legacy",
-          "blobShapeIndex": 0,
-          "blobOffsetX": 0,
-          "blobOffsetY": 0
-        },
-        {
-          "freq": "102.1",
-          "name": "R.538",
-          "pi": "82C7",
-          "kw": 5,
-          "pol": "c",
-          "directional": false,
-          "directionAngle": null,
-          "country": "SP",
-          "disabled": false,
-          "outlet": "",
-          "blobMode": "legacy",
-          "blobShapeIndex": 0,
-          "blobOffsetX": 0,
-          "blobOffsetY": 0
-        },
-        {
-          "freq": 105.6,
-          "name": "SPO Nieuws",
-          "pi": "8204",
-          "kw": 5,
-          "pol": "C",
-          "directional": false,
-          "directionAngle": null,
           "country": "SP",
           "disabled": false,
           "outlet": "",
