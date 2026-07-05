@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-07-05T16:38:01.424Z"
+    "exportedAt": "2026-07-05T20:16:10.111Z"
   },
   "txList": [
     {
@@ -2930,22 +2930,6 @@
           "blobOffsetY": 0
         },
         {
-          "freq": "90.9",
-          "name": "R.Trance",
-          "pi": "82C2",
-          "kw": 0.5,
-          "pol": "V",
-          "directional": true,
-          "directionAngle": 270,
-          "country": "SP",
-          "disabled": true,
-          "outlet": "",
-          "blobMode": "legacy",
-          "blobShapeIndex": 0,
-          "blobOffsetX": 0,
-          "blobOffsetY": 0
-        },
-        {
           "freq": "94.5",
           "name": "TOPradio",
           "pi": "82DF",
@@ -3037,7 +3021,7 @@
       "point": null,
       "stations": [
         {
-          "freq": "90.2",
+          "freq": "91.0",
           "name": "SPO P1",
           "pi": "8201",
           "kw": 8.7,
