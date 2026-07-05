@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-07-04T19:20:05.726Z"
+    "exportedAt": "2026-07-05T16:38:01.424Z"
   },
   "txList": [
     {
@@ -5669,7 +5669,7 @@
       "point": null,
       "stations": [
         {
-          "freq": "88.8",
+          "freq": "88.7",
           "name": "R.FG",
           "pi": "822C",
           "kw": 1,
@@ -7423,7 +7423,7 @@
       "point": null,
       "stations": [
         {
-          "freq": "88.2",
+          "freq": "88.4",
           "name": "R.Star",
           "pi": "8778",
           "kw": 0.5,
