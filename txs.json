@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-07-05T20:17:31.771Z"
+    "exportedAt": "2026-07-07T12:41:20.483Z"
   },
   "txList": [
     {
@@ -9307,7 +9307,7 @@
       "point": null,
       "stations": [
         {
-          "freq": "90.7",
+          "freq": "90.9",
           "name": "R.Impuls",
           "pi": "8220",
           "kw": 0.1,
