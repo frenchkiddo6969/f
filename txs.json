@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-07-07T12:41:20.483Z"
+    "exportedAt": "2026-07-07T20:17:09.408Z"
   },
   "txList": [
     {
@@ -4787,7 +4787,7 @@
     },
     {
       "id": 1755370158795,
-      "name": "Kecskemét",
+      "name": "Slavgorod",
       "latlng": [
         514.6922081747462,
         70.79538620943435
@@ -4795,220 +4795,65 @@
       "point": null,
       "stations": [
         {
-          "freq": "89.4",
-          "name": "NKM Kossuth Rádió",
-          "pi": "B201",
-          "kw": 6,
+          "freq": "87.5",
+          "name": "ZR R.Stalitsa",
+          "pi": "F215",
+          "kw": 13.784,
           "pol": "H",
           "directional": false,
           "directionAngle": null,
-          "country": "NY",
-          "disabled": true,
+          "country": "ZE",
+          "disabled": false,
           "outlet": "",
-          "blobMode": "legacy",
+          "blobMode": "circle",
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         },
         {
-          "freq": "98.8",
-          "name": "NKM Bartók Rádió",
-          "pi": "B202",
-          "kw": 6,
+          "freq": "103.9",
+          "name": "ZR Radius FM",
+          "pi": "F203",
+          "kw": 13.784,
           "pol": "H",
           "directional": false,
           "directionAngle": null,
-          "country": "NY",
-          "disabled": true,
+          "country": "ZE",
+          "disabled": false,
           "outlet": "",
-          "blobMode": "legacy",
+          "blobMode": "circle",
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         },
         {
-          "freq": "99.7",
-          "name": "NKM Petőfi Rádió",
-          "pi": "B203",
-          "kw": 6,
+          "freq": "105.3",
+          "name": "ZR Kanal Kultura",
+          "pi": "F202",
+          "kw": 13.784,
           "pol": "H",
           "directional": false,
           "directionAngle": null,
-          "country": "NY",
-          "disabled": true,
+          "country": "ZE",
+          "disabled": false,
           "outlet": "",
-          "blobMode": "legacy",
-          "blobShapeIndex": 0,
-          "blobOffsetX": 0,
-          "blobOffsetY": 0
-        }
-      ]
-    },
-    {
-      "id": 1755370693271,
-      "name": "Kecskemét",
-      "latlng": [
-        528.3973965104148,
-        63.78066228675971
-      ],
-      "point": null,
-      "stations": [
-        {
-          "freq": "88",
-          "name": "Rádió 1",
-          "pi": "B317",
-          "kw": 4,
-          "pol": "V",
-          "directional": true,
-          "directionAngle": 272,
-          "country": "NY",
-          "disabled": true,
-          "outlet": "",
-          "blobMode": "legacy",
+          "blobMode": "circle",
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         },
         {
-          "freq": "89",
-          "name": "Hír FM",
-          "pi": "B31A",
-          "kw": 4,
-          "pol": "V",
-          "directional": true,
-          "directionAngle": 280,
-          "country": "NY",
-          "disabled": true,
+          "freq": "106.3",
+          "name": "ZR Pershy Kanal",
+          "pi": "F201",
+          "kw": 13.784,
+          "pol": "H",
+          "directional": false,
+          "directionAngle": null,
+          "country": "ZE",
+          "disabled": false,
           "outlet": "",
-          "blobMode": "legacy",
-          "blobShapeIndex": 0,
-          "blobOffsetX": 0,
-          "blobOffsetY": 0
-        },
-        {
-          "freq": "89.9",
-          "name": "Humor FM",
-          "pi": "B315",
-          "kw": 4,
-          "pol": "V",
-          "directional": true,
-          "directionAngle": 280,
-          "country": "NY",
-          "disabled": true,
-          "outlet": "",
-          "blobMode": "legacy",
-          "blobShapeIndex": 0,
-          "blobOffsetX": 0,
-          "blobOffsetY": 0
-        },
-        {
-          "freq": "90.3",
-          "name": "Klasszik Rádió",
-          "pi": "B421",
-          "kw": 1,
-          "pol": "V",
-          "directional": true,
-          "directionAngle": 280,
-          "country": "NY",
-          "disabled": true,
-          "outlet": "",
-          "blobMode": "legacy",
-          "blobShapeIndex": 0,
-          "blobOffsetX": 0,
-          "blobOffsetY": 0
-        },
-        {
-          "freq": "91.1",
-          "name": "DFM Nagyarorszag",
-          "pi": "B3DF",
-          "kw": 4,
-          "pol": "V",
-          "directional": true,
-          "directionAngle": 281,
-          "country": "NY",
-          "disabled": true,
-          "outlet": "",
-          "blobMode": "legacy",
-          "blobShapeIndex": 0,
-          "blobOffsetX": 0,
-          "blobOffsetY": 0
-        },
-        {
-          "freq": "93.7",
-          "name": "OnlyHits",
-          "pi": "B422",
-          "kw": 1,
-          "pol": "V",
-          "directional": true,
-          "directionAngle": 280,
-          "country": "NY",
-          "disabled": true,
-          "outlet": "",
-          "blobMode": "legacy",
-          "blobShapeIndex": 0,
-          "blobOffsetX": 0,
-          "blobOffsetY": 0
-        },
-        {
-          "freq": "98",
-          "name": "98 Rádió",
-          "pi": "B498",
-          "kw": 4,
-          "pol": "V",
-          "directional": true,
-          "directionAngle": 280,
-          "country": "NY",
-          "disabled": true,
-          "outlet": "",
-          "blobMode": "legacy",
-          "blobShapeIndex": 0,
-          "blobOffsetX": 0,
-          "blobOffsetY": 0
-        },
-        {
-          "freq": "104.7",
-          "name": "Mária Rádió",
-          "pi": "B3CC",
-          "kw": 1,
-          "pol": "V",
-          "directional": true,
-          "directionAngle": 280,
-          "country": "NY",
-          "disabled": true,
-          "outlet": "",
-          "blobMode": "legacy",
-          "blobShapeIndex": 0,
-          "blobOffsetX": 0,
-          "blobOffsetY": 0
-        },
-        {
-          "freq": "107.5",
-          "name": "Rock FM",
-          "pi": "B41E",
-          "kw": 4,
-          "pol": "V",
-          "directional": true,
-          "directionAngle": 280,
-          "country": "NY",
-          "disabled": true,
-          "outlet": "",
-          "blobMode": "legacy",
-          "blobShapeIndex": 0,
-          "blobOffsetX": 0,
-          "blobOffsetY": 0
-        },
-        {
-          "freq": "107.9",
-          "name": "Szia Rádió",
-          "pi": "B539",
-          "kw": 1,
-          "pol": "V",
-          "directional": true,
-          "directionAngle": 280,
-          "country": "NY",
-          "disabled": true,
-          "outlet": "",
-          "blobMode": "legacy",
+          "blobMode": "circle",
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
           "blobOffsetY": 0
@@ -5123,33 +4968,6 @@
           "pol": "H",
           "directional": false,
           "directionAngle": null,
-          "country": "NY",
-          "disabled": true,
-          "outlet": "",
-          "blobMode": "legacy",
-          "blobShapeIndex": 0,
-          "blobOffsetX": 0,
-          "blobOffsetY": 0
-        }
-      ]
-    },
-    {
-      "id": 1755523347465,
-      "name": "Kiskunrösvár",
-      "latlng": [
-        495.3782982046341,
-        77.3322107685658
-      ],
-      "point": null,
-      "stations": [
-        {
-          "freq": "107.7",
-          "name": "Rádió 1",
-          "pi": "B317",
-          "kw": 0.1,
-          "pol": "V",
-          "directional": true,
-          "directionAngle": 197,
           "country": "NY",
           "disabled": true,
           "outlet": "",
@@ -17436,6 +17254,92 @@
           "blobShapeIndex": 17,
           "blobOffsetX": 0,
           "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1783454861711",
+      "name": "Stalingrad",
+      "latlng": [
+        537.8203125,
+        47.5546875
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "66.74",
+          "name": "R.Stalingrad",
+          "pi": "",
+          "kw": 2,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "DPB",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1783455117864",
+      "name": "Slavgorod",
+      "latlng": [
+        503,
+        72.6171875
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "96.6",
+          "name": "R.Retro",
+          "pi": "F328",
+          "kw": 0.581,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 280,
+          "country": "ZE",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 12,
+          "blobOffsetX": 0,
+          "blobOffsetY": -10
+        },
+        {
+          "freq": "100.7",
+          "name": "ZR Slavgorod FM",
+          "pi": "noPI",
+          "kw": 1.373,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 280,
+          "country": "ZE",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 12,
+          "blobOffsetX": 0,
+          "blobOffsetY": -10
+        },
+        {
+          "freq": "103.2",
+          "name": "Avtoradio",
+          "pi": "F321",
+          "kw": 0.581,
+          "pol": "h",
+          "directional": true,
+          "directionAngle": 280,
+          "country": "ZE",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 12,
+          "blobOffsetX": 0,
+          "blobOffsetY": -10
         }
       ]
     }
