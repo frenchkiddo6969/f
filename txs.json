@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-07-08T12:58:13.743Z"
+    "exportedAt": "2026-07-08T22:49:51.626Z"
   },
   "txList": [
     {
@@ -4950,6 +4950,22 @@
           "blobOffsetY": 0
         },
         {
+          "freq": "97.4",
+          "name": "ZR R.Brest",
+          "pi": "noPI",
+          "kw": 2.518,
+          "pol": "h",
+          "directional": false,
+          "directionAngle": null,
+          "country": "ZE",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
           "freq": "102.9",
           "name": "ZR Kanal Kultura",
           "pi": "F202",
@@ -4971,22 +4987,6 @@
           "pi": "F203",
           "kw": 22.233,
           "pol": "H",
-          "directional": false,
-          "directionAngle": null,
-          "country": "ZE",
-          "disabled": false,
-          "outlet": "",
-          "blobMode": "circle",
-          "blobShapeIndex": 0,
-          "blobOffsetX": 0,
-          "blobOffsetY": 0
-        },
-        {
-          "freq": "104.8",
-          "name": "ZR R.Brest",
-          "pi": "noPI",
-          "kw": 2.518,
-          "pol": "h",
           "directional": false,
           "directionAngle": null,
           "country": "ZE",
