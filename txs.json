@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-07-08T01:33:45.241Z"
+    "exportedAt": "2026-07-08T01:47:17.024Z"
   },
   "txList": [
     {
@@ -5280,6 +5280,22 @@
           "freq": "98.9",
           "name": "ZR R.Stalitsa",
           "pi": "F215",
+          "kw": 1.321,
+          "pol": "m",
+          "directional": true,
+          "directionAngle": 99,
+          "country": "ZE",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 25,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "103.7",
+          "name": "ZR Radius FM",
+          "pi": "F203",
           "kw": 1.321,
           "pol": "m",
           "directional": true,
