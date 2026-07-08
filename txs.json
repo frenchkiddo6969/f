@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-07-08T00:28:05.098Z"
+    "exportedAt": "2026-07-08T00:45:32.899Z"
   },
   "txList": [
     {
@@ -3783,7 +3783,7 @@
           "blobOffsetY": 0
         },
         {
-          "freq": 93.5,
+          "freq": "93.3",
           "name": "OPB R.2",
           "pi": "5202",
           "kw": 20,
@@ -5240,6 +5240,22 @@
       "point": null,
       "stations": [
         {
+          "freq": "93.7",
+          "name": "OKRQ-FM",
+          "pi": "4187",
+          "kw": 5,
+          "pol": "C",
+          "directional": false,
+          "directionAngle": null,
+          "country": "OR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
           "freq": "97.5",
           "name": "unknown",
           "pi": " ",
@@ -5259,22 +5275,6 @@
           "freq": "99.9",
           "name": "OVRG-FM",
           "pi": "4934",
-          "kw": 5,
-          "pol": "C",
-          "directional": false,
-          "directionAngle": null,
-          "country": "OR",
-          "disabled": false,
-          "outlet": "",
-          "blobMode": "legacy",
-          "blobShapeIndex": 0,
-          "blobOffsetX": 0,
-          "blobOffsetY": 0
-        },
-        {
-          "freq": 101.1,
-          "name": "OSTR-FM",
-          "pi": "4187",
           "kw": 5,
           "pol": "C",
           "directional": false,
@@ -8013,33 +8013,6 @@
           "name": "OUBA-LP",
           "pi": "8992",
           "kw": 0.1,
-          "pol": "v",
-          "directional": false,
-          "directionAngle": null,
-          "country": "OR",
-          "disabled": false,
-          "outlet": "",
-          "blobMode": "legacy",
-          "blobShapeIndex": 0,
-          "blobOffsetX": 0,
-          "blobOffsetY": 0
-        }
-      ]
-    },
-    {
-      "id": 1764119706756,
-      "name": "Castlebar",
-      "latlng": [
-        652.8587991979886,
-        169.47649549162975
-      ],
-      "point": null,
-      "stations": [
-        {
-          "freq": "93.7",
-          "name": "OCBR-FM",
-          "pi": "5A1B",
-          "kw": 1,
           "pol": "v",
           "directional": false,
           "directionAngle": null,
