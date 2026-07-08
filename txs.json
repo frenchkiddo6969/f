@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-07-08T01:21:40.181Z"
+    "exportedAt": "2026-07-08T01:33:45.241Z"
   },
   "txList": [
     {
@@ -4843,7 +4843,7 @@
           "blobOffsetY": 0
         },
         {
-          "freq": "106.3",
+          "freq": "106.5",
           "name": "ZR Pershy Kanal",
           "pi": "F201",
           "kw": 13.784,
