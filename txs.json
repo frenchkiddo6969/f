@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-07-08T12:03:21.513Z"
+    "exportedAt": "2026-07-08T12:33:32.541Z"
   },
   "txList": [
     {
@@ -17473,6 +17473,22 @@
           "blobShapeIndex": 16,
           "blobOffsetX": 0,
           "blobOffsetY": 8
+        },
+        {
+          "freq": "88.8",
+          "name": "Loud 88.8",
+          "pi": "F4A1",
+          "kw": 0.2,
+          "pol": "h",
+          "directional": true,
+          "directionAngle": 280,
+          "country": "ZE",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 16,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
         }
       ]
     }
