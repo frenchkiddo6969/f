@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-07-08T00:45:32.899Z"
+    "exportedAt": "2026-07-08T00:47:22.775Z"
   },
   "txList": [
     {
@@ -5242,7 +5242,7 @@
         {
           "freq": "93.7",
           "name": "OKRQ-FM",
-          "pi": "4187",
+          "pi": "2C32",
           "kw": 5,
           "pol": "C",
           "directional": false,
