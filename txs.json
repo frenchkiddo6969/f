@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-07-08T12:33:32.541Z"
+    "exportedAt": "2026-07-08T12:37:00.774Z"
   },
   "txList": [
     {
@@ -17475,8 +17475,8 @@
           "blobOffsetY": 8
         },
         {
-          "freq": "88.8",
-          "name": "Loud 88.8",
+          "freq": "88.7",
+          "name": "Loud 88.7",
           "pi": "F4A1",
           "kw": 0.2,
           "pol": "h",
@@ -17488,7 +17488,7 @@
           "blobMode": "svg",
           "blobShapeIndex": 16,
           "blobOffsetX": 0,
-          "blobOffsetY": 0
+          "blobOffsetY": 8
         }
       ]
     }
