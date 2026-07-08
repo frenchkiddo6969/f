@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-07-08T01:47:17.024Z"
+    "exportedAt": "2026-07-08T12:03:21.513Z"
   },
   "txList": [
     {
@@ -17446,6 +17446,33 @@
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
           "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1783512068301",
+      "name": "Braslaw",
+      "latlng": [
+        535.8203125,
+        88.8046875
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "88.0",
+          "name": "Antenna Braslaw",
+          "pi": "F401",
+          "kw": 0.2,
+          "pol": "h",
+          "directional": true,
+          "directionAngle": 280,
+          "country": "ZE",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 16,
+          "blobOffsetX": 0,
+          "blobOffsetY": 8
         }
       ]
     }
