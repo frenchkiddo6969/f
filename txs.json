@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-07-08T00:26:47.236Z"
+    "exportedAt": "2026-07-08T00:28:05.098Z"
   },
   "txList": [
     {
@@ -4873,14 +4873,14 @@
           "freq": "69.68",
           "name": "ZR R.Brest",
           "pi": "",
-          "kw": 8.353,
+          "kw": 6.353,
           "pol": "v",
           "directional": false,
           "directionAngle": null,
           "country": "ZE",
           "disabled": false,
           "outlet": "",
-          "blobMode": "legacy",
+          "blobMode": "circle",
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
           "blobOffsetY": 0
@@ -4889,14 +4889,14 @@
           "freq": "70.43",
           "name": "ZR Kanal Kultura",
           "pi": "",
-          "kw": 22.233,
+          "kw": 8.954,
           "pol": "h",
           "directional": false,
           "directionAngle": null,
           "country": "ZE",
           "disabled": false,
           "outlet": "",
-          "blobMode": "legacy",
+          "blobMode": "circle",
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
           "blobOffsetY": 0
@@ -4905,7 +4905,7 @@
           "freq": "71.33",
           "name": "ZR Pershy Kanal",
           "pi": "",
-          "kw": 22.233,
+          "kw": 8.872,
           "pol": "h",
           "directional": false,
           "directionAngle": null,
@@ -4921,7 +4921,7 @@
           "freq": "72.11",
           "name": "ZR Radius FM",
           "pi": "",
-          "kw": 22.233,
+          "kw": 8.954,
           "pol": "h",
           "directional": false,
           "directionAngle": null,
@@ -4937,7 +4937,7 @@
           "freq": "72.89",
           "name": "ZR R.Stalitsa",
           "pi": "",
-          "kw": 22.233,
+          "kw": 8.872,
           "pol": "h",
           "directional": false,
           "directionAngle": null,
