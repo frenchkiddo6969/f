@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-07-08T22:49:51.626Z"
+    "exportedAt": "2026-07-10T02:59:52.899Z"
   },
   "txList": [
     {
@@ -15009,7 +15009,7 @@
           "country": "UU",
           "disabled": false,
           "outlet": "Cape Samu",
-          "blobMode": "legacy",
+          "blobMode": "circle",
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
           "blobOffsetY": 0
@@ -15025,7 +15025,7 @@
           "country": "UU",
           "disabled": false,
           "outlet": "Cape Samu",
-          "blobMode": "legacy",
+          "blobMode": "circle",
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
           "blobOffsetY": 0
@@ -15041,7 +15041,7 @@
           "country": "UU",
           "disabled": false,
           "outlet": "Cape Samu",
-          "blobMode": "legacy",
+          "blobMode": "circle",
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
           "blobOffsetY": 0
@@ -15057,7 +15057,7 @@
           "country": "UU",
           "disabled": false,
           "outlet": "Cape Samu",
-          "blobMode": "legacy",
+          "blobMode": "circle",
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
           "blobOffsetY": 0
@@ -15073,7 +15073,7 @@
           "country": "UU",
           "disabled": false,
           "outlet": "Cape Samu",
-          "blobMode": "legacy",
+          "blobMode": "circle",
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
           "blobOffsetY": 0
@@ -15089,7 +15089,7 @@
           "country": "UU",
           "disabled": false,
           "outlet": "",
-          "blobMode": "legacy",
+          "blobMode": "circle",
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
           "blobOffsetY": 0
@@ -15116,7 +15116,7 @@
           "country": "UU",
           "disabled": false,
           "outlet": "Kitatsuno",
-          "blobMode": "legacy",
+          "blobMode": "circle",
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
           "blobOffsetY": 0
@@ -15132,7 +15132,7 @@
           "country": "UU",
           "disabled": false,
           "outlet": "Kitatsuno",
-          "blobMode": "legacy",
+          "blobMode": "circle",
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
           "blobOffsetY": 0
@@ -15148,7 +15148,7 @@
           "country": "UU",
           "disabled": false,
           "outlet": "Kitatsuno",
-          "blobMode": "legacy",
+          "blobMode": "circle",
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
           "blobOffsetY": 0
@@ -15164,7 +15164,7 @@
           "country": "UU",
           "disabled": false,
           "outlet": "Kitatsuno",
-          "blobMode": "legacy",
+          "blobMode": "circle",
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
           "blobOffsetY": 0
