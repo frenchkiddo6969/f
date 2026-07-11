@@ -317,7 +317,7 @@
       1023.09375,
       -361.796875
     ],
-    "category": "other"
+    "category": "bank"
   },
   {
     "name": "SvePost",
@@ -325,7 +325,7 @@
       1023.046875,
       -364.171875
     ],
-    "category": "other"
+    "category": "postoffice"
   },
   {
     "name": "Radio FG Sveland",
@@ -1533,7 +1533,7 @@
       1021.3802608979621,
       -591.333237935103
     ],
-    "category": "other"
+    "category": "postoffice"
   },
   {
     "name": "Svebank Pelt",
@@ -1541,7 +1541,7 @@
       1016.7488780936476,
       -592.6217486500553
     ],
-    "category": "other"
+    "category": "bank"
   },
   {
     "name": "Politie",
@@ -1621,7 +1621,7 @@
       919.171875,
       -372.3828125
     ],
-    "category": "other"
+    "category": "postoffice"
   },
   {
     "name": "Apotheek Emmelburg",
@@ -1734,5 +1734,21 @@
       -1011
     ],
     "category": "other"
+  },
+  {
+    "name": "ЗелПочта",
+    "latlng": [
+      549.0390625,
+      90.984375
+    ],
+    "category": "postoffice"
+  },
+  {
+    "name": "SveBank",
+    "latlng": [
+      916.390625,
+      -371.84375
+    ],
+    "category": "bank"
   }
 ]
