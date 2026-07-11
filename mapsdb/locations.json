@@ -1654,5 +1654,85 @@
       92.8671875
     ],
     "category": "shopping"
+  },
+  {
+    "name": "Пятёрочка Скопин",
+    "latlng": [
+      518.25,
+      -1006.9609375
+    ],
+    "category": "shopping"
+  },
+  {
+    "name": "TOZTELEKOM",
+    "latlng": [
+      518.2890625,
+      -1005.4296875
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Скопинская больница",
+    "latlng": [
+      515.5078125,
+      -1003.5234375
+    ],
+    "category": "hospital"
+  },
+  {
+    "name": "Администрация города Скопина",
+    "latlng": [
+      516.0607578425023,
+      -1011.2304953685451
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Правительство Тознии",
+    "latlng": [
+      515.9819238035723,
+      -1005.5675835720709
+    ],
+    "category": "landmark"
+  },
+  {
+    "name": "Национальное собрание",
+    "latlng": [
+      522.0258667882083,
+      -1005.4887495331409
+    ],
+    "category": "landmark"
+  },
+  {
+    "name": "Unioil",
+    "latlng": [
+      521.078125,
+      -1003.0625
+    ],
+    "category": "gasstation"
+  },
+  {
+    "name": "Proswim Скопин",
+    "latlng": [
+      518.2890625,
+      -1010.640625
+    ],
+    "category": "swimsuitstore"
+  },
+  {
+    "name": "TPost",
+    "latlng": [
+      518.609375,
+      -1009.2578125
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Komp Master",
+    "latlng": [
+      514.140625,
+      -1011
+    ],
+    "category": "other"
   }
 ]
