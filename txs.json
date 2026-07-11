@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-07-10T02:59:52.899Z"
+    "exportedAt": "2026-07-11T14:52:42.018Z"
   },
   "txList": [
     {
@@ -2931,14 +2931,14 @@
         },
         {
           "freq": "90.9",
-          "name": "R.Trance",
-          "pi": "82C2",
+          "name": "R.Impuls",
+          "pi": "8220",
           "kw": 0.5,
           "pol": "V",
           "directional": true,
           "directionAngle": 270,
           "country": "SP",
-          "disabled": true,
+          "disabled": false,
           "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
@@ -2995,14 +2995,14 @@
         },
         {
           "freq": "106.4",
-          "name": "Fun Radio",
-          "pi": "8217",
+          "name": "R.Rock",
+          "pi": "82C6",
           "kw": 0.1,
           "pol": "V",
           "directional": true,
           "directionAngle": 270,
           "country": "SP",
-          "disabled": true,
+          "disabled": false,
           "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
@@ -6775,14 +6775,14 @@
       "stations": [
         {
           "freq": "91.5",
-          "name": "Flaix FM Sveland",
-          "pi": "82C6",
+          "name": "R.Impuls",
+          "pi": "8220",
           "kw": 0.1,
           "pol": "v",
           "directional": false,
           "directionAngle": null,
           "country": "SP",
-          "disabled": true,
+          "disabled": false,
           "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
@@ -6864,22 +6864,6 @@
       ],
       "point": null,
       "stations": [
-        {
-          "freq": "89.2",
-          "name": "R.Impuls",
-          "pi": "8220",
-          "kw": 0.5,
-          "pol": "v",
-          "directional": true,
-          "directionAngle": 20,
-          "country": "SP",
-          "disabled": false,
-          "outlet": "",
-          "blobMode": "svg",
-          "blobShapeIndex": 0,
-          "blobOffsetX": 0,
-          "blobOffsetY": 0
-        },
         {
           "freq": "103.0",
           "name": "SPIN Sveland",
@@ -7145,49 +7129,6 @@
           "pol": "v",
           "directional": true,
           "directionAngle": 182,
-          "country": "SP",
-          "disabled": false,
-          "outlet": "",
-          "blobMode": "legacy",
-          "blobShapeIndex": 0,
-          "blobOffsetX": 0,
-          "blobOffsetY": 0
-        }
-      ]
-    },
-    {
-      "id": 1762990710702,
-      "name": "Herlecht",
-      "latlng": [
-        1020.9998990231189,
-        -463.51196262627985
-      ],
-      "point": null,
-      "stations": [
-        {
-          "freq": "91.4",
-          "name": "R.Impuls",
-          "pi": "8220",
-          "kw": 0.2,
-          "pol": "v",
-          "directional": false,
-          "directionAngle": null,
-          "country": "SP",
-          "disabled": false,
-          "outlet": "",
-          "blobMode": "legacy",
-          "blobShapeIndex": 0,
-          "blobOffsetX": 0,
-          "blobOffsetY": 0
-        },
-        {
-          "freq": "92.5",
-          "name": "R.Rock",
-          "pi": "82C6",
-          "kw": 0.2,
-          "pol": "v",
-          "directional": false,
-          "directionAngle": null,
           "country": "SP",
           "disabled": false,
           "outlet": "",
