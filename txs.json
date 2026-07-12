@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-07-12T02:30:00.648Z"
+    "exportedAt": "2026-07-12T02:35:43.055Z"
   },
   "txList": [
     {
@@ -14942,7 +14942,7 @@
         {
           "freq": "76.1",
           "name": "UBC National",
-          "pi": "D20A",
+          "pi": "D201",
           "kw": 10,
           "pol": "h",
           "directional": false,
@@ -17445,7 +17445,7 @@
         {
           "freq": "77.5",
           "name": "UBC National",
-          "pi": "D20A",
+          "pi": "D201",
           "kw": 0.1,
           "pol": "v",
           "directional": true,
