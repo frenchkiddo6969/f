@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-07-12T01:04:53.961Z"
+    "exportedAt": "2026-07-12T02:30:00.648Z"
   },
   "txList": [
     {
@@ -15021,7 +15021,7 @@
         },
         {
           "freq": "89.9",
-          "name": "iRadio Ukuhero",
+          "name": "R.Energy Ukuhero",
           "pi": "D220",
           "kw": 1,
           "pol": "v",
@@ -17430,6 +17430,124 @@
           "blobShapeIndex": 16,
           "blobOffsetX": 0,
           "blobOffsetY": 8
+        }
+      ]
+    },
+    {
+      "id": "tx_1783822898101",
+      "name": "Piyaski-Ukuhero",
+      "latlng": [
+        635.8671875,
+        -51.734375
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "77.5",
+          "name": "UBC National",
+          "pi": "D20A",
+          "kw": 0.1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 220,
+          "country": "UU",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 18,
+          "blobOffsetX": -4,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "80.5",
+          "name": "R.Energy Ukuhero",
+          "pi": "D220",
+          "kw": 0.1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 220,
+          "country": "UU",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 18,
+          "blobOffsetX": -4,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1783823255330",
+      "name": "Zhlobin",
+      "latlng": [
+        603.8424601910971,
+        3.5606707583399477
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "90.4",
+          "name": "ZR R.Stalitsa",
+          "pi": "F215",
+          "kw": 0.5,
+          "pol": "h",
+          "directional": false,
+          "directionAngle": null,
+          "country": "ZE",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "100.5",
+          "name": "ZR Radius FM",
+          "pi": "F203",
+          "kw": 9.268,
+          "pol": "h",
+          "directional": false,
+          "directionAngle": null,
+          "country": "ZE",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "101",
+          "name": "ZR Kanal Kultura",
+          "pi": "F202",
+          "kw": 2.133,
+          "pol": "h",
+          "directional": false,
+          "directionAngle": null,
+          "country": "ZE",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "105.5",
+          "name": "ZR Pershy Kanal",
+          "pi": "F201",
+          "kw": 18.535,
+          "pol": "h",
+          "directional": false,
+          "directionAngle": null,
+          "country": "ZE",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
         }
       ]
     }
