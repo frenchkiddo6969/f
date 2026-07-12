@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-07-11T14:52:42.018Z"
+    "exportedAt": "2026-07-12T01:04:53.961Z"
   },
   "txList": [
     {
@@ -975,13 +975,13 @@
           "country": "SP",
           "disabled": false,
           "outlet": "",
-          "blobMode": "legacy",
+          "blobMode": "circle",
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         },
         {
-          "freq": 90.6,
+          "freq": "90.6",
           "name": "SPO P2",
           "pi": "8202",
           "kw": 20,
@@ -991,13 +991,13 @@
           "country": "SP",
           "disabled": false,
           "outlet": "",
-          "blobMode": "legacy",
+          "blobMode": "circle",
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         },
         {
-          "freq": 98.7,
+          "freq": "98.7",
           "name": "SPO P3",
           "pi": "8203",
           "kw": 20,
@@ -1007,13 +1007,13 @@
           "country": "SP",
           "disabled": false,
           "outlet": "",
-          "blobMode": "legacy",
+          "blobMode": "circle",
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         },
         {
-          "freq": 102.1,
+          "freq": "102.1",
           "name": "R.538",
           "pi": "82C7",
           "kw": 20,
@@ -1023,13 +1023,13 @@
           "country": "SP",
           "disabled": false,
           "outlet": "",
-          "blobMode": "legacy",
+          "blobMode": "circle",
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         },
         {
-          "freq": 105.6,
+          "freq": "105.6",
           "name": "SPO Nieuws",
           "pi": "8204",
           "kw": 17,
@@ -1039,7 +1039,7 @@
           "country": "SP",
           "disabled": false,
           "outlet": "",
-          "blobMode": "legacy",
+          "blobMode": "circle",
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
           "blobOffsetY": 0
