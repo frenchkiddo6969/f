@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-07-13T13:51:02.507Z"
+    "exportedAt": "2026-07-13T17:45:29.462Z"
   },
   "txList": [
     {
@@ -3128,7 +3128,7 @@
           "blobOffsetY": 0
         },
         {
-          "freq": "105.2",
+          "freq": "100.5",
           "name": "Jazz Radio",
           "pi": "82FC",
           "kw": 1,
@@ -9272,22 +9272,6 @@
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
           "blobOffsetY": 0
-        },
-        {
-          "freq": "100.5",
-          "name": "Top Music",
-          "pi": "87C7",
-          "kw": 0.5,
-          "pol": "v",
-          "directional": false,
-          "directionAngle": null,
-          "country": "SP",
-          "disabled": false,
-          "outlet": "",
-          "blobMode": "legacy",
-          "blobShapeIndex": 0,
-          "blobOffsetX": 0,
-          "blobOffsetY": 0
         }
       ]
     },
@@ -9309,7 +9293,7 @@
           "directional": true,
           "directionAngle": 176,
           "country": "SP",
-          "disabled": false,
+          "disabled": true,
           "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
@@ -11033,7 +11017,7 @@
           "directional": false,
           "directionAngle": null,
           "country": "SP",
-          "disabled": false,
+          "disabled": true,
           "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
@@ -11051,22 +11035,6 @@
       ],
       "point": null,
       "stations": [
-        {
-          "freq": "101.3",
-          "name": "Top Music",
-          "pi": "87C7",
-          "kw": 0.2,
-          "pol": "v",
-          "directional": true,
-          "directionAngle": 265,
-          "country": "SP",
-          "disabled": false,
-          "outlet": "",
-          "blobMode": "legacy",
-          "blobShapeIndex": 0,
-          "blobOffsetX": 0,
-          "blobOffsetY": 0
-        },
         {
           "freq": "107.1",
           "name": "Dorpen FM",
