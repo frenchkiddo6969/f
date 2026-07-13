@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-07-13T17:45:29.462Z"
+    "exportedAt": "2026-07-13T19:18:43.883Z"
   },
   "txList": [
     {
@@ -6983,13 +6983,13 @@
           "blobOffsetY": 0
         },
         {
-          "freq": "101.3",
-          "name": "Vibration",
-          "pi": "8560",
+          "freq": "97.5",
+          "name": "Nostalgie",
+          "pi": "8213",
           "kw": 0.2,
           "pol": "v",
-          "directional": true,
-          "directionAngle": 271,
+          "directional": false,
+          "directionAngle": null,
           "country": "SP",
           "disabled": false,
           "outlet": "",
@@ -6999,15 +6999,15 @@
           "blobOffsetY": 0
         },
         {
-          "freq": "104",
-          "name": "iRadio",
-          "pi": "83E2",
-          "kw": 0.1,
+          "freq": "101.3",
+          "name": "Vibration",
+          "pi": "8560",
+          "kw": 0.2,
           "pol": "v",
-          "directional": false,
-          "directionAngle": null,
+          "directional": true,
+          "directionAngle": 271,
           "country": "SP",
-          "disabled": true,
+          "disabled": false,
           "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
