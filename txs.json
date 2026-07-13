@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-07-13T19:18:43.883Z"
+    "exportedAt": "2026-07-13T19:23:13.832Z"
   },
   "txList": [
     {
@@ -6983,7 +6983,7 @@
           "blobOffsetY": 0
         },
         {
-          "freq": "97.5",
+          "freq": "98.1",
           "name": "Nostalgie",
           "pi": "8213",
           "kw": 0.2,
