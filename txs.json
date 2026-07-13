@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-07-12T02:35:43.055Z"
+    "exportedAt": "2026-07-13T13:51:02.507Z"
   },
   "txList": [
     {
@@ -324,14 +324,14 @@
         },
         {
           "freq": "92.7",
-          "name": "",
-          "pi": "",
-          "kw": 0,
+          "name": "RFI",
+          "pi": "888F",
+          "kw": 3,
           "pol": "v",
           "directional": true,
           "directionAngle": 180,
           "country": "SP",
-          "disabled": true,
+          "disabled": false,
           "outlet": "",
           "blobMode": "svg",
           "blobShapeIndex": 2,
