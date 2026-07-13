@@ -1750,5 +1750,21 @@
       -371.84375
     ],
     "category": "bank"
+  },
+  {
+    "name": "FRESH MARKET BOLSRADE",
+    "latlng": [
+      901.1913160287036,
+      -497.06175446036366
+    ],
+    "category": "shopping"
+  },
+  {
+    "name": "SvePost",
+    "latlng": [
+      902.4789386645608,
+      -494.4208141562075
+    ],
+    "category": "postoffice"
   }
 ]
