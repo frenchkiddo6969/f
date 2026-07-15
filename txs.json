@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-07-15T13:44:28.914Z"
+    "exportedAt": "2026-07-15T13:47:09.382Z"
   },
   "txList": [
     {
@@ -2518,7 +2518,7 @@
       "point": null,
       "stations": [
         {
-          "freq": "66.26",
+          "freq": "66.32",
           "name": "Jey",
           "pi": "",
           "kw": 0.2,
