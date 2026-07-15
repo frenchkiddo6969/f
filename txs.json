@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-07-15T02:29:22.129Z"
+    "exportedAt": "2026-07-15T13:44:28.914Z"
   },
   "txList": [
     {
@@ -2519,16 +2519,16 @@
       "stations": [
         {
           "freq": "66.26",
-          "name": "K-Hits",
+          "name": "Jey",
           "pi": "",
-          "kw": 0.175,
+          "kw": 0.2,
           "pol": "v",
           "directional": false,
           "directionAngle": null,
           "country": "SP",
           "disabled": false,
-          "outlet": "106.9 KHTT Tulsa",
-          "blobMode": "legacy",
+          "outlet": "",
+          "blobMode": "circle",
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
           "blobOffsetY": 0
@@ -2544,7 +2544,7 @@
           "country": "SP",
           "disabled": false,
           "outlet": "",
-          "blobMode": "legacy",
+          "blobMode": "circle",
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
           "blobOffsetY": 0
@@ -2560,7 +2560,7 @@
           "country": "SP",
           "disabled": false,
           "outlet": "Doetinlingen",
-          "blobMode": "legacy",
+          "blobMode": "circle",
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
           "blobOffsetY": 0
