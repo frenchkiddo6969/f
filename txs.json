@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-07-13T19:23:13.832Z"
+    "exportedAt": "2026-07-15T02:29:22.129Z"
   },
   "txList": [
     {
@@ -7916,7 +7916,23 @@
           "country": "OR",
           "disabled": false,
           "outlet": "Rádió 1",
-          "blobMode": "legacy",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "97.1",
+          "name": "O122JY-FM",
+          "pi": "2844",
+          "kw": 0.1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "OR",
+          "disabled": false,
+          "outlet": "Jey",
+          "blobMode": "circle",
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
           "blobOffsetY": 0
@@ -7932,7 +7948,7 @@
           "country": "OR",
           "disabled": false,
           "outlet": "R.538",
-          "blobMode": "legacy",
+          "blobMode": "circle",
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
           "blobOffsetY": 0
