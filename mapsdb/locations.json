@@ -1766,5 +1766,69 @@
       -494.4208141562075
     ],
     "category": "postoffice"
+  },
+  {
+    "name": "Brandon's OMIGRAD",
+    "latlng": [
+      819.515625,
+      -594.4375
+    ],
+    "category": "restaurant"
+  },
+  {
+    "name": "SveBank",
+    "latlng": [
+      819.5546875,
+      -593.2734375
+    ],
+    "category": "bank"
+  },
+  {
+    "name": "SvePost",
+    "latlng": [
+      822.1171875,
+      -596.2109375
+    ],
+    "category": "postoffice"
+  },
+  {
+    "name": "Provincial Assembly of Omigrad",
+    "latlng": [
+      819.6484375,
+      -601.9921875
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Gemeentehuis van Omigrad",
+    "latlng": [
+      823.625,
+      -590.6953125
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Brandon's WAGESELT",
+    "latlng": [
+      880.5625,
+      -273.5625
+    ],
+    "category": "restaurant"
+  },
+  {
+    "name": "SvePost",
+    "latlng": [
+      884.3203125,
+      -270.1796875
+    ],
+    "category": "postoffice"
+  },
+  {
+    "name": "SveBank",
+    "latlng": [
+      875.8359375,
+      -270.6328125
+    ],
+    "category": "bank"
   }
 ]
