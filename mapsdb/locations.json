@@ -728,7 +728,7 @@
     "category": "shopping"
   },
   {
-    "name": "SPT Store Vilren",
+    "name": "vodafone Vilren",
     "latlng": [
       943.457222798151,
       -453.1449613060165
@@ -1830,5 +1830,45 @@
       -270.6328125
     ],
     "category": "bank"
+  },
+  {
+    "name": "SveBank",
+    "latlng": [
+      952.0419410634939,
+      -457.1334854936469
+    ],
+    "category": "bank"
+  },
+  {
+    "name": "SvePost",
+    "latlng": [
+      950.0863488717748,
+      -457.04509714599857
+    ],
+    "category": "postoffice"
+  },
+  {
+    "name": "SPT Store Vilren",
+    "latlng": [
+      949.140625,
+      -456.734375
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Brandon's VILREN",
+    "latlng": [
+      940.28125,
+      -452.5078125
+    ],
+    "category": "restaurant"
+  },
+  {
+    "name": "Gemeentehuis Vilren",
+    "latlng": [
+      953.25,
+      -452.265625
+    ],
+    "category": "other"
   }
 ]
