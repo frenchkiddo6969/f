@@ -1870,5 +1870,21 @@
       -452.265625
     ],
     "category": "other"
+  },
+  {
+    "name": "Vilren Public Hospital",
+    "latlng": [
+      958.4609375,
+      -459.609375
+    ],
+    "category": "hospital"
+  },
+  {
+    "name": "Apotheek Jean Jaurès",
+    "latlng": [
+      942.4140625,
+      -452.921875
+    ],
+    "category": "pharmacy"
   }
 ]
