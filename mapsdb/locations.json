@@ -64,12 +64,12 @@
     "category": "landmark"
   },
   {
-    "name": "Level Church Doetinlingen",
+    "name": "Sint-Martinuskerk",
     "latlng": [
       1026.84375,
       -370.5625
     ],
-    "category": "worship"
+    "category": "church"
   },
   {
     "name": "Doetinlingen Mosque",
@@ -1886,5 +1886,13 @@
       -452.921875
     ],
     "category": "pharmacy"
+  },
+  {
+    "name": "St.-Jozefkerk",
+    "latlng": [
+      915.9609375,
+      -376.671875
+    ],
+    "category": "church"
   }
 ]
