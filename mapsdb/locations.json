@@ -1886,5 +1886,13 @@
       -376.671875
     ],
     "category": "church"
+  },
+  {
+    "name": "Openbaar zwembad Doetinlingen",
+    "latlng": [
+      1028.109375,
+      -382.1796875
+    ],
+    "category": "other"
   }
 ]
