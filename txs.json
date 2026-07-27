@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-07-15T13:47:09.382Z"
+    "exportedAt": "2026-07-27T21:24:36.501Z"
   },
   "txList": [
     {
@@ -3150,11 +3150,11 @@
           "kw": 0.2,
           "pol": "v",
           "directional": true,
-          "directionAngle": 231,
+          "directionAngle": 235,
           "country": "SP",
           "disabled": false,
           "outlet": "",
-          "blobMode": "legacy",
+          "blobMode": "svg",
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
           "blobOffsetY": 0
@@ -8175,6 +8175,22 @@
           "blobOffsetY": 0
         },
         {
+          "freq": "97.6",
+          "name": "RTO R.1 [F]",
+          "pi": "A101",
+          "kw": 1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "AB",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
           "freq": 105.8,
           "name": "kronehit",
           "pi": "A208",
@@ -12029,7 +12045,7 @@
           "country": "BK",
           "disabled": false,
           "outlet": "",
-          "blobMode": "legacy",
+          "blobMode": "circle",
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
           "blobOffsetY": 0
@@ -16637,7 +16653,7 @@
           "country": "SP",
           "disabled": false,
           "outlet": "",
-          "blobMode": "legacy",
+          "blobMode": "circle",
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
           "blobOffsetY": 0
@@ -16653,7 +16669,7 @@
           "country": "SP",
           "disabled": false,
           "outlet": "",
-          "blobMode": "legacy",
+          "blobMode": "circle",
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
           "blobOffsetY": 0
