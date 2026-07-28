@@ -1,4 +1,4 @@
-[
+ax[
   {
     "name": "SPT",
     "latlng": [
@@ -1902,5 +1902,61 @@
       -496.0546875
     ],
     "category": "bank"
+  },
+  {
+    "name": "Treinstation Doetinlingen",
+    "latlng": [
+      1008.9296875,
+      -346.375
+    ],
+    "category": "transport"
+  },
+  {
+    "name": "Treinstation Emmelburg",
+    "latlng": [
+      923.21875,
+      -372.9921875
+    ],
+    "category": "transport"
+  },
+  {
+    "name": "Treinstation Vilren",
+    "latlng": [
+      960.8586787414137,
+      -454.81329136787855
+    ],
+    "category": "transport"
+  },
+  {
+    "name": "Treinstation Zaltkerk",
+    "latlng": [
+      944.953125,
+      -559.265625
+    ],
+    "category": "transport"
+  },
+  {
+    "name": "Treinstation Groendert",
+    "latlng": [
+      917.140625,
+      -661.953125
+    ],
+    "category": "transport"
+  },
+  {
+    "name": "Treinstation Kapellestad",
+    "latlng": [
+      860.1070109657867,
+      -619.823287883833
+    ],
+    "category": "transport"
+  },
+  {
+    "name": "Treinstation Omigrad",
+    "latlng": [
+      828.2578125,
+      -604.6875
+    ],
+    "category": "transport"
   }
 ]
