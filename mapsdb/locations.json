@@ -1894,5 +1894,13 @@
       -382.1796875
     ],
     "category": "other"
+  },
+  {
+    "name": "SveBank",
+    "latlng": [
+      901.3359375,
+      -496.0546875
+    ],
+    "category": "bank"
   }
 ]
