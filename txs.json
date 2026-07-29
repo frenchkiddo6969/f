@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-07-29T01:45:01.754Z"
+    "exportedAt": "2026-07-29T14:03:05.521Z"
   },
   "txList": [
     {
@@ -2987,6 +2987,22 @@
           "directionAngle": 270,
           "country": "SP",
           "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "103.4",
+          "name": "Evasion",
+          "pi": "83E2",
+          "kw": 0.1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 270,
+          "country": "SP",
+          "disabled": true,
           "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
@@ -10160,9 +10176,25 @@
       "point": null,
       "stations": [
         {
-          "freq": "99.3",
+          "freq": "90.6",
           "name": "Jey",
           "pi": "8220",
+          "kw": 0.2,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 110,
+          "country": "SP",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 17,
+          "blobOffsetX": 5,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "94.4",
+          "name": "Evasion",
+          "pi": "83E2",
           "kw": 0.2,
           "pol": "v",
           "directional": true,
