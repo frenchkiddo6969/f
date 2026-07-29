@@ -1,4 +1,4 @@
-ax[
+[
   {
     "name": "SPT",
     "latlng": [
@@ -1958,5 +1958,21 @@ ax[
       -604.6875
     ],
     "category": "transport"
+  },
+  {
+    "name": "Novoe Radio Sveland",
+    "latlng": [
+      817.03125,
+      -599.71875
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Zaltkerk Power Generating Station",
+    "latlng": [
+      938.463281156021,
+      -558.8353280064933
+    ],
+    "category": "other"
   }
 ]
