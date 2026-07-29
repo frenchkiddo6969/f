@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-07-29T17:03:26.783Z"
+    "exportedAt": "2026-07-29T20:23:55.457Z"
   },
   "txList": [
     {
@@ -1662,23 +1662,7 @@
       "stations": [
         {
           "freq": "92.4",
-          "name": "Flaix FM Sveland",
-          "pi": "82C8",
-          "kw": 10,
-          "pol": "V",
-          "directional": true,
-          "directionAngle": 180,
-          "country": "SP",
-          "disabled": true,
-          "outlet": "Omigrad",
-          "blobMode": "legacy",
-          "blobShapeIndex": 0,
-          "blobOffsetX": 0,
-          "blobOffsetY": 0
-        },
-        {
-          "freq": "97.9",
-          "name": "ONR Omigrad Novosti Radio",
+          "name": "R.Omigrad",
           "pi": "84C1",
           "kw": 6.3,
           "pol": "C",
@@ -1686,6 +1670,22 @@
           "directionAngle": 180,
           "country": "SP",
           "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "97.9",
+          "name": "",
+          "pi": "",
+          "kw": 10,
+          "pol": "V",
+          "directional": true,
+          "directionAngle": 180,
+          "country": "SP",
+          "disabled": true,
           "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
@@ -6721,7 +6721,7 @@
         },
         {
           "freq": "104.1",
-          "name": "ONR Omigrad Novosti Radio",
+          "name": "R.Omigrad",
           "pi": "84C1",
           "kw": 0.1,
           "pol": "v",
@@ -10859,7 +10859,7 @@
       "stations": [
         {
           "freq": "98.1",
-          "name": "ONR Omigrad Novosti Radio",
+          "name": "R.Omigrad",
           "pi": "84C1",
           "kw": 0.2,
           "pol": "v",
@@ -11386,7 +11386,7 @@
         },
         {
           "freq": "92.7",
-          "name": "ONR Omigrad Novosti Radio",
+          "name": "R.Omigrad",
           "pi": "84C1",
           "kw": 0.1,
           "pol": "v",
