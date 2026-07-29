@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-07-29T01:42:12.942Z"
+    "exportedAt": "2026-07-29T01:45:01.754Z"
   },
   "txList": [
     {
@@ -5832,22 +5832,6 @@
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
           "blobOffsetY": 0
-        },
-        {
-          "freq": "103.1",
-          "name": "Evasion",
-          "pi": "83E2",
-          "kw": 0.5,
-          "pol": "v",
-          "directional": true,
-          "directionAngle": 270,
-          "country": "SP",
-          "disabled": true,
-          "outlet": "",
-          "blobMode": "legacy",
-          "blobShapeIndex": 0,
-          "blobOffsetX": 0,
-          "blobOffsetY": 0
         }
       ]
     },
@@ -11238,6 +11222,22 @@
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
           "blobOffsetY": 0
+        },
+        {
+          "freq": "103.1",
+          "name": "Evasion",
+          "pi": "83E2",
+          "kw": 0.2,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "SP",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
         }
       ]
     },
@@ -14765,7 +14765,7 @@
           "directional": true,
           "directionAngle": 340,
           "country": "SP",
-          "disabled": true,
+          "disabled": false,
           "outlet": "",
           "blobMode": "svg",
           "blobShapeIndex": 11,
