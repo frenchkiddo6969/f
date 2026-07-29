@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-07-29T14:03:05.521Z"
+    "exportedAt": "2026-07-29T17:03:26.783Z"
   },
   "txList": [
     {
@@ -607,16 +607,16 @@
         },
         {
           "freq": "106.2",
-          "name": "iRadio",
+          "name": "Evasion",
           "pi": "83E2",
-          "kw": 0.5,
+          "kw": 0.1,
           "pol": "V",
           "directional": false,
           "directionAngle": null,
           "country": "SP",
-          "disabled": true,
+          "disabled": false,
           "outlet": "",
-          "blobMode": "legacy",
+          "blobMode": "circle",
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
           "blobOffsetY": 0
@@ -3002,7 +3002,7 @@
           "directional": true,
           "directionAngle": 270,
           "country": "SP",
-          "disabled": true,
+          "disabled": false,
           "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
@@ -9677,6 +9677,22 @@
           "disabled": false,
           "outlet": "",
           "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "106.2",
+          "name": "Evasion",
+          "pi": "83E2",
+          "kw": 0.174,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "SP",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
           "blobOffsetY": 0
