@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-07-27T21:24:36.501Z"
+    "exportedAt": "2026-07-29T01:42:12.942Z"
   },
   "txList": [
     {
@@ -5835,7 +5835,7 @@
         },
         {
           "freq": "103.1",
-          "name": "iRadio",
+          "name": "Evasion",
           "pi": "83E2",
           "kw": 0.5,
           "pol": "v",
@@ -14750,6 +14750,22 @@
           "directionAngle": 340,
           "country": "SP",
           "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 11,
+          "blobOffsetX": -7,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "99.3",
+          "name": "Evasion",
+          "pi": "83E2",
+          "kw": 2.786,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 340,
+          "country": "SP",
+          "disabled": true,
           "outlet": "",
           "blobMode": "svg",
           "blobShapeIndex": 11,
