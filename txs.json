@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-07-31T01:00:10.730Z"
+    "exportedAt": "2026-07-31T15:11:57.517Z"
   },
   "txList": [
     {
@@ -15082,22 +15082,6 @@
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
           "blobOffsetY": 0
-        },
-        {
-          "freq": "89.9",
-          "name": "Evasion Ukuhero",
-          "pi": "D220",
-          "kw": 2,
-          "pol": "v",
-          "directional": true,
-          "directionAngle": 40,
-          "country": "UU",
-          "disabled": false,
-          "outlet": "",
-          "blobMode": "svg",
-          "blobShapeIndex": 11,
-          "blobOffsetX": 0,
-          "blobOffsetY": 0
         }
       ]
     },
@@ -17653,6 +17637,22 @@
           "outlet": "",
           "blobMode": "circle",
           "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "89.9",
+          "name": "Evasion Ukuhero",
+          "pi": "D220",
+          "kw": 2,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 80,
+          "country": "UU",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 14,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         },
