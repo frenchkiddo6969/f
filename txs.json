@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-07-31T00:50:30.314Z"
+    "exportedAt": "2026-07-31T01:00:10.730Z"
   },
   "txList": [
     {
@@ -15085,17 +15085,17 @@
         },
         {
           "freq": "89.9",
-          "name": "R.Energy Ukuhero",
+          "name": "Evasion Ukuhero",
           "pi": "D220",
-          "kw": 1,
+          "kw": 2,
           "pol": "v",
-          "directional": false,
-          "directionAngle": null,
+          "directional": true,
+          "directionAngle": 40,
           "country": "UU",
           "disabled": false,
           "outlet": "",
-          "blobMode": "circle",
-          "blobShapeIndex": 0,
+          "blobMode": "svg",
+          "blobShapeIndex": 11,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         }
@@ -17524,7 +17524,7 @@
         },
         {
           "freq": "80.5",
-          "name": "R.Energy Ukuhero",
+          "name": "Evasion Ukuhero",
           "pi": "D220",
           "kw": 0.1,
           "pol": "v",
