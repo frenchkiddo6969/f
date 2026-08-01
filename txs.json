@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-07-31T15:11:57.517Z"
+    "exportedAt": "2026-08-01T11:54:34.981Z"
   },
   "txList": [
     {
@@ -5604,7 +5604,7 @@
       "point": null,
       "stations": [
         {
-          "freq": "88.7",
+          "freq": "88.8",
           "name": "R.FG",
           "pi": "822C",
           "kw": 1,
@@ -5621,14 +5621,14 @@
         },
         {
           "freq": "89.2",
-          "name": "Jey",
-          "pi": "8220",
-          "kw": 1,
-          "pol": "V",
-          "directional": true,
-          "directionAngle": 93,
-          "country": "SP",
-          "disabled": false,
+          "name": "",
+          "pi": "",
+          "kw": 0,
+          "pol": "",
+          "directional": false,
+          "directionAngle": null,
+          "country": "",
+          "disabled": true,
           "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
@@ -5669,14 +5669,14 @@
         },
         {
           "freq": "106.7",
-          "name": "iRadio",
-          "pi": "83E2",
+          "name": "Jey",
+          "pi": "8220",
           "kw": 1,
           "pol": "v",
           "directional": true,
           "directionAngle": 90,
           "country": "SP",
-          "disabled": true,
+          "disabled": false,
           "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
