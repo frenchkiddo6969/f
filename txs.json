@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-08-01T11:54:34.981Z"
+    "exportedAt": "2026-08-02T16:02:11.114Z"
   },
   "txList": [
     {
@@ -6163,7 +6163,7 @@
           "pol": "m",
           "directional": false,
           "directionAngle": null,
-          "country": "SP",
+          "country": "OR",
           "disabled": false,
           "outlet": "RTO R.1 [F]",
           "blobMode": "legacy",
