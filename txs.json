@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-08-02T16:02:11.114Z"
+    "exportedAt": "2026-08-02T20:34:25.874Z"
   },
   "txList": [
     {
@@ -12116,7 +12116,7 @@
         },
         {
           "freq": "99.7",
-          "name": "R.1",
+          "name": "NRJ Bagelland",
           "pi": "6224",
           "kw": 2,
           "pol": "c",
@@ -12587,7 +12587,7 @@
         },
         {
           "freq": "100.3",
-          "name": "R.1",
+          "name": "NRJ Bagelland",
           "pi": "6224",
           "kw": 0.5,
           "pol": "v",
@@ -12796,7 +12796,7 @@
         },
         {
           "freq": "107.3",
-          "name": "R.1",
+          "name": "NRJ Bagelland",
           "pi": "6224",
           "kw": 0.5,
           "pol": "v",
@@ -14179,7 +14179,7 @@
       "stations": [
         {
           "freq": "91.8",
-          "name": "R.1",
+          "name": "NRJ Bagelland",
           "pi": "6224",
           "kw": 1,
           "pol": "v",
