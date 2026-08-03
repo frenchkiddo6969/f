@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-08-03T22:44:15.476Z"
+    "exportedAt": "2026-08-03T23:18:43.836Z"
   },
   "txList": [
     {
@@ -17692,7 +17692,7 @@
           "directionAngle": null,
           "country": "BX",
           "disabled": false,
-          "outlet": "",
+          "outlet": "Bruxelles",
           "blobMode": "circle",
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
@@ -17834,6 +17834,81 @@
           "outlet": "",
           "blobMode": "svg",
           "blobShapeIndex": 14,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1785799018297",
+      "name": "Profondeville",
+      "latlng": [
+        2358.0703125,
+        698.921875
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "89.1",
+          "name": "OBRT Vivacité",
+          "pi": "6202",
+          "kw": 50,
+          "pol": "m",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "Profondeville",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "90.8",
+          "name": "OBRT Classic 21",
+          "pi": "6204",
+          "kw": 5,
+          "pol": "m",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "93.2",
+          "name": "OBRT Musiq 3",
+          "pi": "6203",
+          "kw": 50,
+          "pol": "m",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "102.7",
+          "name": "OBRT La Première",
+          "pi": "6201",
+          "kw": 50,
+          "pol": "m",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         }
