@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-08-03T02:39:12.787Z"
+    "exportedAt": "2026-08-03T20:16:55.044Z"
   },
   "txList": [
     {
@@ -6045,81 +6045,6 @@
       ]
     },
     {
-      "id": 1758994073556,
-      "name": "Nîmes",
-      "latlng": [
-        183.91270170965265,
-        254.03316205552574
-      ],
-      "point": null,
-      "stations": [
-        {
-          "freq": "88.3",
-          "name": "OBRT La Première",
-          "pi": "F201",
-          "kw": 16.3,
-          "pol": "H",
-          "directional": false,
-          "directionAngle": null,
-          "country": "BC",
-          "disabled": false,
-          "outlet": "",
-          "blobMode": "legacy",
-          "blobShapeIndex": 0,
-          "blobOffsetX": 0,
-          "blobOffsetY": 0
-        },
-        {
-          "freq": 91.7,
-          "name": "OBRT Vivacité",
-          "pi": "F202",
-          "kw": 16.3,
-          "pol": "H",
-          "directional": false,
-          "directionAngle": null,
-          "country": "BC",
-          "disabled": false,
-          "outlet": "",
-          "blobMode": "legacy",
-          "blobShapeIndex": 0,
-          "blobOffsetX": 0,
-          "blobOffsetY": 0
-        },
-        {
-          "freq": 93.2,
-          "name": "OBRT Musiq'3",
-          "pi": "F203",
-          "kw": 16.3,
-          "pol": "h",
-          "directional": false,
-          "directionAngle": null,
-          "country": "BC",
-          "disabled": false,
-          "outlet": "",
-          "blobMode": "legacy",
-          "blobShapeIndex": 0,
-          "blobOffsetX": 0,
-          "blobOffsetY": 0
-        },
-        {
-          "freq": 94.7,
-          "name": "OBRT Classiq 21",
-          "pi": "F204",
-          "kw": 16,
-          "pol": "h",
-          "directional": false,
-          "directionAngle": null,
-          "country": "BC",
-          "disabled": false,
-          "outlet": "",
-          "blobMode": "legacy",
-          "blobShapeIndex": 0,
-          "blobOffsetX": 0,
-          "blobOffsetY": 0
-        }
-      ]
-    },
-    {
       "id": 1761598985456,
       "name": "Thongsville",
       "latlng": [
@@ -6451,33 +6376,6 @@
           "country": "OR",
           "disabled": false,
           "outlet": "iRadio Orland",
-          "blobMode": "legacy",
-          "blobShapeIndex": 0,
-          "blobOffsetX": 0,
-          "blobOffsetY": 0
-        }
-      ]
-    },
-    {
-      "id": 1762180775910,
-      "name": "Nîmes",
-      "latlng": [
-        191.68373713322478,
-        277.8888833460783
-      ],
-      "point": null,
-      "stations": [
-        {
-          "freq": "102.2",
-          "name": "R.Contact",
-          "pi": "F215",
-          "kw": 5,
-          "pol": "v",
-          "directional": true,
-          "directionAngle": 43,
-          "country": "BC",
-          "disabled": false,
-          "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
@@ -17708,6 +17606,97 @@
           "blobShapeIndex": 19,
           "blobOffsetX": 0,
           "blobOffsetY": 15
+        }
+      ]
+    },
+    {
+      "id": "tx_1785787943170",
+      "name": "Bruxelles",
+      "latlng": [
+        2425.1328125,
+        1088.15625
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "87.6",
+          "name": "OBRT La Première",
+          "pi": "6201",
+          "kw": 68,
+          "pol": "m",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "90.5",
+          "name": "OBRT Classic 21",
+          "pi": "6204",
+          "kw": 6,
+          "pol": "m",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "92.8",
+          "name": "OBRT Musiq 3",
+          "pi": "6203",
+          "kw": 68,
+          "pol": "m",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "97.6",
+          "name": "RTO R.1 [F]",
+          "pi": "6101",
+          "kw": 6.384,
+          "pol": "m",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "98.3",
+          "name": "OBRT Vivacité",
+          "pi": "6202",
+          "kw": 68,
+          "pol": "m",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
         }
       ]
     }
