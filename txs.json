@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-08-02T20:34:25.874Z"
+    "exportedAt": "2026-08-03T02:39:12.787Z"
   },
   "txList": [
     {
@@ -17235,81 +17235,6 @@
       ]
     },
     {
-      "id": "tx_1781902371863",
-      "name": "Villetritouls",
-      "latlng": [
-        1052.671875,
-        -927.6875
-      ],
-      "point": null,
-      "stations": [
-        {
-          "freq": "88.0",
-          "name": "Valsénie Inter",
-          "pi": "F201",
-          "kw": 20,
-          "pol": "h",
-          "directional": false,
-          "directionAngle": null,
-          "country": "VL",
-          "disabled": false,
-          "outlet": "",
-          "blobMode": "circle",
-          "blobShapeIndex": 0,
-          "blobOffsetX": 0,
-          "blobOffsetY": 0
-        },
-        {
-          "freq": "90.0",
-          "name": "Valsénie Culture",
-          "pi": "F202",
-          "kw": 20,
-          "pol": "h",
-          "directional": false,
-          "directionAngle": null,
-          "country": "VL",
-          "disabled": false,
-          "outlet": "",
-          "blobMode": "circle",
-          "blobShapeIndex": 0,
-          "blobOffsetX": 0,
-          "blobOffsetY": 0
-        },
-        {
-          "freq": "93.0",
-          "name": "Valsénie Musique",
-          "pi": "F203",
-          "kw": 20,
-          "pol": "h",
-          "directional": false,
-          "directionAngle": null,
-          "country": "VL",
-          "disabled": false,
-          "outlet": "",
-          "blobMode": "circle",
-          "blobShapeIndex": 0,
-          "blobOffsetX": 0,
-          "blobOffsetY": 0
-        },
-        {
-          "freq": "105.3",
-          "name": "Valsénie Info",
-          "pi": "F204",
-          "kw": 0.5,
-          "pol": "v",
-          "directional": true,
-          "directionAngle": 210,
-          "country": "VL",
-          "disabled": false,
-          "outlet": "",
-          "blobMode": "svg",
-          "blobShapeIndex": 2,
-          "blobOffsetX": 0,
-          "blobOffsetY": 0
-        }
-      ]
-    },
-    {
       "id": "tx_1782261139658",
       "name": "Chaisleán an Bharraigh",
       "latlng": [
@@ -17347,65 +17272,6 @@
           "outlet": "",
           "blobMode": "svg",
           "blobShapeIndex": 21,
-          "blobOffsetX": 0,
-          "blobOffsetY": 0
-        }
-      ]
-    },
-    {
-      "id": "tx_1782601004627",
-      "name": "Villetritouls",
-      "latlng": [
-        1040.0234375,
-        -935.515625
-      ],
-      "point": null,
-      "stations": [
-        {
-          "freq": "97.4",
-          "name": "Rire et Chansons",
-          "pi": "F226",
-          "kw": 1,
-          "pol": "v",
-          "directional": true,
-          "directionAngle": 280,
-          "country": "VL",
-          "disabled": false,
-          "outlet": "",
-          "blobMode": "svg",
-          "blobShapeIndex": 17,
-          "blobOffsetX": 0,
-          "blobOffsetY": 0
-        },
-        {
-          "freq": "98",
-          "name": "100% Radio",
-          "pi": "F292",
-          "kw": 1,
-          "pol": "v",
-          "directional": true,
-          "directionAngle": 280,
-          "country": "VL",
-          "disabled": false,
-          "outlet": "",
-          "blobMode": "svg",
-          "blobShapeIndex": 17,
-          "blobOffsetX": 0,
-          "blobOffsetY": 0
-        },
-        {
-          "freq": "100.3",
-          "name": "NRJ",
-          "pi": "F220",
-          "kw": 1,
-          "pol": "v",
-          "directional": true,
-          "directionAngle": 280,
-          "country": "VL",
-          "disabled": false,
-          "outlet": "",
-          "blobMode": "svg",
-          "blobShapeIndex": 17,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         }
@@ -17735,6 +17601,113 @@
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
           "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1785724324300",
+      "name": "Villetritouls",
+      "latlng": [
+        600.28125,
+        721.109375
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "87.8",
+          "name": "Étherie Inter",
+          "pi": "F201",
+          "kw": 68,
+          "pol": "h",
+          "directional": false,
+          "directionAngle": null,
+          "country": "EI",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "88.2",
+          "name": "Étherie Musique",
+          "pi": "F203",
+          "kw": 68,
+          "pol": "h",
+          "directional": false,
+          "directionAngle": null,
+          "country": "EI",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "90.3",
+          "name": "Étherie Culture",
+          "pi": "F202",
+          "kw": 68,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "EI",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "99.0",
+          "name": "Étherie Info",
+          "pi": "F204",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 120,
+          "country": "EI",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 19,
+          "blobOffsetX": 0,
+          "blobOffsetY": 5
+        },
+        {
+          "freq": "100.3",
+          "name": "NRJ",
+          "pi": "F220",
+          "kw": 5,
+          "pol": "h",
+          "directional": true,
+          "directionAngle": 120,
+          "country": "EI",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 19,
+          "blobOffsetX": 0,
+          "blobOffsetY": 15
+        },
+        {
+          "freq": "103.7",
+          "name": "Epic FM",
+          "pi": "F22A",
+          "kw": 5,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 120,
+          "country": "EI",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 19,
+          "blobOffsetX": 0,
+          "blobOffsetY": 15
         }
       ]
     }
