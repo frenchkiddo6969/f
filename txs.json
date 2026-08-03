@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-08-03T20:16:55.044Z"
+    "exportedAt": "2026-08-03T22:44:15.476Z"
   },
   "txList": [
     {
@@ -17695,6 +17695,145 @@
           "outlet": "",
           "blobMode": "circle",
           "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1785795230675",
+      "name": "Bruxelles",
+      "latlng": [
+        2447.4453125,
+        1102.671875
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "90.9",
+          "name": "",
+          "pi": "",
+          "kw": 4,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 150,
+          "country": "BX",
+          "disabled": true,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 14,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "95.7",
+          "name": "",
+          "pi": "",
+          "kw": 4,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 150,
+          "country": "BX",
+          "disabled": true,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 14,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "100.4",
+          "name": "Nostalgie Belvénie",
+          "pi": "6214",
+          "kw": 6.3,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 150,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 14,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "100.8",
+          "name": "R.FG",
+          "pi": "622C",
+          "kw": 6.3,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 150,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 14,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "102.2",
+          "name": "R.Contact",
+          "pi": "6215",
+          "kw": 10,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": 150,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "103.7",
+          "name": "NRJ Belvénie",
+          "pi": "6220",
+          "kw": 6.3,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 150,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 14,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "105.7",
+          "name": "",
+          "pi": "",
+          "kw": 4,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 150,
+          "country": "BX",
+          "disabled": true,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 14,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "107.1",
+          "name": "",
+          "pi": "",
+          "kw": 4,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 150,
+          "country": "BX",
+          "disabled": true,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 14,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         }
