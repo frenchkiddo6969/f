@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-08-04T14:21:28.005Z"
+    "exportedAt": "2026-08-04T14:37:07.723Z"
   },
   "txList": [
     {
@@ -17824,7 +17824,7 @@
         {
           "freq": "107.1",
           "name": "Fun Radio",
-          "pi": "",
+          "pi": "6217",
           "kw": 4,
           "pol": "v",
           "directional": true,
