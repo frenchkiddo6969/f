@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-08-04T14:37:07.723Z"
+    "exportedAt": "2026-08-04T15:30:05.190Z"
   },
   "txList": [
     {
@@ -17727,14 +17727,14 @@
         },
         {
           "freq": "95.7",
-          "name": "",
-          "pi": "",
+          "name": "Rock FM",
+          "pi": "621C",
           "kw": 4,
           "pol": "v",
           "directional": true,
           "directionAngle": 150,
           "country": "BX",
-          "disabled": true,
+          "disabled": false,
           "outlet": "",
           "blobMode": "svg",
           "blobShapeIndex": 14,
