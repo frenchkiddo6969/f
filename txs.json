@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-08-03T23:18:43.836Z"
+    "exportedAt": "2026-08-04T14:21:28.005Z"
   },
   "txList": [
     {
@@ -17823,14 +17823,14 @@
         },
         {
           "freq": "107.1",
-          "name": "",
+          "name": "Fun Radio",
           "pi": "",
           "kw": 4,
           "pol": "v",
           "directional": true,
           "directionAngle": 150,
           "country": "BX",
-          "disabled": true,
+          "disabled": false,
           "outlet": "",
           "blobMode": "svg",
           "blobShapeIndex": 14,
@@ -17910,6 +17910,33 @@
           "blobMode": "circle",
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1785853188555",
+      "name": "Bruxelles",
+      "latlng": [
+        2443.390625,
+        1093.8515625
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "94.9",
+          "name": "KIF",
+          "pi": "6297",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 175,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 2,
+          "blobOffsetX": -7,
           "blobOffsetY": 0
         }
       ]
