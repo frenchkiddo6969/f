@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-08-04T15:30:05.190Z"
+    "exportedAt": "2026-08-04T22:05:30.437Z"
   },
   "txList": [
     {
@@ -17918,8 +17918,8 @@
       "id": "tx_1785853188555",
       "name": "Bruxelles",
       "latlng": [
-        2443.390625,
-        1093.8515625
+        2443.4347586234812,
+        1093.7960121412693
       ],
       "point": null,
       "stations": [
@@ -17928,6 +17928,22 @@
           "name": "KIF",
           "pi": "6297",
           "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 175,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 2,
+          "blobOffsetX": -7,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "106.2",
+          "name": "Évasion",
+          "pi": "6E35",
+          "kw": 3.792,
           "pol": "v",
           "directional": true,
           "directionAngle": 175,
