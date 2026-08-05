@@ -2006,5 +2006,45 @@
       1078.7890625
     ],
     "category": "postoffice"
+  },
+  {
+    "name": "Shine Shop",
+    "latlng": [
+      2440.9296875,
+      1080.3828125
+    ],
+    "category": "other"
+  },
+  {
+    "name": "BB Centre Bruxelles",
+    "latlng": [
+      2441.3125,
+      1077.3125
+    ],
+    "category": "bank"
+  },
+  {
+    "name": "Sénat de Belvénie",
+    "latlng": [
+      2438.0390625,
+      1075.921875
+    ],
+    "category": "landmark"
+  },
+  {
+    "name": "Assemblée des Représentants de Belvénie",
+    "latlng": [
+      2442.625,
+      1073.828125
+    ],
+    "category": "landmark"
+  },
+  {
+    "name": "PCTech.bx",
+    "latlng": [
+      2435.546875,
+      1076.859375
+    ],
+    "category": "other"
   }
 ]
