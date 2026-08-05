@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-08-04T22:25:09.067Z"
+    "exportedAt": "2026-08-05T11:16:36.159Z"
   },
   "txList": [
     {
@@ -17953,6 +17953,81 @@
           "blobMode": "svg",
           "blobShapeIndex": 2,
           "blobOffsetX": -7,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1785928355325",
+      "name": "Jamagne",
+      "latlng": [
+        2364.453125,
+        932.28125
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "88.3",
+          "name": "OBRT La Première",
+          "pi": "6201",
+          "kw": 40,
+          "pol": "m",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "90.8",
+          "name": "OBRT Classic 21",
+          "pi": "6204",
+          "kw": 5,
+          "pol": "m",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "92.6",
+          "name": "OBRT Musiq 3",
+          "pi": "6203",
+          "kw": 40,
+          "pol": "m",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "101.6",
+          "name": "OBRT Vivacité",
+          "pi": "6202",
+          "kw": 40,
+          "pol": "m",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "Jamagne",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
           "blobOffsetY": 0
         }
       ]
