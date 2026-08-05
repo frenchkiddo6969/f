@@ -2046,5 +2046,37 @@
       1076.859375
     ],
     "category": "other"
+  },
+  {
+    "name": "Communicorp",
+    "latlng": [
+      2438.75,
+      1071.7734375
+    ],
+    "category": "other"
+  },
+  {
+    "name": "NRJ Belvénie",
+    "latlng": [
+      2439.1875,
+      1072.0859375
+    ],
+    "category": "other"
+  },
+  {
+    "name": "ÉVASION",
+    "latlng": [
+      2439.03125,
+      1072.5078125
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Pharmacie Jean Jaurès",
+    "latlng": [
+      2434.2109375,
+      1080.53125
+    ],
+    "category": "pharmacy"
   }
 ]
