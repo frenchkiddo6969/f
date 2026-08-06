@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-08-06T01:09:18.997Z"
+    "exportedAt": "2026-08-06T18:49:59.243Z"
   },
   "txList": [
     {
@@ -18053,6 +18053,81 @@
           "disabled": false,
           "outlet": "",
           "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1786041879586",
+      "name": "Mt Shira",
+      "latlng": [
+        2395.5625,
+        1296.921875
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "90.7",
+          "name": "OPB R.1",
+          "pi": "5201",
+          "kw": 40,
+          "pol": "m",
+          "directional": false,
+          "directionAngle": null,
+          "country": "OR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "94.7",
+          "name": "OPB R.2",
+          "pi": "5202",
+          "kw": 40,
+          "pol": "m",
+          "directional": false,
+          "directionAngle": null,
+          "country": "OR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "95.9",
+          "name": "OPB R.3",
+          "pi": "5203",
+          "kw": 40,
+          "pol": "m",
+          "directional": false,
+          "directionAngle": null,
+          "country": "OR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "97.3",
+          "name": "OPB Classical",
+          "pi": "5204",
+          "kw": 40,
+          "pol": "m",
+          "directional": false,
+          "directionAngle": null,
+          "country": "OR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
           "blobOffsetY": 0
