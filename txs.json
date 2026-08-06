@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-08-06T18:49:59.243Z"
+    "exportedAt": "2026-08-06T18:58:40.313Z"
   },
   "txList": [
     {
@@ -17710,15 +17710,15 @@
       "point": null,
       "stations": [
         {
-          "freq": "90.9",
-          "name": "",
-          "pi": "",
+          "freq": "94.9",
+          "name": "KIF",
+          "pi": "6297",
           "kw": 4,
           "pol": "v",
           "directional": true,
           "directionAngle": 150,
           "country": "BX",
-          "disabled": true,
+          "disabled": false,
           "outlet": "",
           "blobMode": "svg",
           "blobShapeIndex": 14,
@@ -17806,15 +17806,15 @@
           "blobOffsetY": 0
         },
         {
-          "freq": "105.7",
-          "name": "",
-          "pi": "",
+          "freq": "106.2",
+          "name": "Évasion",
+          "pi": "6E35",
           "kw": 4,
           "pol": "v",
           "directional": true,
           "directionAngle": 150,
           "country": "BX",
-          "disabled": true,
+          "disabled": false,
           "outlet": "",
           "blobMode": "svg",
           "blobShapeIndex": 14,
@@ -17910,49 +17910,6 @@
           "blobMode": "circle",
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
-          "blobOffsetY": 0
-        }
-      ]
-    },
-    {
-      "id": "tx_1785853188555",
-      "name": "Bruxelles",
-      "latlng": [
-        2443.4347586234812,
-        1093.7960121412693
-      ],
-      "point": null,
-      "stations": [
-        {
-          "freq": "94.9",
-          "name": "KIF",
-          "pi": "6297",
-          "kw": 1,
-          "pol": "v",
-          "directional": true,
-          "directionAngle": 175,
-          "country": "BX",
-          "disabled": false,
-          "outlet": "",
-          "blobMode": "svg",
-          "blobShapeIndex": 2,
-          "blobOffsetX": -7,
-          "blobOffsetY": 0
-        },
-        {
-          "freq": "106.2",
-          "name": "Évasion",
-          "pi": "6E35",
-          "kw": 3.792,
-          "pol": "v",
-          "directional": true,
-          "directionAngle": 175,
-          "country": "BX",
-          "disabled": false,
-          "outlet": "",
-          "blobMode": "svg",
-          "blobShapeIndex": 2,
-          "blobOffsetX": -7,
           "blobOffsetY": 0
         }
       ]
