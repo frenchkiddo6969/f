@@ -2078,5 +2078,29 @@
       1080.53125
     ],
     "category": "pharmacy"
+  },
+  {
+    "name": "OBRT - Organisation Belvénise de la Radio-Télévision",
+    "latlng": [
+      2445.7109375,
+      1081.546875
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Banque Belvénise SIÈGE SOCIAL",
+    "latlng": [
+      2446.2109375,
+      1076.453125
+    ],
+    "category": "bank"
+  },
+  {
+    "name": "100% Rire Radio",
+    "latlng": [
+      2435.375,
+      1075.9765625
+    ],
+    "category": "other"
   }
 ]
