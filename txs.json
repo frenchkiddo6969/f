@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-08-05T11:16:36.159Z"
+    "exportedAt": "2026-08-06T01:09:18.997Z"
   },
   "txList": [
     {
@@ -18025,6 +18025,33 @@
           "country": "BX",
           "disabled": false,
           "outlet": "Jamagne",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1785978495037",
+      "name": "Bruxelles",
+      "latlng": [
+        2435.15625,
+        1075.90625
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "92.4",
+          "name": "100% Rire",
+          "pi": "6219",
+          "kw": 1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
           "blobMode": "circle",
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
