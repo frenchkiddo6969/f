@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-08-06T18:58:40.313Z"
+    "exportedAt": "2026-08-08T12:37:58.301Z"
   },
   "txList": [
     {
@@ -18085,6 +18085,81 @@
           "disabled": false,
           "outlet": "",
           "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1786192555122",
+      "name": "Belgrade",
+      "latlng": [
+        1989.484375,
+        979.1484375
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "91.3",
+          "name": "OBRT La Première",
+          "pi": "6201",
+          "kw": 79,
+          "pol": "m",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "94.2",
+          "name": "OBRT Musiq 3",
+          "pi": "6203",
+          "kw": 79,
+          "pol": "m",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "99.0",
+          "name": "OBRT Classic 21",
+          "pi": "6204",
+          "kw": 6.3,
+          "pol": "m",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "103.6",
+          "name": "OBRT Vivacité",
+          "pi": "6202",
+          "kw": 79,
+          "pol": "m",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "Belgrade",
+          "blobMode": "circle",
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
           "blobOffsetY": 0
