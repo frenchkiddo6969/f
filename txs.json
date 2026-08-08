@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-08-08T12:37:58.301Z"
+    "exportedAt": "2026-08-08T12:48:05.756Z"
   },
   "txList": [
     {
@@ -18160,6 +18160,81 @@
           "disabled": false,
           "outlet": "Belgrade",
           "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1786193089624",
+      "name": "Namur",
+      "latlng": [
+        2213.671875,
+        937.9375
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "88.7",
+          "name": "OBRT Musiq 3",
+          "pi": "6203",
+          "kw": 158,
+          "pol": "m",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "90.1",
+          "name": "OBRT La Première",
+          "pi": "6201",
+          "kw": 158,
+          "pol": "m",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "92.5",
+          "name": "OBRT Classic 21",
+          "pi": "6204",
+          "kw": 6.3,
+          "pol": "m",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "97.2",
+          "name": "OBRT Vivacité",
+          "pi": "6202",
+          "kw": 158,
+          "pol": "m",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "Namur",
+          "blobMode": "legacy",
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
           "blobOffsetY": 0
