@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-08-08T12:48:05.756Z"
+    "exportedAt": "2026-08-08T15:40:12.380Z"
   },
   "txList": [
     {
@@ -17710,22 +17710,6 @@
       "point": null,
       "stations": [
         {
-          "freq": "94.9",
-          "name": "KIF",
-          "pi": "6297",
-          "kw": 4,
-          "pol": "v",
-          "directional": true,
-          "directionAngle": 150,
-          "country": "BX",
-          "disabled": false,
-          "outlet": "",
-          "blobMode": "svg",
-          "blobShapeIndex": 14,
-          "blobOffsetX": 0,
-          "blobOffsetY": 0
-        },
-        {
           "freq": "95.7",
           "name": "Rock FM",
           "pi": "621C",
@@ -17786,6 +17770,22 @@
           "outlet": "",
           "blobMode": "circle",
           "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "102.7",
+          "name": "Mouv'",
+          "pi": "6297",
+          "kw": 6.3,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 150,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 14,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         },
