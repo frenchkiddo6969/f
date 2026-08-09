@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-08-09T01:38:05.495Z"
+    "exportedAt": "2026-08-09T01:46:22.388Z"
   },
   "txList": [
     {
@@ -18286,6 +18286,33 @@
           "directional": false,
           "directionAngle": null,
           "country": "OR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1786239927211",
+      "name": "Bruxelles",
+      "latlng": [
+        2446.7265625,
+        1082.171875
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "88.0",
+          "name": "OBRT Tipik",
+          "pi": "6205",
+          "kw": 1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
           "disabled": false,
           "outlet": "",
           "blobMode": "circle",
