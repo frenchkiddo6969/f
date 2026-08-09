@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-08-09T01:46:22.388Z"
+    "exportedAt": "2026-08-09T02:07:32.721Z"
   },
   "txList": [
     {
@@ -18253,7 +18253,7 @@
         {
           "freq": "105.3",
           "name": "BX RTL",
-          "pi": "0000",
+          "pi": "6218",
           "kw": 5,
           "pol": "v",
           "directional": false,
