@@ -2102,5 +2102,53 @@
       1075.9765625
     ],
     "category": "other"
+  },
+  {
+    "name": "Conseil Supérieur de l'Audiovisuel",
+    "latlng": [
+      2431.0859375,
+      1080.078125
+    ],
+    "category": "landmark"
+  },
+  {
+    "name": "Delhaize Sud-Bruxelles",
+    "latlng": [
+      2430.53125,
+      1082.109375
+    ],
+    "category": "shopping"
+  },
+  {
+    "name": "Immeuble Jean Jaurès",
+    "latlng": [
+      2429.8515625,
+      1084.765625
+    ],
+    "category": "landmark"
+  },
+  {
+    "name": "Comerca",
+    "latlng": [
+      2435.8359375,
+      1082.6171875
+    ],
+    "category": "shopping"
+  },
+  {
+    "name": "Jeanne Debouzy JURISTE",
+    "latlng": [
+      2432.140625,
+      1084.734375
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Ambassade d'Orlande en Belvénie",
+    "latlng": [
+      2432.671875,
+      1080.8046875
+    ],
+    "category": "landmark"
   }
 ]
