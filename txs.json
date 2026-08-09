@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-08-09T01:04:33.331Z"
+    "exportedAt": "2026-08-09T01:38:05.495Z"
   },
   "txList": [
     {
@@ -18259,6 +18259,33 @@
           "directional": false,
           "directionAngle": null,
           "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1786239290261",
+      "name": "Gluckstadt",
+      "latlng": [
+        676.9296875,
+        220.046875
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "103.5",
+          "name": "OIDC-FM",
+          "pi": "9584",
+          "kw": 298,
+          "pol": "m",
+          "directional": false,
+          "directionAngle": null,
+          "country": "OR",
           "disabled": false,
           "outlet": "",
           "blobMode": "circle",
