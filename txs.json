@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-08-08T15:40:12.380Z"
+    "exportedAt": "2026-08-09T01:04:33.331Z"
   },
   "txList": [
     {
@@ -18235,6 +18235,33 @@
           "disabled": false,
           "outlet": "Namur",
           "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1786237382618",
+      "name": "Bruxelles",
+      "latlng": [
+        2443.375,
+        1093.859375
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "105.3",
+          "name": "BX RTL",
+          "pi": "0000",
+          "kw": 5,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
           "blobOffsetY": 0
