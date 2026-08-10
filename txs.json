@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-08-10T22:36:33.577Z"
+    "exportedAt": "2026-08-10T22:50:45.817Z"
   },
   "txList": [
     {
@@ -18603,6 +18603,33 @@
           "blobShapeIndex": 18,
           "blobOffsetX": 0,
           "blobOffsetY": 5
+        }
+      ]
+    },
+    {
+      "id": "tx_1786402155169",
+      "name": "Bruxelles",
+      "latlng": [
+        2429.3515625,
+        1084.4296875
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "106.7",
+          "name": "RCF Belvénie",
+          "pi": "622A",
+          "kw": 0.4,
+          "pol": "h",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "Bruxelles",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
         }
       ]
     }
