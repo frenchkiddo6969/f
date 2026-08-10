@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-08-10T21:18:16.983Z"
+    "exportedAt": "2026-08-10T21:20:08.898Z"
   },
   "txList": [
     {
@@ -18364,7 +18364,7 @@
           "blobOffsetY": 0
         },
         {
-          "freq": "102",
+          "freq": "103.4",
           "name": "NRJ Belvénie",
           "pi": "6220",
           "kw": 1.513,
