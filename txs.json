@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-08-09T02:07:32.721Z"
+    "exportedAt": "2026-08-10T21:15:57.013Z"
   },
   "txList": [
     {
@@ -18309,6 +18309,65 @@
           "name": "OBRT Tipik",
           "pi": "6205",
           "kw": 1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1786395797411",
+      "name": "Villers-le-Temple",
+      "latlng": [
+        2510.546875,
+        1063.5546875
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "88.8",
+          "name": "Évasion",
+          "pi": "6E35",
+          "kw": 1.513,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "97.7",
+          "name": "R.Contact",
+          "pi": "6215",
+          "kw": 1.513,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "102",
+          "name": "NRJ Belvénie",
+          "pi": "6220",
+          "kw": 1.513,
           "pol": "v",
           "directional": false,
           "directionAngle": null,
