@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-08-10T22:05:00.242Z"
+    "exportedAt": "2026-08-10T22:36:33.577Z"
   },
   "txList": [
     {
@@ -18517,6 +18517,92 @@
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
           "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1786400982704",
+      "name": "Buissonville",
+      "latlng": [
+        2361.078125,
+        1089.78125
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "91.1",
+          "name": "BX RTL",
+          "pi": "6218",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 270,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 4,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "96.8",
+          "name": "NRJ Belvénie",
+          "pi": "6220",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 270,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 4,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "106.6",
+          "name": "Évasion",
+          "pi": "6E35",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 270,
+          "country": "BX",
+          "disabled": true,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 4,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1786401282718",
+      "name": "Villers-le-Temple",
+      "latlng": [
+        2504.9609375,
+        1051.296875
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "90.1",
+          "name": "BX RTL",
+          "pi": "8218",
+          "kw": 0.1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 130,
+          "country": "BX",
+          "disabled": true,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 18,
+          "blobOffsetX": 0,
+          "blobOffsetY": 5
         }
       ]
     }
