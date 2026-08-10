@@ -2158,5 +2158,13 @@
       1078.65625
     ],
     "category": "other"
+  },
+  {
+    "name": "Orange Bruxelles Sud",
+    "latlng": [
+      2433.578125,
+      1076.53125
+    ],
+    "category": "other"
   }
 ]
