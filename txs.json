@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-08-10T21:15:57.013Z"
+    "exportedAt": "2026-08-10T21:18:16.983Z"
   },
   "txList": [
     {
@@ -18348,7 +18348,7 @@
           "blobOffsetY": 0
         },
         {
-          "freq": "97.7",
+          "freq": "96.9",
           "name": "R.Contact",
           "pi": "6215",
           "kw": 1.513,
