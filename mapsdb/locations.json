@@ -2166,5 +2166,13 @@
       1076.53125
     ],
     "category": "other"
+  },
+  {
+    "name": "Lidl",
+    "latlng": [
+      2436.734375,
+      1068.8515625
+    ],
+    "category": "shopping"
   }
 ]
