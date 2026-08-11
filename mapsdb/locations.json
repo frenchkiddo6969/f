@@ -2174,5 +2174,61 @@
       1068.8515625
     ],
     "category": "shopping"
+  },
+  {
+    "name": "Hôpital Publique de Bruxelles",
+    "latlng": [
+      2444.9453125,
+      1070.4453125
+    ],
+    "category": "hospital"
+  },
+  {
+    "name": "École Communale de Bruxelles 1",
+    "latlng": [
+      2433.0625,
+      1072.4765625
+    ],
+    "category": "school"
+  },
+  {
+    "name": "Pharmacie Avenue Vladimir Lenin",
+    "latlng": [
+      2440.859375,
+      1070.96875
+    ],
+    "category": "pharmacy"
+  },
+  {
+    "name": "Linje",
+    "latlng": [
+      2440.7421875,
+      1069.515625
+    ],
+    "category": "swimsuitstore"
+  },
+  {
+    "name": "RCF Radio Belvénie",
+    "latlng": [
+      2430.0625,
+      1084.3203125
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Pylone OBRT Bruxelles",
+    "latlng": [
+      2425.046875,
+      1088.5625
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Pylone OBRT Profondeville",
+    "latlng": [
+      2358.0703125,
+      698.9453125
+    ],
+    "category": "other"
   }
 ]
