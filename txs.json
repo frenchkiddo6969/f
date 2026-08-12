@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-08-12T01:54:34.007Z"
+    "exportedAt": "2026-08-12T02:10:17.476Z"
   },
   "txList": [
     {
@@ -18597,7 +18597,7 @@
           "directional": true,
           "directionAngle": 130,
           "country": "BX",
-          "disabled": true,
+          "disabled": false,
           "outlet": "",
           "blobMode": "svg",
           "blobShapeIndex": 18,
@@ -18642,6 +18642,97 @@
           "country": "BX",
           "disabled": false,
           "outlet": "Bruxelles",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1786500435719",
+      "name": "Saint-Cyprien",
+      "latlng": [
+        2492.859375,
+        1151.75
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "90.1",
+          "name": "BX RTL",
+          "pi": "6218",
+          "kw": 0.2,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "92.1",
+          "name": "OBRT Musiq 3",
+          "pi": "6203",
+          "kw": 0.2,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "95.5",
+          "name": "Évasion",
+          "pi": "6E35",
+          "kw": 0.2,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": true,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "99.0",
+          "name": "OBRT Vivacité",
+          "pi": "6202",
+          "kw": 0.2,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "Bruxelles",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "103.5",
+          "name": "OBRT La Première",
+          "pi": "6201",
+          "kw": 0.2,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
           "blobMode": "circle",
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
