@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-08-12T12:05:26.693Z"
+    "exportedAt": "2026-08-12T16:27:57.517Z"
   },
   "txList": [
     {
@@ -18732,6 +18732,81 @@
           "directionAngle": null,
           "country": "BX",
           "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1786551978766",
+      "name": "Temme",
+      "latlng": [
+        2682.5078125,
+        891.1875
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "89.4",
+          "name": "OBRT La Première",
+          "pi": "6201",
+          "kw": 251,
+          "pol": "m",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "93.7",
+          "name": "OBRT Musiq 3",
+          "pi": "6203",
+          "kw": 158,
+          "pol": "m",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "94.2",
+          "name": "OBRT Classic 21",
+          "pi": "6204",
+          "kw": 158,
+          "pol": "m",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "96.8",
+          "name": "OBRT Vivacité",
+          "pi": "6202",
+          "kw": 251,
+          "pol": "m",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": true,
           "outlet": "",
           "blobMode": "circle",
           "blobShapeIndex": 0,
