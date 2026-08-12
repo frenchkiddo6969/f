@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-08-10T22:50:45.817Z"
+    "exportedAt": "2026-08-12T01:32:05.100Z"
   },
   "txList": [
     {
@@ -6807,8 +6807,8 @@
         },
         {
           "freq": "94.5",
-          "name": "OPLY-FM",
-          "pi": "7D7A",
+          "name": "OKLS-FM",
+          "pi": "2B98",
           "kw": 10,
           "pol": "c",
           "directional": false,
