@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-08-12T16:27:57.517Z"
+    "exportedAt": "2026-08-12T16:37:08.419Z"
   },
   "txList": [
     {
@@ -18806,10 +18806,149 @@
           "directional": false,
           "directionAngle": null,
           "country": "BX",
-          "disabled": true,
-          "outlet": "",
+          "disabled": false,
+          "outlet": "Poitiers",
           "blobMode": "circle",
           "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1786552399918",
+      "name": "Poitiers",
+      "latlng": [
+        2636.4609375,
+        908.546875
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "90.8",
+          "name": "NRJ Belvénie",
+          "pi": "6220",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 80,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 7,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "92.5",
+          "name": "",
+          "pi": "",
+          "kw": 1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": 80,
+          "country": "BX",
+          "disabled": true,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 7,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "94.6",
+          "name": "",
+          "pi": "",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 80,
+          "country": "BX",
+          "disabled": true,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 7,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "96.3",
+          "name": "",
+          "pi": "",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 80,
+          "country": "BX",
+          "disabled": true,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 7,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "98.7",
+          "name": "",
+          "pi": "",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 80,
+          "country": "BX",
+          "disabled": true,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 7,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "102.4",
+          "name": "BX RTL",
+          "pi": "6218",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 80,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 7,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "103.7",
+          "name": "R.Contact",
+          "pi": "6215",
+          "kw": 1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 7,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "106.5",
+          "name": "",
+          "pi": "",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 50,
+          "country": "BX",
+          "disabled": true,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 7,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         }
