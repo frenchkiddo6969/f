@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-08-12T01:32:05.100Z"
+    "exportedAt": "2026-08-12T01:43:47.463Z"
   },
   "txList": [
     {
@@ -18615,6 +18615,22 @@
       ],
       "point": null,
       "stations": [
+        {
+          "freq": "98.8",
+          "name": "K-Love Bruxelles",
+          "pi": "6102",
+          "kw": 0.63,
+          "pol": "h",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
         {
           "freq": "106.7",
           "name": "RCF Belvénie",
