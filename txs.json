@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-08-12T01:43:47.463Z"
+    "exportedAt": "2026-08-12T01:54:34.007Z"
   },
   "txList": [
     {
@@ -18408,14 +18408,14 @@
         },
         {
           "freq": "89.9",
-          "name": "",
-          "pi": "",
+          "name": "Blahaj FM",
+          "pi": "6063",
           "kw": 1,
           "pol": "v",
           "directional": false,
           "directionAngle": null,
           "country": "BX",
-          "disabled": true,
+          "disabled": false,
           "outlet": "",
           "blobMode": "circle",
           "blobShapeIndex": 0,
