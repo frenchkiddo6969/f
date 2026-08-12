@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-08-12T16:37:08.419Z"
+    "exportedAt": "2026-08-12T17:16:31.625Z"
   },
   "txList": [
     {
@@ -18949,6 +18949,81 @@
           "outlet": "",
           "blobMode": "svg",
           "blobShapeIndex": 7,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1786554790184",
+      "name": "Jamagne",
+      "latlng": [
+        2385.6953125,
+        956.5546875
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "95.8",
+          "name": "NRJ Belvénie",
+          "pi": "6220",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 20,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 17,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "97.7",
+          "name": "R.Contact",
+          "pi": "6215",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 20,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 17,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "99.0",
+          "name": "BX RTL",
+          "pi": "6218",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 20,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 17,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "101.1",
+          "name": "Nostalgie Belvénie",
+          "pi": "6214",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 20,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 17,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         }
