@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-08-12T02:10:17.476Z"
+    "exportedAt": "2026-08-12T12:05:26.693Z"
   },
   "txList": [
     {
@@ -17613,8 +17613,8 @@
       "id": "tx_1785787943170",
       "name": "Bruxelles",
       "latlng": [
-        2425.1328125,
-        1088.15625
+        2425.0546875,
+        1088.5546875
       ],
       "point": null,
       "stations": [
@@ -17844,7 +17844,7 @@
       "name": "Profondeville",
       "latlng": [
         2358.0703125,
-        698.921875
+        698.9375
       ],
       "point": null,
       "stations": [
@@ -17919,7 +17919,7 @@
       "name": "Jamagne",
       "latlng": [
         2364.453125,
-        932.28125
+        932.3125
       ],
       "point": null,
       "stations": [
@@ -18653,8 +18653,8 @@
       "id": "tx_1786500435719",
       "name": "Saint-Cyprien",
       "latlng": [
-        2492.859375,
-        1151.75
+        2492.9296875,
+        1151.6875
       ],
       "point": null,
       "stations": [
