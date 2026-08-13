@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-08-12T17:16:31.625Z"
+    "exportedAt": "2026-08-13T01:49:54.244Z"
   },
   "txList": [
     {
@@ -19024,6 +19024,92 @@
           "outlet": "",
           "blobMode": "svg",
           "blobShapeIndex": 17,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1786585460678",
+      "name": "Jamagne",
+      "latlng": [
+        2385.453125,
+        952.6640625
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "98.2",
+          "name": "RCF Belvénie",
+          "pi": "622A",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 20,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "100.3",
+          "name": "Mouv'",
+          "pi": "6297",
+          "kw": 0.2,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 20,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "105.6",
+          "name": "Antenne Jamagne",
+          "pi": "6647",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 20,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1786585721498",
+      "name": "Jamagne",
+      "latlng": [
+        2379.5625,
+        965.421875
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "101.7",
+          "name": "Évasion",
+          "pi": "6E35",
+          "kw": 1,
+          "pol": "h",
+          "directional": true,
+          "directionAngle": 90,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 21,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         }
