@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-08-13T02:38:56.733Z"
+    "exportedAt": "2026-08-13T17:15:53.927Z"
   },
   "txList": [
     {
@@ -19126,6 +19126,33 @@
           "outlet": "",
           "blobMode": "svg",
           "blobShapeIndex": 21,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1786641185994",
+      "name": "Vendôme",
+      "latlng": [
+        2428.953125,
+        950.4296875
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "103.7",
+          "name": "BX RTL",
+          "pi": "6218",
+          "kw": 1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         }
