@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-08-13T01:49:54.244Z"
+    "exportedAt": "2026-08-13T02:19:29.863Z"
   },
   "txList": [
     {
@@ -19039,7 +19039,7 @@
       "point": null,
       "stations": [
         {
-          "freq": "98.2",
+          "freq": "98.7",
           "name": "RCF Belvénie",
           "pi": "622A",
           "kw": 0.5,
