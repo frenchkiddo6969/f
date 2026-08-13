@@ -2230,5 +2230,21 @@
       698.9453125
     ],
     "category": "other"
+  },
+  {
+    "name": "Intermarché JAMAGNE",
+    "latlng": [
+      2375.640625,
+      957.3203125
+    ],
+    "category": "shopping"
+  },
+  {
+    "name": "Shine",
+    "latlng": [
+      2379.2734375,
+      956.9609375
+    ],
+    "category": "other"
   }
 ]
