@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-08-13T02:22:49.314Z"
+    "exportedAt": "2026-08-13T02:24:57.198Z"
   },
   "txList": [
     {
@@ -19098,7 +19098,7 @@
       "point": null,
       "stations": [
         {
-          "freq": "101.7",
+          "freq": "102.1",
           "name": "Évasion",
           "pi": "6E35",
           "kw": 1,
