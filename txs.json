@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-08-14T02:10:07.561Z"
+    "exportedAt": "2026-08-14T18:13:23.937Z"
   },
   "txList": [
     {
@@ -18504,14 +18504,14 @@
         },
         {
           "freq": "101.4",
-          "name": "",
-          "pi": "",
+          "name": "Gay FM",
+          "pi": "6077",
           "kw": 1,
           "pol": "v",
           "directional": false,
           "directionAngle": null,
           "country": "BX",
-          "disabled": true,
+          "disabled": false,
           "outlet": "",
           "blobMode": "circle",
           "blobShapeIndex": 0,
