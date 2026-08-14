@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-08-14T02:08:39.365Z"
+    "exportedAt": "2026-08-14T02:10:07.561Z"
   },
   "txList": [
     {
@@ -19260,8 +19260,8 @@
       "stations": [
         {
           "freq": "91.4",
-          "name": "BX RTL",
-          "pi": "6218",
+          "name": "R.FG",
+          "pi": "622C",
           "kw": 1,
           "pol": "v",
           "directional": true,
