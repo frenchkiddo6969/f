@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-08-14T01:43:33.482Z"
+    "exportedAt": "2026-08-14T02:08:39.365Z"
   },
   "txList": [
     {
@@ -19098,6 +19098,22 @@
       "point": null,
       "stations": [
         {
+          "freq": "93.4",
+          "name": "Nostalgie Belvénie",
+          "pi": "6214",
+          "kw": 1,
+          "pol": "h",
+          "directional": true,
+          "directionAngle": 90,
+          "country": "BX",
+          "disabled": true,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 21,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
           "freq": "102.1",
           "name": "Évasion",
           "pi": "6E35",
@@ -19228,6 +19244,129 @@
           "outlet": "Hazeilles",
           "blobMode": "circle",
           "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1786672818370",
+      "name": "Vendôme",
+      "latlng": [
+        2408.2265625,
+        960.15625
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "91.4",
+          "name": "BX RTL",
+          "pi": "6218",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 150,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 19,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "93.2",
+          "name": "Nostalgie Belvénie",
+          "pi": "6214",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 150,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 19,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "96.7",
+          "name": "RCF Belvénie",
+          "pi": "622A",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 150,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 19,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "100.0",
+          "name": "Mouv'",
+          "pi": "6297",
+          "kw": 0.2,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 150,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 19,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "100.7",
+          "name": "R.Contact",
+          "pi": "6215",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 150,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 19,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "104.3",
+          "name": "Fun Radio",
+          "pi": "6217",
+          "kw": 1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "106.0",
+          "name": "NRJ Belvénie",
+          "pi": "6220",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 150,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 19,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         }
