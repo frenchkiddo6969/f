@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-08-13T17:15:53.927Z"
+    "exportedAt": "2026-08-14T01:43:33.482Z"
   },
   "txList": [
     {
@@ -19151,6 +19151,81 @@
           "country": "BX",
           "disabled": false,
           "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1786671698397",
+      "name": "Hermelines",
+      "latlng": [
+        2533.953125,
+        889.0546875
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "91.5",
+          "name": "OBRT La Première",
+          "pi": "6201",
+          "kw": 50,
+          "pol": "m",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "93.8",
+          "name": "OBRT Musiq 3",
+          "pi": "6203",
+          "kw": 50,
+          "pol": "m",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "99.9",
+          "name": "OBRT Classic 21",
+          "pi": "6204",
+          "kw": 5,
+          "pol": "m",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "107.3",
+          "name": "OBRT Vivacité",
+          "pi": "6202",
+          "kw": 50,
+          "pol": "m",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "Hazeilles",
           "blobMode": "circle",
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
