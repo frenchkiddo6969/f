@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-08-14T18:13:23.937Z"
+    "exportedAt": "2026-08-14T21:23:53.318Z"
   },
   "txList": [
     {
@@ -19157,6 +19157,22 @@
       "point": null,
       "stations": [
         {
+          "freq": "98.0",
+          "name": "100% Radio",
+          "pi": "6692",
+          "kw": 1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
           "freq": "103.7",
           "name": "BX RTL",
           "pi": "6218",
@@ -19367,6 +19383,49 @@
           "outlet": "",
           "blobMode": "svg",
           "blobShapeIndex": 19,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1786742409440",
+      "name": "Balâtre",
+      "latlng": [
+        2418.828125,
+        877.421875
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "89.8",
+          "name": "100% Radio",
+          "pi": "6692",
+          "kw": 2.786,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 13,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "92.2",
+          "name": "RCF Belvénie",
+          "pi": "622A",
+          "kw": 1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 13,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         }
