@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-08-16T18:55:32.890Z"
+    "exportedAt": "2026-08-16T22:47:30.632Z"
   },
   "txList": [
     {
@@ -17693,6 +17693,22 @@
           "country": "BX",
           "disabled": false,
           "outlet": "Bruxelles",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "105.7",
+          "name": "RTO R.1 Dance [F]",
+          "pi": "6103",
+          "kw": 1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
           "blobMode": "circle",
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
