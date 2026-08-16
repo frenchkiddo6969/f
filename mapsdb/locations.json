@@ -2286,5 +2286,21 @@
       1067
     ],
     "category": "shopping"
+  },
+  {
+    "name": "Église Saint-Nicolas",
+    "latlng": [
+      2438.078125,
+      1084.5546875
+    ],
+    "category": "church"
+  },
+  {
+    "name": "Tabac Lotto François FERRY",
+    "latlng": [
+      2442.4453125,
+      1071.046875
+    ],
+    "category": "other"
   }
 ]
