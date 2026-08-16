@@ -2302,5 +2302,21 @@
       1071.046875
     ],
     "category": "other"
+  },
+  {
+    "name": "Intermarché station-service Bruxelles",
+    "latlng": [
+      2441.7421875,
+      1066.78125
+    ],
+    "category": "gasstation"
+  },
+  {
+    "name": "Orange BX Siège Sociale",
+    "latlng": [
+      2446.9765625,
+      1074.46875
+    ],
+    "category": "other"
   }
 ]
