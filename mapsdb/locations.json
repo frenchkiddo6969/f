@@ -2278,5 +2278,13 @@
       952.7578125
     ],
     "category": "other"
+  },
+  {
+    "name": "Intermarché BRUXELLES",
+    "latlng": [
+      2444.4375,
+      1067
+    ],
+    "category": "shopping"
   }
 ]
