@@ -2200,12 +2200,12 @@
     "category": "pharmacy"
   },
   {
-    "name": "Linje",
+    "name": "Police - Bruxelles",
     "latlng": [
       2440.7421875,
       1069.515625
     ],
-    "category": "swimsuitstore"
+    "category": "other"
   },
   {
     "name": "RCF Radio Belvénie",
@@ -2244,6 +2244,38 @@
     "latlng": [
       2379.2734375,
       956.9609375
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Delhaize Express Jamagne",
+    "latlng": [
+      2379.8203125,
+      953.796875
+    ],
+    "category": "shopping"
+  },
+  {
+    "name": "Hotel de Ville de Jamagne",
+    "latlng": [
+      2377.359375,
+      954
+    ],
+    "category": "other"
+  },
+  {
+    "name": "postbx",
+    "latlng": [
+      2376.0390625,
+      954.0546875
+    ],
+    "category": "postoffice"
+  },
+  {
+    "name": "Police - Jamagne",
+    "latlng": [
+      2379.0390625,
+      952.7578125
     ],
     "category": "other"
   }
