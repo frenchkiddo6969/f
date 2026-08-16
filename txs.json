@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-08-14T21:23:53.318Z"
+    "exportedAt": "2026-08-16T01:14:09.261Z"
   },
   "txList": [
     {
@@ -17613,8 +17613,8 @@
       "id": "tx_1785787943170",
       "name": "Bruxelles",
       "latlng": [
-        2425.0546875,
-        1088.5546875
+        2425.0390625,
+        1088.5625
       ],
       "point": null,
       "stations": [
@@ -19098,22 +19098,6 @@
       "point": null,
       "stations": [
         {
-          "freq": "93.4",
-          "name": "Nostalgie Belvénie",
-          "pi": "6214",
-          "kw": 1,
-          "pol": "h",
-          "directional": true,
-          "directionAngle": 90,
-          "country": "BX",
-          "disabled": true,
-          "outlet": "",
-          "blobMode": "svg",
-          "blobShapeIndex": 21,
-          "blobOffsetX": 0,
-          "blobOffsetY": 0
-        },
-        {
           "freq": "102.1",
           "name": "Évasion",
           "pi": "6E35",
@@ -19426,6 +19410,113 @@
           "outlet": "",
           "blobMode": "svg",
           "blobShapeIndex": 13,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1786842368996",
+      "name": "Doullens",
+      "latlng": [
+        2316.0703125,
+        1006.546875
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "92.1",
+          "name": "Mouv'",
+          "pi": "6297",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 11,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "97.3",
+          "name": "Nostalgie Belvénie",
+          "pi": "6214",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 11,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "98.1",
+          "name": "R.FG",
+          "pi": "622C",
+          "kw": 1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 11,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "98.5",
+          "name": "BX RTL",
+          "pi": "6218",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 11,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "101.8",
+          "name": "R.Contact",
+          "pi": "6215",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 11,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "103",
+          "name": "NRJ Belvénie",
+          "pi": "6220",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 11,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         }
