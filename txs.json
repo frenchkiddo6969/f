@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-08-16T01:14:09.261Z"
+    "exportedAt": "2026-08-16T18:55:32.890Z"
   },
   "txList": [
     {
@@ -19517,6 +19517,124 @@
           "outlet": "",
           "blobMode": "svg",
           "blobShapeIndex": 11,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1786906072264",
+      "name": "Biesme",
+      "latlng": [
+        2323.5625,
+        919.796875
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "90.3",
+          "name": "Nostalgie Belvénie",
+          "pi": "6214",
+          "kw": 0.3,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 90,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 16,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "104.6",
+          "name": "R.Contact",
+          "pi": "6215",
+          "kw": 0.3,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 90,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 16,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "106.1",
+          "name": "BX RTL",
+          "pi": "6218",
+          "kw": 0.3,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 90,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 16,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "106.8",
+          "name": "NRJ Belvénie",
+          "pi": "6220",
+          "kw": 0.3,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 90,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 16,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1786906354604",
+      "name": "Saint-Remy-la-Forêt",
+      "latlng": [
+        2344.0625,
+        937.0859375
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "89.9",
+          "name": "BX RTL",
+          "pi": "6218",
+          "kw": 0.1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "105.2",
+          "name": "R.Contact",
+          "pi": "6215",
+          "kw": 0.1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         }
