@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-08-17T12:13:28.354Z"
+    "exportedAt": "2026-08-17T12:26:58.184Z"
   },
   "txList": [
     {
@@ -18456,14 +18456,14 @@
         },
         {
           "freq": "93.6",
-          "name": "",
-          "pi": "",
+          "name": "BruxLatina",
+          "pi": "6060",
           "kw": 1,
           "pol": "v",
           "directional": false,
           "directionAngle": null,
           "country": "BX",
-          "disabled": true,
+          "disabled": false,
           "outlet": "",
           "blobMode": "circle",
           "blobShapeIndex": 0,
@@ -18504,16 +18504,16 @@
         },
         {
           "freq": "99.7",
-          "name": "",
-          "pi": "",
+          "name": "Trix FM",
+          "pi": "6092",
           "kw": 1,
           "pol": "v",
           "directional": false,
           "directionAngle": null,
           "country": "BX",
-          "disabled": true,
+          "disabled": false,
           "outlet": "",
-          "blobMode": "legacy",
+          "blobMode": "circle",
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
           "blobOffsetY": 0
