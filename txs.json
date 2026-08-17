@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-08-17T11:53:38.162Z"
+    "exportedAt": "2026-08-17T12:13:28.354Z"
   },
   "txList": [
     {
@@ -19810,8 +19810,8 @@
       "id": "tx_1786967285594",
       "name": "Clermont",
       "latlng": [
-        1989.828125,
-        1153.6015625
+        1989.875,
+        1153.4296875
       ],
       "point": null,
       "stations": [
@@ -19924,6 +19924,97 @@
           "outlet": "",
           "blobMode": "svg",
           "blobShapeIndex": 7,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1786968562435",
+      "name": "Clermont",
+      "latlng": [
+        1972,
+        1138.5625
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "91",
+          "name": "Nostalgie Belvénie",
+          "pi": "6214",
+          "kw": 1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 21,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "92.5",
+          "name": "100% Rire",
+          "pi": "6219",
+          "kw": 1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 21,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "94.5",
+          "name": "Fun Radio",
+          "pi": "6217",
+          "kw": 1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 21,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "96.9",
+          "name": "RCF Belvénie",
+          "pi": "621A",
+          "kw": 1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 21,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "101.7",
+          "name": "",
+          "pi": "",
+          "kw": 1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": true,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 21,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         }
