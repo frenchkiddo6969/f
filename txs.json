@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-08-16T22:47:30.632Z"
+    "exportedAt": "2026-08-17T11:37:52.261Z"
   },
   "txList": [
     {
@@ -19644,6 +19644,81 @@
           "pi": "6215",
           "kw": 0.1,
           "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1786966559346",
+      "name": "La Gleize",
+      "latlng": [
+        2012.34375,
+        1189.3984375
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "89.4",
+          "name": "OBRT La Première",
+          "pi": "6201",
+          "kw": 50,
+          "pol": "m",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "90.5",
+          "name": "OBRT Vivacité",
+          "pi": "6202",
+          "kw": 50,
+          "pol": "m",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "Clermont",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "92.9",
+          "name": "OBRT Musiq 3",
+          "pi": "6203",
+          "kw": 50,
+          "pol": "m",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "101.1",
+          "name": "OBRT Classic 21",
+          "pi": "6204",
+          "kw": 6.3,
+          "pol": "m",
           "directional": false,
           "directionAngle": null,
           "country": "BX",
