@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-08-17T11:37:52.261Z"
+    "exportedAt": "2026-08-17T11:53:38.162Z"
   },
   "txList": [
     {
@@ -18488,14 +18488,14 @@
         },
         {
           "freq": "96.6",
-          "name": "",
-          "pi": "",
+          "name": "R.Campus",
+          "pi": "60A6",
           "kw": 1,
           "pol": "v",
           "directional": false,
           "directionAngle": null,
           "country": "BX",
-          "disabled": true,
+          "disabled": false,
           "outlet": "",
           "blobMode": "circle",
           "blobShapeIndex": 0,
@@ -19726,6 +19726,204 @@
           "outlet": "",
           "blobMode": "circle",
           "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1786967033230",
+      "name": "Clermont",
+      "latlng": [
+        1990.8359375,
+        1151.9296875
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "92.0",
+          "name": "OBRT Musiq 3",
+          "pi": "6203",
+          "kw": 0.2,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "97.0",
+          "name": "OBRT La Première",
+          "pi": "6201",
+          "kw": 0.2,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "103.8",
+          "name": "OBRT Vivacité",
+          "pi": "6202",
+          "kw": 0.2,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "107.3",
+          "name": "OBRT Classic 21",
+          "pi": "6204",
+          "kw": 0.2,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1786967285594",
+      "name": "Clermont",
+      "latlng": [
+        1989.828125,
+        1153.6015625
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "88.8",
+          "name": "R.FG",
+          "pi": "622C",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 175,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 7,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "89.9",
+          "name": "Clermont FM",
+          "pi": "6979",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 175,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 7,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "93.5",
+          "name": "Campus FM Clermont",
+          "pi": "697A",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 175,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 7,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "102.4",
+          "name": "NRJ Belvénie",
+          "pi": "6220",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 175,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 7,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "102.8",
+          "name": "Mouv'",
+          "pi": "6297",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 175,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 7,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "103.3",
+          "name": "BX RTL",
+          "pi": "6218",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 175,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 7,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "106.7",
+          "name": "R.Contact",
+          "pi": "6215",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 175,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 7,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         }
