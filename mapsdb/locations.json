@@ -2318,5 +2318,13 @@
       1074.46875
     ],
     "category": "other"
+  },
+  {
+    "name": "Come&Eat",
+    "latlng": [
+      2377.421875,
+      952.875
+    ],
+    "category": "restaurant"
   }
 ]
