@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-08-19T12:14:50.709Z"
+    "exportedAt": "2026-08-19T12:23:27.765Z"
   },
   "txList": [
     {
@@ -17499,113 +17499,6 @@
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
           "blobOffsetY": 0
-        }
-      ]
-    },
-    {
-      "id": "tx_1785724324300",
-      "name": "Villetritouls",
-      "latlng": [
-        600.28125,
-        721.109375
-      ],
-      "point": null,
-      "stations": [
-        {
-          "freq": "87.8",
-          "name": "Étherie Inter",
-          "pi": "F201",
-          "kw": 68,
-          "pol": "h",
-          "directional": false,
-          "directionAngle": null,
-          "country": "EI",
-          "disabled": false,
-          "outlet": "",
-          "blobMode": "circle",
-          "blobShapeIndex": 0,
-          "blobOffsetX": 0,
-          "blobOffsetY": 0
-        },
-        {
-          "freq": "88.2",
-          "name": "Étherie Musique",
-          "pi": "F203",
-          "kw": 68,
-          "pol": "h",
-          "directional": false,
-          "directionAngle": null,
-          "country": "EI",
-          "disabled": false,
-          "outlet": "",
-          "blobMode": "circle",
-          "blobShapeIndex": 0,
-          "blobOffsetX": 0,
-          "blobOffsetY": 0
-        },
-        {
-          "freq": "90.3",
-          "name": "Étherie Culture",
-          "pi": "F202",
-          "kw": 68,
-          "pol": "v",
-          "directional": false,
-          "directionAngle": null,
-          "country": "EI",
-          "disabled": false,
-          "outlet": "",
-          "blobMode": "circle",
-          "blobShapeIndex": 0,
-          "blobOffsetX": 0,
-          "blobOffsetY": 0
-        },
-        {
-          "freq": "99.0",
-          "name": "Étherie Info",
-          "pi": "F204",
-          "kw": 0.5,
-          "pol": "v",
-          "directional": true,
-          "directionAngle": 120,
-          "country": "EI",
-          "disabled": false,
-          "outlet": "",
-          "blobMode": "svg",
-          "blobShapeIndex": 19,
-          "blobOffsetX": 0,
-          "blobOffsetY": 5
-        },
-        {
-          "freq": "100.3",
-          "name": "NRJ",
-          "pi": "F220",
-          "kw": 5,
-          "pol": "h",
-          "directional": true,
-          "directionAngle": 120,
-          "country": "EI",
-          "disabled": false,
-          "outlet": "",
-          "blobMode": "svg",
-          "blobShapeIndex": 19,
-          "blobOffsetX": 0,
-          "blobOffsetY": 15
-        },
-        {
-          "freq": "103.7",
-          "name": "Epic FM",
-          "pi": "F22A",
-          "kw": 5,
-          "pol": "v",
-          "directional": true,
-          "directionAngle": 120,
-          "country": "EI",
-          "disabled": false,
-          "outlet": "",
-          "blobMode": "svg",
-          "blobShapeIndex": 19,
-          "blobOffsetX": 0,
-          "blobOffsetY": 15
         }
       ]
     },
