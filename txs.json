@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-08-19T12:08:14.309Z"
+    "exportedAt": "2026-08-19T12:14:50.709Z"
   },
   "txList": [
     {
@@ -18922,8 +18922,8 @@
         },
         {
           "freq": "98.7",
-          "name": "",
-          "pi": "",
+          "name": "100% Rire",
+          "pi": "6219",
           "kw": 1,
           "pol": "v",
           "directional": true,
@@ -19172,6 +19172,22 @@
       ],
       "point": null,
       "stations": [
+        {
+          "freq": "95.2",
+          "name": "100% Rire",
+          "pi": "6219",
+          "kw": 1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": true,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
         {
           "freq": "98.0",
           "name": "100% Radio",
