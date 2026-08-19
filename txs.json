@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-08-17T12:26:58.184Z"
+    "exportedAt": "2026-08-19T00:19:13.944Z"
   },
   "txList": [
     {
@@ -17635,6 +17635,22 @@
           "blobOffsetY": 0
         },
         {
+          "freq": "89.5",
+          "name": "RTO R.2 [F]",
+          "pi": "6102",
+          "kw": 6.384,
+          "pol": "m",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
           "freq": "90.5",
           "name": "OBRT Classic 21",
           "pi": "6204",
@@ -17700,9 +17716,9 @@
         },
         {
           "freq": "105.7",
-          "name": "RTO R.1 Dance [F]",
-          "pi": "6103",
-          "kw": 1,
+          "name": "RFI",
+          "pi": "61F1",
+          "kw": 4,
           "pol": "v",
           "directional": false,
           "directionAngle": null,
@@ -18634,7 +18650,7 @@
         {
           "freq": "98.8",
           "name": "K-Love Bruxelles",
-          "pi": "6102",
+          "pi": "6011",
           "kw": 0.63,
           "pol": "h",
           "directional": false,
