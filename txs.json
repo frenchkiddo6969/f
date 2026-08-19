@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-08-19T12:23:27.765Z"
+    "exportedAt": "2026-08-19T16:08:30.528Z"
   },
   "txList": [
     {
@@ -19940,6 +19940,81 @@
           "outlet": "",
           "blobMode": "svg",
           "blobShapeIndex": 21,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1787155278495",
+      "name": "Praha",
+      "latlng": [
+        2109.1953125,
+        828.0546875
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "88.0",
+          "name": "VRo Radiožurnál",
+          "pi": "2201",
+          "kw": 20,
+          "pol": "m",
+          "directional": false,
+          "directionAngle": null,
+          "country": "VY",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "90.0",
+          "name": "VRo Dvojka",
+          "pi": "2202",
+          "kw": 20,
+          "pol": "m",
+          "directional": false,
+          "directionAngle": null,
+          "country": "VY",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "91.0",
+          "name": "VRo Vltava",
+          "pi": "2203",
+          "kw": 20,
+          "pol": "m",
+          "directional": false,
+          "directionAngle": null,
+          "country": "VY",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "93.0",
+          "name": "VRo Plus",
+          "pi": "2204",
+          "kw": 20,
+          "pol": "m",
+          "directional": false,
+          "directionAngle": null,
+          "country": "VY",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         }
