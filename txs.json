@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-08-19T00:19:13.944Z"
+    "exportedAt": "2026-08-19T12:08:14.309Z"
   },
   "txList": [
     {
@@ -18456,14 +18456,14 @@
         },
         {
           "freq": "91.3",
-          "name": "",
-          "pi": "",
+          "name": "Czech Wave",
+          "pi": "60A1",
           "kw": 1,
           "pol": "v",
           "directional": false,
           "directionAngle": null,
           "country": "BX",
-          "disabled": true,
+          "disabled": false,
           "outlet": "",
           "blobMode": "circle",
           "blobShapeIndex": 0,
