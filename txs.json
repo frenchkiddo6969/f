@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-08-19T20:06:43.326Z"
+    "exportedAt": "2026-08-20T15:50:23.130Z"
   },
   "txList": [
     {
@@ -18365,8 +18365,8 @@
         },
         {
           "freq": "93.6",
-          "name": "BruxLatina",
-          "pi": "6060",
+          "name": "Hitradio",
+          "pi": "622B",
           "kw": 1,
           "pol": "v",
           "directional": false,
@@ -19017,11 +19017,27 @@
       "id": "tx_1786585721498",
       "name": "Jamagne",
       "latlng": [
-        2379.5625,
-        965.421875
+        2379.6953125,
+        967.046875
       ],
       "point": null,
       "stations": [
+        {
+          "freq": "93.4",
+          "name": "Hitradio",
+          "pi": "622B",
+          "kw": 1,
+          "pol": "h",
+          "directional": true,
+          "directionAngle": 90,
+          "country": "BX",
+          "disabled": true,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 21,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
         {
           "freq": "102.1",
           "name": "Évasion",
