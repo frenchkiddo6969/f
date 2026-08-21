@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-08-21T13:23:29.880Z"
+    "exportedAt": "2026-08-21T13:53:04.995Z"
   },
   "txList": [
     {
@@ -20298,6 +20298,65 @@
           "outlet": "",
           "blobMode": "circle",
           "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1787320186340",
+      "name": "Prague",
+      "latlng": [
+        2365.828125,
+        1033.5234375
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "91.6",
+          "name": "Prague On Air",
+          "pi": "6756",
+          "kw": 0.15,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 50,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 9,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "100.5",
+          "name": "NRJ Belvénie",
+          "pi": "6220",
+          "kw": 0.15,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 50,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 9,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "102.3",
+          "name": "R.Contact",
+          "pi": "6215",
+          "kw": 0.15,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 50,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 9,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         }
