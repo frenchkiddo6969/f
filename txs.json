@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-08-21T13:53:04.995Z"
+    "exportedAt": "2026-08-21T15:16:36.164Z"
   },
   "txList": [
     {
@@ -20357,6 +20357,81 @@
           "outlet": "",
           "blobMode": "svg",
           "blobShapeIndex": 9,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1787325278457",
+      "name": "Ciney",
+      "latlng": [
+        2167.8203125,
+        748.9296875
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "87.8",
+          "name": "OBRT La Première",
+          "pi": "6201",
+          "kw": 30,
+          "pol": "m",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "93.9",
+          "name": "OBRT Vivacité",
+          "pi": "6202",
+          "kw": 30,
+          "pol": "m",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "Ciney",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "97.8",
+          "name": "OBRT Musiq 3",
+          "pi": "6203",
+          "kw": 30,
+          "pol": "m",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "99.1",
+          "name": "OBRT Classic 21",
+          "pi": "6204",
+          "kw": 5,
+          "pol": "m",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         }
