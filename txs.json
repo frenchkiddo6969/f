@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-08-30T12:28:34.376Z"
+    "exportedAt": "2026-08-30T12:33:15.460Z"
   },
   "txList": [
     {
@@ -20523,6 +20523,33 @@
           "outlet": "",
           "blobMode": "svg",
           "blobShapeIndex": 13,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1788093108263",
+      "name": "Saint-Remy-la-Forêt",
+      "latlng": [
+        2349.453125,
+        934.9453125
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "99.6",
+          "name": "OBRT Tipik",
+          "pi": "6205",
+          "kw": 2,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         }
