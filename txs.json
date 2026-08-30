@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-08-21T15:16:36.164Z"
+    "exportedAt": "2026-08-30T12:25:14.700Z"
   },
   "txList": [
     {
@@ -20432,6 +20432,97 @@
           "outlet": "",
           "blobMode": "circle",
           "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1788092499549",
+      "name": "Poitiers",
+      "latlng": [
+        2637.6953125,
+        923.5625
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "99.1",
+          "name": "Nostalgie Belvénie",
+          "pi": "6214",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 180,
+          "country": "BX",
+          "disabled": true,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 13,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "100.5",
+          "name": "",
+          "pi": "",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 180,
+          "country": "BX",
+          "disabled": true,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 13,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "101.2",
+          "name": "Fun Radio",
+          "pi": "6217",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 180,
+          "country": "BX",
+          "disabled": true,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 13,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "103.0",
+          "name": "R.FG",
+          "pi": "622C",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 180,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 13,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "104.3",
+          "name": "",
+          "pi": "",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 180,
+          "country": "BX",
+          "disabled": true,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 13,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         }
