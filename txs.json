@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-08-30T12:33:15.460Z"
+    "exportedAt": "2026-08-31T00:03:04.088Z"
   },
   "txList": [
     {
@@ -20453,12 +20453,12 @@
           "kw": 1,
           "pol": "v",
           "directional": true,
-          "directionAngle": 180,
+          "directionAngle": 300,
           "country": "BX",
           "disabled": true,
           "outlet": "",
           "blobMode": "svg",
-          "blobShapeIndex": 13,
+          "blobShapeIndex": 34,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         },
@@ -20469,12 +20469,12 @@
           "kw": 1,
           "pol": "v",
           "directional": true,
-          "directionAngle": 180,
+          "directionAngle": 300,
           "country": "BX",
           "disabled": true,
           "outlet": "",
           "blobMode": "svg",
-          "blobShapeIndex": 13,
+          "blobShapeIndex": 34,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         },
@@ -20485,12 +20485,12 @@
           "kw": 1,
           "pol": "v",
           "directional": true,
-          "directionAngle": 180,
+          "directionAngle": 300,
           "country": "BX",
           "disabled": true,
           "outlet": "",
           "blobMode": "svg",
-          "blobShapeIndex": 13,
+          "blobShapeIndex": 34,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         },
@@ -20501,12 +20501,12 @@
           "kw": 1,
           "pol": "v",
           "directional": true,
-          "directionAngle": 180,
+          "directionAngle": 300,
           "country": "BX",
           "disabled": false,
           "outlet": "",
           "blobMode": "svg",
-          "blobShapeIndex": 13,
+          "blobShapeIndex": 34,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         },
@@ -20517,12 +20517,12 @@
           "kw": 1,
           "pol": "v",
           "directional": true,
-          "directionAngle": 180,
+          "directionAngle": 300,
           "country": "BX",
           "disabled": true,
           "outlet": "",
           "blobMode": "svg",
-          "blobShapeIndex": 13,
+          "blobShapeIndex": 34,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         }
