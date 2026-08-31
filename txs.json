@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-08-31T13:52:16.936Z"
+    "exportedAt": "2026-08-31T22:58:31.502Z"
   },
   "txList": [
     {
@@ -20657,6 +20657,81 @@
           "outlet": "",
           "blobMode": "svg",
           "blobShapeIndex": 33,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1788216971045",
+      "name": "Perpignan",
+      "latlng": [
+        1920.703125,
+        1195.1796875
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "92.1",
+          "name": "OBRT La Première",
+          "pi": "6201",
+          "kw": 10,
+          "pol": "h",
+          "directional": true,
+          "directionAngle": 70,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 39,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "97.2",
+          "name": "OBRT Musiq 3",
+          "pi": "6203",
+          "kw": 10,
+          "pol": "h",
+          "directional": true,
+          "directionAngle": 70,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 39,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "99.8",
+          "name": "OBRT Classic 21",
+          "pi": "6204",
+          "kw": 5,
+          "pol": "h",
+          "directional": true,
+          "directionAngle": 70,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 39,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "101.6",
+          "name": "OBRT Vivacité",
+          "pi": "6202",
+          "kw": 10,
+          "pol": "h",
+          "directional": true,
+          "directionAngle": 70,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "Perpignan",
+          "blobMode": "svg",
+          "blobShapeIndex": 39,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         }
