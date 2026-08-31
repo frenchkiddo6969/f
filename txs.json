@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-08-31T13:37:17.812Z"
+    "exportedAt": "2026-08-31T13:52:16.936Z"
   },
   "txList": [
     {
@@ -20550,6 +20550,113 @@
           "outlet": "",
           "blobMode": "circle",
           "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1788183709661",
+      "name": "Bruxelles",
+      "latlng": [
+        2428.4609375,
+        1088.421875
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "88.5",
+          "name": "",
+          "pi": "",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 110,
+          "country": "BX",
+          "disabled": true,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 33,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "90.9",
+          "name": "",
+          "pi": "",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 110,
+          "country": "BX",
+          "disabled": true,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 33,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "91.8",
+          "name": "",
+          "pi": "",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 110,
+          "country": "BX",
+          "disabled": true,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 33,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "94.1",
+          "name": "",
+          "pi": "",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 110,
+          "country": "BX",
+          "disabled": true,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 33,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "95.3",
+          "name": "",
+          "pi": "",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 110,
+          "country": "BX",
+          "disabled": true,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 33,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "99.3",
+          "name": "",
+          "pi": "",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 110,
+          "country": "BX",
+          "disabled": true,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 33,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         }
