@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-08-31T22:58:31.502Z"
+    "exportedAt": "2026-08-31T23:04:57.540Z"
   },
   "txList": [
     {
@@ -19682,7 +19682,7 @@
       "point": null,
       "stations": [
         {
-          "freq": "92.0",
+          "freq": "91.9",
           "name": "OBRT Musiq 3",
           "pi": "6203",
           "kw": 0.2,
