@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-09-02T16:54:21.444Z"
+    "exportedAt": "2026-09-02T18:19:39.383Z"
   },
   "txList": [
     {
@@ -20850,6 +20850,97 @@
           "outlet": "",
           "blobMode": "svg",
           "blobShapeIndex": 36,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1788372970881",
+      "name": "Belgrade",
+      "latlng": [
+        1956.109375,
+        986.75
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "98.0",
+          "name": "RCF Belvénie",
+          "pi": "621A",
+          "kw": 0.45,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 40,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "Belgrade",
+          "blobMode": "svg",
+          "blobShapeIndex": 18,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "100.5",
+          "name": "R.FG",
+          "pi": "622C",
+          "kw": 2,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 40,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 18,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "101.3",
+          "name": "",
+          "pi": "",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 40,
+          "country": "BX",
+          "disabled": true,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 18,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "102.8",
+          "name": "NRJ Belvénie",
+          "pi": "6220",
+          "kw": 5,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 40,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 18,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "103.2",
+          "name": "BX RTL",
+          "pi": "",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 40,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 18,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         }
