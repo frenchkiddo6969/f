@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-09-02T18:30:59.906Z"
+    "exportedAt": "2026-09-02T18:33:15.271Z"
   },
   "txList": [
     {
@@ -20790,22 +20790,6 @@
           "blobOffsetY": 0
         },
         {
-          "freq": "91.1",
-          "name": "Fun Radio",
-          "pi": "6217",
-          "kw": 4,
-          "pol": "v",
-          "directional": true,
-          "directionAngle": 95,
-          "country": "BX",
-          "disabled": false,
-          "outlet": "",
-          "blobMode": "svg",
-          "blobShapeIndex": 36,
-          "blobOffsetX": 0,
-          "blobOffsetY": 0
-        },
-        {
           "freq": "93.2",
           "name": "",
           "pi": "",
@@ -20826,6 +20810,22 @@
           "name": "",
           "pi": "",
           "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 95,
+          "country": "BX",
+          "disabled": true,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 36,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "101.3",
+          "name": "",
+          "pi": "",
+          "kw": 4,
           "pol": "v",
           "directional": true,
           "directionAngle": 95,
@@ -20865,6 +20865,22 @@
       "point": null,
       "stations": [
         {
+          "freq": "91.1",
+          "name": "Fun Radio",
+          "pi": "6217",
+          "kw": 5,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 40,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 18,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
           "freq": "98.0",
           "name": "RCF Belvénie",
           "pi": "621A",
@@ -20897,22 +20913,6 @@
           "blobOffsetY": 0
         },
         {
-          "freq": "101.3",
-          "name": "",
-          "pi": "",
-          "kw": 1,
-          "pol": "v",
-          "directional": true,
-          "directionAngle": 40,
-          "country": "BX",
-          "disabled": true,
-          "outlet": "",
-          "blobMode": "svg",
-          "blobShapeIndex": 18,
-          "blobOffsetX": 0,
-          "blobOffsetY": 0
-        },
-        {
           "freq": "102.8",
           "name": "NRJ Belvénie",
           "pi": "6220",
@@ -20931,7 +20931,7 @@
         {
           "freq": "103.2",
           "name": "BX RTL",
-          "pi": "",
+          "pi": "6218",
           "kw": 1,
           "pol": "v",
           "directional": true,
