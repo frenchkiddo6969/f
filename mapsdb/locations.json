@@ -2326,5 +2326,13 @@
       952.875
     ],
     "category": "restaurant"
+  },
+  {
+    "name": "Fun Radio Belvénie",
+    "latlng": [
+      2442.2578125,
+      1077.078125
+    ],
+    "category": "other"
   }
 ]
