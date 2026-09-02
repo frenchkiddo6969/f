@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-09-02T03:16:26.429Z"
+    "exportedAt": "2026-09-02T11:34:58.101Z"
   },
   "txList": [
     {
@@ -18026,7 +18026,7 @@
       "point": null,
       "stations": [
         {
-          "freq": "91.3",
+          "freq": "91.5",
           "name": "OBRT La Première",
           "pi": "6201",
           "kw": 79,
@@ -20759,6 +20759,97 @@
           "outlet": "",
           "blobMode": "svg",
           "blobShapeIndex": 37,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1788348675037",
+      "name": "Belgrade",
+      "latlng": [
+        1964.421875,
+        993.6796875
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "90.7",
+          "name": "",
+          "pi": "",
+          "kw": 4,
+          "pol": "V",
+          "directional": true,
+          "directionAngle": 95,
+          "country": "BX",
+          "disabled": true,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 36,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "91.1",
+          "name": "Fun Radio",
+          "pi": "6217",
+          "kw": 4,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 95,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 36,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "93.2",
+          "name": "",
+          "pi": "",
+          "kw": 4,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 95,
+          "country": "BX",
+          "disabled": true,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 36,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "94.6",
+          "name": "",
+          "pi": "",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 95,
+          "country": "BX",
+          "disabled": true,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 36,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "102.3",
+          "name": "",
+          "pi": "",
+          "kw": 4,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 95,
+          "country": "BX",
+          "disabled": true,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 36,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         }
