@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-09-03T20:50:03.128Z"
+    "exportedAt": "2026-09-03T22:43:14.262Z"
   },
   "txList": [
     {
@@ -21575,6 +21575,81 @@
           "name": "OBRT Classic 21",
           "pi": "6204",
           "kw": 0.4,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1788475172227",
+      "name": "Hazeilles-Waillet",
+      "latlng": [
+        2519.203125,
+        990.921875
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "90.3",
+          "name": "OBRT La Première",
+          "pi": "6201",
+          "kw": 2,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "93.3",
+          "name": "OBRT Musiq 3",
+          "pi": "6203",
+          "kw": 2,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "95.1",
+          "name": "OBRT Vivacité",
+          "pi": "6202",
+          "kw": 2,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "Hazeilles-Waillet",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "98.8",
+          "name": "OBRT Classic 21",
+          "pi": "6204",
+          "kw": 0.7,
           "pol": "v",
           "directional": false,
           "directionAngle": null,
