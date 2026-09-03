@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-09-03T15:54:18.958Z"
+    "exportedAt": "2026-09-03T16:34:42.056Z"
   },
   "txList": [
     {
@@ -21497,14 +21497,14 @@
         },
         {
           "freq": "96.5",
-          "name": "",
-          "pi": "",
+          "name": "100% Rire",
+          "pi": "6219",
           "kw": 1,
-          "pol": "",
+          "pol": "v",
           "directional": true,
           "directionAngle": 290,
           "country": "BX",
-          "disabled": true,
+          "disabled": false,
           "outlet": "",
           "blobMode": "svg",
           "blobShapeIndex": 27,
