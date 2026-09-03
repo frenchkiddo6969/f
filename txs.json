@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-09-03T20:33:26.159Z"
+    "exportedAt": "2026-09-03T20:50:03.128Z"
   },
   "txList": [
     {
@@ -20455,7 +20455,7 @@
           "directional": true,
           "directionAngle": 300,
           "country": "BX",
-          "disabled": true,
+          "disabled": false,
           "outlet": "",
           "blobMode": "svg",
           "blobShapeIndex": 34,
@@ -20464,14 +20464,14 @@
         },
         {
           "freq": "100.5",
-          "name": "",
-          "pi": "",
+          "name": "Mouv'",
+          "pi": "6297",
           "kw": 1,
           "pol": "v",
           "directional": true,
           "directionAngle": 300,
           "country": "BX",
-          "disabled": true,
+          "disabled": false,
           "outlet": "",
           "blobMode": "svg",
           "blobShapeIndex": 34,
