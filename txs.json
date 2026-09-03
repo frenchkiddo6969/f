@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-09-02T18:58:06.265Z"
+    "exportedAt": "2026-09-03T12:56:26.798Z"
   },
   "txList": [
     {
@@ -18851,8 +18851,8 @@
           "pi": "6215",
           "kw": 1,
           "pol": "v",
-          "directional": false,
-          "directionAngle": null,
+          "directional": true,
+          "directionAngle": 80,
           "country": "BX",
           "disabled": false,
           "outlet": "",
@@ -18863,12 +18863,12 @@
         },
         {
           "freq": "106.5",
-          "name": "",
-          "pi": "",
+          "name": "Rock FM",
+          "pi": "621C",
           "kw": 1,
           "pol": "v",
           "directional": true,
-          "directionAngle": 50,
+          "directionAngle": 80,
           "country": "BX",
           "disabled": true,
           "outlet": "",
@@ -19945,8 +19945,8 @@
         },
         {
           "freq": "101.7",
-          "name": "",
-          "pi": "",
+          "name": "Rock FM",
+          "pi": "621C",
           "kw": 1,
           "pol": "v",
           "directional": false,
@@ -20487,7 +20487,7 @@
           "directional": true,
           "directionAngle": 300,
           "country": "BX",
-          "disabled": true,
+          "disabled": false,
           "outlet": "",
           "blobMode": "svg",
           "blobShapeIndex": 34,
@@ -21187,6 +21187,97 @@
           "outlet": "",
           "blobMode": "svg",
           "blobShapeIndex": 18,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1788439646442",
+      "name": "Assesse",
+      "latlng": [
+        2340.1875,
+        820.921875
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "92.2",
+          "name": "Fun Radio",
+          "pi": "6217",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 90,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 31,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "94.3",
+          "name": "Rock FM",
+          "pi": "621C",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 90,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 31,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "97.5",
+          "name": "Nostalgie Belvénie",
+          "pi": "6214",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 90,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 31,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "98.7",
+          "name": "Mouv'",
+          "pi": "6297",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 90,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 31,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "102.2",
+          "name": "NRJ Belvénie",
+          "pi": "6220",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 90,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 31,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         }
