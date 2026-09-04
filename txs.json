@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-09-03T22:43:14.262Z"
+    "exportedAt": "2026-09-04T15:02:03.962Z"
   },
   "txList": [
     {
@@ -19157,7 +19157,7 @@
           "blobOffsetY": 0
         },
         {
-          "freq": "93.8",
+          "freq": "93.1",
           "name": "OBRT Musiq 3",
           "pi": "6203",
           "kw": 50,
@@ -19198,7 +19198,7 @@
           "directionAngle": null,
           "country": "BX",
           "disabled": false,
-          "outlet": "Hazeilles",
+          "outlet": "Hermelines",
           "blobMode": "circle",
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
@@ -21651,6 +21651,81 @@
           "pi": "6204",
           "kw": 0.7,
           "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1788533938410",
+      "name": "Troyes",
+      "latlng": [
+        2633.921875,
+        1064.109375
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "88.3",
+          "name": "OBRT La Première",
+          "pi": "6201",
+          "kw": 50,
+          "pol": "m",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "92.9",
+          "name": "OBRT Musiq 3",
+          "pi": "6203",
+          "kw": 50,
+          "pol": "m",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "96.5",
+          "name": "OBRT Vivacité",
+          "pi": "6202",
+          "kw": 50,
+          "pol": "m",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "Troyes",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "99.2",
+          "name": "OBRT Classic 21",
+          "pi": "6204",
+          "kw": 2,
+          "pol": "m",
           "directional": false,
           "directionAngle": null,
           "country": "BX",
