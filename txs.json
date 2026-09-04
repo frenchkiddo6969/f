@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-09-04T18:20:11.584Z"
+    "exportedAt": "2026-09-04T23:48:45.838Z"
   },
   "txList": [
     {
@@ -17635,6 +17635,22 @@
       "point": null,
       "stations": [
         {
+          "freq": "88.0",
+          "name": "Fun Radio",
+          "pi": "6217",
+          "kw": 8,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 150,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 14,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
           "freq": "95.7",
           "name": "Rock FM",
           "pi": "621C",
@@ -17735,22 +17751,6 @@
           "name": "Évasion",
           "pi": "6E35",
           "kw": 4,
-          "pol": "v",
-          "directional": true,
-          "directionAngle": 150,
-          "country": "BX",
-          "disabled": false,
-          "outlet": "",
-          "blobMode": "svg",
-          "blobShapeIndex": 14,
-          "blobOffsetX": 0,
-          "blobOffsetY": 0
-        },
-        {
-          "freq": "107.1",
-          "name": "Fun Radio",
-          "pi": "6217",
-          "kw": 6.3,
           "pol": "v",
           "directional": true,
           "directionAngle": 150,
@@ -18230,7 +18230,7 @@
       "point": null,
       "stations": [
         {
-          "freq": "88.0",
+          "freq": "107.1",
           "name": "OBRT Tipik",
           "pi": "6205",
           "kw": 1,
