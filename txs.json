@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-09-04T15:02:03.962Z"
+    "exportedAt": "2026-09-04T16:09:23.119Z"
   },
   "txList": [
     {
@@ -21678,13 +21678,13 @@
           "pi": "6201",
           "kw": 50,
           "pol": "m",
-          "directional": false,
-          "directionAngle": null,
+          "directional": true,
+          "directionAngle": 180,
           "country": "BX",
           "disabled": false,
           "outlet": "",
-          "blobMode": "circle",
-          "blobShapeIndex": 0,
+          "blobMode": "svg",
+          "blobShapeIndex": 22,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         },
@@ -21694,13 +21694,13 @@
           "pi": "6203",
           "kw": 50,
           "pol": "m",
-          "directional": false,
-          "directionAngle": null,
+          "directional": true,
+          "directionAngle": 180,
           "country": "BX",
           "disabled": false,
           "outlet": "",
-          "blobMode": "circle",
-          "blobShapeIndex": 0,
+          "blobMode": "svg",
+          "blobShapeIndex": 22,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         },
@@ -21710,13 +21710,13 @@
           "pi": "6202",
           "kw": 50,
           "pol": "m",
-          "directional": false,
-          "directionAngle": null,
+          "directional": true,
+          "directionAngle": 180,
           "country": "BX",
           "disabled": false,
           "outlet": "Troyes",
-          "blobMode": "circle",
-          "blobShapeIndex": 0,
+          "blobMode": "svg",
+          "blobShapeIndex": 22,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         },
@@ -21726,13 +21726,13 @@
           "pi": "6204",
           "kw": 2,
           "pol": "m",
-          "directional": false,
-          "directionAngle": null,
+          "directional": true,
+          "directionAngle": 180,
           "country": "BX",
           "disabled": false,
           "outlet": "",
-          "blobMode": "circle",
-          "blobShapeIndex": 0,
+          "blobMode": "svg",
+          "blobShapeIndex": 22,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         }
