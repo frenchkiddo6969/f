@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-09-04T23:48:45.838Z"
+    "exportedAt": "2026-09-04T23:55:55.822Z"
   },
   "txList": [
     {
@@ -17750,7 +17750,7 @@
           "freq": "106.2",
           "name": "Évasion",
           "pi": "6E35",
-          "kw": 4,
+          "kw": 3.792,
           "pol": "v",
           "directional": true,
           "directionAngle": 150,
