@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-09-05T00:50:04.681Z"
+    "exportedAt": "2026-09-05T01:38:22.258Z"
   },
   "txList": [
     {
@@ -21840,6 +21840,81 @@
           "outlet": "",
           "blobMode": "svg",
           "blobShapeIndex": 28,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1788571815334",
+      "name": "Annevoie",
+      "latlng": [
+        2356.8046875,
+        895.4375
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "91.7",
+          "name": "BX RTL",
+          "pi": "6218",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 310,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 9,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "94.0",
+          "name": "R.Contact",
+          "pi": "6215",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 310,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 9,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "100.9",
+          "name": "NRJ Belvénie",
+          "pi": "6220",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 310,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 9,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "106.3",
+          "name": "Fun Radio",
+          "pi": "6217",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 310,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 9,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         }
