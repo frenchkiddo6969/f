@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-09-04T23:55:55.822Z"
+    "exportedAt": "2026-09-05T00:33:20.097Z"
   },
   "txList": [
     {
@@ -18487,6 +18487,22 @@
           "blobOffsetY": 0
         },
         {
+          "freq": "103",
+          "name": "Fun Radio",
+          "pi": "6217",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 270,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 4,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
           "freq": "106.6",
           "name": "Évasion",
           "pi": "6E35",
@@ -19022,6 +19038,22 @@
       ],
       "point": null,
       "stations": [
+        {
+          "freq": "92",
+          "name": "Fun Radio",
+          "pi": "6217",
+          "kw": 0.3,
+          "pol": "h",
+          "directional": true,
+          "directionAngle": 90,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 21,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
         {
           "freq": "93.4",
           "name": "Hitradio",
