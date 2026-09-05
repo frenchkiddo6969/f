@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-09-05T02:17:24.175Z"
+    "exportedAt": "2026-09-05T16:27:34.213Z"
   },
   "txList": [
     {
@@ -21978,7 +21978,7 @@
           "blobOffsetY": 0
         },
         {
-          "freq": "103.1",
+          "freq": "103.0",
           "name": "Fun Radio",
           "pi": "6217",
           "kw": 0.2,
