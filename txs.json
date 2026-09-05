@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-09-05T01:38:22.258Z"
+    "exportedAt": "2026-09-05T02:05:18.399Z"
   },
   "txList": [
     {
@@ -21689,6 +21689,22 @@
           "disabled": false,
           "outlet": "",
           "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "100.6",
+          "name": "Fun Radio",
+          "pi": "6217",
+          "kw": 0.7,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 180,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
           "blobOffsetY": 0
