@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-09-05T02:05:18.399Z"
+    "exportedAt": "2026-09-05T02:17:24.175Z"
   },
   "txList": [
     {
@@ -21931,6 +21931,65 @@
           "outlet": "",
           "blobMode": "svg",
           "blobShapeIndex": 9,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1788574514241",
+      "name": "Spontin",
+      "latlng": [
+        2492.1796875,
+        1008.1640625
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "90.8",
+          "name": "Nostalgie Belvénie",
+          "pi": "6214",
+          "kw": 0.2,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 180,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 2,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "95.5",
+          "name": "NRJ Belvénie",
+          "pi": "6220",
+          "kw": 0.2,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 180,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 2,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "103.1",
+          "name": "Fun Radio",
+          "pi": "6217",
+          "kw": 0.2,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 180,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 2,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         }
