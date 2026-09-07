@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-09-05T16:27:34.213Z"
+    "exportedAt": "2026-09-07T19:36:49.577Z"
   },
   "txList": [
     {
@@ -21990,6 +21990,97 @@
           "outlet": "",
           "blobMode": "svg",
           "blobShapeIndex": 2,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1788809534880",
+      "name": "Saint-Palais-sur-Mer",
+      "latlng": [
+        2395.578125,
+        1120.3125
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "88.7",
+          "name": "NRJ Belvénie",
+          "pi": "6220",
+          "kw": 0.2,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 7,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "89.7",
+          "name": "Évasion",
+          "pi": "6E35",
+          "kw": 0.2,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 7,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "97.2",
+          "name": "Fun Radio",
+          "pi": "6217",
+          "kw": 0.2,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 7,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "99.9",
+          "name": "R.Contact",
+          "pi": "6215",
+          "kw": 0.2,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 7,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "104.9",
+          "name": "BX RTL",
+          "pi": "6218",
+          "kw": 0.2,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 7,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         }
