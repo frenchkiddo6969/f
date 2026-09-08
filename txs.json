@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-09-07T19:36:49.577Z"
+    "exportedAt": "2026-09-08T13:35:28.483Z"
   },
   "txList": [
     {
@@ -22083,6 +22083,65 @@
           "blobShapeIndex": 7,
           "blobOffsetX": 0,
           "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1788874241419",
+      "name": "Graide",
+      "latlng": [
+        2425.5703125,
+        1019.5625
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "93.9",
+          "name": "NRJ Belvénie",
+          "pi": "6220",
+          "kw": 0.1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 100,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 20,
+          "blobOffsetX": 0,
+          "blobOffsetY": 8
+        },
+        {
+          "freq": "102.5",
+          "name": "Mouv'",
+          "pi": "6297",
+          "kw": 0.1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 100,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 20,
+          "blobOffsetX": 0,
+          "blobOffsetY": 8
+        },
+        {
+          "freq": "106.4",
+          "name": "R.Contact",
+          "pi": "6215",
+          "kw": 0.1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 100,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 20,
+          "blobOffsetX": 0,
+          "blobOffsetY": 8
         }
       ]
     }
