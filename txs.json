@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-09-08T13:35:28.483Z"
+    "exportedAt": "2026-09-08T15:14:02.885Z"
   },
   "txList": [
     {
@@ -22099,6 +22099,22 @@
           "freq": "93.9",
           "name": "NRJ Belvénie",
           "pi": "6220",
+          "kw": 0.1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 100,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 20,
+          "blobOffsetX": 0,
+          "blobOffsetY": 8
+        },
+        {
+          "freq": "100.1",
+          "name": "Fun Radio",
+          "pi": "6217",
           "kw": 0.1,
           "pol": "v",
           "directional": true,
