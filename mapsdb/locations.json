@@ -2312,14 +2312,6 @@
     "category": "gasstation"
   },
   {
-    "name": "Orange BX Siège Sociale",
-    "latlng": [
-      2446.9765625,
-      1074.46875
-    ],
-    "category": "other"
-  },
-  {
     "name": "Come&Eat",
     "latlng": [
       2377.421875,
@@ -2332,6 +2324,78 @@
     "latlng": [
       2442.2578125,
       1077.078125
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Métro de Bruxelles - Sud Bruxelles",
+    "latlng": [
+      2432.9375,
+      1084.5546875
+    ],
+    "category": "transport"
+  },
+  {
+    "name": "Métro de Bruxelles - Bessine Terminus",
+    "latlng": [
+      2450.859375,
+      1084.5078125
+    ],
+    "category": "transport"
+  },
+  {
+    "name": "Métro de Bruxelles - Hôtel de Ville",
+    "latlng": [
+      2439.6484375,
+      1078.625
+    ],
+    "category": "transport"
+  },
+  {
+    "name": "Métro de Bruxelles - Porte d'ANUS",
+    "latlng": [
+      2445.8515625,
+      1069.203125
+    ],
+    "category": "transport"
+  },
+  {
+    "name": "Alliance of Nations United for Solidarity HQ",
+    "latlng": [
+      2448.5,
+      1065.0234375
+    ],
+    "category": "landmark"
+  },
+  {
+    "name": "Orange BX Siège Sociale",
+    "latlng": [
+      2446.8984375,
+      1073.125
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Mouv'",
+    "latlng": [
+      2435.5703125,
+      1071.78125
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Ambassade du Commonwealth d'Ukuhero à la République de Belvénie",
+    "latlng": [
+      2437.8046875,
+      1082.9296875
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Siège Social National de Shine - Belvénie Télécom",
+    "latlng": [
+      2446.796875,
+      1078.4296875
     ],
     "category": "other"
   }
