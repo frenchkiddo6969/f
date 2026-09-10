@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-09-10T22:14:17.581Z"
+    "exportedAt": "2026-09-10T23:24:55.842Z"
   },
   "txList": [
     {
@@ -20761,7 +20761,7 @@
           "directionAngle": 70,
           "country": "BX",
           "disabled": false,
-          "outlet": "Perpignan",
+          "outlet": "Plein Sud",
           "blobMode": "svg",
           "blobShapeIndex": 39,
           "blobOffsetX": 0,
@@ -22456,6 +22456,188 @@
           "outlet": "",
           "blobMode": "circle",
           "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1789082285425",
+      "name": "Ille-sur-Troule",
+      "latlng": [
+        1920.5703125,
+        1163.8046875
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "88.9",
+          "name": "OBRT La Première",
+          "pi": "6201",
+          "kw": 0.3,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 45,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "89.3",
+          "name": "OBRT Classic 21",
+          "pi": "6204",
+          "kw": 0.3,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 45,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "96.3",
+          "name": "OBRT Vivacité",
+          "pi": "6202",
+          "kw": 0.3,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "Plein Sud",
+          "blobMode": "svg",
+          "blobShapeIndex": 45,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "97.8",
+          "name": "OBRT Musiq 3",
+          "pi": "6203",
+          "kw": 0.3,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 45,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1789082290913",
+      "name": "Ille-sur-Troule",
+      "latlng": [
+        1919.9453125,
+        1163.3046875
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "88.2",
+          "name": "NRJ Belvénie",
+          "pi": "6220",
+          "kw": 0.2,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 45,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "90.2",
+          "name": "Nostalgie Belvénie",
+          "pi": "6214",
+          "kw": 0.2,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 45,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "91.3",
+          "name": "100% Rire",
+          "pi": "6219",
+          "kw": 0.2,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 45,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "92.6",
+          "name": "Fun Radio",
+          "pi": "6217",
+          "kw": 0.2,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 45,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "106.5",
+          "name": "R.Contact",
+          "pi": "6215",
+          "kw": 0.3,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 45,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "107.3",
+          "name": "Mouv'",
+          "pi": "6297",
+          "kw": 0.2,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 45,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         }
