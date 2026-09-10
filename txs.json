@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-09-10T20:55:29.580Z"
+    "exportedAt": "2026-09-10T22:06:08.031Z"
   },
   "txList": [
     {
@@ -19430,7 +19430,7 @@
           "blobOffsetY": 0
         },
         {
-          "freq": "97.3",
+          "freq": "97.5",
           "name": "Nostalgie Belvénie",
           "pi": "6214",
           "kw": 0.5,
