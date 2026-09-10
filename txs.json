@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-09-10T16:46:41.938Z"
+    "exportedAt": "2026-09-10T17:10:42.005Z"
   },
   "txList": [
     {
@@ -17906,7 +17906,7 @@
           "directionAngle": null,
           "country": "BX",
           "disabled": false,
-          "outlet": "Jamagne",
+          "outlet": "Jamagne-Doullens",
           "blobMode": "circle",
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
@@ -22347,6 +22347,65 @@
           "pi": "6297",
           "kw": 1,
           "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1789059358281",
+      "name": "Doullens",
+      "latlng": [
+        2279.6953125,
+        991.4296875
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "89.3",
+          "name": "OBRT La Première",
+          "pi": "6201",
+          "kw": 6.3,
+          "pol": "m",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "91.3",
+          "name": "OBRT Vivacité",
+          "pi": "6202",
+          "kw": 6.3,
+          "pol": "m",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "Jamagne-Doullens",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "96.7",
+          "name": "OBRT Musiq 3",
+          "pi": "6203",
+          "kw": 6.3,
+          "pol": "m",
           "directional": false,
           "directionAngle": null,
           "country": "BX",
