@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-09-10T18:38:28.428Z"
+    "exportedAt": "2026-09-10T20:55:29.580Z"
   },
   "txList": [
     {
@@ -20773,27 +20773,11 @@
       "id": "tx_1788318945120",
       "name": "Doullens",
       "latlng": [
-        2318.5546875,
-        1006.796875
+        2318.6953125,
+        1006.6640625
       ],
       "point": null,
       "stations": [
-        {
-          "freq": "100.2",
-          "name": "Rock FM",
-          "pi": "621C",
-          "kw": 0.5,
-          "pol": "v",
-          "directional": false,
-          "directionAngle": null,
-          "country": "BX",
-          "disabled": false,
-          "outlet": "",
-          "blobMode": "svg",
-          "blobShapeIndex": 37,
-          "blobOffsetX": 0,
-          "blobOffsetY": 0
-        },
         {
           "freq": "103.5",
           "name": "Atmo FM",
@@ -22438,6 +22422,33 @@
           "pi": "6203",
           "kw": 6.3,
           "pol": "m",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1789073482209",
+      "name": "Doullens",
+      "latlng": [
+        2321.125,
+        995.9140625
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "95.4",
+          "name": "R.Chanson",
+          "pi": "69B7",
+          "kw": 0.1,
+          "pol": "v",
           "directional": false,
           "directionAngle": null,
           "country": "BX",
