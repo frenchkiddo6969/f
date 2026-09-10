@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-09-10T16:34:55.830Z"
+    "exportedAt": "2026-09-10T16:46:41.938Z"
   },
   "txList": [
     {
@@ -22265,6 +22265,97 @@
           "blobShapeIndex": 12,
           "blobOffsetX": 0,
           "blobOffsetY": 5
+        }
+      ]
+    },
+    {
+      "id": "tx_1789058628920",
+      "name": "Boscailles",
+      "latlng": [
+        2444.043597664655,
+        753.306963270708
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "88.5",
+          "name": "OBRT Vivacité",
+          "pi": "6202",
+          "kw": 1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "Profondeville",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "97.1",
+          "name": "OBRT La Première",
+          "pi": "6201",
+          "kw": 1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "99.7",
+          "name": "OBRT Classic 21",
+          "pi": "6204",
+          "kw": 0.25,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "105.8",
+          "name": "OBRT Musiq 3",
+          "pi": "6203",
+          "kw": 1,
+          "pol": "V",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "106.2",
+          "name": "Mouv'",
+          "pi": "6297",
+          "kw": 1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
         }
       ]
     }
