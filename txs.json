@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-09-10T09:56:39.420Z"
+    "exportedAt": "2026-09-10T16:34:55.830Z"
   },
   "txList": [
     {
@@ -22158,6 +22158,113 @@
           "blobShapeIndex": 20,
           "blobOffsetX": 0,
           "blobOffsetY": 8
+        }
+      ]
+    },
+    {
+      "id": "tx_1789057595050",
+      "name": "Boscailles",
+      "latlng": [
+        2436.953125,
+        763.546875
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "90.3",
+          "name": "R.FG",
+          "pi": "622C",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 90,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 12,
+          "blobOffsetX": 0,
+          "blobOffsetY": 5
+        },
+        {
+          "freq": "94.8",
+          "name": "BX RTL",
+          "pi": "6218",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 90,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 12,
+          "blobOffsetX": 0,
+          "blobOffsetY": 5
+        },
+        {
+          "freq": "97.8",
+          "name": "Fun Radio",
+          "pi": "6217",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 90,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 12,
+          "blobOffsetX": 0,
+          "blobOffsetY": 5
+        },
+        {
+          "freq": "100.5",
+          "name": "Nostalgie Belvénie",
+          "pi": "6214",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 90,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 12,
+          "blobOffsetX": 0,
+          "blobOffsetY": 5
+        },
+        {
+          "freq": "103.3",
+          "name": "NRJ Belvénie",
+          "pi": "6220",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 90,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 12,
+          "blobOffsetX": 0,
+          "blobOffsetY": 5
+        },
+        {
+          "freq": "105",
+          "name": "R.Contact",
+          "pi": "6215",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 90,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 12,
+          "blobOffsetX": 0,
+          "blobOffsetY": 5
         }
       ]
     }
