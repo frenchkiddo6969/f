@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-09-10T17:10:42.005Z"
+    "exportedAt": "2026-09-10T18:35:05.101Z"
   },
   "txList": [
     {
@@ -20778,6 +20778,22 @@
       ],
       "point": null,
       "stations": [
+        {
+          "freq": "103.5",
+          "name": "Atmo FM",
+          "pi": "69B8",
+          "kw": 1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 37,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
         {
           "freq": "104.3",
           "name": "Fun Radio",
