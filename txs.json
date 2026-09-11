@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-09-11T14:26:30.334Z"
+    "exportedAt": "2026-09-11T14:52:14.927Z"
   },
   "txList": [
     {
@@ -18838,7 +18838,7 @@
           "directional": true,
           "directionAngle": 80,
           "country": "BX",
-          "disabled": true,
+          "disabled": false,
           "outlet": "",
           "blobMode": "svg",
           "blobShapeIndex": 7,
@@ -18846,7 +18846,7 @@
           "blobOffsetY": 0
         },
         {
-          "freq": "102.4",
+          "freq": "101.2",
           "name": "BX RTL",
           "pi": "6218",
           "kw": 1,
@@ -18886,7 +18886,7 @@
           "directional": true,
           "directionAngle": 80,
           "country": "BX",
-          "disabled": true,
+          "disabled": false,
           "outlet": "",
           "blobMode": "svg",
           "blobShapeIndex": 7,
@@ -20016,7 +20016,7 @@
           "directional": false,
           "directionAngle": null,
           "country": "BX",
-          "disabled": true,
+          "disabled": false,
           "outlet": "",
           "blobMode": "svg",
           "blobShapeIndex": 21,
@@ -20543,7 +20543,7 @@
           "blobOffsetY": 0
         },
         {
-          "freq": "101.2",
+          "freq": "102.4",
           "name": "Fun Radio",
           "pi": "6217",
           "kw": 1,
