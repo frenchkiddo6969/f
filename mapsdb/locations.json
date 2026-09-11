@@ -2430,5 +2430,13 @@
       995.1953125
     ],
     "category": "postoffice"
+  },
+  {
+    "name": "Plage Lénine",
+    "latlng": [
+      2325.421875,
+      999.3828125
+    ],
+    "category": "beach"
   }
 ]
