@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-09-10T23:24:55.842Z"
+    "exportedAt": "2026-09-11T00:02:11.900Z"
   },
   "txList": [
     {
@@ -20809,6 +20809,22 @@
           "blobShapeIndex": 37,
           "blobOffsetX": 0,
           "blobOffsetY": 0
+        },
+        {
+          "freq": "106.6",
+          "name": "RCF Belvénie",
+          "pi": "621A",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 37,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
         }
       ]
     },
@@ -22639,6 +22655,33 @@
           "blobMode": "svg",
           "blobShapeIndex": 45,
           "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1789084805940",
+      "name": "Doullens",
+      "latlng": [
+        2325.0625,
+        973.9375
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "105.5",
+          "name": "Rock FM",
+          "pi": "6219",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 47,
+          "blobOffsetX": 2,
           "blobOffsetY": 0
         }
       ]
