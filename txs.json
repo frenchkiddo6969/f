@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-09-11T00:02:11.900Z"
+    "exportedAt": "2026-09-11T00:53:11.160Z"
   },
   "txList": [
     {
@@ -22682,6 +22682,33 @@
           "blobMode": "svg",
           "blobShapeIndex": 47,
           "blobOffsetX": 2,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1789087944845",
+      "name": "Bruxelles",
+      "latlng": [
+        2446.8828125,
+        1076.4453125
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "104.5",
+          "name": "The Eagle",
+          "pi": "6090",
+          "kw": 0.3,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": true,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
           "blobOffsetY": 0
         }
       ]
