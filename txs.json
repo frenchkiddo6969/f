@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-09-11T00:53:11.160Z"
+    "exportedAt": "2026-09-11T01:06:14.691Z"
   },
   "txList": [
     {
@@ -22704,7 +22704,7 @@
           "directional": false,
           "directionAngle": null,
           "country": "BX",
-          "disabled": true,
+          "disabled": false,
           "outlet": "",
           "blobMode": "circle",
           "blobShapeIndex": 0,
