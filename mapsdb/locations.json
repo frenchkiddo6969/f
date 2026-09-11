@@ -2398,5 +2398,37 @@
       1078.4296875
     ],
     "category": "other"
+  },
+  {
+    "name": "Mairie de Doullens",
+    "latlng": [
+      2322.9140625,
+      996.609375
+    ],
+    "category": "landmark"
+  },
+  {
+    "name": "Delhaize Doullens",
+    "latlng": [
+      2320.6015625,
+      993.1484375
+    ],
+    "category": "shopping"
+  },
+  {
+    "name": "Radio Chanson Doullens 95.4",
+    "latlng": [
+      2320.7421875,
+      995.9453125
+    ],
+    "category": "other"
+  },
+  {
+    "name": "postbx",
+    "latlng": [
+      2322.203125,
+      995.1953125
+    ],
+    "category": "postoffice"
   }
 ]
