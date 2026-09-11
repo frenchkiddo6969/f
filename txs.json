@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-09-11T14:52:14.927Z"
+    "exportedAt": "2026-09-11T15:11:00.011Z"
   },
   "txList": [
     {
@@ -20662,8 +20662,8 @@
         },
         {
           "freq": "91.8",
-          "name": "",
-          "pi": "",
+          "name": "Métropole Radio",
+          "pi": "6059",
           "kw": 1,
           "pol": "v",
           "directional": true,
@@ -22799,6 +22799,145 @@
           "outlet": "",
           "blobMode": "svg",
           "blobShapeIndex": 43,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1789139070175",
+      "name": "Tenneville",
+      "latlng": [
+        2578.1796875,
+        835.0546875
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "88.2",
+          "name": "BX RTL",
+          "pi": "6218",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 35,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 46,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "90.4",
+          "name": "Fun Radio",
+          "pi": "6217",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 35,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 46,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "91.7",
+          "name": "R.Puissance",
+          "pi": "6561",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 35,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 46,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "94.1",
+          "name": "R.FG",
+          "pi": "622C",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 35,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 46,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "94.9",
+          "name": "Mouv'",
+          "pi": "6297",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 35,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 46,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "95.8",
+          "name": "Rock FM",
+          "pi": "621C",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 35,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 46,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "104.7",
+          "name": "R.Contact",
+          "pi": "6215",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 35,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 46,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "106.5",
+          "name": "NRJ Belvénie",
+          "pi": "6220",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 35,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 46,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         }
