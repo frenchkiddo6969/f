@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-09-11T01:53:23.369Z"
+    "exportedAt": "2026-09-11T14:26:30.334Z"
   },
   "txList": [
     {
@@ -19994,7 +19994,7 @@
         {
           "freq": "96.9",
           "name": "RCF Belvénie",
-          "pi": "621A",
+          "pi": "622A",
           "kw": 1,
           "pol": "v",
           "directional": false,
@@ -20845,7 +20845,7 @@
         {
           "freq": "106.6",
           "name": "RCF Belvénie",
-          "pi": "621A",
+          "pi": "622A",
           "kw": 0.5,
           "pol": "v",
           "directional": false,
@@ -20979,7 +20979,7 @@
         {
           "freq": "98.0",
           "name": "RCF Belvénie",
-          "pi": "621A",
+          "pi": "622A",
           "kw": 0.45,
           "pol": "v",
           "directional": true,
@@ -21257,7 +21257,7 @@
         {
           "freq": "106.9",
           "name": "RCF Belvénie",
-          "pi": "621A",
+          "pi": "622A",
           "kw": 0.1,
           "pol": "v",
           "directional": true,
@@ -21546,7 +21546,7 @@
         {
           "freq": "94.3",
           "name": "RCF Belvénie",
-          "pi": "621A",
+          "pi": "622A",
           "kw": 1,
           "pol": "v",
           "directional": true,
