@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-09-11T01:06:14.691Z"
+    "exportedAt": "2026-09-11T01:23:17.138Z"
   },
   "txList": [
     {
@@ -22701,6 +22701,65 @@
           "pi": "6090",
           "kw": 0.3,
           "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1789089608488",
+      "name": "Biesme",
+      "latlng": [
+        2319.703125,
+        925.53125
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "97.9",
+          "name": "Fun Radio",
+          "pi": "6217",
+          "kw": 0.2,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 250,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 43,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "102.4",
+          "name": "R.Biesme",
+          "pi": "6684",
+          "kw": 0.2,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 250,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 43,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "105.7",
+          "name": "RCF Belvénie",
+          "pi": "622A",
+          "kw": 0.2,
+          "pol": "V",
           "directional": false,
           "directionAngle": null,
           "country": "BX",
