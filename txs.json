@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-09-11T01:25:45.522Z"
+    "exportedAt": "2026-09-11T01:53:23.369Z"
   },
   "txList": [
     {
@@ -19590,8 +19590,8 @@
       "id": "tx_1786906354604",
       "name": "Saint-Remy-la-Forêt",
       "latlng": [
-        2344.0625,
-        937.0859375
+        2343.921875,
+        937.171875
       ],
       "point": null,
       "stations": [
@@ -19612,9 +19612,41 @@
           "blobOffsetY": 0
         },
         {
+          "freq": "98.3",
+          "name": "Fun Radio",
+          "pi": "6217",
+          "kw": 0.1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
           "freq": "105.2",
           "name": "R.Contact",
           "pi": "6215",
+          "kw": 0.1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "107.2",
+          "name": "NRJ Belvénie",
+          "pi": "6220",
           "kw": 0.1,
           "pol": "v",
           "directional": false,
