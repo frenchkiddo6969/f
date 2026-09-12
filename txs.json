@@ -1,6 +1,6 @@
-{
+ {
   "meta": {
-    "exportedAt": "2026-09-12T14:27:22.787Z"
+    "exportedAt": "2026-09-12T20:35:06.733Z"
   },
   "txList": [
     {
@@ -22760,12 +22760,12 @@
           "pi": "6217",
           "kw": 0.2,
           "pol": "v",
-          "directional": false,
+          "directional": true,
           "directionAngle": 250,
           "country": "BX",
           "disabled": false,
           "outlet": "",
-          "blobMode": "circle",
+          "blobMode": "svg",
           "blobShapeIndex": 43,
           "blobOffsetX": 0,
           "blobOffsetY": 0
