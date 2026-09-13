@@ -1,6 +1,6 @@
- {
+{
   "meta": {
-    "exportedAt": "2026-09-12T20:35:06.733Z"
+    "exportedAt": "2026-09-13T19:37:05.252Z"
   },
   "txList": [
     {
@@ -22957,6 +22957,60 @@
           "name": "R.Graide",
           "pi": "6B99",
           "kw": 0.075,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1789327758673",
+      "name": "Bruxelles 1",
+      "latlng": [
+        2427.3203125,
+        1069.171875
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "107.7",
+          "name": "R.Belvénie Trafic",
+          "pi": "6222",
+          "kw": 0.1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1789328164314",
+      "name": "Bruxelles 2",
+      "latlng": [
+        2452.078125,
+        1070.9140625
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "107.7",
+          "name": "R.Belvénie Trafic",
+          "pi": "6222",
+          "kw": 0.05,
           "pol": "v",
           "directional": false,
           "directionAngle": null,
