@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-09-13T19:58:33.969Z"
+    "exportedAt": "2026-09-13T22:30:31.212Z"
   },
   "txList": [
     {
@@ -23019,6 +23019,60 @@
           "outlet": "",
           "blobMode": "circle",
           "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1789338001994",
+      "name": "Léaz",
+      "latlng": [
+        2355.453125,
+        990.4375
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "89.7",
+          "name": "R.Lac",
+          "pi": "6902",
+          "kw": 0.1,
+          "pol": "c",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "Léaz",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1789338559410",
+      "name": "Doullens",
+      "latlng": [
+        2322.5546875,
+        1000.78125
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "94.5",
+          "name": "R.Lac",
+          "pi": "6902",
+          "kw": 0.1,
+          "pol": "c",
+          "directional": true,
+          "directionAngle": 300,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "Doullens",
+          "blobMode": "svg",
+          "blobShapeIndex": 46,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         }
