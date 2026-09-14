@@ -2438,5 +2438,29 @@
       999.3828125
     ],
     "category": "beach"
+  },
+  {
+    "name": "postbx",
+    "latlng": [
+      2352.3359375,
+      991.7421875
+    ],
+    "category": "postoffice"
+  },
+  {
+    "name": "shine Doullens Shop",
+    "latlng": [
+      2321.0703125,
+      999.953125
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Radio Lac 89.7 & 94.5",
+    "latlng": [
+      2322.7421875,
+      999.78125
+    ],
+    "category": "other"
   }
 ]
