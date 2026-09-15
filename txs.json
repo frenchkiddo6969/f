@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-09-14T22:42:51.315Z"
+    "exportedAt": "2026-09-15T07:50:37.912Z"
   },
   "txList": [
     {
@@ -23148,6 +23148,33 @@
           "outlet": "",
           "blobMode": "circle",
           "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1789458557986",
+      "name": "Léaz",
+      "latlng": [
+        2347.71875,
+        996.2890625
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "103.8",
+          "name": "Fun Radio",
+          "pi": "6217",
+          "kw": 0.1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 42,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         }
