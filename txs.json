@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-09-16T09:57:14.052Z"
+    "exportedAt": "2026-09-16T10:01:59.173Z"
   },
   "txList": [
     {
@@ -17405,6 +17405,22 @@
           "blobOffsetY": 0
         },
         {
+          "freq": "89.4",
+          "name": "jamming signal",
+          "pi": "noPI",
+          "kw": 1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "UU",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
           "freq": "89.9",
           "name": "Evasion Ukuhero",
           "pi": "D220",
@@ -17422,6 +17438,22 @@
         },
         {
           "freq": "91.7",
+          "name": "jamming signal",
+          "pi": "noPI",
+          "kw": 1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "UU",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "92.9",
           "name": "jamming signal",
           "pi": "noPI",
           "kw": 1,
@@ -17469,6 +17501,22 @@
           "blobOffsetY": 0
         },
         {
+          "freq": "97.8",
+          "name": "jamming signal",
+          "pi": "noPI",
+          "kw": 1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "UU",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
           "freq": "99.5",
           "name": "jamming signal",
           "pi": "noPI",
@@ -17480,6 +17528,22 @@
           "disabled": false,
           "outlet": "",
           "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "104.7",
+          "name": "jamming signal",
+          "pi": "noPI",
+          "kw": 1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "UU",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
           "blobOffsetY": 0
