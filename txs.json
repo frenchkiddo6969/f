@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-09-15T07:50:37.912Z"
+    "exportedAt": "2026-09-16T09:57:14.052Z"
   },
   "txList": [
     {
@@ -22519,7 +22519,7 @@
       "point": null,
       "stations": [
         {
-          "freq": "88.9",
+          "freq": "88.6",
           "name": "OBRT La Première",
           "pi": "6201",
           "kw": 0.3,
