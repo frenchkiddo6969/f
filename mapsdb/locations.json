@@ -2462,5 +2462,21 @@
       999.78125
     ],
     "category": "other"
+  },
+  {
+    "name": "Centrale électrique de Chenôve-Bruxelles",
+    "latlng": [
+      2445.0390625,
+      1051.03125
+    ],
+    "category": "other"
+  },
+  {
+    "name": "Radio Graide 94.4",
+    "latlng": [
+      2437.390625,
+      1023.3125
+    ],
+    "category": "other"
   }
 ]
