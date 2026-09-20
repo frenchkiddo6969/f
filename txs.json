@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-09-20T14:59:10.280Z"
+    "exportedAt": "2026-09-20T15:02:48.664Z"
   },
   "txList": [
     {
@@ -21801,6 +21801,22 @@
           "disabled": false,
           "outlet": "",
           "blobMode": "circle",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "93.9",
+          "name": "R.FG",
+          "pi": "622c",
+          "kw": 0.7,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 180,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
           "blobOffsetY": 0
