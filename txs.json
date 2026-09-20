@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-09-20T11:55:52.311Z"
+    "exportedAt": "2026-09-20T14:59:10.280Z"
   },
   "txList": [
     {
@@ -23255,6 +23255,113 @@
           "outlet": "",
           "blobMode": "svg",
           "blobShapeIndex": 42,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1789916033460",
+      "name": "Hazeilles-Waillet",
+      "latlng": [
+        2519.9375,
+        963.4296875
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "87.8",
+          "name": "NRJ Belvénie",
+          "pi": "6220",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 140,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 23,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "91.9",
+          "name": "Nostalgie Belvénie",
+          "pi": "6214",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 140,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 23,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "94.6",
+          "name": "R.2 Peuples",
+          "pi": "6710",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 140,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 23,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "99.2",
+          "name": "BX RTL",
+          "pi": "6218",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 140,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 23,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "101.3",
+          "name": "Mouv'",
+          "pi": "6297",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 140,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 23,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "102.9",
+          "name": "Rock FM",
+          "pi": "621C",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 140,
+          "country": "BX",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 23,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         }
