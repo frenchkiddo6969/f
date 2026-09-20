@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-09-16T10:01:59.173Z"
+    "exportedAt": "2026-09-20T11:55:52.311Z"
   },
   "txList": [
     {
@@ -20916,6 +20916,22 @@
           "directionAngle": null,
           "country": "BX",
           "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 37,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "107.3",
+          "name": "100% Rire",
+          "pi": "6219",
+          "kw": 0.5,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BX",
+          "disabled": true,
           "outlet": "",
           "blobMode": "svg",
           "blobShapeIndex": 37,
